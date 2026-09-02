@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 45
+  "integrations": 47
  },
  "lessons": [
   {
@@ -29,6 +29,11 @@
    "integrations": [
     {
      "code": "QPAN",
+     "level": "",
+     "text": "GDQP, GD Việt Lào. 1. Vị trí địa lí và lãnh thổ. 2. Đơn vị hành chính + Bản đồ hành chính"
+    },
+    {
+     "code": "GDVL",
      "level": "",
      "text": "GDQP, GD Việt Lào. 1. Vị trí địa lí và lãnh thổ. 2. Đơn vị hành chính + Bản đồ hành chính"
     },
@@ -61,6 +66,11 @@
    "integrations": [
     {
      "code": "QPAN",
+     "level": "",
+     "text": "GDQP, GD Việt Lào"
+    },
+    {
+     "code": "GDVL",
      "level": "",
      "text": "GDQP, GD Việt Lào"
     },
@@ -915,7 +925,7 @@
    "id": "l5-lich-su-va-dia-li-045",
    "semester": 2,
    "week": 23,
-   "theme": "CHỦ ĐỀ 4. CÁC NƯỚC LÁNG",
+   "theme": "CHỦ ĐỀ 4. CÁC NƯỚC LÁNG GIỀNG",
    "title": "Bài 18: Nước Cộng hoà Nhân dân Trung Hoa (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 45 (2 tiết)",
@@ -937,7 +947,7 @@
    "id": "l5-lich-su-va-dia-li-046",
    "semester": 2,
    "week": 23,
-   "theme": "GIỀNG",
+   "theme": "CHỦ ĐỀ 4. CÁC NƯỚC LÁNG GIỀNG",
    "title": "Bài 18: Nước Cộng hoà Nhân dân Trung Hoa (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 46",
@@ -959,7 +969,7 @@
    "id": "l5-lich-su-va-dia-li-047",
    "semester": 2,
    "week": 24,
-   "theme": "GIỀNG",
+   "theme": "CHỦ ĐỀ 4. CÁC NƯỚC LÁNG GIỀNG",
    "title": "Bài 19: Cộng hoà Dân chủ Nhân dân Lào (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 47 (2 tiết)",
@@ -986,7 +996,7 @@
    "id": "l5-lich-su-va-dia-li-048",
    "semester": 2,
    "week": 24,
-   "theme": "GIỀNG",
+   "theme": "CHỦ ĐỀ 4. CÁC NƯỚC LÁNG GIỀNG",
    "title": "Bài 19: Cộng hoà Dân chủ Nhân dân Lào (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 48",
@@ -1008,7 +1018,7 @@
    "id": "l5-lich-su-va-dia-li-049",
    "semester": 2,
    "week": 25,
-   "theme": "GIỀNG",
+   "theme": "CHỦ ĐỀ 4. CÁC NƯỚC LÁNG GIỀNG",
    "title": "Bài 20: Vương quốc Cam-pu-chia (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 49 (2 tiết)",
@@ -1024,7 +1034,7 @@
    "id": "l5-lich-su-va-dia-li-050",
    "semester": 2,
    "week": 25,
-   "theme": "GIỀNG",
+   "theme": "CHỦ ĐỀ 4. CÁC NƯỚC LÁNG GIỀNG",
    "title": "Bài 20: Vương quốc Cam-pu-chia (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 50",
@@ -1040,7 +1050,7 @@
    "id": "l5-lich-su-va-dia-li-051",
    "semester": 2,
    "week": 26,
-   "theme": "GIỀNG",
+   "theme": "CHỦ ĐỀ 4. CÁC NƯỚC LÁNG GIỀNG",
    "title": "Bài 21: Hiệp hội các quốc gia Đông Nam Á (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 51 (2 tiết)",
@@ -1056,7 +1066,7 @@
    "id": "l5-lich-su-va-dia-li-052",
    "semester": 2,
    "week": 26,
-   "theme": "GIỀNG",
+   "theme": "CHỦ ĐỀ 4. CÁC NƯỚC LÁNG GIỀNG",
    "title": "Bài 21: Hiệp hội các quốc gia Đông Nam Á (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 52",

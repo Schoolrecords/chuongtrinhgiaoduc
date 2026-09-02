@@ -1,7 +1,7 @@
 [
  {
   "grade": 1,
-  "name": "Chương trình lớp 1",
+  "name": "Kế hoạch lớp 1",
   "short": "Lớp 1",
   "cover": {
    "src": "assets/covers/tieng-viet-1.jpg",
@@ -23,7 +23,7 @@
  },
  {
   "grade": 2,
-  "name": "Chương trình lớp 2",
+  "name": "Kế hoạch lớp 2",
   "short": "Lớp 2",
   "cover": {
    "src": "assets/covers/tieng-viet-2.jpg",
@@ -45,7 +45,7 @@
  },
  {
   "grade": 3,
-  "name": "Chương trình lớp 3",
+  "name": "Kế hoạch lớp 3",
   "short": "Lớp 3",
   "cover": {
    "src": "assets/covers/tieng-viet-3.jpg",
@@ -70,7 +70,7 @@
  },
  {
   "grade": 4,
-  "name": "Chương trình lớp 4",
+  "name": "Kế hoạch lớp 4",
   "short": "Lớp 4",
   "cover": {
    "src": "assets/covers/tieng-viet-4.jpg",
@@ -96,7 +96,7 @@
  },
  {
   "grade": 5,
-  "name": "Chương trình lớp 5",
+  "name": "Kế hoạch lớp 5",
   "short": "Lớp 5",
   "cover": {
    "src": "assets/covers/tieng-viet-5.jpg",
