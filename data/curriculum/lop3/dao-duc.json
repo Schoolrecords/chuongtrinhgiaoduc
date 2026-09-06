@@ -28,17 +28,22 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GT",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "HS tập ứng xử lịch sự khi xem/nghe tư liệu; làm quen quy tắc an toàn khi tiếp xúc thông tin (có hướng dẫn)."
+     "text": "GV mở bài hát Lá cờ Việt Nam, chiếu ảnh Quốc kì và video lễ chào cờ; HS quan sát tư thế nghiêm, nêu Quốc hiệu"
     },
     {
-     "code": "QPAN",
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV mở bản thu Quốc ca chính thức để cả lớp hát đúng nhịp, đúng lời khi các nhóm thi chào cờ; nhóm nhận xét cho nhau"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "Giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết; giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng khi nói về Tổ quốc Việt Nam."
+     "text": "Không chế lời, ghép nhạc vui vào Quốc ca; thấy video chế nhạo thì báo thầy cô."
     }
    ],
-   "note": "Tổ CM đối chiếu tên bài với mục lục SGK KNTT"
+   "note": ""
   },
   {
    "id": "l3-dao-duc-002",
@@ -51,9 +56,25 @@
    "periodFrom": 2,
    "periodTo": 2,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu video lễ chào cờ và tranh các bạn nhỏ với tư thế khác nhau; HS nói đồng tình hay không với hành vi của bạn nào"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh Quốc kì chuẩn để đối chiếu bài vẽ; GV chụp bài vẽ chiếu lên, lớp nhận xét lịch sự, khen trước rồi góp ý"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Không chế lời, ghép nhạc vui vào Quốc ca; thấy video chế nhạo thì báo thầy cô."
+    }
+   ],
    "note": ""
   },
   {
@@ -69,14 +90,8 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết; giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng khi nói về Tổ quốc Việt Nam."
-    }
-   ],
-   "note": "Tổ CM đối chiếu tên bài với mục lục SGK KNTT"
+   "integrations": [],
+   "note": ""
   },
   {
    "id": "l3-dao-duc-004",
@@ -89,7 +104,7 @@
    "periodFrom": 4,
    "periodTo": 4,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -105,7 +120,7 @@
    "periodFrom": 5,
    "periodTo": 5,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -143,7 +158,7 @@
    "periodFrom": 7,
    "periodTo": 7,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -159,7 +174,7 @@
    "periodFrom": 8,
    "periodTo": 8,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -175,7 +190,7 @@
    "periodFrom": 9,
    "periodTo": 9,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -223,7 +238,7 @@
    "periodFrom": 12,
    "periodTo": 12,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -239,7 +254,7 @@
    "periodFrom": 13,
    "periodTo": 13,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -277,7 +292,7 @@
    "periodFrom": 15,
    "periodTo": 15,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -293,7 +308,7 @@
    "periodFrom": 16,
    "periodTo": 16,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -326,9 +341,9 @@
    "periodTo": 18,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Bài 6 học vắt sang đầu HKII; tổ chuyên môn chủ động bố trí",
    "integrations": [],
-   "note": "Bài 6 hoàn thành đầu HKII (tuần 19–20)"
+   "note": ""
   },
   {
    "id": "l3-dao-duc-019",
@@ -341,7 +356,7 @@
    "periodFrom": 19,
    "periodTo": 19,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -357,7 +372,7 @@
    "periodFrom": 20,
    "periodTo": 20,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -389,7 +404,7 @@
    "periodFrom": 22,
    "periodTo": 22,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -405,7 +420,7 @@
    "periodFrom": 23,
    "periodTo": 23,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -421,7 +436,7 @@
    "periodFrom": 24,
    "periodTo": 24,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -437,7 +452,7 @@
    "periodFrom": 25,
    "periodTo": 25,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -491,7 +506,7 @@
    "periodFrom": 28,
    "periodTo": 28,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -507,7 +522,7 @@
    "periodFrom": 29,
    "periodTo": 29,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -523,7 +538,7 @@
    "periodFrom": 30,
    "periodTo": 30,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -548,11 +563,6 @@
      "text": "HS tập ứng xử lịch sự khi xem/nghe tư liệu; làm quen quy tắc an toàn khi tiếp xúc thông tin (có hướng dẫn)."
     },
     {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự bảo vệ: nhận biết tình huống nguy hiểm, biết từ chối và gọi người lớn giúp đỡ."
-    },
-    {
      "code": "GDĐP",
      "level": "",
      "text": "HS nêu được các loại đường giao thông, kể tên được các phương tiện giao thông được sử dụng phổ biến."
@@ -571,7 +581,7 @@
    "periodFrom": 32,
    "periodTo": 32,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -589,18 +599,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS tập ứng xử lịch sự khi xem/nghe tư liệu; làm quen quy tắc an toàn khi tiếp xúc thông tin (có hướng dẫn)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự bảo vệ: nhận biết tình huống nguy hiểm, biết từ chối và gọi người lớn giúp đỡ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -614,7 +613,7 @@
    "periodFrom": 34,
    "periodTo": 34,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -908,8 +907,8 @@
  "attachment": {
   "file": "assets/docs/lop3/Dao duc - Lop 3.docx",
   "name": "Dao duc - Lop 3.docx",
-  "original": "KHDH Đạo đức lớp 3 (2026-2027) (đã rà soát).docx",
-  "size": 18511,
-  "updated": "2026-09-04"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 45441,
+  "updated": "2026-09-07"
  }
 }

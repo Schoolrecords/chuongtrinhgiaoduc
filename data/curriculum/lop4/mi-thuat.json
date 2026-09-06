@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 10
+  "integrations": 30
  },
  "lessons": [
   {
@@ -30,7 +30,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "xem tranh, ảnh mẫu trên màn hình; ghi tên tác giả bức tranh khi giới thiệu."
+     "text": "GV chiếu ảnh mảng chạm khắc gỗ, tượng tròn ở đình làng, chi tiết rồng, người, hoa lá có chú thích tên đình; HS nêu cảm nhận"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS xem phim ngắn giới thiệu một ngôi đình trên tivi, ghi phiếu tên đình, nơi có đình, hình chạm khắc; chọn một hình cho tiết sau"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh di sản lấy từ bảo tàng, cơ quan văn hoá, ghi rõ nguồn."
     }
    ],
    "note": ""
@@ -48,7 +58,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu ảnh từng bước làm sản phẩm SGK: phác hình, tạo mảng nổi bằng đất nặn, tỉa chi tiết; thao tác mẫu được quay, chiếu lại chậm"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "HS lập bảng các bước làm sản phẩm theo mẫu trên màn hình, ghi chất liệu, bước khó; GV chụp bản phác vài HS chiếu lên"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Clip mở đúng đường dẫn GV cấp; không dùng dao, đục sắc."
+    }
+   ],
    "note": ""
   },
   {
@@ -91,11 +117,6 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
     }
    ],
    "note": ""
@@ -178,11 +199,6 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
     }
    ],
    "note": ""
@@ -202,18 +218,12 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "QPAN",
-     "level": "",
-     "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    },
-    {
-     "code": "GDĐP",
-     "level": "",
-     "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "xem tranh, ảnh mẫu trên màn hình; ghi tên tác giả bức tranh khi giới thiệu."
     }
    ],
-   "note": "",
-   "gddpBoSung": true
+   "note": ""
   },
   {
    "id": "l4-mi-thuat-010",
@@ -228,20 +238,8 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    },
-    {
-     "code": "GDĐP",
-     "level": "",
-     "text": "Cho HS thể hiện hình ảnh quê hương, di tích lịch sử địa phương; giáo dục nhận biết chủ quyền lãnh thổ; có ý thức chấp hành pháp luật, nhất là pháp luật giao thông."
-    }
-   ],
-   "note": "",
-   "gddpBoSung": true
+   "integrations": [],
+   "note": ""
   },
   {
    "id": "l4-mi-thuat-011",
@@ -256,7 +254,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
+    }
+   ],
    "note": ""
   },
   {
@@ -272,7 +276,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
+    }
+   ],
    "note": ""
   },
   {
@@ -288,7 +298,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "xem tranh, ảnh mẫu trên màn hình; ghi tên tác giả bức tranh khi giới thiệu."
+    }
+   ],
    "note": ""
   },
   {
@@ -320,7 +336,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
+    }
+   ],
    "note": ""
   },
   {
@@ -336,14 +358,20 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l4-mi-thuat-017",
    "semester": 1,
    "week": 17,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Ôn tập, đánh giá cuối học kì I",
    "content": "",
    "periodLabel": "Tiết 17 (1 tiết)",
@@ -367,8 +395,14 @@
    "periodTo": 18,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Điều chỉnh: Chủ đề 5 (4 tiết) học liền mạch tuần 18–21; Tổ CM có thể chuyển trọn sang HKII nếu cần",
-   "integrations": [],
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "xem tranh, ảnh mẫu trên màn hình; ghi tên tác giả bức tranh khi giới thiệu."
+    }
+   ],
    "note": ""
   },
   {
@@ -400,7 +434,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
+    }
+   ],
    "note": ""
   },
   {
@@ -416,7 +456,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
+    }
+   ],
    "note": ""
   },
   {
@@ -432,7 +478,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "xem tranh, ảnh mẫu trên màn hình; ghi tên tác giả bức tranh khi giới thiệu."
+    }
+   ],
    "note": ""
   },
   {
@@ -464,7 +516,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
+    }
+   ],
    "note": ""
   },
   {
@@ -480,14 +538,20 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l4-mi-thuat-026",
    "semester": 2,
    "week": 26,
-   "theme": "Chủ đề 7: Môi trường xanh - sạch - đẹp",
+   "theme": "Chủ đề 7: Môi trường xanh",
    "title": "Chủ đề 7: Môi trường xanh - sạch - đẹp (Tiết 1 - Quan sát, nhận biết)",
    "content": "",
    "periodLabel": "Tiết 26 (1 tiết)",
@@ -496,14 +560,20 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "xem tranh, ảnh mẫu trên màn hình; ghi tên tác giả bức tranh khi giới thiệu."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l4-mi-thuat-027",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề 7: Môi trường xanh - sạch - đẹp",
+   "theme": "Chủ đề 7: Môi trường xanh",
    "title": "Chủ đề 7: Môi trường xanh - sạch - đẹp (Tiết 2 - Cách thực hiện sản phẩm)",
    "content": "",
    "periodLabel": "Tiết 27 (1 tiết)",
@@ -519,7 +589,7 @@
    "id": "l4-mi-thuat-028",
    "semester": 2,
    "week": 28,
-   "theme": "Chủ đề 7: Môi trường xanh - sạch - đẹp",
+   "theme": "Chủ đề 7: Môi trường xanh",
    "title": "Chủ đề 7: Môi trường xanh - sạch - đẹp (Tiết 3 - Thực hành, sáng tạo)",
    "content": "",
    "periodLabel": "Tiết 28 (1 tiết)",
@@ -528,14 +598,20 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l4-mi-thuat-029",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề 7: Môi trường xanh - sạch - đẹp",
+   "theme": "Chủ đề 7: Môi trường xanh",
    "title": "Chủ đề 7: Môi trường xanh - sạch - đẹp (Tiết 4 - Trưng bày, thảo luận và vận dụng)",
    "content": "",
    "periodLabel": "Tiết 29 (1 tiết)",
@@ -544,7 +620,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
+    }
+   ],
    "note": ""
   },
   {
@@ -560,7 +642,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "xem tranh, ảnh mẫu trên màn hình; ghi tên tác giả bức tranh khi giới thiệu."
+    }
+   ],
    "note": ""
   },
   {
@@ -592,7 +680,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "tạo sản phẩm mĩ thuật rồi chụp lại, lưu vào thư mục lớp; không chép nguyên tranh của người khác."
+    }
+   ],
    "note": ""
   },
   {
@@ -608,14 +702,20 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
+    }
+   ],
    "note": ""
   },
   {
    "id": "l4-mi-thuat-034",
    "semester": 2,
    "week": 34,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Ôn tập, đánh giá cuối học kì II",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
@@ -631,7 +731,7 @@
    "id": "l4-mi-thuat-035",
    "semester": 2,
    "week": 35,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Trưng bày sản phẩm và tổng kết năm học",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
@@ -640,7 +740,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
+    }
+   ],
    "note": ""
   }
  ],
@@ -916,8 +1022,8 @@
  "attachment": {
   "file": "assets/docs/lop4/Mi thuat - Lop 4.docx",
   "name": "Mi thuat - Lop 4.docx",
-  "original": "KHDH Mĩ thuật lớp 4 (2026-2027) (đã rà soát).docx",
-  "size": 11206,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 45420,
+  "updated": "2026-09-07"
  }
 }

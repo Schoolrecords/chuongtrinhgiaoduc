@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 210,
-  "integrations": 156
+  "integrations": 134
  },
  "lessons": [
   {
@@ -26,7 +26,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu bản đọc mẫu có âm thanh bài “Thanh âm của gió” trên tivi, HS nghe và đánh dấu chỗ ngắt, từ cần nhấn giọng vào SGK"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "Khi tìm hiểu bài, GV chiếu sơ đồ trình tự sự việc theo thời gian, địa điểm còn trống; HS thảo luận nhóm đôi điền vào phiếu"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bản đọc mẫu và từ điển điện tử do GV chọn từ học liệu chính thống"
+    }
+   ],
    "note": ""
   },
   {
@@ -34,7 +50,7 @@
    "semester": 1,
    "week": 1,
    "theme": "Chủ điểm 1: Thế giới tuổi thơ",
-   "title": "Luyện từ và câu: Luyện tập về danh từ, động từ, tính từ",
+   "title": "Bài 1 (3 tiết)\nLuyện từ và câu: Luyện tập về danh từ, động từ, tính từ",
    "content": "",
    "periodLabel": "Tiết 2 (1 tiết)",
    "periodFrom": 2,
@@ -42,7 +58,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu đoạn văn bài Luyện từ và câu; HS tô màu danh từ, động từ, tính từ bằng chức năng tìm kiếm, tra từ điển điện tử"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Từ điển điện tử chỉ tham khảo, HS tự chọn nghĩa đúng văn cảnh."
+    }
+   ],
    "note": ""
   },
   {
@@ -50,7 +77,7 @@
    "semester": 1,
    "week": 1,
    "theme": "Chủ điểm 1: Thế giới tuổi thơ",
-   "title": "Viết: Tìm hiểu cách viết bài văn kể chuyện sáng tạo",
+   "title": "Bài 1 (3 tiết)\nViết: Tìm hiểu cách viết bài văn kể chuyện sáng tạo",
    "content": "",
    "periodLabel": "Tiết 3 (1 tiết)",
    "periodFrom": 3,
@@ -60,9 +87,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu bài văn và hai chi tiết kể sáng tạo A, B SGK, tô màu lời thoại thêm vào; HS gõ thử một chi tiết sáng tạo"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2, QĐ 2422: 5.A2.1",
+     "text": "GV dùng AI viết đoạn kể sáng tạo cho cùng câu chuyện, chiếu để HS nhận xét chi tiết có hợp truyện gốc, có cảm xúc không"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+     "text": "Không chép bài do AI viết để nộp; công cụ chỉ gợi ý ý tưởng."
     }
    ],
    "note": ""
@@ -74,13 +111,29 @@
    "theme": "Chủ điểm 1: Thế giới tuổi thơ",
    "title": "Bài 2 (4 tiết)\nĐọc: Cánh đồng hoa",
    "content": "",
-   "periodLabel": "Tiết 4+5 (2 tiết)",
+   "periodLabel": "Tiết 4–5 (2 tiết)",
    "periodFrom": 4,
    "periodTo": 5,
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV mở bản đọc mẫu bài “Cánh đồng hoa” và chiếu vài hình ảnh về làng quê, cánh đồng hoa của người Chăm trên tivi; HS nghe"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Ở phần vận dụng, GV chiếu bảng việc nên làm / không nên làm để giữ khu phố sạch đẹp trên bài tập tương tác"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Hình ảnh về người Chăm và làng quê lấy từ học liệu số chính thống"
+    }
+   ],
    "note": ""
   },
   {
@@ -88,7 +141,7 @@
    "semester": 1,
    "week": 1,
    "theme": "Chủ điểm 1: Thế giới tuổi thơ",
-   "title": "Viết: Tìm hiểu cách viết bài văn kể chuyện sáng tạo (tiếp theo)",
+   "title": "Bài 2 (4 tiết)\nViết: Tìm hiểu cách viết bài văn kể chuyện sáng tạo (tiếp theo)",
    "content": "",
    "periodLabel": "Tiết 6 (1 tiết)",
    "periodFrom": 6,
@@ -98,9 +151,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu đoạn văn bài tập 1, tô màu từ xưng hô tôi, mình và câu bộc lộ suy nghĩ; HS gõ thử câu mở bài trên máy"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2, QĐ 2422: 5.A1.2",
+     "text": "GV nhờ AI viết đoạn văn đóng vai nhân vật kể cùng câu chuyện; HS soi xưng hô có nhất quán, chi tiết đúng truyện gốc không"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+     "text": "Không chép bài do AI viết để nộp; công cụ chỉ gợi ý ý tưởng."
     }
    ],
    "note": ""
@@ -110,7 +173,7 @@
    "semester": 1,
    "week": 1,
    "theme": "Chủ điểm 1: Thế giới tuổi thơ",
-   "title": "Đọc mở rộng: Đọc mở rộng",
+   "title": "Bài 2 (4 tiết)\nĐọc mở rộng: Đọc mở rộng",
    "content": "",
    "periodLabel": "Tiết 7 (1 tiết)",
    "periodFrom": 7,
@@ -121,18 +184,18 @@
    "integrations": [
     {
      "code": "NLS-KT",
-     "level": "",
-     "text": "Hướng dẫn HS chọn sách/tư liệu đọc mở rộng phù hợp, ghi tên nguồn; không sao chép nội dung trên mạng."
+     "level": "Cơ bản 2",
+     "text": "GV dạy HS tìm truyện về tuổi thơ trong thư viện số GV chọn trước: gõ từ khoá, đọc giới thiệu, mục lục để chọn truyện"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS điền phiếu đọc sách theo mẫu SGK: tên truyện, tác giả, chi tiết em thích; GV chụp ảnh phiếu, bìa truyện chiếu lên để HS giới thiệu"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Hướng dẫn HS chọn sách/tư liệu đọc mở rộng phù hợp, ghi tên nguồn; không sao chép nội dung trên mạng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+     "text": "Chỉ truy cập trang GV chỉ định; gặp nội dung không phù hợp thì báo thầy cô."
     }
    ],
    "note": ""
@@ -150,7 +213,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV mở bản đọc mẫu bài thơ “Tuổi Ngựa” kèm hình ảnh miền trung du, đại ngàn, triền núi đá trên tivi; HS nghe"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Ở phần vận dụng, HS chọn một khổ thơ thích nhất, tập đọc diễn cảm rồi GV ghi âm bằng điện thoại và mở lại trên loa lớp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bản ghi âm giọng đọc của HS chỉ dùng trong tiết học"
+    }
+   ],
    "note": ""
   },
   {
@@ -158,7 +237,7 @@
    "semester": 1,
    "week": 2,
    "theme": "Chủ điểm 1: Thế giới tuổi thơ",
-   "title": "Luyện từ và câu: Đại từ",
+   "title": "Bài 3 (3 tiết)\nLuyện từ và câu: Đại từ",
    "content": "",
    "periodLabel": "Tiết 9 (1 tiết)",
    "periodFrom": 9,
@@ -166,7 +245,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu câu bài tập 1, tô đậm từ vậy, thế, kẻ mũi tên nối về từ được thay thế; HS làm bài tương tác chọn đại từ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Từ điển điện tử chỉ tham khảo, HS tự chọn nghĩa đúng văn cảnh."
+    }
+   ],
    "note": ""
   },
   {
@@ -174,7 +264,7 @@
    "semester": 1,
    "week": 2,
    "theme": "Chủ điểm 1: Thế giới tuổi thơ",
-   "title": "Viết: Lập dàn ý cho bài văn kể chuyện sáng tạo",
+   "title": "Bài 3 (3 tiết)\nViết: Lập dàn ý cho bài văn kể chuyện sáng tạo",
    "content": "",
    "periodLabel": "Tiết 10 (1 tiết)",
    "periodFrom": 10,
@@ -184,9 +274,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu khung dàn ý ba phần theo gợi ý SGK; vài HS gõ dàn ý vào khung trên máy, đánh dấu chỗ thêm lời thoại"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2, QĐ 2422: 5.A3.2",
+     "text": "GV nhờ AI gợi ý vài chi tiết sáng tạo cho một câu chuyện quen thuộc rồi chiếu; HS nhận xét chi tiết nào hợp, nào lạc"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+     "text": "Không chép bài do AI viết để nộp; công cụ chỉ gợi ý ý tưởng."
     }
    ],
    "note": ""
@@ -198,13 +298,29 @@
    "theme": "Chủ điểm 1: Thế giới tuổi thơ",
    "title": "Bài 4 (4 tiết)\nĐọc: Bến sông tuổi thơ",
    "content": "",
-   "periodLabel": "Tiết 11+12 (2 tiết)",
+   "periodLabel": "Tiết 11–12 (2 tiết)",
    "periodFrom": 11,
    "periodTo": 12,
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV mở bài hát Con sông tuổi thơ tôi rồi bản đọc mẫu bài “Bến sông tuổi thơ” trên tivi; HS nghe"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Khi tóm tắt văn bản, GV chiếu sơ đồ bố cục ba phần còn trống trên tivi; HS thảo luận nhóm chia đoạn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài hát, bản đọc mẫu do GV mở từ học liệu rõ nguồn"
+    }
+   ],
    "note": ""
   },
   {
@@ -212,7 +328,7 @@
    "semester": 1,
    "week": 2,
    "theme": "Chủ điểm 1: Thế giới tuổi thơ",
-   "title": "Viết: Viết bài văn kể chuyện sáng tạo",
+   "title": "Bài 4 (4 tiết)\nViết: Viết bài văn kể chuyện sáng tạo",
    "content": "",
    "periodLabel": "Tiết 13 (1 tiết)",
    "periodFrom": 13,
@@ -222,9 +338,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS viết bài văn kể chuyện sáng tạo theo dàn ý; GV chụp bài của vài HS chiếu lên, lớp góp ý chi tiết tưởng tượng"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2, QĐ 2422: 5.A2.1",
+     "text": "GV dùng AI viết đoạn có chi tiết tưởng tượng cho cùng đề, chiếu để HS so với bài mình: có cảm xúc không"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+     "text": "Không chép bài do AI viết để nộp; công cụ chỉ gợi ý ý tưởng."
     }
    ],
    "note": ""
@@ -234,7 +360,7 @@
    "semester": 1,
    "week": 2,
    "theme": "Chủ điểm 1: Thế giới tuổi thơ",
-   "title": "Nói và nghe: Những câu chuyện thú vị",
+   "title": "Bài 4 (4 tiết)\nNói và nghe: Những câu chuyện thú vị",
    "content": "",
    "periodLabel": "Tiết 14 (1 tiết)",
    "periodFrom": 14,
@@ -242,7 +368,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "HS trình bày ý kiến về chi tiết thú vị trong truyện, GV quay bằng điện thoại; HS xem lại, nhận ra chỗ nói nhanh, nói nhỏ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Xin phép bạn trước khi ghi hình; không đăng file ghi hình bạn lên mạng."
+    }
+   ],
    "note": ""
   },
   {
@@ -266,7 +403,7 @@
    "semester": 1,
    "week": 3,
    "theme": "Chủ điểm 1: Thế giới tuổi thơ",
-   "title": "Luyện từ và câu: Luyện tập về đại từ",
+   "title": "Bài 5 (3 tiết)\nLuyện từ và câu: Luyện tập về đại từ",
    "content": "",
    "periodLabel": "Tiết 16 (1 tiết)",
    "periodFrom": 16,
@@ -282,7 +419,7 @@
    "semester": 1,
    "week": 3,
    "theme": "Chủ điểm 1: Thế giới tuổi thơ",
-   "title": "Viết: Đánh giá, chỉnh sửa bài văn kể chuyện sáng tạo",
+   "title": "Bài 5 (3 tiết)\nViết: Đánh giá, chỉnh sửa bài văn kể chuyện sáng tạo",
    "content": "",
    "periodLabel": "Tiết 17 (1 tiết)",
    "periodFrom": 17,
@@ -290,13 +427,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -306,7 +437,7 @@
    "theme": "Chủ điểm 1: Thế giới tuổi thơ",
    "title": "Bài 6 (4 tiết)\nĐọc: Ngôi sao sân cỏ",
    "content": "",
-   "periodLabel": "Tiết 18+19 (2 tiết)",
+   "periodLabel": "Tiết 18–19 (2 tiết)",
    "periodFrom": 18,
    "periodTo": 19,
    "periods": 2,
@@ -320,7 +451,7 @@
    "semester": 1,
    "week": 3,
    "theme": "Chủ điểm 1: Thế giới tuổi thơ",
-   "title": "Viết: Tìm hiểu cách viết báo cáo công việc",
+   "title": "Bài 6 (4 tiết)\nViết: Tìm hiểu cách viết báo cáo công việc",
    "content": "",
    "periodLabel": "Tiết 20 (1 tiết)",
    "periodFrom": 20,
@@ -342,7 +473,7 @@
    "semester": 1,
    "week": 3,
    "theme": "Chủ điểm 1: Thế giới tuổi thơ",
-   "title": "Đọc mở rộng: Đọc mở rộng",
+   "title": "Bài 6 (4 tiết)\nĐọc mở rộng: Đọc mở rộng",
    "content": "",
    "periodLabel": "Tiết 21 (1 tiết)",
    "periodFrom": 21,
@@ -360,11 +491,6 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Đọc mở rộng; ghi tên sách/tác giả/nguồn, chia sẻ ngắn gọn, tôn trọng bản quyền."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -382,13 +508,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -396,7 +516,7 @@
    "semester": 1,
    "week": 4,
    "theme": "Chủ điểm 1: Thế giới tuổi thơ",
-   "title": "Luyện từ và câu: Luyện tập về đại từ (tiếp theo)",
+   "title": "Bài 7 (3 tiết)\nLuyện từ và câu: Luyện tập về đại từ (tiếp theo)",
    "content": "",
    "periodLabel": "Tiết 23 (1 tiết)",
    "periodFrom": 23,
@@ -412,7 +532,7 @@
    "semester": 1,
    "week": 4,
    "theme": "Chủ điểm 1: Thế giới tuổi thơ",
-   "title": "Viết: Viết báo cáo công việc",
+   "title": "Bài 7 (3 tiết)\nViết: Viết báo cáo công việc",
    "content": "",
    "periodLabel": "Tiết 24 (1 tiết)",
    "periodFrom": 24,
@@ -436,7 +556,7 @@
    "theme": "Chủ điểm 1: Thế giới tuổi thơ",
    "title": "Bài 8 (4 tiết)\nĐọc: Hành tinh kì lạ",
    "content": "",
-   "periodLabel": "Tiết 25+26 (2 tiết)",
+   "periodLabel": "Tiết 25–26 (2 tiết)",
    "periodFrom": 25,
    "periodTo": 26,
    "periods": 2,
@@ -450,7 +570,7 @@
    "semester": 1,
    "week": 4,
    "theme": "Chủ điểm 1: Thế giới tuổi thơ",
-   "title": "Viết: Đánh giá, chỉnh sửa báo cáo công việc",
+   "title": "Bài 8 (4 tiết)\nViết: Đánh giá, chỉnh sửa báo cáo công việc",
    "content": "",
    "periodLabel": "Tiết 27 (1 tiết)",
    "periodFrom": 27,
@@ -477,7 +597,7 @@
    "semester": 1,
    "week": 4,
    "theme": "Chủ điểm 1: Thế giới tuổi thơ",
-   "title": "Nói và nghe: Những điểm vui chơi lí thú",
+   "title": "Bài 8 (4 tiết)\nNói và nghe: Những điểm vui chơi lí thú",
    "content": "",
    "periodLabel": "Tiết 28 (1 tiết)",
    "periodFrom": 28,
@@ -515,7 +635,7 @@
    "semester": 1,
    "week": 5,
    "theme": "Chủ điểm 2: THIÊN NHIÊN KÌ THÚ",
-   "title": "Luyện từ và câu: Từ đồng nghĩa",
+   "title": "Bài 9 (3 tiết)\nLuyện từ và câu: Từ đồng nghĩa",
    "content": "",
    "periodLabel": "Tiết 30 (1 tiết)",
    "periodFrom": 30,
@@ -531,7 +651,7 @@
    "semester": 1,
    "week": 5,
    "theme": "Chủ điểm 2: THIÊN NHIÊN KÌ THÚ",
-   "title": "Viết: Tìm hiểu cách viết bài văn tả phong cảnh",
+   "title": "Bài 9 (3 tiết)\nViết: Tìm hiểu cách viết bài văn tả phong cảnh",
    "content": "",
    "periodLabel": "Tiết 31 (1 tiết)",
    "periodFrom": 31,
@@ -544,11 +664,6 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Quan sát phong cảnh qua ảnh/video/bản đồ số có nguồn rõ ràng; ghi ý bằng từ ngữ của học sinh."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -560,7 +675,7 @@
    "theme": "Chủ điểm 2: THIÊN NHIÊN KÌ THÚ",
    "title": "Bài 10 (4 tiết)\nĐọc: Kì diệu rừng xanh",
    "content": "",
-   "periodLabel": "Tiết 32+33 (2 tiết)",
+   "periodLabel": "Tiết 32–33 (2 tiết)",
    "periodFrom": 32,
    "periodTo": 33,
    "periods": 2,
@@ -574,7 +689,7 @@
    "semester": 1,
    "week": 5,
    "theme": "Chủ điểm 2: THIÊN NHIÊN KÌ THÚ",
-   "title": "Viết: Tìm hiểu cách viết bài văn tả phong cảnh (tiếp theo)",
+   "title": "Bài 10 (4 tiết)\nViết: Tìm hiểu cách viết bài văn tả phong cảnh (tiếp theo)",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
    "periodFrom": 34,
@@ -587,11 +702,6 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Quan sát phong cảnh qua ảnh/video/bản đồ số có nguồn rõ ràng; ghi ý bằng từ ngữ của học sinh."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -601,7 +711,7 @@
    "semester": 1,
    "week": 5,
    "theme": "Chủ điểm 2: THIÊN NHIÊN KÌ THÚ",
-   "title": "Đọc mở rộng: Đọc mở rộng",
+   "title": "Bài 10 (4 tiết)\nĐọc mở rộng: Đọc mở rộng",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
    "periodFrom": 35,
@@ -619,11 +729,6 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Đọc mở rộng về thiên nhiên; chọn tranh/ảnh/tư liệu có nguồn rõ ràng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -649,7 +754,7 @@
    "semester": 1,
    "week": 6,
    "theme": "Chủ điểm 2: THIÊN NHIÊN KÌ THÚ",
-   "title": "Luyện từ và câu: Luyện tập về từ đồng nghĩa",
+   "title": "Bài 11 (3 tiết)\nLuyện từ và câu: Luyện tập về từ đồng nghĩa",
    "content": "",
    "periodLabel": "Tiết 37 (1 tiết)",
    "periodFrom": 37,
@@ -665,7 +770,7 @@
    "semester": 1,
    "week": 6,
    "theme": "Chủ điểm 2: THIÊN NHIÊN KÌ THÚ",
-   "title": "Viết: Viết mở bài và kết bài cho bài văn tả phong cảnh",
+   "title": "Bài 11 (3 tiết)\nViết: Viết mở bài và kết bài cho bài văn tả phong cảnh",
    "content": "",
    "periodLabel": "Tiết 38 (1 tiết)",
    "periodFrom": 38,
@@ -683,19 +788,13 @@
    "theme": "Chủ điểm 2: THIÊN NHIÊN KÌ THÚ",
    "title": "Bài 12 (4 tiết)\nĐọc: Những hòn đảo trên vịnh Hạ Long",
    "content": "",
-   "periodLabel": "Tiết 39+40 (2 tiết)",
+   "periodLabel": "Tiết 39–40 (2 tiết)",
    "periodFrom": 39,
    "periodTo": 40,
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ; HS nêu được biển, đảo là một phần lãnh thổ thiêng liêng của Tổ quốc."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -703,7 +802,7 @@
    "semester": 1,
    "week": 6,
    "theme": "Chủ điểm 2: THIÊN NHIÊN KÌ THÚ",
-   "title": "Viết: Quan sát phong cảnh",
+   "title": "Bài 12 (4 tiết)\nViết: Quan sát phong cảnh",
    "content": "",
    "periodLabel": "Tiết 41 (1 tiết)",
    "periodFrom": 41,
@@ -716,22 +815,16 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Quan sát phong cảnh qua ảnh/video/bản đồ số của địa phương; ghi nhận xét bằng từ ngữ của HS."
-    },
-    {
-     "code": "GDĐP",
-     "level": "",
-     "text": "Quan sát phong cảnh qua ảnh/video/bản đồ số của địa phương; ghi nhận xét bằng từ ngữ của HS."
     }
    ],
-   "note": "",
-   "gddpBoSung": true
+   "note": ""
   },
   {
    "id": "l5-tieng-viet-036",
    "semester": 1,
    "week": 6,
    "theme": "Chủ điểm 2: THIÊN NHIÊN KÌ THÚ",
-   "title": "Nói và nghe: Bảo tồn động vật hoang dã",
+   "title": "Bài 12 (4 tiết)\nNói và nghe: Bảo tồn động vật hoang dã",
    "content": "",
    "periodLabel": "Tiết 42 (1 tiết)",
    "periodFrom": 42,
@@ -774,7 +867,7 @@
    "semester": 1,
    "week": 7,
    "theme": "Chủ điểm 2: THIÊN NHIÊN KÌ THÚ",
-   "title": "Luyện từ và câu: Từ đa nghĩa",
+   "title": "Bài 13 (3 tiết)\nLuyện từ và câu: Từ đa nghĩa",
    "content": "",
    "periodLabel": "Tiết 44 (1 tiết)",
    "periodFrom": 44,
@@ -790,7 +883,7 @@
    "semester": 1,
    "week": 7,
    "theme": "Chủ điểm 2: THIÊN NHIÊN KÌ THÚ",
-   "title": "Viết: Lập dàn ý cho bài văn tả phong cảnh",
+   "title": "Bài 13 (3 tiết)\nViết: Lập dàn ý cho bài văn tả phong cảnh",
    "content": "",
    "periodLabel": "Tiết 45 (1 tiết)",
    "periodFrom": 45,
@@ -814,7 +907,7 @@
    "theme": "Chủ điểm 2: THIÊN NHIÊN KÌ THÚ",
    "title": "Bài 14 (4 tiết)\nĐọc: Những ngọn núi nóng rẫy",
    "content": "",
-   "periodLabel": "Tiết 46+47 (2 tiết)",
+   "periodLabel": "Tiết 46–47 (2 tiết)",
    "periodFrom": 46,
    "periodTo": 47,
    "periods": 2,
@@ -828,7 +921,7 @@
    "semester": 1,
    "week": 7,
    "theme": "Chủ điểm 2: THIÊN NHIÊN KÌ THÚ",
-   "title": "Viết: Viết đoạn văn tả phong cảnh",
+   "title": "Bài 14 (4 tiết)\nViết: Viết đoạn văn tả phong cảnh",
    "content": "",
    "periodLabel": "Tiết 48 (1 tiết)",
    "periodFrom": 48,
@@ -836,13 +929,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -850,7 +937,7 @@
    "semester": 1,
    "week": 7,
    "theme": "Chủ điểm 2: THIÊN NHIÊN KÌ THÚ",
-   "title": "Đọc mở rộng: Đọc mở rộng",
+   "title": "Bài 14 (4 tiết)\nĐọc mở rộng: Đọc mở rộng",
    "content": "",
    "periodLabel": "Tiết 49 (1 tiết)",
    "periodFrom": 49,
@@ -863,11 +950,6 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Đọc mở rộng chủ đề thiên nhiên; ghi lại thông tin mới và nguồn tham khảo."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -893,7 +975,7 @@
    "semester": 1,
    "week": 8,
    "theme": "Chủ điểm 2: THIÊN NHIÊN KÌ THÚ",
-   "title": "Luyện từ và câu: Luyện tập về từ đa nghĩa",
+   "title": "Bài 15 (3 tiết)\nLuyện từ và câu: Luyện tập về từ đa nghĩa",
    "content": "",
    "periodLabel": "Tiết 51 (1 tiết)",
    "periodFrom": 51,
@@ -909,7 +991,7 @@
    "semester": 1,
    "week": 8,
    "theme": "Chủ điểm 2: THIÊN NHIÊN KÌ THÚ",
-   "title": "Viết: Viết bài văn tả phong cảnh",
+   "title": "Bài 15 (3 tiết)\nViết: Viết bài văn tả phong cảnh",
    "content": "",
    "periodLabel": "Tiết 52 (1 tiết)",
    "periodFrom": 52,
@@ -927,11 +1009,6 @@
      "code": "AI-NB",
      "level": "",
      "text": "Có thể dùng công cụ kiểm tra chính tả; học sinh tự viết, không để AI viết thay (trung thực học tập)."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -943,7 +1020,7 @@
    "theme": "Chủ điểm 2: THIÊN NHIÊN KÌ THÚ",
    "title": "Bài 16 (4 tiết)\nĐọc: Xin chào, Xa-ha-ra",
    "content": "",
-   "periodLabel": "Tiết 53+54 (2 tiết)",
+   "periodLabel": "Tiết 53–54 (2 tiết)",
    "periodFrom": 53,
    "periodTo": 54,
    "periods": 2,
@@ -957,7 +1034,7 @@
    "semester": 1,
    "week": 8,
    "theme": "Chủ điểm 2: THIÊN NHIÊN KÌ THÚ",
-   "title": "Viết: Đánh giá, chỉnh sửa bài văn tả phong cảnh",
+   "title": "Bài 16 (4 tiết)\nViết: Đánh giá, chỉnh sửa bài văn tả phong cảnh",
    "content": "",
    "periodLabel": "Tiết 55 (1 tiết)",
    "periodFrom": 55,
@@ -979,7 +1056,7 @@
    "semester": 1,
    "week": 8,
    "theme": "Chủ điểm 2: THIÊN NHIÊN KÌ THÚ",
-   "title": "Nói và nghe: Cảnh đẹp thiên nhiên",
+   "title": "Bài 16 (4 tiết)\nNói và nghe: Cảnh đẹp thiên nhiên",
    "content": "",
    "periodLabel": "Tiết 56 (1 tiết)",
    "periodFrom": 56,
@@ -1051,7 +1128,7 @@
    "theme": "Ôn tập và đánh giá giữa HKI",
    "title": "Ôn tập: Ôn tập và đánh giá giữa HKI (Tiết 4+5)",
    "content": "",
-   "periodLabel": "Tiết 60+61 (2 tiết)",
+   "periodLabel": "Tiết 60–61 (2 tiết)",
    "periodFrom": 60,
    "periodTo": 61,
    "periods": 2,
@@ -1065,7 +1142,7 @@
    "semester": 1,
    "week": 9,
    "theme": "Ôn tập và đánh giá giữa HKI",
-   "title": "Ôn tập: Kiểm tra Đọc (Tiết 6)",
+   "title": "Ôn tập: Kiểm tra Đọc (tiết 6)",
    "content": "",
    "periodLabel": "Tiết 62 (1 tiết)",
    "periodFrom": 62,
@@ -1081,7 +1158,7 @@
    "semester": 1,
    "week": 9,
    "theme": "Ôn tập và đánh giá giữa HKI",
-   "title": "Ôn tập: Kiểm tra Đọc hiểu – viết (Tiết 7)",
+   "title": "Ôn tập: Kiểm tra Đọc hiểu – viết (tiết 7)",
    "content": "",
    "periodLabel": "Tiết 63 (1 tiết)",
    "periodFrom": 63,
@@ -1113,7 +1190,7 @@
    "semester": 1,
    "week": 10,
    "theme": "Chủ điểm 3: Trên con đường học tập",
-   "title": "Luyện từ và câu: Sử dụng từ điển",
+   "title": "Bài 17 (3 tiết)\nLuyện từ và câu: Sử dụng từ điển",
    "content": "",
    "periodLabel": "Tiết 65 (1 tiết)",
    "periodFrom": 65,
@@ -1135,7 +1212,7 @@
    "semester": 1,
    "week": 10,
    "theme": "Chủ điểm 3: Trên con đường học tập",
-   "title": "Viết: Tìm hiểu cách viết đoạn văn giới thiệu nhân vật trong một cuốn sách",
+   "title": "Bài 17 (3 tiết)\nViết: Tìm hiểu cách viết đoạn văn giới thiệu nhân vật trong một cuốn sách",
    "content": "",
    "periodLabel": "Tiết 66 (1 tiết)",
    "periodFrom": 66,
@@ -1153,7 +1230,7 @@
    "theme": "Chủ điểm 3: Trên con đường học tập",
    "title": "Bài 18 (4 tiết)\nĐọc: Tấm gương tự học",
    "content": "",
-   "periodLabel": "Tiết 67+68 (2 tiết)",
+   "periodLabel": "Tiết 67–68 (2 tiết)",
    "periodFrom": 67,
    "periodTo": 68,
    "periods": 2,
@@ -1167,7 +1244,7 @@
    "semester": 1,
    "week": 10,
    "theme": "Chủ điểm 3: Trên con đường học tập",
-   "title": "Viết: Tìm ý cho đoạn văn giới thiệu nhân vật trong một cuốn sách",
+   "title": "Bài 18 (4 tiết)\nViết: Tìm ý cho đoạn văn giới thiệu nhân vật trong một cuốn sách",
    "content": "",
    "periodLabel": "Tiết 69 (1 tiết)",
    "periodFrom": 69,
@@ -1183,7 +1260,7 @@
    "semester": 1,
    "week": 10,
    "theme": "Chủ điểm 3: Trên con đường học tập",
-   "title": "Đọc mở rộng: Đọc mở rộng",
+   "title": "Bài 18 (4 tiết)\nĐọc mở rộng: Đọc mở rộng",
    "content": "",
    "periodLabel": "Tiết 70 (1 tiết)",
    "periodFrom": 70,
@@ -1201,11 +1278,6 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Đọc mở rộng; lập phiếu đọc sách, ghi nguồn, không sao chép nhận xét mẫu."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -1231,7 +1303,7 @@
    "semester": 1,
    "week": 11,
    "theme": "Chủ điểm 3: Trên con đường học tập",
-   "title": "Luyện từ và câu: Luyện tập sử dụng từ điển",
+   "title": "Bài 19 (3 tiết)\nLuyện từ và câu: Luyện tập sử dụng từ điển",
    "content": "",
    "periodLabel": "Tiết 72 (1 tiết)",
    "periodFrom": 72,
@@ -1253,7 +1325,7 @@
    "semester": 1,
    "week": 11,
    "theme": "Chủ điểm 3: Trên con đường học tập",
-   "title": "Viết: Viết đoạn văn giới thiệu nhân vật trong một cuốn sách",
+   "title": "Bài 19 (3 tiết)\nViết: Viết đoạn văn giới thiệu nhân vật trong một cuốn sách",
    "content": "",
    "periodLabel": "Tiết 73 (1 tiết)",
    "periodFrom": 73,
@@ -1261,13 +1333,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1277,7 +1343,7 @@
    "theme": "Chủ điểm 3: Trên con đường học tập",
    "title": "Bài 20 (4 tiết)\nĐọc: Khổ luyện thành tài",
    "content": "",
-   "periodLabel": "Tiết 74+75 (2 tiết)",
+   "periodLabel": "Tiết 74–75 (2 tiết)",
    "periodFrom": 74,
    "periodTo": 75,
    "periods": 2,
@@ -1291,7 +1357,7 @@
    "semester": 1,
    "week": 11,
    "theme": "Chủ điểm 3: Trên con đường học tập",
-   "title": "Viết: Đánh giá, chỉnh sửa đoạn văn giới thiệu nhân vật trong một cuốn sách",
+   "title": "Bài 20 (4 tiết)\nViết: Đánh giá, chỉnh sửa đoạn văn giới thiệu nhân vật trong một cuốn sách",
    "content": "",
    "periodLabel": "Tiết 76 (1 tiết)",
    "periodFrom": 76,
@@ -1307,7 +1373,7 @@
    "semester": 1,
    "week": 11,
    "theme": "Chủ điểm 3: Trên con đường học tập",
-   "title": "Nói và nghe: Cuốn sách tôi yêu",
+   "title": "Bài 20 (4 tiết)\nNói và nghe: Cuốn sách tôi yêu",
    "content": "",
    "periodLabel": "Tiết 77 (1 tiết)",
    "periodFrom": 77,
@@ -1356,7 +1422,7 @@
    "semester": 1,
    "week": 12,
    "theme": "Chủ điểm 3: Trên con đường học tập",
-   "title": "Luyện từ và câu: Dấu gạch ngang",
+   "title": "Bài 21 (3 tiết)\nLuyện từ và câu: Dấu gạch ngang",
    "content": "",
    "periodLabel": "Tiết 79 (1 tiết)",
    "periodFrom": 79,
@@ -1372,7 +1438,7 @@
    "semester": 1,
    "week": 12,
    "theme": "Chủ điểm 3: Trên con đường học tập",
-   "title": "Viết: Tìm hiểu cách viết đoạn văn thể hiện tình cảm, cảm xúc về một câu chuyện",
+   "title": "Bài 21 (3 tiết)\nViết: Tìm hiểu cách viết đoạn văn thể hiện tình cảm, cảm xúc về một câu chuyện",
    "content": "",
    "periodLabel": "Tiết 80 (1 tiết)",
    "periodFrom": 80,
@@ -1380,13 +1446,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1396,7 +1456,7 @@
    "theme": "Chủ điểm 3: Trên con đường học tập",
    "title": "Bài 22 (4 tiết)\nĐọc: Từ những câu chuyện ấu thơ",
    "content": "",
-   "periodLabel": "Tiết 81+82 (2 tiết)",
+   "periodLabel": "Tiết 81–82 (2 tiết)",
    "periodFrom": 81,
    "periodTo": 82,
    "periods": 2,
@@ -1410,7 +1470,7 @@
    "semester": 1,
    "week": 12,
    "theme": "Chủ điểm 3: Trên con đường học tập",
-   "title": "Viết: Tìm ý cho đoạn văn thể hiện tình cảm, cảm xúc về một câu chuyện",
+   "title": "Bài 22 (4 tiết)\nViết: Tìm ý cho đoạn văn thể hiện tình cảm, cảm xúc về một câu chuyện",
    "content": "",
    "periodLabel": "Tiết 83 (1 tiết)",
    "periodFrom": 83,
@@ -1426,7 +1486,7 @@
    "semester": 1,
    "week": 12,
    "theme": "Chủ điểm 3: Trên con đường học tập",
-   "title": "Đọc mở rộng: Đọc mở rộng",
+   "title": "Bài 22 (4 tiết)\nĐọc mở rộng: Đọc mở rộng",
    "content": "",
    "periodLabel": "Tiết 84 (1 tiết)",
    "periodFrom": 84,
@@ -1444,11 +1504,6 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Đọc mở rộng; ghi tên sách/nguồn và nêu cảm nhận riêng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -1480,7 +1535,7 @@
    "semester": 1,
    "week": 13,
    "theme": "Chủ điểm 3: Trên con đường học tập",
-   "title": "Luyện từ và câu: Luyện tập về dấu gạch ngang",
+   "title": "Bài 23 (3 tiết)\nLuyện từ và câu: Luyện tập về dấu gạch ngang",
    "content": "",
    "periodLabel": "Tiết 86 (1 tiết)",
    "periodFrom": 86,
@@ -1496,7 +1551,7 @@
    "semester": 1,
    "week": 13,
    "theme": "Chủ điểm 3: Trên con đường học tập",
-   "title": "Viết: Viết đoạn văn thể hiện tình cảm, cảm xúc về một câu chuyện",
+   "title": "Bài 23 (3 tiết)\nViết: Viết đoạn văn thể hiện tình cảm, cảm xúc về một câu chuyện",
    "content": "",
    "periodLabel": "Tiết 87 (1 tiết)",
    "periodFrom": 87,
@@ -1504,13 +1559,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1520,7 +1569,7 @@
    "theme": "Chủ điểm 3: Trên con đường học tập",
    "title": "Bài 24 (4 tiết)\nĐọc: Tinh thần học tập của nhà Phi-lít",
    "content": "",
-   "periodLabel": "Tiết 88+89 (2 tiết)",
+   "periodLabel": "Tiết 88–89 (2 tiết)",
    "periodFrom": 88,
    "periodTo": 89,
    "periods": 2,
@@ -1534,7 +1583,7 @@
    "semester": 1,
    "week": 13,
    "theme": "Chủ điểm 3: Trên con đường học tập",
-   "title": "Viết: Đánh giá, chỉnh sửa đoạn văn thể hiện tình cảm, cảm xúc về một câu chuyện",
+   "title": "Bài 24 (4 tiết)\nViết: Đánh giá, chỉnh sửa đoạn văn thể hiện tình cảm, cảm xúc về một câu chuyện",
    "content": "",
    "periodLabel": "Tiết 90 (1 tiết)",
    "periodFrom": 90,
@@ -1550,7 +1599,7 @@
    "semester": 1,
    "week": 13,
    "theme": "Chủ điểm 3: Trên con đường học tập",
-   "title": "Nói và nghe: Lợi ích của tự học",
+   "title": "Bài 24 (4 tiết)\nNói và nghe: Lợi ích của tự học",
    "content": "",
    "periodLabel": "Tiết 91 (1 tiết)",
    "periodFrom": 91,
@@ -1588,7 +1637,7 @@
    "semester": 1,
    "week": 14,
    "theme": "Chủ điểm 4: Nghệ thuật muôn màu",
-   "title": "Luyện từ và câu: Biện pháp điệp từ, điệp ngữ",
+   "title": "Bài 25 (3 tiết)\nLuyện từ và câu: Biện pháp điệp từ, điệp ngữ",
    "content": "",
    "periodLabel": "Tiết 93 (1 tiết)",
    "periodFrom": 93,
@@ -1604,7 +1653,7 @@
    "semester": 1,
    "week": 14,
    "theme": "Chủ điểm 4: Nghệ thuật muôn màu",
-   "title": "Viết: Tìm hiểu cách viết đoạn văn thể hiện tình cảm, cảm xúc về một bài thơ",
+   "title": "Bài 25 (3 tiết)\nViết: Tìm hiểu cách viết đoạn văn thể hiện tình cảm, cảm xúc về một bài thơ",
    "content": "",
    "periodLabel": "Tiết 94 (1 tiết)",
    "periodFrom": 94,
@@ -1612,13 +1661,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1628,7 +1671,7 @@
    "theme": "Chủ điểm 4: Nghệ thuật muôn màu",
    "title": "Bài 26 (4 tiết)\nĐọc: Trí tưởng tượng phong phú",
    "content": "",
-   "periodLabel": "Tiết 95+96 (2 tiết)",
+   "periodLabel": "Tiết 95–96 (2 tiết)",
    "periodFrom": 95,
    "periodTo": 96,
    "periods": 2,
@@ -1648,7 +1691,7 @@
    "semester": 1,
    "week": 14,
    "theme": "Chủ điểm 4: Nghệ thuật muôn màu",
-   "title": "Viết: Tìm ý cho đoạn văn thể hiện tình cảm, cảm xúc về một bài thơ",
+   "title": "Bài 26 (4 tiết)\nViết: Tìm ý cho đoạn văn thể hiện tình cảm, cảm xúc về một bài thơ",
    "content": "",
    "periodLabel": "Tiết 97 (1 tiết)",
    "periodFrom": 97,
@@ -1664,7 +1707,7 @@
    "semester": 1,
    "week": 14,
    "theme": "Chủ điểm 4: Nghệ thuật muôn màu",
-   "title": "Đọc mở rộng: Đọc mở rộng",
+   "title": "Bài 26 (4 tiết)\nĐọc mở rộng: Đọc mở rộng",
    "content": "",
    "periodLabel": "Tiết 98 (1 tiết)",
    "periodFrom": 98,
@@ -1682,11 +1725,6 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Đọc mở rộng về nghệ thuật; tôn trọng bản quyền tranh/ảnh/video."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -1712,7 +1750,7 @@
    "semester": 1,
    "week": 15,
    "theme": "Chủ điểm 4: Nghệ thuật muôn màu",
-   "title": "Luyện từ và câu: Luyện tập về điệp từ, điệp ngữ",
+   "title": "Bài 27 (3 tiết)\nLuyện từ và câu: Luyện tập về điệp từ, điệp ngữ",
    "content": "",
    "periodLabel": "Tiết 100 (1 tiết)",
    "periodFrom": 100,
@@ -1728,7 +1766,7 @@
    "semester": 1,
    "week": 15,
    "theme": "Chủ điểm 4: Nghệ thuật muôn màu",
-   "title": "Viết: Viết đoạn văn thể hiện tình cảm, cảm xúc về một bài thơ",
+   "title": "Bài 27 (3 tiết)\nViết: Viết đoạn văn thể hiện tình cảm, cảm xúc về một bài thơ",
    "content": "",
    "periodLabel": "Tiết 101 (1 tiết)",
    "periodFrom": 101,
@@ -1736,13 +1774,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1752,7 +1784,7 @@
    "theme": "Chủ điểm 4: Nghệ thuật muôn màu",
    "title": "Bài 28 (4 tiết)\nĐọc: Tập hát quan họ",
    "content": "",
-   "periodLabel": "Tiết 102+103 (2 tiết)",
+   "periodLabel": "Tiết 102–103 (2 tiết)",
    "periodFrom": 102,
    "periodTo": 103,
    "periods": 2,
@@ -1766,7 +1798,7 @@
    "semester": 1,
    "week": 15,
    "theme": "Chủ điểm 4: Nghệ thuật muôn màu",
-   "title": "Viết: Đánh giá, chỉnh sửa đoạn văn thể hiện tình cảm, cảm xúc về một bài thơ",
+   "title": "Bài 28 (4 tiết)\nViết: Đánh giá, chỉnh sửa đoạn văn thể hiện tình cảm, cảm xúc về một bài thơ",
    "content": "",
    "periodLabel": "Tiết 104 (1 tiết)",
    "periodFrom": 104,
@@ -1782,7 +1814,7 @@
    "semester": 1,
    "week": 15,
    "theme": "Chủ điểm 4: Nghệ thuật muôn màu",
-   "title": "Nói và nghe: Chương trình nghệ thuật em yêu thích",
+   "title": "Bài 28 (4 tiết)\nNói và nghe: Chương trình nghệ thuật em yêu thích",
    "content": "",
    "periodLabel": "Tiết 105 (1 tiết)",
    "periodFrom": 105,
@@ -1836,7 +1868,7 @@
    "semester": 1,
    "week": 16,
    "theme": "Chủ điểm 4: Nghệ thuật muôn màu",
-   "title": "Luyện từ và câu: Kết từ",
+   "title": "Bài 29 (3 tiết)\nLuyện từ và câu: Kết từ",
    "content": "",
    "periodLabel": "Tiết 107 (1 tiết)",
    "periodFrom": 107,
@@ -1852,7 +1884,7 @@
    "semester": 1,
    "week": 16,
    "theme": "Chủ điểm 4: Nghệ thuật muôn màu",
-   "title": "Viết: Tìm hiểu cách viết đoạn văn giới thiệu nhân vật trong một bộ phim hoạt hình",
+   "title": "Bài 29 (3 tiết)\nViết: Tìm hiểu cách viết đoạn văn giới thiệu nhân vật trong một bộ phim hoạt hình",
    "content": "",
    "periodLabel": "Tiết 108 (1 tiết)",
    "periodFrom": 108,
@@ -1865,11 +1897,6 @@
      "code": "NLS-ST",
      "level": "",
      "text": "Khi tìm hiểu nhân vật phim hoạt hình, có thể dùng tranh/ảnh minh họa; nhắc HS tôn trọng bản quyền."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -1881,7 +1908,7 @@
    "theme": "Chủ điểm 4: Nghệ thuật muôn màu",
    "title": "Bài 30 (4 tiết)\nĐọc: Nghệ thuật múa ba lê",
    "content": "",
-   "periodLabel": "Tiết 109+110 (2 tiết)",
+   "periodLabel": "Tiết 109–110 (2 tiết)",
    "periodFrom": 109,
    "periodTo": 110,
    "periods": 2,
@@ -1901,7 +1928,7 @@
    "semester": 1,
    "week": 16,
    "theme": "Chủ điểm 4: Nghệ thuật muôn màu",
-   "title": "Viết: Tìm ý cho đoạn văn giới thiệu nhân vật trong một bộ phim hoạt hình",
+   "title": "Bài 30 (4 tiết)\nViết: Tìm ý cho đoạn văn giới thiệu nhân vật trong một bộ phim hoạt hình",
    "content": "",
    "periodLabel": "Tiết 111 (1 tiết)",
    "periodFrom": 111,
@@ -1923,7 +1950,7 @@
    "semester": 1,
    "week": 16,
    "theme": "Chủ điểm 4: Nghệ thuật muôn màu",
-   "title": "Đọc mở rộng: Đọc mở rộng",
+   "title": "Bài 30 (4 tiết)\nĐọc mở rộng: Đọc mở rộng",
    "content": "",
    "periodLabel": "Tiết 112 (1 tiết)",
    "periodFrom": 112,
@@ -1941,11 +1968,6 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Đọc mở rộng; chú ý ghi nguồn và chọn nội dung phù hợp lứa tuổi."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -1963,13 +1985,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1977,7 +1993,7 @@
    "semester": 1,
    "week": 17,
    "theme": "Chủ điểm 4: Nghệ thuật muôn màu",
-   "title": "Luyện từ và câu: Luyện tập về kết từ",
+   "title": "Bài 31 (3 tiết)\nLuyện từ và câu: Luyện tập về kết từ",
    "content": "",
    "periodLabel": "Tiết 114 (1 tiết)",
    "periodFrom": 114,
@@ -1993,7 +2009,7 @@
    "semester": 1,
    "week": 17,
    "theme": "Chủ điểm 4: Nghệ thuật muôn màu",
-   "title": "Viết: Viết đoạn văn giới thiệu nhân vật trong một bộ phim hoạt hình",
+   "title": "Bài 31 (3 tiết)\nViết: Viết đoạn văn giới thiệu nhân vật trong một bộ phim hoạt hình",
    "content": "",
    "periodLabel": "Tiết 115 (1 tiết)",
    "periodFrom": 115,
@@ -2001,13 +2017,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2017,7 +2027,7 @@
    "theme": "Chủ điểm 4: Nghệ thuật muôn màu",
    "title": "Bài 32 (4 tiết)\nĐọc: Sự tích chú Tễu",
    "content": "",
-   "periodLabel": "Tiết 116+117 (2 tiết)",
+   "periodLabel": "Tiết 116–117 (2 tiết)",
    "periodFrom": 116,
    "periodTo": 117,
    "periods": 2,
@@ -2031,7 +2041,7 @@
    "semester": 1,
    "week": 17,
    "theme": "Chủ điểm 4: Nghệ thuật muôn màu",
-   "title": "Viết: Đánh giá, chỉnh sửa đoạn văn giới thiệu nhân vật trong một bộ phim hoạt hình",
+   "title": "Bài 32 (4 tiết)\nViết: Đánh giá, chỉnh sửa đoạn văn giới thiệu nhân vật trong một bộ phim hoạt hình",
    "content": "",
    "periodLabel": "Tiết 118 (1 tiết)",
    "periodFrom": 118,
@@ -2047,7 +2057,7 @@
    "semester": 1,
    "week": 17,
    "theme": "Chủ điểm 4: Nghệ thuật muôn màu",
-   "title": "Nói và nghe: Bộ phim yêu thích",
+   "title": "Bài 32 (4 tiết)\nNói và nghe: Bộ phim yêu thích",
    "content": "",
    "periodLabel": "Tiết 119 (1 tiết)",
    "periodFrom": 119,
@@ -2124,7 +2134,7 @@
    "theme": "Ôn tập và đánh giá cuối HKI",
    "title": "Ôn tập: Ôn tập và đánh giá cuối HKI (Tiết 4+5)",
    "content": "",
-   "periodLabel": "Tiết 123+124 (2 tiết)",
+   "periodLabel": "Tiết 123–124 (2 tiết)",
    "periodFrom": 123,
    "periodTo": 124,
    "periods": 2,
@@ -2138,7 +2148,7 @@
    "semester": 1,
    "week": 18,
    "theme": "Ôn tập và đánh giá cuối HKI",
-   "title": "Ôn tập: Kiểm tra Đọc (Tiết 6)",
+   "title": "Ôn tập: Kiểm tra Đọc (tiết 6)",
    "content": "",
    "periodLabel": "Tiết 125 (1 tiết)",
    "periodFrom": 125,
@@ -2154,7 +2164,7 @@
    "semester": 1,
    "week": 18,
    "theme": "Ôn tập và đánh giá cuối HKI",
-   "title": "Ôn tập: Kiểm tra Đọc hiểu – viết (Tiết 7)",
+   "title": "Ôn tập: Kiểm tra Đọc hiểu – viết (tiết 7)",
    "content": "",
    "periodLabel": "Tiết 126 (1 tiết)",
    "periodFrom": 126,
@@ -2186,7 +2196,7 @@
    "semester": 2,
    "week": 19,
    "theme": "Chủ điểm 5: Vẻ đẹp cuộc sống",
-   "title": "Luyện từ và câu: Câu đơn và câu ghép",
+   "title": "Bài 1 (3 tiết)\nLuyện từ và câu: Câu đơn và câu ghép",
    "content": "",
    "periodLabel": "Tiết 128 (1 tiết)",
    "periodFrom": 128,
@@ -2202,7 +2212,7 @@
    "semester": 2,
    "week": 19,
    "theme": "Chủ điểm 5: Vẻ đẹp cuộc sống",
-   "title": "Viết: Tìm hiểu cách viết bài văn tả người",
+   "title": "Bài 1 (3 tiết)\nViết: Tìm hiểu cách viết bài văn tả người",
    "content": "",
    "periodLabel": "Tiết 129 (1 tiết)",
    "periodFrom": 129,
@@ -2215,11 +2225,6 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Tìm hiểu cách tả người qua tư liệu/ảnh chân dung có nguồn; chọn chi tiết tiêu biểu."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -2231,7 +2236,7 @@
    "theme": "Chủ điểm 5: Vẻ đẹp cuộc sống",
    "title": "Bài 2 (4 tiết)\nĐọc: Khúc hát ru những em bé lớn trên lưng mẹ",
    "content": "",
-   "periodLabel": "Tiết 130+131 (2 tiết)",
+   "periodLabel": "Tiết 130–131 (2 tiết)",
    "periodFrom": 130,
    "periodTo": 131,
    "periods": 2,
@@ -2245,7 +2250,7 @@
    "semester": 2,
    "week": 19,
    "theme": "Chủ điểm 5: Vẻ đẹp cuộc sống",
-   "title": "Viết: Viết mở bài và kết bài cho bài văn tả người",
+   "title": "Bài 2 (4 tiết)\nViết: Viết mở bài và kết bài cho bài văn tả người",
    "content": "",
    "periodLabel": "Tiết 132 (1 tiết)",
    "periodFrom": 132,
@@ -2261,7 +2266,7 @@
    "semester": 2,
    "week": 19,
    "theme": "Chủ điểm 5: Vẻ đẹp cuộc sống",
-   "title": "Đọc mở rộng: Đọc mở rộng",
+   "title": "Bài 2 (4 tiết)\nĐọc mở rộng: Đọc mở rộng",
    "content": "",
    "periodLabel": "Tiết 133 (1 tiết)",
    "periodFrom": 133,
@@ -2279,11 +2284,6 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Đọc mở rộng; ghi tên nguồn, chia sẻ cảm nhận riêng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -2309,7 +2309,7 @@
    "semester": 2,
    "week": 20,
    "theme": "Chủ điểm 5: Vẻ đẹp cuộc sống",
-   "title": "Luyện từ và câu: Cách nối các vế câu ghép",
+   "title": "Bài 3 (3 tiết)\nLuyện từ và câu: Cách nối các vế câu ghép",
    "content": "",
    "periodLabel": "Tiết 135 (1 tiết)",
    "periodFrom": 135,
@@ -2325,7 +2325,7 @@
    "semester": 2,
    "week": 20,
    "theme": "Chủ điểm 5: Vẻ đẹp cuộc sống",
-   "title": "Viết: Quan sát để viết bài văn tả người",
+   "title": "Bài 3 (3 tiết)\nViết: Quan sát để viết bài văn tả người",
    "content": "",
    "periodLabel": "Tiết 136 (1 tiết)",
    "periodFrom": 136,
@@ -2333,13 +2333,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2349,7 +2343,7 @@
    "theme": "Chủ điểm 5: Vẻ đẹp cuộc sống",
    "title": "Bài 4 (4 tiết)\nĐọc: Hộp quà màu thiên thanh",
    "content": "",
-   "periodLabel": "Tiết 137+138 (2 tiết)",
+   "periodLabel": "Tiết 137–138 (2 tiết)",
    "periodFrom": 137,
    "periodTo": 138,
    "periods": 2,
@@ -2363,7 +2357,7 @@
    "semester": 2,
    "week": 20,
    "theme": "Chủ điểm 5: Vẻ đẹp cuộc sống",
-   "title": "Viết: Lập dàn ý cho bài văn tả người",
+   "title": "Bài 4 (4 tiết)\nViết: Lập dàn ý cho bài văn tả người",
    "content": "",
    "periodLabel": "Tiết 139 (1 tiết)",
    "periodFrom": 139,
@@ -2385,7 +2379,7 @@
    "semester": 2,
    "week": 20,
    "theme": "Chủ điểm 5: Vẻ đẹp cuộc sống",
-   "title": "Nói và nghe: Nét đẹp học đường",
+   "title": "Bài 4 (4 tiết)\nNói và nghe: Nét đẹp học đường",
    "content": "",
    "periodLabel": "Tiết 140 (1 tiết)",
    "periodFrom": 140,
@@ -2428,7 +2422,7 @@
    "semester": 2,
    "week": 21,
    "theme": "Chủ điểm 5: Vẻ đẹp cuộc sống",
-   "title": "Luyện từ và câu: Cách nối các vế câu ghép (Tiếp theo)",
+   "title": "Bài 5 (3 tiết)\nLuyện từ và câu: Cách nối các vế câu ghép (Tiếp theo)",
    "content": "",
    "periodLabel": "Tiết 142 (1 tiết)",
    "periodFrom": 142,
@@ -2444,7 +2438,7 @@
    "semester": 2,
    "week": 21,
    "theme": "Chủ điểm 5: Vẻ đẹp cuộc sống",
-   "title": "Viết: Viết đoạn văn tả người",
+   "title": "Bài 5 (3 tiết)\nViết: Viết đoạn văn tả người",
    "content": "",
    "periodLabel": "Tiết 143 (1 tiết)",
    "periodFrom": 143,
@@ -2452,13 +2446,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2468,7 +2456,7 @@
    "theme": "Chủ điểm 5: Vẻ đẹp cuộc sống",
    "title": "Bài 6 (4 tiết)\nĐọc: Thư của bố",
    "content": "",
-   "periodLabel": "Tiết 144+145 (2 tiết)",
+   "periodLabel": "Tiết 144–145 (2 tiết)",
    "periodFrom": 144,
    "periodTo": 145,
    "periods": 2,
@@ -2482,7 +2470,7 @@
    "semester": 2,
    "week": 21,
    "theme": "Chủ điểm 5: Vẻ đẹp cuộc sống",
-   "title": "Viết: Viết bài văn tả người (Bài viết số 1)",
+   "title": "Bài 6 (4 tiết)\nViết: Viết bài văn tả người (Bài viết số 1)",
    "content": "",
    "periodLabel": "Tiết 146 (1 tiết)",
    "periodFrom": 146,
@@ -2500,11 +2488,6 @@
      "code": "AI-NB",
      "level": "",
      "text": "Nhận biết công cụ gợi ý/kiểm tra chính tả có AI; học sinh tự viết, không để AI viết thay."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -2514,7 +2497,7 @@
    "semester": 2,
    "week": 21,
    "theme": "Chủ điểm 5: Vẻ đẹp cuộc sống",
-   "title": "Đọc mở rộng: Đọc mở rộng",
+   "title": "Bài 6 (4 tiết)\nĐọc mở rộng: Đọc mở rộng",
    "content": "",
    "periodLabel": "Tiết 147 (1 tiết)",
    "periodFrom": 147,
@@ -2527,11 +2510,6 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Đọc mở rộng chủ đề vẻ đẹp cuộc sống; chọn thông tin/tác phẩm phù hợp."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -2557,7 +2535,7 @@
    "semester": 2,
    "week": 22,
    "theme": "Chủ điểm 5: Vẻ đẹp cuộc sống",
-   "title": "Luyện từ và câu: Luyện tập về câu ghép",
+   "title": "Bài 7 (3 tiết)\nLuyện từ và câu: Luyện tập về câu ghép",
    "content": "",
    "periodLabel": "Tiết 149 (1 tiết)",
    "periodFrom": 149,
@@ -2573,7 +2551,7 @@
    "semester": 2,
    "week": 22,
    "theme": "Chủ điểm 5: Vẻ đẹp cuộc sống",
-   "title": "Viết: Đánh giá, chỉnh sửa bài văn tả người",
+   "title": "Bài 7 (3 tiết)\nViết: Đánh giá, chỉnh sửa bài văn tả người",
    "content": "",
    "periodLabel": "Tiết 150 (1 tiết)",
    "periodFrom": 150,
@@ -2597,7 +2575,7 @@
    "theme": "Chủ điểm 5: Vẻ đẹp cuộc sống",
    "title": "Bài 8 (4 tiết)\nĐọc: Khu rừng của Mát",
    "content": "",
-   "periodLabel": "Tiết 151+152 (2 tiết)",
+   "periodLabel": "Tiết 151–152 (2 tiết)",
    "periodFrom": 151,
    "periodTo": 152,
    "periods": 2,
@@ -2611,7 +2589,7 @@
    "semester": 2,
    "week": 22,
    "theme": "Chủ điểm 5: Vẻ đẹp cuộc sống",
-   "title": "Viết: Viết bài văn tả người (Bài viết số 2)",
+   "title": "Bài 8 (4 tiết)\nViết: Viết bài văn tả người (Bài viết số 2)",
    "content": "",
    "periodLabel": "Tiết 153 (1 tiết)",
    "periodFrom": 153,
@@ -2619,13 +2597,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2633,7 +2605,7 @@
    "semester": 2,
    "week": 22,
    "theme": "Chủ điểm 5: Vẻ đẹp cuộc sống",
-   "title": "Nói và nghe: Những ý kiến khác biệt",
+   "title": "Bài 8 (4 tiết)\nNói và nghe: Những ý kiến khác biệt",
    "content": "",
    "periodLabel": "Tiết 154 (1 tiết)",
    "periodFrom": 154,
@@ -2660,7 +2632,7 @@
    "semester": 2,
    "week": 23,
    "theme": "Chủ điểm 6: Hương sắc trăm miền",
-   "title": "Bài 9 (3 tiết) Đọc: Hội thổi cơm thi ở Đồng Vân",
+   "title": "Bài 9 (3 tiết)\nĐọc: Hội thổi cơm thi ở Đồng Vân",
    "content": "",
    "periodLabel": "Tiết 155 (1 tiết)",
    "periodFrom": 155,
@@ -2682,7 +2654,7 @@
    "semester": 2,
    "week": 23,
    "theme": "Chủ điểm 6: Hương sắc trăm miền",
-   "title": "Luyện từ và câu: Liên kết câu bằng cách lặp từ ngữ",
+   "title": "Bài 9 (3 tiết)\nLuyện từ và câu: Liên kết câu bằng cách lặp từ ngữ",
    "content": "",
    "periodLabel": "Tiết 156 (1 tiết)",
    "periodFrom": 156,
@@ -2698,7 +2670,7 @@
    "semester": 2,
    "week": 23,
    "theme": "Chủ điểm 6: Hương sắc trăm miền",
-   "title": "Viết: Tìm hiểu cách viết đoạn văn thể hiện tình cảm, cảm xúc về một sự việc",
+   "title": "Bài 9 (3 tiết)\nViết: Tìm hiểu cách viết đoạn văn thể hiện tình cảm, cảm xúc về một sự việc",
    "content": "",
    "periodLabel": "Tiết 157 (1 tiết)",
    "periodFrom": 157,
@@ -2706,13 +2678,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2722,7 +2688,7 @@
    "theme": "Chủ điểm 6: Hương sắc trăm miền",
    "title": "Bài 10 (4 tiết)\nĐọc: Những búp chè trên cây cổ thụ",
    "content": "",
-   "periodLabel": "Tiết 158+159 (2 tiết)",
+   "periodLabel": "Tiết 158–159 (2 tiết)",
    "periodFrom": 158,
    "periodTo": 159,
    "periods": 2,
@@ -2736,7 +2702,7 @@
    "semester": 2,
    "week": 23,
    "theme": "Chủ điểm 6: Hương sắc trăm miền",
-   "title": "Viết: Tìm ý cho đoạn văn thể hiện tình cảm, cảm xúc về một sự việc",
+   "title": "Bài 10 (4 tiết)\nViết: Tìm ý cho đoạn văn thể hiện tình cảm, cảm xúc về một sự việc",
    "content": "",
    "periodLabel": "Tiết 160 (1 tiết)",
    "periodFrom": 160,
@@ -2758,7 +2724,7 @@
    "semester": 2,
    "week": 23,
    "theme": "Chủ điểm 6: Hương sắc trăm miền",
-   "title": "Đọc mở rộng: Đọc mở rộng",
+   "title": "Bài 10 (4 tiết)\nĐọc mở rộng: Đọc mở rộng",
    "content": "",
    "periodLabel": "Tiết 161 (1 tiết)",
    "periodFrom": 161,
@@ -2773,23 +2739,12 @@
      "text": "Đọc mở rộng chủ đề hương sắc trăm miền; ghi nguồn tư liệu địa phương."
     },
     {
-     "code": "GDĐP",
-     "level": "",
-     "text": "Đọc mở rộng chủ đề hương sắc trăm miền; ghi nguồn tư liệu địa phương."
-    },
-    {
      "code": "NLS-AT",
      "level": "",
      "text": "Đọc mở rộng chủ đề hương sắc trăm miền; ghi nguồn tư liệu địa phương."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
-   "note": "",
-   "gddpBoSung": true
+   "note": ""
   },
   {
    "id": "l5-tieng-viet-139",
@@ -2812,7 +2767,7 @@
    "semester": 2,
    "week": 24,
    "theme": "Chủ điểm 6: Hương sắc trăm miền",
-   "title": "Luyện từ và câu: Liên kết câu bằng từ ngữ nối",
+   "title": "Bài 11 (3 tiết)\nLuyện từ và câu: Liên kết câu bằng từ ngữ nối",
    "content": "",
    "periodLabel": "Tiết 163 (1 tiết)",
    "periodFrom": 163,
@@ -2828,7 +2783,7 @@
    "semester": 2,
    "week": 24,
    "theme": "Chủ điểm 6: Hương sắc trăm miền",
-   "title": "Viết: Viết đoạn văn thể hiện tình cảm, cảm xúc về một sự việc",
+   "title": "Bài 11 (3 tiết)\nViết: Viết đoạn văn thể hiện tình cảm, cảm xúc về một sự việc",
    "content": "",
    "periodLabel": "Tiết 164 (1 tiết)",
    "periodFrom": 164,
@@ -2836,13 +2791,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2852,7 +2801,7 @@
    "theme": "Chủ điểm 6: Hương sắc trăm miền",
    "title": "Bài 12 (4 tiết)\nĐọc: Vũ điệu trên nền thổ cẩm",
    "content": "",
-   "periodLabel": "Tiết 165+166 (2 tiết)",
+   "periodLabel": "Tiết 165–166 (2 tiết)",
    "periodFrom": 165,
    "periodTo": 166,
    "periods": 2,
@@ -2866,7 +2815,7 @@
    "semester": 2,
    "week": 24,
    "theme": "Chủ điểm 6: Hương sắc trăm miền",
-   "title": "Viết: Đánh giá, chỉnh sửa đoạn văn thể hiện tình cảm, cảm xúc về một sự việc",
+   "title": "Bài 12 (4 tiết)\nViết: Đánh giá, chỉnh sửa đoạn văn thể hiện tình cảm, cảm xúc về một sự việc",
    "content": "",
    "periodLabel": "Tiết 167 (1 tiết)",
    "periodFrom": 167,
@@ -2882,7 +2831,7 @@
    "semester": 2,
    "week": 24,
    "theme": "Chủ điểm 6: Hương sắc trăm miền",
-   "title": "Nói và nghe: Địa điểm tham quan, du lịch",
+   "title": "Bài 12 (4 tiết)\nNói và nghe: Địa điểm tham quan, du lịch",
    "content": "",
    "periodLabel": "Tiết 168 (1 tiết)",
    "periodFrom": 168,
@@ -2925,7 +2874,7 @@
    "semester": 2,
    "week": 25,
    "theme": "Chủ điểm 6: Hương sắc trăm miền",
-   "title": "Luyện từ và câu: Liên kết câu bằng từ ngữ thay thế",
+   "title": "Bài 13 (3 tiết)\nLuyện từ và câu: Liên kết câu bằng từ ngữ thay thế",
    "content": "",
    "periodLabel": "Tiết 170 (1 tiết)",
    "periodFrom": 170,
@@ -2941,7 +2890,7 @@
    "semester": 2,
    "week": 25,
    "theme": "Chủ điểm 6: Hương sắc trăm miền",
-   "title": "Viết: Tìm hiểu cách viết chương trình hoạt động",
+   "title": "Bài 13 (3 tiết)\nViết: Tìm hiểu cách viết chương trình hoạt động",
    "content": "",
    "periodLabel": "Tiết 171 (1 tiết)",
    "periodFrom": 171,
@@ -2965,7 +2914,7 @@
    "theme": "Chủ điểm 6: Hương sắc trăm miền",
    "title": "Bài 14 (4 tiết)\nĐọc: Đường quê Đồng Tháp Mười",
    "content": "",
-   "periodLabel": "Tiết 172+173 (2 tiết)",
+   "periodLabel": "Tiết 172–173 (2 tiết)",
    "periodFrom": 172,
    "periodTo": 173,
    "periods": 2,
@@ -2979,7 +2928,7 @@
    "semester": 2,
    "week": 25,
    "theme": "Chủ điểm 6: Hương sắc trăm miền",
-   "title": "Viết: Viết chương trình hoạt động (Bài viết số 1)",
+   "title": "Bài 14 (4 tiết)\nViết: Viết chương trình hoạt động (Bài viết số 1)",
    "content": "",
    "periodLabel": "Tiết 174 (1 tiết)",
    "periodFrom": 174,
@@ -3001,7 +2950,7 @@
    "semester": 2,
    "week": 25,
    "theme": "Chủ điểm 6: Hương sắc trăm miền",
-   "title": "Đọc mở rộng: Đọc mở rộng",
+   "title": "Bài 14 (4 tiết)\nĐọc mở rộng: Đọc mở rộng",
    "content": "",
    "periodLabel": "Tiết 175 (1 tiết)",
    "periodFrom": 175,
@@ -3019,11 +2968,6 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Đọc mở rộng; chọn nguồn đọc phù hợp, ghi nhận xét của cá nhân."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -3049,7 +2993,7 @@
    "semester": 2,
    "week": 26,
    "theme": "Chủ điểm 6: Hương sắc trăm miền",
-   "title": "Luyện từ và câu: Luyện tập về liên kết câu trong đoạn văn viết",
+   "title": "Bài 15 (3 tiết)\nLuyện từ và câu: Luyện tập về liên kết câu trong đoạn văn viết",
    "content": "",
    "periodLabel": "Tiết 177 (1 tiết)",
    "periodFrom": 177,
@@ -3065,7 +3009,7 @@
    "semester": 2,
    "week": 26,
    "theme": "Chủ điểm 6: Hương sắc trăm miền",
-   "title": "Viết: Đánh giá, chỉnh sửa chương trình hoạt động",
+   "title": "Bài 15 (3 tiết)\nViết: Đánh giá, chỉnh sửa chương trình hoạt động",
    "content": "",
    "periodLabel": "Tiết 178 (1 tiết)",
    "periodFrom": 178,
@@ -3094,7 +3038,7 @@
    "theme": "Chủ điểm 6: Hương sắc trăm miền",
    "title": "Bài 16 (4 tiết)\nĐọc: Về thăm Đất Mũi",
    "content": "",
-   "periodLabel": "Tiết 179+180 (2 tiết)",
+   "periodLabel": "Tiết 179–180 (2 tiết)",
    "periodFrom": 179,
    "periodTo": 180,
    "periods": 2,
@@ -3108,7 +3052,7 @@
    "semester": 2,
    "week": 26,
    "theme": "Chủ điểm 6: Hương sắc trăm miền",
-   "title": "Viết: Viết chương trình hoạt động (Bài viết số 2)",
+   "title": "Bài 16 (4 tiết)\nViết: Viết chương trình hoạt động (Bài viết số 2)",
    "content": "",
    "periodLabel": "Tiết 181 (1 tiết)",
    "periodFrom": 181,
@@ -3130,7 +3074,7 @@
    "semester": 2,
    "week": 26,
    "theme": "Chủ điểm 6: Hương sắc trăm miền",
-   "title": "Nói và nghe: Sản vật địa phương",
+   "title": "Bài 16 (4 tiết)\nNói và nghe: Sản vật địa phương",
    "content": "",
    "periodLabel": "Tiết 182 (1 tiết)",
    "periodFrom": 182,
@@ -3143,15 +3087,9 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Khai thác tư liệu về sản vật địa phương; khuyến khích liên hệ thực tế địa phương."
-    },
-    {
-     "code": "GDĐP",
-     "level": "",
-     "text": "Khai thác tư liệu về sản vật địa phương; khuyến khích liên hệ thực tế địa phương."
     }
    ],
-   "note": "",
-   "gddpBoSung": true
+   "note": ""
   },
   {
    "id": "l5-tieng-viet-157",
@@ -3208,7 +3146,7 @@
    "theme": "Ôn tập và đánh giá giữa HKII.",
    "title": "Ôn tập: Ôn tập và đánh giá giữa HKII (Tiết 4+5)",
    "content": "",
-   "periodLabel": "Tiết 186+187 (2 tiết)",
+   "periodLabel": "Tiết 186–187 (2 tiết)",
    "periodFrom": 186,
    "periodTo": 187,
    "periods": 2,
@@ -3222,7 +3160,7 @@
    "semester": 2,
    "week": 27,
    "theme": "Ôn tập và đánh giá giữa HKII.",
-   "title": "Ôn tập: Kiểm tra Đọc (Tiết 6)",
+   "title": "Ôn tập: Kiểm tra Đọc (tiết 6)",
    "content": "",
    "periodLabel": "Tiết 188 (1 tiết)",
    "periodFrom": 188,
@@ -3238,7 +3176,7 @@
    "semester": 2,
    "week": 27,
    "theme": "Ôn tập và đánh giá giữa HKII.",
-   "title": "Ôn tập: Kiểm tra Đọc hiểu – viết (Tiết 7)",
+   "title": "Ôn tập: Kiểm tra Đọc hiểu – viết (tiết 7)",
    "content": "",
    "periodLabel": "Tiết 189 (1 tiết)",
    "periodFrom": 189,
@@ -3276,7 +3214,7 @@
    "semester": 2,
    "week": 28,
    "theme": "Chủ điểm 7: Tiếp bước cha ông",
-   "title": "Luyện từ và câu: Luyện tập về đại từ và kết từ",
+   "title": "Bài 17 (3 tiết)\nLuyện từ và câu: Luyện tập về đại từ và kết từ",
    "content": "",
    "periodLabel": "Tiết 191 (1 tiết)",
    "periodFrom": 191,
@@ -3292,7 +3230,7 @@
    "semester": 2,
    "week": 28,
    "theme": "Chủ điểm 7: Tiếp bước cha ông",
-   "title": "Viết: Tìm hiểu cách viết đoạn văn nêu ý kiến tán thành một sự việc, hiện tượng",
+   "title": "Bài 17 (3 tiết)\nViết: Tìm hiểu cách viết đoạn văn nêu ý kiến tán thành một sự việc, hiện tượng",
    "content": "",
    "periodLabel": "Tiết 192 (1 tiết)",
    "periodFrom": 192,
@@ -3300,13 +3238,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3316,7 +3248,7 @@
    "theme": "Chủ điểm 7: Tiếp bước cha ông",
    "title": "Bài 18 (4 tiết)\nĐọc: Người thầy của muôn đời",
    "content": "",
-   "periodLabel": "Tiết 193+194 (2 tiết)",
+   "periodLabel": "Tiết 193–194 (2 tiết)",
    "periodFrom": 193,
    "periodTo": 194,
    "periods": 2,
@@ -3330,7 +3262,7 @@
    "semester": 2,
    "week": 28,
    "theme": "Chủ điểm 7: Tiếp bước cha ông",
-   "title": "Viết: Tìm ý cho đoạn văn nêu ý kiến tán thành một sự việc, hiện tượng",
+   "title": "Bài 18 (4 tiết)\nViết: Tìm ý cho đoạn văn nêu ý kiến tán thành một sự việc, hiện tượng",
    "content": "",
    "periodLabel": "Tiết 195 (1 tiết)",
    "periodFrom": 195,
@@ -3346,7 +3278,7 @@
    "semester": 2,
    "week": 28,
    "theme": "Chủ điểm 7: Tiếp bước cha ông",
-   "title": "Đọc mở rộng: Đọc mở rộng",
+   "title": "Bài 18 (4 tiết)\nĐọc mở rộng: Đọc mở rộng",
    "content": "",
    "periodLabel": "Tiết 196 (1 tiết)",
    "periodFrom": 196,
@@ -3364,11 +3296,6 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Đọc mở rộng; ghi nguồn, tránh sao chép cảm nhận mẫu."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -3377,7 +3304,7 @@
    "id": "l5-tieng-viet-169",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ điểm 7: Tiếp bước cha ông",
+   "theme": "",
    "title": "Bài 19 (3 tiết)\nĐọc: Danh y Tuệ Tĩnh",
    "content": "",
    "periodLabel": "Tiết 197 (1 tiết)",
@@ -3399,8 +3326,8 @@
    "id": "l5-tieng-viet-170",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ điểm 7: Tiếp bước cha ông",
-   "title": "Luyện từ và câu: Luyện tập về từ đồng nghĩa và từ đa nghĩa",
+   "theme": "",
+   "title": "Bài 19 (3 tiết)\nLuyện từ và câu: Luyện tập về từ đồng nghĩa và từ đa nghĩa",
    "content": "",
    "periodLabel": "Tiết 198 (1 tiết)",
    "periodFrom": 198,
@@ -3415,8 +3342,8 @@
    "id": "l5-tieng-viet-171",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ điểm 7: Tiếp bước cha ông",
-   "title": "Viết: Viết đoạn văn nêu ý kiến tán thành một sự việc, hiện tượng (Bài viết số 1)",
+   "theme": "",
+   "title": "Bài 19 (3 tiết)\nViết: Viết đoạn văn nêu ý kiến tán thành một sự việc, hiện tượng (Bài viết số 1)",
    "content": "",
    "periodLabel": "Tiết 199 (1 tiết)",
    "periodFrom": 199,
@@ -3437,10 +3364,10 @@
    "id": "l5-tieng-viet-172",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ điểm 7: Tiếp bước cha ông",
+   "theme": "",
    "title": "Bài 20 (4 tiết)\nĐọc: Cụ Đồ Chiểu",
    "content": "",
-   "periodLabel": "Tiết 200+201 (2 tiết)",
+   "periodLabel": "Tiết 200–201 (2 tiết)",
    "periodFrom": 200,
    "periodTo": 201,
    "periods": 2,
@@ -3459,8 +3386,8 @@
    "id": "l5-tieng-viet-173",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ điểm 7: Tiếp bước cha ông",
-   "title": "Viết: Đánh giá, chỉnh sửa đoạn văn nêu ý kiến tán thành một sự việc, hiện tượng",
+   "theme": "",
+   "title": "Bài 20 (4 tiết)\nViết: Đánh giá, chỉnh sửa đoạn văn nêu ý kiến tán thành một sự việc, hiện tượng",
    "content": "",
    "periodLabel": "Tiết 202 (1 tiết)",
    "periodFrom": 202,
@@ -3475,8 +3402,8 @@
    "id": "l5-tieng-viet-174",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ điểm 7: Tiếp bước cha ông",
-   "title": "Nói và nghe: Đền ơn đáp nghĩa",
+   "theme": "",
+   "title": "Bài 20 (4 tiết)\nNói và nghe: Đền ơn đáp nghĩa",
    "content": "",
    "periodLabel": "Tiết 203 (1 tiết)",
    "periodFrom": 203,
@@ -3489,11 +3416,6 @@
      "code": "NLS-GT",
      "level": "",
      "text": "Nói và nghe về đền ơn đáp nghĩa; có thể chuẩn bị thông điệp/thiệp tri ân số đơn giản."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
     }
    ],
    "note": ""
@@ -3502,7 +3424,7 @@
    "id": "l5-tieng-viet-175",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ điểm 7: Tiếp bước cha ông",
+   "theme": "",
    "title": "Bài 21 (3 tiết)\nĐọc: Anh hùng Lao động Trần Đại Nghĩa",
    "content": "",
    "periodLabel": "Tiết 204 (1 tiết)",
@@ -3516,11 +3438,6 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Tìm hiểu về Anh hùng Lao động Trần Đại Nghĩa qua tư liệu số có hướng dẫn; ghi nguồn."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Kể về tấm gương anh hùng, liệt sĩ; giáo dục lòng biết ơn người có công với cách mạng và niềm tự hào về truyền thống dân tộc."
     }
    ],
    "note": ""
@@ -3529,8 +3446,8 @@
    "id": "l5-tieng-viet-176",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ điểm 7: Tiếp bước cha ông",
-   "title": "Luyện từ và câu: Luyện tập về câu ghép",
+   "theme": "",
+   "title": "Bài 21 (3 tiết)\nLuyện từ và câu: Luyện tập về câu ghép",
    "content": "",
    "periodLabel": "Tiết 205 (1 tiết)",
    "periodFrom": 205,
@@ -3545,8 +3462,8 @@
    "id": "l5-tieng-viet-177",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ điểm 7: Tiếp bước cha ông",
-   "title": "Viết: Viết đoạn văn nêu ý kiến tán thành một sự việc, hiện tượng (Bài viết số 2)",
+   "theme": "",
+   "title": "Bài 21 (3 tiết)\nViết: Viết đoạn văn nêu ý kiến tán thành một sự việc, hiện tượng (Bài viết số 2)",
    "content": "",
    "periodLabel": "Tiết 206 (1 tiết)",
    "periodFrom": 206,
@@ -3554,43 +3471,31 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-tieng-viet-178",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ điểm 7: Tiếp bước cha ông",
+   "theme": "",
    "title": "Bài 22 (4 tiết)\nĐọc: Bộ đội về làng",
    "content": "",
-   "periodLabel": "Tiết 207+208 (2 tiết)",
+   "periodLabel": "Tiết 207–208 (2 tiết)",
    "periodFrom": 207,
    "periodTo": 208,
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ; HS nói lời cảm ơn các chú bộ đội, chú công an."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-tieng-viet-179",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ điểm 7: Tiếp bước cha ông",
-   "title": "Viết: Luyện viết đoạn văn thể hiện tình cảm, cảm xúc về một sự việc",
+   "theme": "",
+   "title": "Bài 22 (4 tiết)\nViết: Luyện viết đoạn văn thể hiện tình cảm, cảm xúc về một sự việc",
    "content": "",
    "periodLabel": "Tiết 209 (1 tiết)",
    "periodFrom": 209,
@@ -3598,21 +3503,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-tieng-viet-180",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ điểm 7: Tiếp bước cha ông",
-   "title": "Đọc mở rộng: Đọc mở rộng",
+   "theme": "",
+   "title": "Bài 22 (4 tiết)\nĐọc mở rộng: Đọc mở rộng",
    "content": "",
    "periodLabel": "Tiết 210 (1 tiết)",
    "periodFrom": 210,
@@ -3638,7 +3537,7 @@
    "id": "l5-tieng-viet-181",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ điểm 7: Tiếp bước cha ông",
+   "theme": "",
    "title": "Bài 23 (3 tiết)\nĐọc: Về ngôi nhà đang xây",
    "content": "",
    "periodLabel": "Tiết 211 (1 tiết)",
@@ -3654,8 +3553,8 @@
    "id": "l5-tieng-viet-182",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ điểm 7: Tiếp bước cha ông",
-   "title": "Luyện từ và câu: Viết hoa danh từ chung để thể hiện sự tôn trọng đặc biệt",
+   "theme": "",
+   "title": "Bài 23 (3 tiết)\nLuyện từ và câu: Viết hoa danh từ chung để thể hiện sự tôn trọng đặc biệt",
    "content": "",
    "periodLabel": "Tiết 212 (1 tiết)",
    "periodFrom": 212,
@@ -3670,8 +3569,8 @@
    "id": "l5-tieng-viet-183",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ điểm 7: Tiếp bước cha ông",
-   "title": "Viết: Luyện tập lập dàn ý cho bài văn tả phong cảnh",
+   "theme": "",
+   "title": "Bài 23 (3 tiết)\nViết: Luyện tập lập dàn ý cho bài văn tả phong cảnh",
    "content": "",
    "periodLabel": "Tiết 213 (1 tiết)",
    "periodFrom": 213,
@@ -3686,30 +3585,24 @@
    "id": "l5-tieng-viet-184",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ điểm 7: Tiếp bước cha ông",
+   "theme": "",
    "title": "Bài 24 (4 tiết)\nĐọc: Việt Nam quê hương ta",
    "content": "",
-   "periodLabel": "Tiết 214+215 (2 tiết)",
+   "periodLabel": "Tiết 214–215 (2 tiết)",
    "periodFrom": 214,
    "periodTo": 215,
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-tieng-viet-185",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ điểm 7: Tiếp bước cha ông",
-   "title": "Viết: Luyện viết bài văn tả phong cảnh",
+   "theme": "",
+   "title": "Bài 24 (4 tiết)\nViết: Luyện viết bài văn tả phong cảnh",
    "content": "",
    "periodLabel": "Tiết 216 (1 tiết)",
    "periodFrom": 216,
@@ -3717,21 +3610,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-tieng-viet-186",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ điểm 7: Tiếp bước cha ông",
-   "title": "Nói và nghe: Di tích lịch sử",
+   "theme": "",
+   "title": "Bài 24 (4 tiết)\nNói và nghe: Di tích lịch sử",
    "content": "",
    "periodLabel": "Tiết 217 (1 tiết)",
    "periodFrom": 217,
@@ -3749,11 +3636,6 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Sử dụng bản đồ số/tranh ảnh để giới thiệu di tích; chú ý an toàn khi chia sẻ vị trí, hình ảnh."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Kể về tấm gương anh hùng, liệt sĩ; giáo dục lòng biết ơn người có công với cách mạng và niềm tự hào về truyền thống dân tộc."
     }
    ],
    "note": ""
@@ -3785,7 +3667,7 @@
    "semester": 2,
    "week": 32,
    "theme": "Chủ điểm 8: Thế giới của chúng mình",
-   "title": "Luyện từ và câu: Cách viết tên người và tên địa lí nước ngoài",
+   "title": "Bài 25 (3 tiết)\nLuyện từ và câu: Cách viết tên người và tên địa lí nước ngoài",
    "content": "",
    "periodLabel": "Tiết 219 (1 tiết)",
    "periodFrom": 219,
@@ -3801,7 +3683,7 @@
    "semester": 2,
    "week": 32,
    "theme": "Chủ điểm 8: Thế giới của chúng mình",
-   "title": "Viết: Luyện tập lập dàn ý cho bài văn tả người",
+   "title": "Bài 25 (3 tiết)\nViết: Luyện tập lập dàn ý cho bài văn tả người",
    "content": "",
    "periodLabel": "Tiết 220 (1 tiết)",
    "periodFrom": 220,
@@ -3825,7 +3707,7 @@
    "theme": "Chủ điểm 8: Thế giới của chúng mình",
    "title": "Bài 26 (4 tiết)\nĐọc: Những con hạc giấy",
    "content": "",
-   "periodLabel": "Tiết 221+222 (2 tiết)",
+   "periodLabel": "Tiết 221–222 (2 tiết)",
    "periodFrom": 221,
    "periodTo": 222,
    "periods": 2,
@@ -3839,7 +3721,7 @@
    "semester": 2,
    "week": 32,
    "theme": "Chủ điểm 8: Thế giới của chúng mình",
-   "title": "Viết: Luyện viết bài văn tả người",
+   "title": "Bài 26 (4 tiết)\nViết: Luyện viết bài văn tả người",
    "content": "",
    "periodLabel": "Tiết 223 (1 tiết)",
    "periodFrom": 223,
@@ -3847,13 +3729,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3861,7 +3737,7 @@
    "semester": 2,
    "week": 32,
    "theme": "Chủ điểm 8: Thế giới của chúng mình",
-   "title": "Đọc mở rộng: Đọc mở rộng",
+   "title": "Bài 26 (4 tiết)\nĐọc mở rộng: Đọc mở rộng",
    "content": "",
    "periodLabel": "Tiết 224 (1 tiết)",
    "periodFrom": 224,
@@ -3879,11 +3755,6 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Đọc mở rộng chủ đề thế giới; tôn trọng bản quyền và nguồn tư liệu."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -3909,7 +3780,7 @@
    "semester": 2,
    "week": 33,
    "theme": "Chủ điểm 8: Thế giới của chúng mình",
-   "title": "Luyện từ và câu: Luyện tập về dấu gạch ngang",
+   "title": "Bài 27 (3 tiết)\nLuyện từ và câu: Luyện tập về dấu gạch ngang",
    "content": "",
    "periodLabel": "Tiết 226 (1 tiết)",
    "periodFrom": 226,
@@ -3925,7 +3796,7 @@
    "semester": 2,
    "week": 33,
    "theme": "Chủ điểm 8: Thế giới của chúng mình",
-   "title": "Viết: Tìm hiểu cách viết đoạn văn nêu ý kiến phản đối một sự việc, hiện tượng",
+   "title": "Bài 27 (3 tiết)\nViết: Tìm hiểu cách viết đoạn văn nêu ý kiến phản đối một sự việc, hiện tượng",
    "content": "",
    "periodLabel": "Tiết 227 (1 tiết)",
    "periodFrom": 227,
@@ -3933,13 +3804,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3949,7 +3814,7 @@
    "theme": "Chủ điểm 8: Thế giới của chúng mình",
    "title": "Bài 28 (4 tiết)\nĐọc: Giờ Trái Đất",
    "content": "",
-   "periodLabel": "Tiết 228+229 (2 tiết)",
+   "periodLabel": "Tiết 228–229 (2 tiết)",
    "periodFrom": 228,
    "periodTo": 229,
    "periods": 2,
@@ -3974,7 +3839,7 @@
    "semester": 2,
    "week": 33,
    "theme": "Chủ điểm 8: Thế giới của chúng mình",
-   "title": "Viết: Tìm ý cho đoạn văn nêu ý kiến phản đối một sự việc, hiện tượng",
+   "title": "Bài 28 (4 tiết)\nViết: Tìm ý cho đoạn văn nêu ý kiến phản đối một sự việc, hiện tượng",
    "content": "",
    "periodLabel": "Tiết 230 (1 tiết)",
    "periodFrom": 230,
@@ -3996,7 +3861,7 @@
    "semester": 2,
    "week": 33,
    "theme": "Chủ điểm 8: Thế giới của chúng mình",
-   "title": "Nói và nghe: Trải nghiệm ngày hè",
+   "title": "Bài 28 (4 tiết)\nNói và nghe: Trải nghiệm ngày hè",
    "content": "",
    "periodLabel": "Tiết 231 (1 tiết)",
    "periodFrom": 231,
@@ -4050,7 +3915,7 @@
    "semester": 2,
    "week": 34,
    "theme": "Chủ điểm 8: Thế giới của chúng mình",
-   "title": "Luyện từ và câu: Luyện tập về liên kết câu trong đoạn văn",
+   "title": "Bài 29 (3 tiết)\nLuyện từ và câu: Luyện tập về liên kết câu trong đoạn văn",
    "content": "",
    "periodLabel": "Tiết 233 (1 tiết)",
    "periodFrom": 233,
@@ -4066,7 +3931,7 @@
    "semester": 2,
    "week": 34,
    "theme": "Chủ điểm 8: Thế giới của chúng mình",
-   "title": "Viết: Viết đoạn văn nêu ý kiến phản đối một sự việc, hiện tượng",
+   "title": "Bài 29 (3 tiết)\nViết: Viết đoạn văn nêu ý kiến phản đối một sự việc, hiện tượng",
    "content": "",
    "periodLabel": "Tiết 234 (1 tiết)",
    "periodFrom": 234,
@@ -4079,11 +3944,6 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Viết ý kiến phản đối hiện tượng lạm dụng thiết bị số; lập luận văn minh, có dẫn chứng phù hợp."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -4095,7 +3955,7 @@
    "theme": "Chủ điểm 8: Thế giới của chúng mình",
    "title": "Bài 30 (4 tiết)\nĐọc: Thành phố thông minh Mát-xđa",
    "content": "",
-   "periodLabel": "Tiết 235+236 (2 tiết)",
+   "periodLabel": "Tiết 235–236 (2 tiết)",
    "periodFrom": 235,
    "periodTo": 236,
    "periods": 2,
@@ -4120,7 +3980,7 @@
    "semester": 2,
    "week": 34,
    "theme": "Chủ điểm 8: Thế giới của chúng mình",
-   "title": "Viết: Đánh giá, chỉnh sửa đoạn văn nêu ý kiến phản đối một sự việc, hiện tượng",
+   "title": "Bài 30 (4 tiết)\nViết: Đánh giá, chỉnh sửa đoạn văn nêu ý kiến phản đối một sự việc, hiện tượng",
    "content": "",
    "periodLabel": "Tiết 237 (1 tiết)",
    "periodFrom": 237,
@@ -4147,7 +4007,7 @@
    "semester": 2,
    "week": 34,
    "theme": "Chủ điểm 8: Thế giới của chúng mình",
-   "title": "Đọc mở rộng: Đọc mở rộng",
+   "title": "Bài 30 (4 tiết)\nĐọc mở rộng: Đọc mở rộng",
    "content": "",
    "periodLabel": "Tiết 238 (1 tiết)",
    "periodFrom": 238,
@@ -4165,11 +4025,6 @@
      "code": "AI-NB",
      "level": "",
      "text": "Đọc mở rộng về thành phố thông minh/công nghệ trong đời sống; ghi nguồn, trao đổi về sử dụng AI có trách nhiệm."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -4229,7 +4084,7 @@
    "theme": "Ôn tập và đánh giá cuối HKII.",
    "title": "Ôn tập: Ôn tập và đánh giá cuối HKII (Tiết 4+5)",
    "content": "",
-   "periodLabel": "Tiết 242+243 (2 tiết)",
+   "periodLabel": "Tiết 242–243 (2 tiết)",
    "periodFrom": 242,
    "periodTo": 243,
    "periods": 2,
@@ -4243,7 +4098,7 @@
    "semester": 2,
    "week": 35,
    "theme": "Ôn tập và đánh giá cuối HKII.",
-   "title": "Ôn tập: Kiểm tra Đọc (Tiết 6)",
+   "title": "Ôn tập: Kiểm tra Đọc (tiết 6)",
    "content": "",
    "periodLabel": "Tiết 244 (1 tiết)",
    "periodFrom": 244,
@@ -4259,7 +4114,7 @@
    "semester": 2,
    "week": 35,
    "theme": "Ôn tập và đánh giá cuối HKII.",
-   "title": "Ôn tập: Kiểm tra Đọc hiểu – viết (Tiết 7)",
+   "title": "Ôn tập: Kiểm tra Đọc hiểu – viết (tiết 7)",
    "content": "",
    "periodLabel": "Tiết 245 (1 tiết)",
    "periodFrom": 245,
@@ -4543,8 +4398,8 @@
  "attachment": {
   "file": "assets/docs/lop5/Tieng Viet - Lop 5.docx",
   "name": "Tieng Viet - Lop 5.docx",
-  "original": "KHDH Tiếng Việt lớp 5 (2026-2027) (đã rà soát).docx",
-  "size": 27460,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 56313,
+  "updated": "2026-09-07"
  }
 }

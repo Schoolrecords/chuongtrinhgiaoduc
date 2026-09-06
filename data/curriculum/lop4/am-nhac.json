@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 45
+  "integrations": 27
  },
  "lessons": [
   {
@@ -28,9 +28,19 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu khuông nhạc, khoá Son, vị trí nốt Đô đến La, bấm từng nốt cho HS nghe cao độ; HS lên chỉ một nốt, đọc tên"
+    },
+    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "dùng đàn/ứng dụng nhạc để nghe đúng cao độ, sau đó tự luyện lại."
+     "text": "HS làm bài tập tương tác trên máy tính lớp: kéo nốt vào đúng dòng, khe; chọn tên nốt theo âm thanh; máy báo sai thì sửa"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ mở học liệu GV chuẩn bị; làm hết bài mới xem đáp án."
     }
    ],
    "note": ""
@@ -50,9 +60,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
+     "text": "GV mở bản thu mẫu “Chuông gió leng keng” trên máy tính lớp, hiện lời ca chia câu; HS nghe từng câu, hát nối tiếp"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Mỗi tổ dùng điện thoại GV thu âm phần hát vỗ tay theo phách, nghe lại qua loa, sửa chỗ vào chưa đều rồi thu lần hai"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bản thu lấy từ học liệu bộ sách; bản thu của tổ chỉ dùng trong giờ."
     }
    ],
    "note": ""
@@ -70,18 +90,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 2",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -102,11 +111,6 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -129,11 +133,6 @@
      "code": "NLS-AT",
      "level": "Cơ bản 2",
      "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Chọn bài hát ca ngợi quê hương, đất nước, hoà bình; liên hệ bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
     }
    ],
    "note": ""
@@ -151,18 +150,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 2",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Chọn bài hát ca ngợi quê hương, đất nước, hoà bình; liên hệ bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -183,11 +171,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 2",
      "text": "nghe/xem tư liệu âm nhạc trên máy; nói rõ tên bài, tên tác giả khi giới thiệu."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Chọn bài hát ca ngợi quê hương, đất nước, hoà bình; liên hệ bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
     }
    ],
    "note": ""
@@ -210,11 +193,6 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Chọn bài hát ca ngợi quê hương, đất nước, hoà bình; liên hệ bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
     }
    ],
    "note": ""
@@ -246,7 +224,7 @@
    "semester": 1,
    "week": 10,
    "theme": "Chủ đề 3: Thầy cô với chúng em",
-   "title": "Chủ đề 3: Thầy cô với chúng em — Học hát: Nếu em là... (Nhạc và lời: Trương Quang Lục)",
+   "title": "Chủ đề 3: Thầy cô với chúng em — Ôn đọc nhạc: Bài đọc nhạc số 2; Học hát: Nếu em là... (Nhạc và lời: Trương Quang Lục)",
    "content": "",
    "periodLabel": "Tiết 10 (1 tiết)",
    "periodFrom": 10,
@@ -276,13 +254,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 2",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -303,11 +275,6 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -347,13 +314,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 2",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -396,11 +357,6 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -434,13 +390,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -500,13 +450,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 2",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -527,11 +471,6 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -571,13 +510,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 2",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -620,11 +553,6 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -642,13 +570,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "dùng đàn/ứng dụng nhạc để nghe đúng cao độ, sau đó tự luyện lại."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -678,7 +600,7 @@
    "semester": 2,
    "week": 29,
    "theme": "Chủ đề 7: Âm nhạc nước ngoài",
-   "title": "Chủ đề 7: Âm nhạc nước ngoài — Thường thức âm nhạc: Giới thiệu kèn trumpet (trôm-pét); Nghe nhạc: Khúc nhạc mở đầu (Gio-a-chi-nô Rô-xi-ni)",
+   "title": "Chủ đề 7: Âm nhạc nước ngoài — Ôn tập bài hát: Miền quê em; Thường thức âm nhạc: Kèn trôm-pét (trumpet); Nghe nhạc: Khúc nhạc mở đầu (Gio-a-chi-nô Rô-xi-ni)",
    "content": "",
    "periodLabel": "Tiết 29 (1 tiết)",
    "periodFrom": 29,
@@ -713,11 +635,6 @@
      "code": "NLS-ST",
      "level": "Cơ bản 2",
      "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -757,13 +674,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 2",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -784,11 +695,6 @@
      "code": "NLS-KT",
      "level": "Cơ bản 2",
      "text": "nghe/xem tư liệu âm nhạc trên máy; nói rõ tên bài, tên tác giả khi giới thiệu."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -822,13 +728,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   }
  ],
@@ -1104,8 +1004,8 @@
  "attachment": {
   "file": "assets/docs/lop4/Am nhac - Lop 4.docx",
   "name": "Am nhac - Lop 4.docx",
-  "original": "KHDH Âm nhạc lớp 4 (2026-2027) (đã rà soát).docx",
-  "size": 11971,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 46118,
+  "updated": "2026-09-07"
  }
 }

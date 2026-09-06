@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 16
+  "integrations": 8
  },
  "lessons": [
   {
@@ -28,9 +28,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
+     "text": "GV chiếu ảnh hòn đá, cây chuối, con gà, đèn học, quạt điện; HS giơ thẻ Đ/S xếp vào nhóm tự nhiên hay sản phẩm công nghệ"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh chụp trong lớp, sân trường; HS tìm trong ảnh sản phẩm công nghệ, đối tượng tự nhiên rồi ra thực tế kiểm tra"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Sản phẩm cắm điện có thể gây điện giật; HS không cắm rút phích."
     }
    ],
    "note": ""
@@ -46,9 +56,25 @@
    "periodFrom": 2,
    "periodTo": 2,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu tranh hình 3, hình 4 về hành động của các bạn nhỏ với đồ dùng; HS chỉ hành động làm hỏng hay giữ gìn sản phẩm"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh quạt, điện thoại, nêu tình huống quạt bật không quay; HS làm ba bước: xem cắm điện chưa; báo người lớn; không tự tháo"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Sản phẩm cắm điện có thể gây điện giật; HS không cắm rút phích."
+    }
+   ],
    "note": ""
   },
   {
@@ -64,18 +90,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -89,7 +104,7 @@
    "periodFrom": 4,
    "periodTo": 4,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -107,13 +122,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -127,7 +136,7 @@
    "periodFrom": 6,
    "periodTo": 6,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -145,13 +154,7 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -165,7 +168,7 @@
    "periodFrom": 8,
    "periodTo": 8,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -181,7 +184,7 @@
    "periodFrom": 9,
    "periodTo": 9,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -197,7 +200,7 @@
    "periodFrom": 10,
    "periodTo": 10,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -215,18 +218,7 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -240,7 +232,7 @@
    "periodFrom": 12,
    "periodTo": 12,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -256,7 +248,7 @@
    "periodFrom": 13,
    "periodTo": 13,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
@@ -278,7 +270,7 @@
    "periodFrom": 14,
    "periodTo": 14,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -296,13 +288,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -316,7 +302,7 @@
    "periodFrom": 16,
    "periodTo": 16,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -365,9 +351,9 @@
    "periodTo": 19,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Điều chỉnh: hoàn thành Bài 6 (tiết 3–4) đầu học kì II để bố trí ôn tập, kiểm tra cuối HKI đúng tuần 17–18",
    "integrations": [],
-   "note": "Bài 6 hoàn thành đầu HKII do bố trí ôn tập, kiểm tra cuối học kì I trong tuần 17–18"
+   "note": ""
   },
   {
    "id": "l3-cong-nghe-020",
@@ -380,7 +366,7 @@
    "periodFrom": 20,
    "periodTo": 20,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -403,11 +389,6 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
     }
    ],
    "note": ""
@@ -423,7 +404,7 @@
    "periodFrom": 22,
    "periodTo": 22,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -441,18 +422,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -466,7 +436,7 @@
    "periodFrom": 24,
    "periodTo": 24,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -482,7 +452,7 @@
    "periodFrom": 25,
    "periodTo": 25,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -500,13 +470,7 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -520,7 +484,7 @@
    "periodFrom": 27,
    "periodTo": 27,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -536,7 +500,7 @@
    "periodFrom": 28,
    "periodTo": 28,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -552,7 +516,7 @@
    "periodFrom": 29,
    "periodTo": 29,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -570,18 +534,7 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "HS làm quen sử dụng an toàn thiết bị/đồ dùng công nghệ trong gia đình dưới sự hướng dẫn."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -595,7 +548,7 @@
    "periodFrom": 31,
    "periodTo": 31,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -611,7 +564,7 @@
    "periodFrom": 32,
    "periodTo": 32,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -627,7 +580,7 @@
    "periodFrom": 33,
    "periodTo": 33,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -937,8 +890,8 @@
  "attachment": {
   "file": "assets/docs/lop3/Cong nghe - Lop 3.docx",
   "name": "Cong nghe - Lop 3.docx",
-  "original": "KHDH Công nghệ lớp 3 (2026-2027) (đã rà soát).docx",
-  "size": 17452,
-  "updated": "2026-09-04"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 45197,
+  "updated": "2026-09-07"
  }
 }

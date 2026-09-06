@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 12
+  "integrations": 14
  },
  "lessons": [
   {
@@ -28,14 +28,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "dùng thiết bị số có giờ giấc, biết giữ gìn đồ dùng và tài sản chung."
+     "text": "GV chiếu video bài hát “Lớn lên em sẽ làm gì?” và hình ảnh người lao động trong bài “Biết ơn người lao động (Tiết 1)”: chị lao"
     },
     {
-     "code": "QPAN",
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "Trong trò chơi Giải đố về nghề nghiệp, GV chiếu câu đố và ba hình gợi ý lên tivi, đội chơi chọn hình nghề đúng"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "Giáo dục lòng biết ơn anh hùng, liệt sĩ, người có công với cách mạng; liên hệ bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
+     "text": "Chỉ xem video, hình ảnh GV đã chọn; ảnh HS chỉ chiếu trong lớp"
     }
    ],
    "note": ""
@@ -51,9 +56,25 @@
    "periodFrom": 2,
    "periodTo": 2,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu bốn bức tranh của trò chơi Ai nhanh, ai đúng trong bài “Biết ơn người lao động (Tiết 2)” lên tivi; HS quan sát"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2, QĐ 2422: 4.A2.2",
+     "text": "GV chiếu hình ảnh máy bay phun thuốc trên ruộng, máy hỗ trợ bác sĩ đọc phim"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ xem hình GV đã chuẩn bị; bài tìm hiểu ở nhà hỏi người thân"
+    }
+   ],
    "note": ""
   },
   {
@@ -67,7 +88,7 @@
    "periodFrom": 3,
    "periodTo": 3,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -83,7 +104,7 @@
    "periodFrom": 4,
    "periodTo": 4,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -106,11 +127,6 @@
      "code": "NLS-GT",
      "level": "Cơ bản 2",
      "text": "trẻ em có quyền được bảo vệ trên môi trường số; biết lên tiếng nhờ người lớn khi thấy bạn bị trêu chọc trên mạng."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giáo dục tinh thần đoàn kết, yêu hoà bình; liên hệ bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
     }
    ],
    "note": ""
@@ -126,7 +142,7 @@
    "periodFrom": 6,
    "periodTo": 6,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -142,7 +158,7 @@
    "periodFrom": 7,
    "periodTo": 7,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -158,7 +174,7 @@
    "periodFrom": 8,
    "periodTo": 8,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -197,11 +213,6 @@
      "code": "NLS-AT",
      "level": "Cơ bản 2",
      "text": "dùng thiết bị số có giờ giấc, biết giữ gìn đồ dùng và tài sản chung."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu và giữ gìn: dùng đồ dùng, tiền bạc hợp lí, giữ gìn của công."
     }
    ],
    "note": ""
@@ -217,7 +228,7 @@
    "periodFrom": 11,
    "periodTo": 11,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -233,7 +244,7 @@
    "periodFrom": 12,
    "periodTo": 12,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -249,7 +260,7 @@
    "periodFrom": 13,
    "periodTo": 13,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -269,9 +280,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
-     "level": "",
-     "text": "KN hợp tác và chia sẻ: biết cảm thông, giúp đỡ bạn và làm việc cùng nhau."
+     "code": "NLS-AT",
+     "level": "Cơ bản 2",
+     "text": "dùng thiết bị số có giờ giấc, biết giữ gìn đồ dùng và tài sản chung."
     }
    ],
    "note": ""
@@ -287,7 +298,7 @@
    "periodFrom": 15,
    "periodTo": 15,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -303,7 +314,7 @@
    "periodFrom": 16,
    "periodTo": 16,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -320,7 +331,7 @@
    "periodTo": 17,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Điều chỉnh: chuyển tiết thực hành cuối HKI lên tuần 17 để Bài 05 (3 tiết) học liền mạch tuần 18–20",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -337,13 +348,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu và giữ gìn: dùng đồ dùng, tiền bạc hợp lí, giữ gìn của công."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -357,9 +362,15 @@
    "periodFrom": 19,
    "periodTo": 19,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 2",
+     "text": "dùng thiết bị số có giờ giấc, biết giữ gìn đồ dùng và tài sản chung."
+    }
+   ],
    "note": ""
   },
   {
@@ -373,7 +384,7 @@
    "periodFrom": 20,
    "periodTo": 20,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -411,7 +422,7 @@
    "periodFrom": 22,
    "periodTo": 22,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -449,7 +460,7 @@
    "periodFrom": 24,
    "periodTo": 24,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -465,7 +476,7 @@
    "periodFrom": 25,
    "periodTo": 25,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -474,7 +485,7 @@
    "id": "l4-dao-duc-026",
    "semester": 2,
    "week": 26,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, thực hành kĩ năng",
    "title": "THỰC HÀNH KĨ NĂNG GIỮA HỌC KÌ II",
    "content": "",
    "periodLabel": "Tiết 26 (1 tiết)",
@@ -482,7 +493,7 @@
    "periodTo": 26,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Điều chỉnh: chuyển tiết ôn tập giữa HKII lên tuần 26 để Bài 08 (4 tiết) học liền mạch tuần 27–30",
+   "adjustments": "",
    "integrations": [],
    "note": ""
   },
@@ -499,13 +510,7 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN chi tiêu và giữ gìn: dùng đồ dùng, tiền bạc hợp lí, giữ gìn của công."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -519,9 +524,15 @@
    "periodFrom": 28,
    "periodTo": 28,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 2",
+     "text": "dùng thiết bị số có giờ giấc, biết giữ gìn đồ dùng và tài sản chung."
+    }
+   ],
    "note": ""
   },
   {
@@ -535,7 +546,7 @@
    "periodFrom": 29,
    "periodTo": 29,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -551,7 +562,7 @@
    "periodFrom": 30,
    "periodTo": 30,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -589,7 +600,7 @@
    "periodFrom": 32,
    "periodTo": 32,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -605,7 +616,7 @@
    "periodFrom": 33,
    "periodTo": 33,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -621,7 +632,7 @@
    "periodFrom": 34,
    "periodTo": 34,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -630,7 +641,7 @@
    "id": "l4-dao-duc-035",
    "semester": 2,
    "week": 35,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, thực hành kĩ năng",
    "title": "THỰC HÀNH KĨ NĂNG CUỐI NĂM HỌC",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
@@ -915,8 +926,8 @@
  "attachment": {
   "file": "assets/docs/lop4/Dao duc - Lop 4.docx",
   "name": "Dao duc - Lop 4.docx",
-  "original": "KHDH Đạo đức lớp 4 (2026-2027) (đã rà soát).docx",
-  "size": 11571,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 45565,
+  "updated": "2026-09-07"
  }
 }

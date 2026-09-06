@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 69
+  "integrations": 54
  },
  "lessons": [
   {
@@ -18,15 +18,31 @@
    "semester": 1,
    "week": 1,
    "theme": "Chủ đề 1: Công nghệ và đời sống",
-   "title": "Bài 1: Vai trò của công nghệ (Tiết 1)",
+   "title": "Bài 1. Vai trò của công nghệ (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 1 (2 tiết)",
+   "periodLabel": "Tiết 1 (35 tiết)",
    "periodFrom": 1,
    "periodTo": 1,
    "periods": 1,
-   "lessonPeriods": 2,
+   "lessonPeriods": 35,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Từ Hình 1 SGK, mỗi nhóm chọn một sản phẩm công nghệ trong nhà, chụp ảnh, ghép thành trang trình chiếu ghi tên, vai trò"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2, QĐ 2422: 5.A2.2",
+     "text": "GV dùng công cụ AI tạo hình một công việc khi có và không có sản phẩm công nghệ; HS so sánh, đối chiếu vai trò SGK"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Tôn trọng bản quyền, không chép thiết kế người khác; ghi rõ nguồn."
+    }
+   ],
    "note": ""
   },
   {
@@ -34,15 +50,31 @@
    "semester": 1,
    "week": 2,
    "theme": "Chủ đề 1: Công nghệ và đời sống",
-   "title": "Bài 1: Vai trò của công nghệ (Tiết 2)",
+   "title": "Bài 1. Vai trò của công nghệ (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 2",
+   "periodLabel": "Tiết 2 (35 tiết)",
    "periodFrom": 2,
    "periodTo": 2,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 35,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Nhóm 4 xem sơ đồ Hình 2 sản xuất giấy rồi dùng ứng dụng vẽ trên máy kẻ lại sơ đồ khói bụi, nước thải"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2, QĐ 2422: 5.A3.2",
+     "text": "GV nhờ công cụ AI liệt kê thói quen dùng điện thoại, tivi có hại; HS đánh dấu thói quen đúng với người thân, đối chiếu SGK"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Tôn trọng bản quyền, không chép thiết kế người khác; ghi rõ nguồn."
+    }
+   ],
    "note": ""
   },
   {
@@ -50,13 +82,13 @@
    "semester": 1,
    "week": 3,
    "theme": "Chủ đề 1: Công nghệ và đời sống",
-   "title": "Bài 2: Nhà sáng chế (Tiết 1)",
+   "title": "Bài 2. Nhà sáng chế (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 3 (4 tiết)",
+   "periodLabel": "Tiết 3 (35 tiết)",
    "periodFrom": 3,
    "periodTo": 3,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 35,
    "adjustments": "",
    "integrations": [
     {
@@ -72,13 +104,13 @@
    "semester": 1,
    "week": 4,
    "theme": "Chủ đề 1: Công nghệ và đời sống",
-   "title": "Bài 2: Nhà sáng chế (Tiết 2)",
+   "title": "Bài 2. Nhà sáng chế (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 4",
+   "periodLabel": "Tiết 4 (35 tiết)",
    "periodFrom": 4,
    "periodTo": 4,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 35,
    "adjustments": "",
    "integrations": [
     {
@@ -94,13 +126,13 @@
    "semester": 1,
    "week": 5,
    "theme": "Chủ đề 1: Công nghệ và đời sống",
-   "title": "Bài 2: Nhà sáng chế (Tiết 3)",
+   "title": "Bài 2. Nhà sáng chế (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 5",
+   "periodLabel": "Tiết 5 (35 tiết)",
    "periodFrom": 5,
    "periodTo": 5,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 35,
    "adjustments": "",
    "integrations": [
     {
@@ -116,13 +148,13 @@
    "semester": 1,
    "week": 6,
    "theme": "Chủ đề 1: Công nghệ và đời sống",
-   "title": "Bài 2: Nhà sáng chế (Tiết 4)",
+   "title": "Bài 2. Nhà sáng chế (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 6",
+   "periodLabel": "Tiết 6 (35 tiết)",
    "periodFrom": 6,
    "periodTo": 6,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 35,
    "adjustments": "",
    "integrations": [
     {
@@ -138,13 +170,13 @@
    "semester": 1,
    "week": 7,
    "theme": "Chủ đề 1: Công nghệ và đời sống",
-   "title": "Bài 3: Tìm hiểu thiết kế (Tiết 1)",
+   "title": "Bài 3. Tìm hiểu thiết kế (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 7 (2 tiết)",
+   "periodLabel": "Tiết 7 (35 tiết)",
    "periodFrom": 7,
    "periodTo": 7,
    "periods": 1,
-   "lessonPeriods": 2,
+   "lessonPeriods": 35,
    "adjustments": "",
    "integrations": [
     {
@@ -160,21 +192,15 @@
    "semester": 1,
    "week": 8,
    "theme": "Chủ đề 1: Công nghệ và đời sống",
-   "title": "Bài 3: Tìm hiểu thiết kế (Tiết 2)",
+   "title": "Bài 3. Tìm hiểu thiết kế (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 8",
+   "periodLabel": "Tiết 8 (35 tiết)",
    "periodFrom": 8,
    "periodTo": 8,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 35,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "ghi hình/chụp ảnh sản phẩm học tập; trình bày ý tưởng thiết kế bằng sơ đồ đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -182,21 +208,15 @@
    "semester": 1,
    "week": 9,
    "theme": "Chủ đề 1: Công nghệ và đời sống",
-   "title": "Bài 4: Thiết kế sản phẩm (Tiết 1)",
+   "title": "Bài 4. Thiết kế sản phẩm (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 9 (4 tiết)",
+   "periodLabel": "Tiết 9 (35 tiết)",
    "periodFrom": 9,
    "periodTo": 9,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 35,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "ghi hình/chụp ảnh sản phẩm học tập; trình bày ý tưởng thiết kế bằng sơ đồ đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -204,21 +224,15 @@
    "semester": 1,
    "week": 10,
    "theme": "Chủ đề 1: Công nghệ và đời sống",
-   "title": "Bài 4: Thiết kế sản phẩm (Tiết 2)",
+   "title": "Bài 4. Thiết kế sản phẩm (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 10",
+   "periodLabel": "Tiết 10 (35 tiết)",
    "periodFrom": 10,
    "periodTo": 10,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 35,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "ghi hình/chụp ảnh sản phẩm học tập; trình bày ý tưởng thiết kế bằng sơ đồ đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -226,21 +240,15 @@
    "semester": 1,
    "week": 11,
    "theme": "Chủ đề 1: Công nghệ và đời sống",
-   "title": "Bài 4: Thiết kế sản phẩm (Tiết 3)",
+   "title": "Bài 4. Thiết kế sản phẩm (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 11",
+   "periodLabel": "Tiết 11 (35 tiết)",
    "periodFrom": 11,
    "periodTo": 11,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 35,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "ghi hình/chụp ảnh sản phẩm học tập; trình bày ý tưởng thiết kế bằng sơ đồ đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -248,21 +256,15 @@
    "semester": 1,
    "week": 12,
    "theme": "Chủ đề 1: Công nghệ và đời sống",
-   "title": "Bài 4: Thiết kế sản phẩm (Tiết 4)",
+   "title": "Bài 4. Thiết kế sản phẩm (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 12",
+   "periodLabel": "Tiết 12 (35 tiết)",
    "periodFrom": 12,
    "periodTo": 12,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 35,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "ghi hình/chụp ảnh sản phẩm học tập; trình bày ý tưởng thiết kế bằng sơ đồ đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -270,13 +272,13 @@
    "semester": 1,
    "week": 13,
    "theme": "Chủ đề 1: Công nghệ và đời sống",
-   "title": "Bài 5: Sử dụng điện thoại (Tiết 1)",
+   "title": "Bài 5. Sử dụng điện thoại (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 13 (4 tiết)",
+   "periodLabel": "Tiết 13 (35 tiết)",
    "periodFrom": 13,
    "periodTo": 13,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 35,
    "adjustments": "",
    "integrations": [
     {
@@ -293,11 +295,6 @@
      "code": "AI-NB",
      "level": "",
      "text": "liên hệ thiết bị/công cụ thông minh trong đời sống ở mức nhận biết."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
     }
    ],
    "note": ""
@@ -307,13 +304,13 @@
    "semester": 1,
    "week": 14,
    "theme": "Chủ đề 1: Công nghệ và đời sống",
-   "title": "Bài 5: Sử dụng điện thoại (Tiết 2)",
+   "title": "Bài 5. Sử dụng điện thoại (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 14",
+   "periodLabel": "Tiết 14 (35 tiết)",
    "periodFrom": 14,
    "periodTo": 14,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 35,
    "adjustments": "",
    "integrations": [
     {
@@ -339,13 +336,13 @@
    "semester": 1,
    "week": 15,
    "theme": "Chủ đề 1: Công nghệ và đời sống",
-   "title": "Bài 5: Sử dụng điện thoại (Tiết 3)",
+   "title": "Bài 5. Sử dụng điện thoại (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 15",
+   "periodLabel": "Tiết 15 (35 tiết)",
    "periodFrom": 15,
    "periodTo": 15,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 35,
    "adjustments": "",
    "integrations": [
     {
@@ -371,13 +368,13 @@
    "semester": 1,
    "week": 16,
    "theme": "Chủ đề 1: Công nghệ và đời sống",
-   "title": "Bài 5: Sử dụng điện thoại (Tiết 4)",
+   "title": "Bài 5. Sử dụng điện thoại (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 16",
+   "periodLabel": "Tiết 16 (35 tiết)",
    "periodFrom": 16,
    "periodTo": 16,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 35,
    "adjustments": "",
    "integrations": [
     {
@@ -405,11 +402,11 @@
    "theme": "Ôn tập và kiểm tra",
    "title": "Ôn tập học kì I",
    "content": "",
-   "periodLabel": "Tiết 17 (1 tiết)",
+   "periodLabel": "Tiết 17 (35 tiết)",
    "periodFrom": 17,
    "periodTo": 17,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 35,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -419,13 +416,13 @@
    "semester": 1,
    "week": 18,
    "theme": "Ôn tập và kiểm tra",
-   "title": "Kiểm tra cuối học kì I",
+   "title": "Kiểm tra định kì cuối học kì I",
    "content": "",
-   "periodLabel": "Tiết 18 (1 tiết)",
+   "periodLabel": "Tiết 18 (35 tiết)",
    "periodFrom": 18,
    "periodTo": 18,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 35,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -435,13 +432,13 @@
    "semester": 2,
    "week": 19,
    "theme": "Chủ đề 1:",
-   "title": "Bài 6: Sử dụng tủ lạnh (Tiết 1)",
+   "title": "Bài 6. Sử dụng tủ lạnh (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 19 (3 tiết)",
+   "periodLabel": "Tiết 19 (35 tiết)",
    "periodFrom": 19,
    "periodTo": 19,
    "periods": 1,
-   "lessonPeriods": 3,
+   "lessonPeriods": 35,
    "adjustments": "",
    "integrations": [
     {
@@ -453,11 +450,6 @@
      "code": "NLS-AT",
      "level": "",
      "text": "khai thác học liệu số/thiết bị minh hoạ; nhấn mạnh sử dụng công nghệ an toàn, tiết kiệm."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
     }
    ],
    "note": ""
@@ -467,13 +459,13 @@
    "semester": 2,
    "week": 20,
    "theme": "Chủ đề 1: Công nghệ và đời sống",
-   "title": "Bài 6: Sử dụng tủ lạnh (Tiết 2)",
+   "title": "Bài 6. Sử dụng tủ lạnh (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 20",
+   "periodLabel": "Tiết 20 (35 tiết)",
    "periodFrom": 20,
    "periodTo": 20,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 35,
    "adjustments": "",
    "integrations": [
     {
@@ -494,13 +486,13 @@
    "semester": 2,
    "week": 21,
    "theme": "Chủ đề 1:",
-   "title": "Bài 6: Sử dụng tủ lạnh (Tiết 3)",
+   "title": "Bài 6. Sử dụng tủ lạnh (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 21",
+   "periodLabel": "Tiết 21 (35 tiết)",
    "periodFrom": 21,
    "periodTo": 21,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 35,
    "adjustments": "",
    "integrations": [
     {
@@ -521,13 +513,13 @@
    "semester": 2,
    "week": 22,
    "theme": "Chủ đề 2: Thủ công kĩ thuật",
-   "title": "Bài 7: Lắp ráp mô hình xe điện chạy bằng pin (Tiết 1)",
+   "title": "Bài 7. Lắp ráp mô hình xe điện chạy bằng pin (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 22 (4 tiết)",
+   "periodLabel": "Tiết 22 (35 tiết)",
    "periodFrom": 22,
    "periodTo": 22,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 35,
    "adjustments": "Xe ô tô cánh quạt chạy bằng pin",
    "integrations": [
     {
@@ -544,11 +536,6 @@
      "code": "NLS-ST",
      "level": "",
      "text": "ghi hình/chụp ảnh sản phẩm học tập; trình bày ý tưởng thiết kế bằng sơ đồ đơn giản."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
     }
    ],
    "note": ""
@@ -558,13 +545,13 @@
    "semester": 2,
    "week": 23,
    "theme": "Chủ đề 2: Thủ công kĩ thuật",
-   "title": "Bài 7: Lắp ráp mô hình xe điện chạy bằng pin (Tiết 2)",
+   "title": "Bài 7. Lắp ráp mô hình xe điện chạy bằng pin (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 23",
+   "periodLabel": "Tiết 23 (35 tiết)",
    "periodFrom": 23,
    "periodTo": 23,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 35,
    "adjustments": "",
    "integrations": [
     {
@@ -576,11 +563,6 @@
      "code": "NLS-AT",
      "level": "",
      "text": "khai thác học liệu số/thiết bị minh hoạ; nhấn mạnh sử dụng công nghệ an toàn, tiết kiệm."
-    },
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "ghi hình/chụp ảnh sản phẩm học tập; trình bày ý tưởng thiết kế bằng sơ đồ đơn giản."
     }
    ],
    "note": ""
@@ -590,13 +572,13 @@
    "semester": 2,
    "week": 24,
    "theme": "Chủ đề 2: Thủ công kĩ thuật",
-   "title": "Bài 7: Lắp ráp mô hình xe điện chạy bằng pin (Tiết 3)",
+   "title": "Bài 7. Lắp ráp mô hình xe điện chạy bằng pin (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 24",
+   "periodLabel": "Tiết 24 (35 tiết)",
    "periodFrom": 24,
    "periodTo": 24,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 35,
    "adjustments": "",
    "integrations": [
     {
@@ -608,11 +590,6 @@
      "code": "NLS-AT",
      "level": "",
      "text": "khai thác học liệu số/thiết bị minh hoạ; nhấn mạnh sử dụng công nghệ an toàn, tiết kiệm."
-    },
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "ghi hình/chụp ảnh sản phẩm học tập; trình bày ý tưởng thiết kế bằng sơ đồ đơn giản."
     }
    ],
    "note": ""
@@ -622,13 +599,13 @@
    "semester": 2,
    "week": 25,
    "theme": "Chủ đề 2: Thủ công kĩ thuật",
-   "title": "Bài 7: Lắp ráp mô hình xe điện chạy bằng pin (Tiết 4)",
+   "title": "Bài 7. Lắp ráp mô hình xe điện chạy bằng pin (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 25",
+   "periodLabel": "Tiết 25 (35 tiết)",
    "periodFrom": 25,
    "periodTo": 25,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 35,
    "adjustments": "",
    "integrations": [
     {
@@ -640,11 +617,6 @@
      "code": "NLS-AT",
      "level": "",
      "text": "khai thác học liệu số/thiết bị minh hoạ; nhấn mạnh sử dụng công nghệ an toàn, tiết kiệm."
-    },
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "ghi hình/chụp ảnh sản phẩm học tập; trình bày ý tưởng thiết kế bằng sơ đồ đơn giản."
     }
    ],
    "note": ""
@@ -654,13 +626,13 @@
    "semester": 2,
    "week": 26,
    "theme": "Chủ đề 2: Thủ công kĩ thuật",
-   "title": "Bài 8: Mô hình máy phát điện gió (Tiết 1)",
+   "title": "Bài 8. Mô hình máy phát điện gió (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 26 (4 tiết)",
+   "periodLabel": "Tiết 26 (35 tiết)",
    "periodFrom": 26,
    "periodTo": 26,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 35,
    "adjustments": "",
    "integrations": [
     {
@@ -672,16 +644,6 @@
      "code": "NLS-AT",
      "level": "",
      "text": "khai thác học liệu số/thiết bị minh hoạ; nhấn mạnh sử dụng công nghệ an toàn, tiết kiệm."
-    },
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "ghi hình/chụp ảnh sản phẩm học tập; trình bày ý tưởng thiết kế bằng sơ đồ đơn giản."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
     }
    ],
    "note": ""
@@ -691,13 +653,13 @@
    "semester": 2,
    "week": 27,
    "theme": "Chủ đề 2: Thủ công kĩ thuật",
-   "title": "Bài 8: Mô hình máy phát điện gió (Tiết 2)",
+   "title": "Bài 8. Mô hình máy phát điện gió (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 27",
+   "periodLabel": "Tiết 27 (35 tiết)",
    "periodFrom": 27,
    "periodTo": 27,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 35,
    "adjustments": "",
    "integrations": [
     {
@@ -709,11 +671,6 @@
      "code": "NLS-AT",
      "level": "",
      "text": "khai thác học liệu số/thiết bị minh hoạ; nhấn mạnh sử dụng công nghệ an toàn, tiết kiệm."
-    },
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "ghi hình/chụp ảnh sản phẩm học tập; trình bày ý tưởng thiết kế bằng sơ đồ đơn giản."
     }
    ],
    "note": ""
@@ -723,13 +680,13 @@
    "semester": 2,
    "week": 28,
    "theme": "Chủ đề 2: Thủ công kĩ thuật",
-   "title": "Bài 8: Mô hình máy phát điện gió (Tiết 3)",
+   "title": "Bài 8. Mô hình máy phát điện gió (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 28",
+   "periodLabel": "Tiết 28 (35 tiết)",
    "periodFrom": 28,
    "periodTo": 28,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 35,
    "adjustments": "",
    "integrations": [
     {
@@ -741,11 +698,6 @@
      "code": "NLS-AT",
      "level": "",
      "text": "khai thác học liệu số/thiết bị minh hoạ; nhấn mạnh sử dụng công nghệ an toàn, tiết kiệm."
-    },
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "ghi hình/chụp ảnh sản phẩm học tập; trình bày ý tưởng thiết kế bằng sơ đồ đơn giản."
     }
    ],
    "note": ""
@@ -755,13 +707,13 @@
    "semester": 2,
    "week": 29,
    "theme": "Chủ đề 2: Thủ công kĩ thuật",
-   "title": "Bài 8: Mô hình máy phát điện gió (Tiết 4)",
+   "title": "Bài 8. Mô hình máy phát điện gió (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 29",
+   "periodLabel": "Tiết 29 (35 tiết)",
    "periodFrom": 29,
    "periodTo": 29,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 35,
    "adjustments": "",
    "integrations": [
     {
@@ -773,11 +725,6 @@
      "code": "NLS-AT",
      "level": "",
      "text": "khai thác học liệu số/thiết bị minh hoạ; nhấn mạnh sử dụng công nghệ an toàn, tiết kiệm."
-    },
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "ghi hình/chụp ảnh sản phẩm học tập; trình bày ý tưởng thiết kế bằng sơ đồ đơn giản."
     }
    ],
    "note": ""
@@ -787,13 +734,13 @@
    "semester": 2,
    "week": 30,
    "theme": "Chủ đề 2: Thủ công kĩ thuật",
-   "title": "Bài 9: Mô hình điện mặt trời (Tiết 1)",
+   "title": "Bài 9. Mô hình điện mặt trời (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 30 (4 tiết)",
+   "periodLabel": "Tiết 30 (35 tiết)",
    "periodFrom": 30,
    "periodTo": 30,
    "periods": 1,
-   "lessonPeriods": 4,
+   "lessonPeriods": 35,
    "adjustments": "",
    "integrations": [
     {
@@ -805,16 +752,6 @@
      "code": "NLS-AT",
      "level": "",
      "text": "khai thác học liệu số/thiết bị minh hoạ; nhấn mạnh sử dụng công nghệ an toàn, tiết kiệm."
-    },
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "ghi hình/chụp ảnh sản phẩm học tập; trình bày ý tưởng thiết kế bằng sơ đồ đơn giản."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN sử dụng an toàn đồ dùng, thiết bị trong gia đình; biết gọi người lớn khi có sự cố."
     }
    ],
    "note": ""
@@ -824,13 +761,13 @@
    "semester": 2,
    "week": 31,
    "theme": "Chủ đề 2: Thủ công kĩ thuật",
-   "title": "Bài 9: Mô hình điện mặt trời (Tiết 2)",
+   "title": "Bài 9. Mô hình điện mặt trời (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 31",
+   "periodLabel": "Tiết 31 (35 tiết)",
    "periodFrom": 31,
    "periodTo": 31,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 35,
    "adjustments": "",
    "integrations": [
     {
@@ -842,11 +779,6 @@
      "code": "NLS-AT",
      "level": "",
      "text": "khai thác học liệu số/thiết bị minh hoạ; nhấn mạnh sử dụng công nghệ an toàn, tiết kiệm."
-    },
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "ghi hình/chụp ảnh sản phẩm học tập; trình bày ý tưởng thiết kế bằng sơ đồ đơn giản."
     }
    ],
    "note": ""
@@ -856,13 +788,13 @@
    "semester": 2,
    "week": 32,
    "theme": "Chủ đề 2: Thủ công kĩ thuật",
-   "title": "Bài 9: Mô hình điện mặt trời (Tiết 3)",
+   "title": "Bài 9. Mô hình điện mặt trời (Tiết 3)",
    "content": "",
-   "periodLabel": "Tiết 32",
+   "periodLabel": "Tiết 32 (35 tiết)",
    "periodFrom": 32,
    "periodTo": 32,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 35,
    "adjustments": "",
    "integrations": [
     {
@@ -874,11 +806,6 @@
      "code": "NLS-AT",
      "level": "",
      "text": "khai thác học liệu số/thiết bị minh hoạ; nhấn mạnh sử dụng công nghệ an toàn, tiết kiệm."
-    },
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "ghi hình/chụp ảnh sản phẩm học tập; trình bày ý tưởng thiết kế bằng sơ đồ đơn giản."
     }
    ],
    "note": ""
@@ -888,13 +815,13 @@
    "semester": 2,
    "week": 33,
    "theme": "Chủ đề 2: Thủ công kĩ thuật",
-   "title": "Bài 9: Mô hình điện mặt trời (Tiết 4)",
+   "title": "Bài 9. Mô hình điện mặt trời (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 33",
+   "periodLabel": "Tiết 33 (35 tiết)",
    "periodFrom": 33,
    "periodTo": 33,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 35,
    "adjustments": "",
    "integrations": [
     {
@@ -906,11 +833,6 @@
      "code": "NLS-AT",
      "level": "",
      "text": "khai thác học liệu số/thiết bị minh hoạ; nhấn mạnh sử dụng công nghệ an toàn, tiết kiệm."
-    },
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "ghi hình/chụp ảnh sản phẩm học tập; trình bày ý tưởng thiết kế bằng sơ đồ đơn giản."
     }
    ],
    "note": ""
@@ -922,11 +844,11 @@
    "theme": "Ôn tập và kiểm tra",
    "title": "Ôn tập cuối kì II",
    "content": "",
-   "periodLabel": "Tiết 34 (1 tiết)",
+   "periodLabel": "Tiết 34 (35 tiết)",
    "periodFrom": 34,
    "periodTo": 34,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 35,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -936,13 +858,13 @@
    "semester": 2,
    "week": 35,
    "theme": "Ôn tập và kiểm tra",
-   "title": "Kiểm tra cuối kì II",
+   "title": "Kiểm tra định kì cuối năm học",
    "content": "",
-   "periodLabel": "Tiết 35 (1 tiết)",
+   "periodLabel": "Tiết 35 (35 tiết)",
    "periodFrom": 35,
    "periodTo": 35,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 35,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -1220,8 +1142,8 @@
  "attachment": {
   "file": "assets/docs/lop5/Cong nghe - Lop 5.docx",
   "name": "Cong nghe - Lop 5.docx",
-  "original": "KHDH Công nghệ lớp 5 (2026-2027) (đã rà soát).docx",
-  "size": 10958,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 45344,
+  "updated": "2026-09-07"
  }
 }

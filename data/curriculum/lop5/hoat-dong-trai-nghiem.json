@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 87
+  "integrations": 28
  },
  "lessons": [
   {
@@ -18,7 +18,7 @@
    "semester": 1,
    "week": 1,
    "theme": "CHỦ ĐỀ 1 Em lớn lên mỗi ngày",
-   "title": "SHDC: Chào năm học mới",
+   "title": "Chào năm học mới",
    "content": "",
    "periodLabel": "Tiết 1 (1 tiết)",
    "periodFrom": 1,
@@ -26,7 +26,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "Sau lễ chào cờ “Chào năm học mới”, GVCN chiếu ảnh khai giảng vừa chụp bằng điện thoại và giới thiệu kênh chung của lớp (bảng tin lớp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ chia sẻ ảnh, cảm xúc lên kênh lớp có GV và phụ huynh quản lí"
+    }
+   ],
    "note": ""
   },
   {
@@ -34,7 +45,7 @@
    "semester": 1,
    "week": 1,
    "theme": "CHỦ ĐỀ 1 Em lớn lên mỗi ngày",
-   "title": "HĐGDCĐ: Chúng mình đã lớn",
+   "title": "Chúng mình đã lớn",
    "content": "",
    "periodLabel": "Tiết 2 (1 tiết)",
    "periodFrom": 2,
@@ -42,7 +53,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "GV chiếu ảnh lớp qua các năm học; mỗi nhóm chọn ba, bốn ảnh xếp theo thời gian thành chuỗi ảnh có chú thích, thuyết minh, trình chiếu"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Sau khi đo chiều cao, HS nhập số đo vào bảng tính trên máy GV; GV hiện biểu đồ cột, HS đọc biểu đồ, nêu cách rèn luyện"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn; không đưa thông tin cá nhân vào phiếu."
+    }
+   ],
    "note": ""
   },
   {
@@ -50,7 +77,7 @@
    "semester": 1,
    "week": 1,
    "theme": "CHỦ ĐỀ 1 Em lớn lên mỗi ngày",
-   "title": "SHL: Bậc thang trưởng thành",
+   "title": "Bậc thang trưởng thành",
    "content": "",
    "periodLabel": "Tiết 3 (1 tiết)",
    "periodFrom": 3,
@@ -58,7 +85,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Lớp trưởng điều hành đánh giá tuần với bảng theo dõi thi đua trên máy tính GV: nhập số việc tốt từng tổ, xem biểu đồ, nhận xét"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "HS vẽ bậc thang tiến bộ; GV chụp vài sản phẩm chiếu lên, mỗi bạn nói một lời ghi nhận tử tế như khi nhắn nhóm lớp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bảng thống kê không đo hết sự cố gắng; nhận xét bạn tế nhị."
+    }
+   ],
    "note": ""
   },
   {
@@ -66,7 +109,7 @@
    "semester": 1,
    "week": 2,
    "theme": "CHỦ ĐỀ 1 Em lớn lên mỗi ngày",
-   "title": "SHDC: Ngày hội câu lạc bộ",
+   "title": "Ngày hội câu lạc bộ",
    "content": "",
    "periodLabel": "Tiết 4 (1 tiết)",
    "periodFrom": 4,
@@ -76,14 +119,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Sau “Ngày hội câu lạc bộ”, GVCN chiếu bảng tin số của trường về các câu lạc bộ (tên, lịch, nội dung sinh hoạt) lên tivi; HS đọc"
     },
     {
-     "code": "NLS-ST",
+     "code": "NLS-AT",
      "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
+     "text": "Chỉ xem thông tin câu lạc bộ trên bảng tin của trường hoặc kênh lớp"
     }
    ],
    "note": ""
@@ -93,7 +136,7 @@
    "semester": 1,
    "week": 2,
    "theme": "CHỦ ĐỀ 1 Em lớn lên mỗi ngày",
-   "title": "HĐGDCĐ: Từng bước trưởng thành",
+   "title": "Từng bước trưởng thành",
    "content": "",
    "periodLabel": "Tiết 5 (1 tiết)",
    "periodFrom": 5,
@@ -101,7 +144,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Mỗi nhóm chụp ảnh kỉ vật, sản phẩm cá nhân bằng điện thoại, sắp xếp thành trang trình chiếu góc triển lãm, thuyết trình"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS trả lời phiếu khảo sát ngắn trên máy tính GV về việc mình tiến bộ nhất; GV chiếu biểu đồ kết quả, HS đọc và nhận xét"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Xin phép trước khi chụp ảnh, ghi âm bạn; không đưa thông tin cá nhân vào phiếu."
+    }
+   ],
    "note": ""
   },
   {
@@ -109,7 +168,7 @@
    "semester": 1,
    "week": 2,
    "theme": "CHỦ ĐỀ 1 Em lớn lên mỗi ngày",
-   "title": "SHL: Tiến bộ trong việc nhà",
+   "title": "Tiến bộ trong việc nhà",
    "content": "",
    "periodLabel": "Tiết 6 (1 tiết)",
    "periodFrom": 6,
@@ -119,9 +178,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Lớp trưởng dùng bảng theo dõi thi đua trên máy GV tổng kết tuần: nhập số liệu, xem biểu đồ; GV mở video bạn nhỏ giúp việc nhà"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 2",
+     "text": "HS chiếu ảnh chụp mình làm việc nhà, kể sự tiến bộ; mỗi bạn nói một lời ghi nhận tử tế như khi nhắn nhóm lớp"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
+     "text": "Bảng thống kê không đo hết sự cố gắng; nhận xét bạn tế nhị."
     }
    ],
    "note": ""
@@ -131,7 +200,7 @@
    "semester": 1,
    "week": 3,
    "theme": "CHỦ ĐỀ 1 Em lớn lên mỗi ngày",
-   "title": "SHDC: Niềm vui nhân đôi, nỗi buồn chia nửa",
+   "title": "Niềm vui nhân đôi, nỗi buồn chia nửa",
    "content": "",
    "periodLabel": "Tiết 7 (1 tiết)",
    "periodFrom": 7,
@@ -139,13 +208,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN quản lí cảm xúc và vượt qua khó khăn trong học tập, sinh hoạt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -153,7 +216,7 @@
    "semester": 1,
    "week": 3,
    "theme": "CHỦ ĐỀ 1 Em lớn lên mỗi ngày",
-   "title": "HĐGDCĐ: Cân bằng cảm xúc",
+   "title": "Cân bằng cảm xúc",
    "content": "",
    "periodLabel": "Tiết 8 (1 tiết)",
    "periodFrom": 8,
@@ -161,13 +224,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN quản lí cảm xúc và vượt qua khó khăn trong học tập, sinh hoạt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -175,7 +232,7 @@
    "semester": 1,
    "week": 3,
    "theme": "CHỦ ĐỀ 1 Em lớn lên mỗi ngày",
-   "title": "SHL: Thực hành Cân bằng cảm xúc",
+   "title": "Thực hành Cân bằng cảm xúc",
    "content": "",
    "periodLabel": "Tiết 9 (1 tiết)",
    "periodFrom": 9,
@@ -183,13 +240,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN quản lí cảm xúc và vượt qua khó khăn trong học tập, sinh hoạt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -197,7 +248,7 @@
    "semester": 1,
    "week": 4,
    "theme": "CHỦ ĐỀ 1 Em lớn lên mỗi ngày",
-   "title": "SHDC: Sự trưởng thành của học sinh lớp 5",
+   "title": "Sự trưởng thành của học sinh lớp 5",
    "content": "",
    "periodLabel": "Tiết 10 (1 tiết)",
    "periodFrom": 10,
@@ -213,7 +264,7 @@
    "semester": 1,
    "week": 4,
    "theme": "CHỦ ĐỀ 1 Em lớn lên mỗi ngày",
-   "title": "HĐGDCĐ: Thể hiện cảm xúc phù hợp",
+   "title": "Thể hiện cảm xúc phù hợp",
    "content": "",
    "periodLabel": "Tiết 11 (1 tiết)",
    "periodFrom": 11,
@@ -221,13 +272,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN quản lí cảm xúc và vượt qua khó khăn trong học tập, sinh hoạt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -235,7 +280,7 @@
    "semester": 1,
    "week": 4,
    "theme": "CHỦ ĐỀ 1 Em lớn lên mỗi ngày",
-   "title": "SHL: Khả năng kiểm soát cảm xúc",
+   "title": "Khả năng kiểm soát cảm xúc",
    "content": "",
    "periodLabel": "Tiết 12 (1 tiết)",
    "periodFrom": 12,
@@ -243,21 +288,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN quản lí cảm xúc và vượt qua khó khăn trong học tập, sinh hoạt."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-hoat-dong-trai-nghiem-013",
    "semester": 1,
    "week": 5,
-   "theme": "CHỦ ĐỀ 2: GIỮ",
-   "title": "SHDC: Vui trung thu cùng bạn",
+   "theme": "CHỦ ĐỀ 2: GIỮ GÌN TÌNH BẠN",
+   "title": "Vui trung thu cùng bạn",
    "content": "",
    "periodLabel": "Tiết 13 (1 tiết)",
    "periodFrom": 13,
@@ -272,8 +311,8 @@
    "id": "l5-hoat-dong-trai-nghiem-014",
    "semester": 1,
    "week": 5,
-   "theme": "GÌN TÌNH BẠN",
-   "title": "HĐGDCĐ: Các vấn đề nảy sinh trong mối quan hệ bạn bè và cách giải quyết",
+   "theme": "CHỦ ĐỀ 2: GIỮ GÌN TÌNH BẠN",
+   "title": "Các vấn đề nảy sinh trong mối quan hệ bạn bè và cách giải quyết",
    "content": "",
    "periodLabel": "Tiết 14 (1 tiết)",
    "periodFrom": 14,
@@ -291,11 +330,6 @@
      "code": "NLS-ST",
      "level": "",
      "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Giáo dục lòng yêu hoà bình, tình đoàn kết; liên hệ chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
     }
    ],
    "note": ""
@@ -304,8 +338,8 @@
    "id": "l5-hoat-dong-trai-nghiem-015",
    "semester": 1,
    "week": 5,
-   "theme": "GÌN TÌNH BẠN",
-   "title": "SHL: Thực hành giải quyết vấn đề nảy sinh trong tình bạn",
+   "theme": "CHỦ ĐỀ 2: GIỮ GÌN TÌNH BẠN",
+   "title": "Thực hành giải quyết vấn đề nảy sinh trong tình bạn",
    "content": "",
    "periodLabel": "Tiết 15 (1 tiết)",
    "periodFrom": 15,
@@ -313,26 +347,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-hoat-dong-trai-nghiem-016",
    "semester": 1,
    "week": 6,
-   "theme": "GÌN TÌNH BẠN",
-   "title": "SHDC: Sách bút đồng hành cùng em",
+   "theme": "CHỦ ĐỀ 2: GIỮ GÌN TÌNH BẠN",
+   "title": "Sách bút đồng hành cùng em",
    "content": "",
    "periodLabel": "Tiết 16 (1 tiết)",
    "periodFrom": 16,
@@ -347,8 +370,8 @@
    "id": "l5-hoat-dong-trai-nghiem-017",
    "semester": 1,
    "week": 6,
-   "theme": "GÌN TÌNH BẠN",
-   "title": "HĐGDCĐ: Những vấn đề nảy sinh giữa tình bạn trong học tập và rèn luyện",
+   "theme": "CHỦ ĐỀ 2: GIỮ GÌN TÌNH BẠN",
+   "title": "Những vấn đề nảy sinh giữa tình bạn trong học tập và rèn luyện",
    "content": "",
    "periodLabel": "Tiết 17 (1 tiết)",
    "periodFrom": 17,
@@ -363,8 +386,8 @@
    "id": "l5-hoat-dong-trai-nghiem-018",
    "semester": 1,
    "week": 6,
-   "theme": "GÌN TÌNH BẠN",
-   "title": "SHL: Hợp tác để thực hiện sản phẩm chung",
+   "theme": "CHỦ ĐỀ 2: GIỮ GÌN TÌNH BẠN",
+   "title": "Hợp tác để thực hiện sản phẩm chung",
    "content": "",
    "periodLabel": "Tiết 18 (1 tiết)",
    "periodFrom": 18,
@@ -372,21 +395,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-hoat-dong-trai-nghiem-019",
    "semester": 1,
    "week": 7,
-   "theme": "GÌN TÌNH BẠN",
-   "title": "SHDC: Ngày hội trao đổi sách",
+   "theme": "CHỦ ĐỀ 2: GIỮ GÌN TÌNH BẠN",
+   "title": "Ngày hội trao đổi sách",
    "content": "",
    "periodLabel": "Tiết 19 (1 tiết)",
    "periodFrom": 19,
@@ -401,8 +418,8 @@
    "id": "l5-hoat-dong-trai-nghiem-020",
    "semester": 1,
    "week": 7,
-   "theme": "GÌN TÌNH BẠN",
-   "title": "HĐGDCĐ: Giữ gìn tình bạn",
+   "theme": "CHỦ ĐỀ 2: GIỮ GÌN TÌNH BẠN",
+   "title": "Giữ gìn tình bạn",
    "content": "",
    "periodLabel": "Tiết 20 (1 tiết)",
    "periodFrom": 20,
@@ -417,8 +434,8 @@
    "id": "l5-hoat-dong-trai-nghiem-021",
    "semester": 1,
    "week": 7,
-   "theme": "GÌN TÌNH BẠN",
-   "title": "SHL: Nuôi dưỡng tình bạn",
+   "theme": "CHỦ ĐỀ 2: GIỮ GÌN TÌNH BẠN",
+   "title": "Nuôi dưỡng tình bạn",
    "content": "",
    "periodLabel": "Tiết 21 (1 tiết)",
    "periodFrom": 21,
@@ -433,8 +450,8 @@
    "id": "l5-hoat-dong-trai-nghiem-022",
    "semester": 1,
    "week": 8,
-   "theme": "GÌN TÌNH BẠN",
-   "title": "SHDC: Trò chuyện về chủ đề \"Khoa học sáng tạo\"",
+   "theme": "CHỦ ĐỀ 2: GIỮ GÌN TÌNH BẠN",
+   "title": "Trò chuyện về chủ đề \"Khoa học sáng tạo\"",
    "content": "",
    "periodLabel": "Tiết 22 (1 tiết)",
    "periodFrom": 22,
@@ -449,8 +466,8 @@
    "id": "l5-hoat-dong-trai-nghiem-023",
    "semester": 1,
    "week": 8,
-   "theme": "GÌN TÌNH BẠN",
-   "title": "HĐGDCĐ: Kế hoạch hoạt động \"Cùng làm nên kỉ niệm\"",
+   "theme": "CHỦ ĐỀ 2: GIỮ GÌN TÌNH BẠN",
+   "title": "Kế hoạch hoạt động \"Cùng làm nên kỉ niệm\"",
    "content": "",
    "periodLabel": "Tiết 23 (1 tiết)",
    "periodFrom": 23,
@@ -458,21 +475,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-hoat-dong-trai-nghiem-024",
    "semester": 1,
    "week": 8,
-   "theme": "GÌN TÌNH BẠN",
-   "title": "SHL: Cùng làm nên kỉ niệm",
+   "theme": "CHỦ ĐỀ 2: GIỮ GÌN TÌNH BẠN",
+   "title": "Cùng làm nên kỉ niệm",
    "content": "",
    "periodLabel": "Tiết 24 (1 tiết)",
    "periodFrom": 24,
@@ -488,7 +499,7 @@
    "semester": 1,
    "week": 9,
    "theme": "CHỦ ĐỀ 3: Tôn sư trọng đạo",
-   "title": "SHDC: Phát động tổ chức sự kiện về truyền thống tôn sư trọng đạo",
+   "title": "Phát động tổ chức sự kiện về truyền thống tôn sư trọng đạo",
    "content": "",
    "periodLabel": "Tiết 25 (1 tiết)",
    "periodFrom": 25,
@@ -506,11 +517,6 @@
      "code": "NLS-ST",
      "level": "",
      "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
     }
    ],
    "note": ""
@@ -520,7 +526,7 @@
    "semester": 1,
    "week": 9,
    "theme": "CHỦ ĐỀ 3: Tôn sư trọng đạo",
-   "title": "HĐGDCĐ: Sự kiện về truyền thống tôn sư trọng đạo",
+   "title": "Sự kiện về truyền thống tôn sư trọng đạo",
    "content": "",
    "periodLabel": "Tiết 26 (1 tiết)",
    "periodFrom": 26,
@@ -528,23 +534,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -552,7 +542,7 @@
    "semester": 1,
    "week": 9,
    "theme": "CHỦ ĐỀ 3: Tôn sư trọng đạo",
-   "title": "SHL: Giới thiệu về truyền thống nhà trường",
+   "title": "Giới thiệu về truyền thống nhà trường",
    "content": "",
    "periodLabel": "Tiết 27 (1 tiết)",
    "periodFrom": 27,
@@ -568,7 +558,7 @@
    "semester": 1,
    "week": 10,
    "theme": "CHỦ ĐỀ 3: Tôn sư trọng đạo",
-   "title": "SHDC: Các truyền thống của nhà trường",
+   "title": "Các truyền thống của nhà trường",
    "content": "",
    "periodLabel": "Tiết 28 (1 tiết)",
    "periodFrom": 28,
@@ -584,7 +574,7 @@
    "semester": 1,
    "week": 10,
    "theme": "CHỦ ĐỀ 3: Tôn sư trọng đạo",
-   "title": "HĐGDCĐ: Tâm sự thầy - trò",
+   "title": "Tâm sự thầy - trò",
    "content": "",
    "periodLabel": "Tiết 29 (1 tiết)",
    "periodFrom": 29,
@@ -600,7 +590,7 @@
    "semester": 1,
    "week": 10,
    "theme": "CHỦ ĐỀ 3: Tôn sư trọng đạo",
-   "title": "SHL: Giải quyết một số vấn đề nảy sinh trong mối quan hệ thầy trò",
+   "title": "Giải quyết một số vấn đề nảy sinh trong mối quan hệ thầy trò",
    "content": "",
    "periodLabel": "Tiết 30 (1 tiết)",
    "periodFrom": 30,
@@ -616,7 +606,7 @@
    "semester": 1,
    "week": 11,
    "theme": "CHỦ ĐỀ 3: Tôn sư trọng đạo",
-   "title": "SHDC: Văn nghệ về chủ đề \"Tình thầy trò\"",
+   "title": "Văn nghệ về chủ đề \"Tình thầy trò\"",
    "content": "",
    "periodLabel": "Tiết 31 (1 tiết)",
    "periodFrom": 31,
@@ -624,13 +614,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -638,7 +622,7 @@
    "semester": 1,
    "week": 11,
    "theme": "CHỦ ĐỀ 3: Tôn sư trọng đạo",
-   "title": "HĐGDCĐ: Vun đắp tình thầy trò",
+   "title": "Vun đắp tình thầy trò",
    "content": "",
    "periodLabel": "Tiết 32 (1 tiết)",
    "periodFrom": 32,
@@ -654,7 +638,7 @@
    "semester": 1,
    "week": 11,
    "theme": "CHỦ ĐỀ 3: Tôn sư trọng đạo",
-   "title": "SHL: Sản phẩm tri ân thầy cô",
+   "title": "Sản phẩm tri ân thầy cô",
    "content": "",
    "periodLabel": "Tiết 33 (1 tiết)",
    "periodFrom": 33,
@@ -662,13 +646,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -676,7 +654,7 @@
    "semester": 1,
    "week": 12,
    "theme": "CHỦ ĐỀ 3: Tôn sư trọng đạo",
-   "title": "SHDC: Lễ kỉ niệm ngày nhà giáo Việt Nam 20-11",
+   "title": "Lễ kỉ niệm ngày nhà giáo Việt Nam 20-11",
    "content": "",
    "periodLabel": "Tiết 34 (1 tiết)",
    "periodFrom": 34,
@@ -692,7 +670,7 @@
    "semester": 1,
    "week": 12,
    "theme": "CHỦ ĐỀ 3: Tôn sư trọng đạo",
-   "title": "HĐGDCĐ: Chuẩn bị chào mừng ngày nhà giáo Việt Nam 20-11",
+   "title": "Chuẩn bị chào mừng ngày nhà giáo Việt Nam 20-11",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
    "periodFrom": 35,
@@ -708,7 +686,7 @@
    "semester": 1,
    "week": 12,
    "theme": "CHỦ ĐỀ 3: Tôn sư trọng đạo",
-   "title": "SHL: Chào mừng ngày nhà giáo Việt Nam 20-11",
+   "title": "Chào mừng ngày nhà giáo Việt Nam 20-11",
    "content": "",
    "periodLabel": "Tiết 36 (1 tiết)",
    "periodFrom": 36,
@@ -724,7 +702,7 @@
    "semester": 1,
    "week": 13,
    "theme": "CHỦ ĐỀ 4: Quản lý chi tiêu và lập kế hoạch kinh doanh",
-   "title": "SHDC: Chủ động tham gia chi tiêu tiết kiệm",
+   "title": "Chủ động tham gia chi tiêu tiết kiệm",
    "content": "",
    "periodLabel": "Tiết 37 (1 tiết)",
    "periodFrom": 37,
@@ -742,11 +720,6 @@
      "code": "NLS-ST",
      "level": "",
      "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
     }
    ],
    "note": ""
@@ -756,7 +729,7 @@
    "semester": 1,
    "week": 13,
    "theme": "CHỦ ĐỀ 4: Quản lý chi tiêu và lập kế hoạch kinh doanh",
-   "title": "HĐGDCĐ: Sổ tay ghi chép chi tiêu trong gia đình",
+   "title": "Sổ tay ghi chép chi tiêu trong gia đình",
    "content": "",
    "periodLabel": "Tiết 38 (1 tiết)",
    "periodFrom": 38,
@@ -764,23 +737,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -788,7 +745,7 @@
    "semester": 1,
    "week": 13,
    "theme": "CHỦ ĐỀ 4: Quản lý chi tiêu và lập kế hoạch kinh doanh",
-   "title": "SHL: Ghi chép chi tiêu",
+   "title": "Ghi chép chi tiêu",
    "content": "",
    "periodLabel": "Tiết 39 (1 tiết)",
    "periodFrom": 39,
@@ -796,13 +753,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -810,7 +761,7 @@
    "semester": 1,
    "week": 14,
    "theme": "CHỦ ĐỀ 4: Quản lý chi tiêu và lập kế hoạch kinh doanh",
-   "title": "SHDC: Phát triển thư viện",
+   "title": "Phát triển thư viện",
    "content": "",
    "periodLabel": "Tiết 40 (1 tiết)",
    "periodFrom": 40,
@@ -818,13 +769,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -832,7 +777,7 @@
    "semester": 1,
    "week": 14,
    "theme": "CHỦ ĐỀ 4: Quản lý chi tiêu và lập kế hoạch kinh doanh",
-   "title": "HĐGDCĐ: Ý tưởng kinh doanh",
+   "title": "Ý tưởng kinh doanh",
    "content": "",
    "periodLabel": "Tiết 41 (1 tiết)",
    "periodFrom": 41,
@@ -840,13 +785,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -854,7 +793,7 @@
    "semester": 1,
    "week": 14,
    "theme": "CHỦ ĐỀ 4: Quản lý chi tiêu và lập kế hoạch kinh doanh",
-   "title": "SHL: Thực hiện khảo sát nhu cầu khách hàng",
+   "title": "Thực hiện khảo sát nhu cầu khách hàng",
    "content": "",
    "periodLabel": "Tiết 42 (1 tiết)",
    "periodFrom": 42,
@@ -862,13 +801,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -876,7 +809,7 @@
    "semester": 1,
    "week": 15,
    "theme": "CHỦ ĐỀ 4: Quản lý chi tiêu và lập kế hoạch kinh doanh",
-   "title": "SHDC: Chào mừng ngày thành lập Quân đội nhân dân Việt Nam 22-12",
+   "title": "Chào mừng ngày thành lập Quân đội nhân dân Việt Nam 22-12",
    "content": "",
    "periodLabel": "Tiết 43 (1 tiết)",
    "periodFrom": 43,
@@ -884,13 +817,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -898,7 +825,7 @@
    "semester": 1,
    "week": 15,
    "theme": "CHỦ ĐỀ 4: Quản lý chi tiêu và lập kế hoạch kinh doanh",
-   "title": "HĐGDCĐ: Việc cần làm để thực hiện kế hoạch kinh doanh",
+   "title": "Việc cần làm để thực hiện kế hoạch kinh doanh",
    "content": "",
    "periodLabel": "Tiết 44 (1 tiết)",
    "periodFrom": 44,
@@ -906,13 +833,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -920,7 +841,7 @@
    "semester": 1,
    "week": 15,
    "theme": "CHỦ ĐỀ 4: Quản lý chi tiêu và lập kế hoạch kinh doanh",
-   "title": "SHL: Kinh doanh hiệu quả",
+   "title": "Kinh doanh hiệu quả",
    "content": "",
    "periodLabel": "Tiết 45 (1 tiết)",
    "periodFrom": 45,
@@ -928,13 +849,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -942,7 +857,7 @@
    "semester": 1,
    "week": 16,
    "theme": "CHỦ ĐỀ 4: Quản lý chi tiêu và lập kế hoạch kinh doanh",
-   "title": "SHDC: Xây dựng quỹ nhân ái",
+   "title": "Xây dựng quỹ nhân ái",
    "content": "",
    "periodLabel": "Tiết 46 (1 tiết)",
    "periodFrom": 46,
@@ -950,13 +865,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -964,7 +873,7 @@
    "semester": 1,
    "week": 16,
    "theme": "CHỦ ĐỀ 4: Quản lý chi tiêu và lập kế hoạch kinh doanh",
-   "title": "HĐGDCĐ: Xây dựng kế hoạch kinh doanh",
+   "title": "Xây dựng kế hoạch kinh doanh",
    "content": "",
    "periodLabel": "Tiết 47 (1 tiết)",
    "periodFrom": 47,
@@ -972,13 +881,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -986,7 +889,7 @@
    "semester": 1,
    "week": 16,
    "theme": "CHỦ ĐỀ 4: Quản lý chi tiêu và lập kế hoạch kinh doanh",
-   "title": "SHL: Kế hoạch kinh doanh của lớp",
+   "title": "Kế hoạch kinh doanh của lớp",
    "content": "",
    "periodLabel": "Tiết 48 (1 tiết)",
    "periodFrom": 48,
@@ -994,13 +897,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1008,7 +905,7 @@
    "semester": 1,
    "week": 17,
    "theme": "CHỦ ĐỀ 5: Gia đình đầm ấm",
-   "title": "SHDC: Gia đình yêu thương",
+   "title": "Gia đình yêu thương",
    "content": "",
    "periodLabel": "Tiết 49 (1 tiết)",
    "periodFrom": 49,
@@ -1024,7 +921,7 @@
    "semester": 1,
    "week": 17,
    "theme": "CHỦ ĐỀ 5: Gia đình đầm ấm",
-   "title": "HĐGDCĐ: Trách nhiệm của em trong gia đình",
+   "title": "Trách nhiệm của em trong gia đình",
    "content": "",
    "periodLabel": "Tiết 50 (1 tiết)",
    "periodFrom": 50,
@@ -1040,7 +937,7 @@
    "semester": 1,
    "week": 17,
    "theme": "CHỦ ĐỀ 5: Gia đình đầm ấm",
-   "title": "SHL: Thể hiện trách nhiệm với gia đình",
+   "title": "Thể hiện trách nhiệm với gia đình",
    "content": "",
    "periodLabel": "Tiết 51 (1 tiết)",
    "periodFrom": 51,
@@ -1056,7 +953,7 @@
    "semester": 1,
    "week": 18,
    "theme": "CHỦ ĐỀ 5: Gia đình đầm ấm",
-   "title": "SHDC: Lòng biết ơn",
+   "title": "Lòng biết ơn",
    "content": "",
    "periodLabel": "Tiết 52 (1 tiết)",
    "periodFrom": 52,
@@ -1064,13 +961,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1078,7 +969,7 @@
    "semester": 1,
    "week": 18,
    "theme": "CHỦ ĐỀ 5: Gia đình đầm ấm",
-   "title": "HĐGDCĐ: Biết ơn người thân trong gia đình",
+   "title": "Biết ơn người thân trong gia đình",
    "content": "",
    "periodLabel": "Tiết 53 (1 tiết)",
    "periodFrom": 53,
@@ -1086,13 +977,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1100,7 +985,7 @@
    "semester": 1,
    "week": 18,
    "theme": "CHỦ ĐỀ 5: Gia đình đầm ấm",
-   "title": "SHL: Thể hiện lòng biết ơn với người thân",
+   "title": "Thể hiện lòng biết ơn với người thân",
    "content": "",
    "periodLabel": "Tiết 54 (1 tiết)",
    "periodFrom": 54,
@@ -1116,14 +1001,14 @@
    "semester": 2,
    "week": 19,
    "theme": "CHỦ ĐỀ 5: Gia đình đầm ấm",
-   "title": "SHDC: Tết đoàn viên",
+   "title": "Tết đoàn viên",
    "content": "",
    "periodLabel": "Tiết 55 (1 tiết)",
    "periodFrom": 55,
    "periodTo": 55,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Đề xuất chuyển sang sau Tuần 19",
+   "adjustments": "Đề xuất chuyển sang sau tuần 19 (dịp Tết)",
    "integrations": [],
    "note": ""
   },
@@ -1132,7 +1017,7 @@
    "semester": 2,
    "week": 19,
    "theme": "CHỦ ĐỀ 5: Gia đình đầm ấm",
-   "title": "HĐGDCĐ: Gia đình là tổ ấm",
+   "title": "Gia đình là tổ ấm",
    "content": "",
    "periodLabel": "Tiết 56 (1 tiết)",
    "periodFrom": 56,
@@ -1148,7 +1033,7 @@
    "semester": 2,
    "week": 19,
    "theme": "CHỦ ĐỀ 5: Gia đình đầm ấm",
-   "title": "SHL: Vun đắp tình cảm gia đình",
+   "title": "Vun đắp tình cảm gia đình",
    "content": "",
    "periodLabel": "Tiết 57 (1 tiết)",
    "periodFrom": 57,
@@ -1164,14 +1049,14 @@
    "semester": 2,
    "week": 20,
    "theme": "CHỦ ĐỀ 5: Gia đình đầm ấm",
-   "title": "SHDC: Hội chợ xuân gây quỹ nhân ái",
+   "title": "Hội chợ xuân gây quỹ nhân ái",
    "content": "",
    "periodLabel": "Tiết 58 (1 tiết)",
    "periodFrom": 58,
    "periodTo": 58,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "Đề xuất chuyển sang sau Tuần 19",
+   "adjustments": "Đề xuất chuyển sang sau tuần 19",
    "integrations": [],
    "note": ""
   },
@@ -1180,7 +1065,7 @@
    "semester": 2,
    "week": 20,
    "theme": "CHỦ ĐỀ 5: Gia đình đầm ấm",
-   "title": "HĐGDCĐ: Ngày cuối tuần vui vẻ, đầm ấm",
+   "title": "Ngày cuối tuần vui vẻ, đầm ấm",
    "content": "",
    "periodLabel": "Tiết 59 (1 tiết)",
    "periodFrom": 59,
@@ -1196,7 +1081,7 @@
    "semester": 2,
    "week": 20,
    "theme": "CHỦ ĐỀ 5: Gia đình đầm ấm",
-   "title": "SHL: Buổi tối nhà em",
+   "title": "Buổi tối nhà em",
    "content": "",
    "periodLabel": "Tiết 60 (1 tiết)",
    "periodFrom": 60,
@@ -1211,8 +1096,8 @@
    "id": "l5-hoat-dong-trai-nghiem-061",
    "semester": 2,
    "week": 21,
-   "theme": "CHỦ ĐỀ 6: Sống an",
-   "title": "SHDC: Rèn luyện sức khoẻ",
+   "theme": "CHỦ ĐỀ 6: Sống an toàn và tự chủ",
+   "title": "Rèn luyện sức khoẻ",
    "content": "",
    "periodLabel": "Tiết 61 (1 tiết)",
    "periodFrom": 61,
@@ -1227,8 +1112,8 @@
    "id": "l5-hoat-dong-trai-nghiem-062",
    "semester": 2,
    "week": 21,
-   "theme": "toàn và tự chủ",
-   "title": "HĐGDCĐ: Nhận diện các môi trường học tập mới",
+   "theme": "CHỦ ĐỀ 6: Sống an toàn và tự chủ",
+   "title": "Nhận diện các môi trường học tập mới",
    "content": "",
    "periodLabel": "Tiết 62 (1 tiết)",
    "periodFrom": 62,
@@ -1246,27 +1131,16 @@
      "code": "NLS-ST",
      "level": "",
      "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
-    },
-    {
-     "code": "GDĐP",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
     }
    ],
-   "note": "",
-   "gddpBoSung": true
+   "note": ""
   },
   {
    "id": "l5-hoat-dong-trai-nghiem-063",
    "semester": 2,
    "week": 21,
-   "theme": "toàn và tự chủ",
-   "title": "SHL: Trải nghiệm môi trường học tập mới",
+   "theme": "CHỦ ĐỀ 6: Sống an toàn và tự chủ",
+   "title": "Trải nghiệm môi trường học tập mới",
    "content": "",
    "periodLabel": "Tiết 63 (1 tiết)",
    "periodFrom": 63,
@@ -1274,37 +1148,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
-    },
-    {
-     "code": "GDĐP",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
-    }
-   ],
-   "note": "",
-   "gddpBoSung": true
+   "integrations": [],
+   "note": ""
   },
   {
    "id": "l5-hoat-dong-trai-nghiem-064",
    "semester": 2,
    "week": 22,
-   "theme": "toàn và tự chủ",
-   "title": "SHDC: Rèn luyện thể chất và tinh thần để thích ứng với cuộc sống",
+   "theme": "CHỦ ĐỀ 6: Sống an toàn và tự chủ",
+   "title": "Rèn luyện thể chất và tinh thần để thích ứng với cuộc sống",
    "content": "",
    "periodLabel": "Tiết 64 (1 tiết)",
    "periodFrom": 64,
@@ -1319,8 +1171,8 @@
    "id": "l5-hoat-dong-trai-nghiem-065",
    "semester": 2,
    "week": 22,
-   "theme": "toàn và tự chủ",
-   "title": "HĐGDCĐ: Các đức tính cần thiết trong môi trường học tập mới",
+   "theme": "CHỦ ĐỀ 6: Sống an toàn và tự chủ",
+   "title": "Các đức tính cần thiết trong môi trường học tập mới",
    "content": "",
    "periodLabel": "Tiết 65 (1 tiết)",
    "periodFrom": 65,
@@ -1335,8 +1187,8 @@
    "id": "l5-hoat-dong-trai-nghiem-066",
    "semester": 2,
    "week": 22,
-   "theme": "toàn và tự chủ",
-   "title": "SHL: Rèn đức tính cần thiết để thích ứng với môi trường học tập mới",
+   "theme": "CHỦ ĐỀ 6: Sống an toàn và tự chủ",
+   "title": "Rèn đức tính cần thiết để thích ứng với môi trường học tập mới",
    "content": "",
    "periodLabel": "Tiết 66 (1 tiết)",
    "periodFrom": 66,
@@ -1351,8 +1203,8 @@
    "id": "l5-hoat-dong-trai-nghiem-067",
    "semester": 2,
    "week": 23,
-   "theme": "toàn và tự chủ",
-   "title": "SHDC: Kỉ niệm ngày Quốc tế phụ nữ 8-3",
+   "theme": "CHỦ ĐỀ 6: Sống an toàn và tự chủ",
+   "title": "Kỉ niệm ngày Quốc tế phụ nữ 8-3",
    "content": "",
    "periodLabel": "Tiết 67 (1 tiết)",
    "periodFrom": 67,
@@ -1367,8 +1219,8 @@
    "id": "l5-hoat-dong-trai-nghiem-068",
    "semester": 2,
    "week": 23,
-   "theme": "toàn và tự chủ",
-   "title": "HĐGDCĐ: Tự chủ và đảm bảo an toàn khi giao tiếp trên mạng",
+   "theme": "CHỦ ĐỀ 6: Sống an toàn và tự chủ",
+   "title": "Tự chủ và đảm bảo an toàn khi giao tiếp trên mạng",
    "content": "",
    "periodLabel": "Tiết 68 (1 tiết)",
    "periodFrom": 68,
@@ -1376,26 +1228,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-hoat-dong-trai-nghiem-069",
    "semester": 2,
    "week": 23,
-   "theme": "toàn và tự chủ",
-   "title": "SHL: Ứng xử theo quy tắc tự chủ và đảm bảo an toàn khi giao tiếp trên mạng",
+   "theme": "CHỦ ĐỀ 6: Sống an toàn và tự chủ",
+   "title": "Ứng xử theo quy tắc tự chủ và đảm bảo an toàn khi giao tiếp trên mạng",
    "content": "",
    "periodLabel": "Tiết 69 (1 tiết)",
    "periodFrom": 69,
@@ -1403,26 +1244,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-hoat-dong-trai-nghiem-070",
    "semester": 2,
    "week": 24,
-   "theme": "toàn và tự chủ",
-   "title": "SHDC: Tự bảo vệ bản thân",
+   "theme": "CHỦ ĐỀ 6: Sống an toàn và tự chủ",
+   "title": "Tự bảo vệ bản thân",
    "content": "",
    "periodLabel": "Tiết 70 (1 tiết)",
    "periodFrom": 70,
@@ -1430,21 +1260,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-hoat-dong-trai-nghiem-071",
    "semester": 2,
    "week": 24,
-   "theme": "toàn và tự chủ",
-   "title": "HĐGDCĐ: Nguyên nhân và cách phòng chống hoả hoạn",
+   "theme": "CHỦ ĐỀ 6: Sống an toàn và tự chủ",
+   "title": "Nguyên nhân và cách phòng chống hoả hoạn",
    "content": "",
    "periodLabel": "Tiết 71 (1 tiết)",
    "periodFrom": 71,
@@ -1459,8 +1283,8 @@
    "id": "l5-hoat-dong-trai-nghiem-072",
    "semester": 2,
    "week": 24,
-   "theme": "toàn và tự chủ",
-   "title": "SHL: Thực hành thoát hiểm",
+   "theme": "CHỦ ĐỀ 6: Sống an toàn và tự chủ",
+   "title": "Thực hành thoát hiểm",
    "content": "",
    "periodLabel": "Tiết 72 (1 tiết)",
    "periodFrom": 72,
@@ -1476,7 +1300,7 @@
    "semester": 2,
    "week": 25,
    "theme": "CHỦ ĐỀ 7: Tham gia hoạt động xã hội",
-   "title": "SHDC: Lễ hội truyền thống địa phương",
+   "title": "Lễ hội truyền thống địa phương",
    "content": "",
    "periodLabel": "Tiết 73 (1 tiết)",
    "periodFrom": 73,
@@ -1494,11 +1318,6 @@
      "code": "NLS-ST",
      "level": "",
      "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
     }
    ],
    "note": ""
@@ -1508,7 +1327,7 @@
    "semester": 2,
    "week": 25,
    "theme": "CHỦ ĐỀ 7: Tham gia hoạt động xã hội",
-   "title": "HĐGDCĐ: Tham gia lễ hội truyền thống địa phương",
+   "title": "Tham gia lễ hội truyền thống địa phương",
    "content": "",
    "periodLabel": "Tiết 74 (1 tiết)",
    "periodFrom": 74,
@@ -1516,23 +1335,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1540,7 +1343,7 @@
    "semester": 2,
    "week": 25,
    "theme": "CHỦ ĐỀ 7: Tham gia hoạt động xã hội",
-   "title": "SHL: Tái hiện lễ hội truyền thống",
+   "title": "Tái hiện lễ hội truyền thống",
    "content": "",
    "periodLabel": "Tiết 75 (1 tiết)",
    "periodFrom": 75,
@@ -1556,7 +1359,7 @@
    "semester": 2,
    "week": 26,
    "theme": "CHỦ ĐỀ 7: Tham gia hoạt động xã hội",
-   "title": "SHDC: Tham gia hoạt động xã hội ở địa phương",
+   "title": "Tham gia hoạt động xã hội ở địa phương",
    "content": "",
    "periodLabel": "Tiết 76 (1 tiết)",
    "periodFrom": 76,
@@ -1564,27 +1367,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
-    },
-    {
-     "code": "GDĐP",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
-    }
-   ],
-   "note": "",
-   "gddpBoSung": true
+   "integrations": [],
+   "note": ""
   },
   {
    "id": "l5-hoat-dong-trai-nghiem-077",
    "semester": 2,
    "week": 26,
    "theme": "CHỦ ĐỀ 7: Tham gia hoạt động xã hội",
-   "title": "HĐGDCĐ: Tham gia hoạt động xã hội",
+   "title": "Tham gia hoạt động xã hội",
    "content": "",
    "periodLabel": "Tiết 77 (1 tiết)",
    "periodFrom": 77,
@@ -1600,7 +1391,7 @@
    "semester": 2,
    "week": 26,
    "theme": "CHỦ ĐỀ 7: Tham gia hoạt động xã hội",
-   "title": "SHL: Chung tay vì cộng đồng",
+   "title": "Chung tay vì cộng đồng",
    "content": "",
    "periodLabel": "Tiết 78 (1 tiết)",
    "periodFrom": 78,
@@ -1608,32 +1399,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
-    },
-    {
-     "code": "GDĐP",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
-    }
-   ],
-   "note": "",
-   "gddpBoSung": true
+   "integrations": [],
+   "note": ""
   },
   {
    "id": "l5-hoat-dong-trai-nghiem-079",
    "semester": 2,
    "week": 27,
    "theme": "CHỦ ĐỀ 7: Tham gia hoạt động xã hội",
-   "title": "SHDC: Gương người tốt, việc tốt",
+   "title": "Gương người tốt, việc tốt",
    "content": "",
    "periodLabel": "Tiết 79 (1 tiết)",
    "periodFrom": 79,
@@ -1649,7 +1423,7 @@
    "semester": 2,
    "week": 27,
    "theme": "CHỦ ĐỀ 7: Tham gia hoạt động xã hội",
-   "title": "HĐGDCĐ: Thân thiện với người xung quanh",
+   "title": "Thân thiện với người xung quanh",
    "content": "",
    "periodLabel": "Tiết 80 (1 tiết)",
    "periodFrom": 80,
@@ -1665,7 +1439,7 @@
    "semester": 2,
    "week": 27,
    "theme": "CHỦ ĐỀ 7: Tham gia hoạt động xã hội",
-   "title": "SHL: Đánh giá việc tham gia hoạt động xã hội",
+   "title": "Đánh giá việc tham gia hoạt động xã hội",
    "content": "",
    "periodLabel": "Tiết 81 (1 tiết)",
    "periodFrom": 81,
@@ -1681,7 +1455,7 @@
    "semester": 2,
    "week": 28,
    "theme": "CHỦ ĐỀ 8: Tự hào quê hương em",
-   "title": "SHDC: Hình ảnh quê hương",
+   "title": "Hình ảnh quê hương",
    "content": "",
    "periodLabel": "Tiết 82 (1 tiết)",
    "periodFrom": 82,
@@ -1689,32 +1463,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
-    },
-    {
-     "code": "GDĐP",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
-   "note": "",
-   "gddpBoSung": true
+   "integrations": [],
+   "note": ""
   },
   {
    "id": "l5-hoat-dong-trai-nghiem-083",
    "semester": 2,
    "week": 28,
    "theme": "CHỦ ĐỀ 8: Tự hào quê hương em",
-   "title": "HĐGDCĐ: Tự hào về cảnh quan thiên nhiên của quê hương, đất nước",
+   "title": "Tự hào về cảnh quan thiên nhiên của quê hương, đất nước",
    "content": "",
    "periodLabel": "Tiết 83 (1 tiết)",
    "periodFrom": 83,
@@ -1722,32 +1479,15 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
-    },
-    {
-     "code": "GDĐP",
-     "level": "",
-     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
-   "note": "",
-   "gddpBoSung": true
+   "integrations": [],
+   "note": ""
   },
   {
    "id": "l5-hoat-dong-trai-nghiem-084",
    "semester": 2,
    "week": 28,
    "theme": "CHỦ ĐỀ 8: Tự hào quê hương em",
-   "title": "SHL: Việt Nam trong mắt em",
+   "title": "Việt Nam trong mắt em",
    "content": "",
    "periodLabel": "Tiết 84 (1 tiết)",
    "periodFrom": 84,
@@ -1755,13 +1495,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1769,7 +1503,7 @@
    "semester": 2,
    "week": 29,
    "theme": "CHỦ ĐỀ 8: Tự hào quê hương em",
-   "title": "SHDC: Bảo tồn cảnh quan thiên nhiên",
+   "title": "Bảo tồn cảnh quan thiên nhiên",
    "content": "",
    "periodLabel": "Tiết 85 (1 tiết)",
    "periodFrom": 85,
@@ -1777,13 +1511,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1791,7 +1519,7 @@
    "semester": 2,
    "week": 29,
    "theme": "CHỦ ĐỀ 8: Tự hào quê hương em",
-   "title": "HĐGDCĐ: Biện pháp bảo tồn cảnh quan thiên nhiên",
+   "title": "Biện pháp bảo tồn cảnh quan thiên nhiên",
    "content": "",
    "periodLabel": "Tiết 86 (1 tiết)",
    "periodFrom": 86,
@@ -1799,13 +1527,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1813,7 +1535,7 @@
    "semester": 2,
    "week": 29,
    "theme": "CHỦ ĐỀ 8: Tự hào quê hương em",
-   "title": "SHL: Tuyên truyền về việc bảo tồn cảnh quan thiên nhiên",
+   "title": "Tuyên truyền về việc bảo tồn cảnh quan thiên nhiên",
    "content": "",
    "periodLabel": "Tiết 87 (1 tiết)",
    "periodFrom": 87,
@@ -1821,13 +1543,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1835,7 +1551,7 @@
    "semester": 2,
    "week": 30,
    "theme": "CHỦ ĐỀ 8: Tự hào quê hương em",
-   "title": "SHDC: Sản phẩm tuyên truyền bảo tồn cảnh quan thiên nhiên",
+   "title": "Sản phẩm tuyên truyền bảo tồn cảnh quan thiên nhiên",
    "content": "",
    "periodLabel": "Tiết 88 (1 tiết)",
    "periodFrom": 88,
@@ -1862,7 +1578,7 @@
    "semester": 2,
    "week": 30,
    "theme": "CHỦ ĐỀ 8: Tự hào quê hương em",
-   "title": "HĐGDCĐ: Lập kế hoạch khảo sát thực trạng môi trường quanh em",
+   "title": "Lập kế hoạch khảo sát thực trạng môi trường quanh em",
    "content": "",
    "periodLabel": "Tiết 89 (1 tiết)",
    "periodFrom": 89,
@@ -1870,18 +1586,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    },
-    {
-     "code": "NLS-ST",
-     "level": "",
-     "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1889,7 +1594,7 @@
    "semester": 2,
    "week": 30,
    "theme": "CHỦ ĐỀ 8: Tự hào quê hương em",
-   "title": "SHL: Chúng tôi lên tiếng vì môi trường",
+   "title": "Chúng tôi lên tiếng vì môi trường",
    "content": "",
    "periodLabel": "Tiết 90 (1 tiết)",
    "periodFrom": 90,
@@ -1905,7 +1610,7 @@
    "semester": 2,
    "week": 31,
    "theme": "CHỦ ĐỀ 8: Tự hào quê hương em",
-   "title": "SHDC: Ngày hội \"Chữa lành vết thương Trái Đất\"",
+   "title": "Ngày hội \"Chữa lành vết thương Trái Đất\"",
    "content": "",
    "periodLabel": "Tiết 91 (1 tiết)",
    "periodFrom": 91,
@@ -1921,7 +1626,7 @@
    "semester": 2,
    "week": 31,
    "theme": "CHỦ ĐỀ 8: Tự hào quê hương em",
-   "title": "HĐGDCĐ: Chung tay bảo vệ môi trường quanh ta",
+   "title": "Chung tay bảo vệ môi trường quanh ta",
    "content": "",
    "periodLabel": "Tiết 92 (1 tiết)",
    "periodFrom": 92,
@@ -1937,7 +1642,7 @@
    "semester": 2,
    "week": 31,
    "theme": "CHỦ ĐỀ 8: Tự hào quê hương em",
-   "title": "SHL: Mỗi hành động - Một chiếc lá",
+   "title": "Mỗi hành động - Một chiếc lá",
    "content": "",
    "periodLabel": "Tiết 93 (1 tiết)",
    "periodFrom": 93,
@@ -1945,13 +1650,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1959,7 +1658,7 @@
    "semester": 2,
    "week": 32,
    "theme": "CHỦ ĐỀ 9: Ước mơ nghề nghiệp",
-   "title": "SHDC: Diễn đàn \"Nghề nghiệp tương lai\"",
+   "title": "Diễn đàn \"Nghề nghiệp tương lai\"",
    "content": "",
    "periodLabel": "Tiết 94 (1 tiết)",
    "periodFrom": 94,
@@ -1967,13 +1666,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1981,7 +1674,7 @@
    "semester": 2,
    "week": 32,
    "theme": "CHỦ ĐỀ 9: Ước mơ nghề nghiệp",
-   "title": "HĐGDCĐ: Nghề em mơ ước",
+   "title": "Nghề em mơ ước",
    "content": "",
    "periodLabel": "Tiết 95 (1 tiết)",
    "periodFrom": 95,
@@ -1989,13 +1682,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2003,7 +1690,7 @@
    "semester": 2,
    "week": 32,
    "theme": "CHỦ ĐỀ 9: Ước mơ nghề nghiệp",
-   "title": "SHL: Câu chuyện của người làm nghề",
+   "title": "Câu chuyện của người làm nghề",
    "content": "",
    "periodLabel": "Tiết 96 (1 tiết)",
    "periodFrom": 96,
@@ -2011,13 +1698,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2025,7 +1706,7 @@
    "semester": 2,
    "week": 33,
    "theme": "CHỦ ĐỀ 9: Ước mơ nghề nghiệp",
-   "title": "SHDC: Toạ đàm \"Chọn nghề - Đường tới thành công\"",
+   "title": "Toạ đàm \"Chọn nghề - Đường tới thành công\"",
    "content": "",
    "periodLabel": "Tiết 97 (1 tiết)",
    "periodFrom": 97,
@@ -2033,13 +1714,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2047,7 +1722,7 @@
    "semester": 2,
    "week": 33,
    "theme": "CHỦ ĐỀ 9: Ước mơ nghề nghiệp",
-   "title": "HĐGDCĐ: An toàn nghề nghiệp",
+   "title": "An toàn nghề nghiệp",
    "content": "",
    "periodLabel": "Tiết 98 (1 tiết)",
    "periodFrom": 98,
@@ -2055,18 +1730,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Rèn nền nếp, kỉ luật, chấp hành pháp luật giao thông — yêu cầu cơ bản của giáo dục quốc phòng và an ninh ở tiểu học."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2074,7 +1738,7 @@
    "semester": 2,
    "week": 33,
    "theme": "CHỦ ĐỀ 9: Ước mơ nghề nghiệp",
-   "title": "SHL: Thiết bị bảo hộ lao động",
+   "title": "Thiết bị bảo hộ lao động",
    "content": "",
    "periodLabel": "Tiết 99 (1 tiết)",
    "periodFrom": 99,
@@ -2082,13 +1746,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2096,7 +1754,7 @@
    "semester": 2,
    "week": 34,
    "theme": "CHỦ ĐỀ 9: Ước mơ nghề nghiệp",
-   "title": "SHDC: Kỉ niệm ngày sinh Bác Hồ kính yêu",
+   "title": "Kỉ niệm ngày sinh Bác Hồ kính yêu",
    "content": "",
    "periodLabel": "Tiết 100 (1 tiết)",
    "periodFrom": 100,
@@ -2104,13 +1762,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2118,7 +1770,7 @@
    "semester": 2,
    "week": 34,
    "theme": "CHỦ ĐỀ 9: Ước mơ nghề nghiệp",
-   "title": "HĐGDCĐ: Mơ ước nghề nghiệp của em",
+   "title": "Mơ ước nghề nghiệp của em",
    "content": "",
    "periodLabel": "Tiết 101 (1 tiết)",
    "periodFrom": 101,
@@ -2126,13 +1778,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2140,7 +1786,7 @@
    "semester": 2,
    "week": 34,
    "theme": "CHỦ ĐỀ 9: Ước mơ nghề nghiệp",
-   "title": "SHL: Tấm danh thiếp tương lai",
+   "title": "Tấm danh thiếp tương lai",
    "content": "",
    "periodLabel": "Tiết 102 (1 tiết)",
    "periodFrom": 102,
@@ -2148,13 +1794,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2162,7 +1802,7 @@
    "semester": 2,
    "week": 35,
    "theme": "Tuần tổng kết",
-   "title": "SHDC: Lễ tổng kết năm học",
+   "title": "Lễ tổng kết năm học",
    "content": "",
    "periodLabel": "Tiết 103 (1 tiết)",
    "periodFrom": 103,
@@ -2170,13 +1810,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2184,7 +1818,7 @@
    "semester": 2,
    "week": 35,
    "theme": "Tuần tổng kết",
-   "title": "HĐGDCĐ: Hồ sơ trải nghiệm",
+   "title": "Hồ sơ trải nghiệm",
    "content": "",
    "periodLabel": "Tiết 104 (1 tiết)",
    "periodFrom": 104,
@@ -2192,13 +1826,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2206,7 +1834,7 @@
    "semester": 2,
    "week": 35,
    "theme": "Tuần tổng kết",
-   "title": "SHL: Chia tay tổng kết trường tiểu học",
+   "title": "Chia tay tổng kết trường tiểu học",
    "content": "",
    "periodLabel": "Tiết 105 (1 tiết)",
    "periodFrom": 105,
@@ -2214,13 +1842,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
-    }
-   ],
+   "integrations": [],
    "note": ""
   }
  ],
@@ -2496,8 +2118,8 @@
  "attachment": {
   "file": "assets/docs/lop5/Hoat dong trai nghiem - Lop 5.docx",
   "name": "Hoat dong trai nghiem - Lop 5.docx",
-  "original": "KHDH HĐTN lớp 5 (2026-2027) (đã rà soát).docx",
-  "size": 18021,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 48603,
+  "updated": "2026-09-07"
  }
 }

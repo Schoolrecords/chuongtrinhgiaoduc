@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 40
+  "integrations": 43
  },
  "lessons": [
   {
@@ -28,14 +28,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
-     "level": "Cơ bản 2",
-     "text": "4.1.CB2a: Nhận biết được cách bảo vệ thiết bị và nội dung số một cách đơn giản (Bảo quản phần cứng, phần mềm)."
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "5.1.CB2a: Xác định được các vấn đề kỹ thuật đơn giản khi vận hành thiết bị và sử dụng môi trường số."
+     "text": "HS chỉ trên máy tính phần cứng: thân máy, màn hình, bàn phím, chuột; xử lí tình huống bạn Phúc không nghe tiếng: kiểm tra tai nghe, loa"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "HS quan sát ảnh thiết bị trên máy chiếu, phân loại phần cứng, phần mềm; GV mở thông tin hệ thống để HS đọc tên máy, bộ nhớ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Không tháo, cắm rút dây khi máy đang bật; không tự cài, xoá phần mềm."
     }
    ],
    "note": ""
@@ -55,14 +60,24 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
-     "level": "Cơ bản 2",
-     "text": "4.1.CB2a: Nhận biết được cách bảo vệ thiết bị và nội dung số một cách đơn giản (Bảo quản phần cứng, phần mềm)."
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2, TT 02: 5.1.CB2a",
+     "text": "HS chơi trò mê cung trên máy tính bằng phím mũi tên, chuột; nhóm thám tử nhận phiếu sự cố, xác định lỗi phần cứng hay phần mềm"
     },
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "5.1.CB2a: Xác định được các vấn đề kỹ thuật đơn giản khi vận hành thiết bị và sử dụng môi trường số."
+     "code": "AI-NB",
+     "level": "Cơ bản 2, QĐ 2422: 4.C2.1",
+     "text": "GV thao tác trên máy chiếu việc máy làm nhờ"
+    },
+    {
+     "code": "AI-NB",
+     "level": "",
+     "text": "đọc chính tả thành chữ, dịch câu; HS đọc lại kết quả máy, tìm chỗ sai, sửa"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Dùng máy theo giờ cha mẹ cho phép; mắt cách màn hình 50 cm."
     }
    ],
    "note": ""
@@ -295,7 +310,7 @@
    "semester": 1,
    "week": 12,
    "theme": "Chủ đề E: Ứng dụng tin học",
-   "title": "Bài 07. TẠO BÀI TRÌNH CHIẾU (Tiết 1)",
+   "title": "Bài 07: TẠO BÀI TRÌNH CHIẾU (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 12 (1 tiết)",
    "periodFrom": 12,
@@ -317,7 +332,7 @@
    "semester": 1,
    "week": 13,
    "theme": "Chủ đề E: Ứng dụng tin học",
-   "title": "Bài 07. TẠO BÀI TRÌNH CHIẾU (Tiết 2)",
+   "title": "Bài 07: TẠO BÀI TRÌNH CHIẾU (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 13 (1 tiết)",
    "periodFrom": 13,
@@ -339,7 +354,7 @@
    "semester": 1,
    "week": 14,
    "theme": "Chủ đề E: Ứng dụng tin học",
-   "title": "Bài 08. ĐỊNH DẠNG VĂN BẢN TRÊN TRANG CHIẾU (Tiết 1)",
+   "title": "Bài 08: ĐỊNH DẠNG VĂN BẢN TRÊN TRANG CHIẾU (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 14 (1 tiết)",
    "periodFrom": 14,
@@ -361,7 +376,7 @@
    "semester": 1,
    "week": 15,
    "theme": "Chủ đề E: Ứng dụng tin học",
-   "title": "Bài 08. ĐỊNH DẠNG VĂN BẢN TRÊN TRANG CHIẾU (Tiết 2)",
+   "title": "Bài 08: ĐỊNH DẠNG VĂN BẢN TRÊN TRANG CHIẾU (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 15 (1 tiết)",
    "periodFrom": 15,
@@ -383,7 +398,7 @@
    "semester": 1,
    "week": 16,
    "theme": "Chủ đề E: Ứng dụng tin học",
-   "title": "Bài 09. HIỆU ỨNG CHUYỂN TRANG (Tiết 1)",
+   "title": "Bài 09: HIỆU ỨNG CHUYỂN TRANG (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 16 (1 tiết)",
    "periodFrom": 16,
@@ -1077,8 +1092,8 @@
  "attachment": {
   "file": "assets/docs/lop4/Tin hoc - Lop 4.docx",
   "name": "Tin hoc - Lop 4.docx",
-  "original": "KHDH Tin học lớp 4 (2026-2027) (đã rà soát).docx",
-  "size": 11876,
-  "updated": "2026-09-04"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 46203,
+  "updated": "2026-09-07"
  }
 }

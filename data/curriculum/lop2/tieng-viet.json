@@ -9,8 +9,8 @@
   "weeks": 35,
   "semester1Weeks": 18,
   "semester2Weeks": 17,
-  "lessons": 219,
-  "integrations": 43
+  "lessons": 257,
+  "integrations": 50
  },
  "lessons": [
   {
@@ -30,7 +30,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
+     "text": "Ở hoạt động đọc văn bản bài “Tôi là học sinh lớp 2”, GV chiếu tranh minh hoạ phóng to và mở bản đọc mẫu trên tivi"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở phần luyện đọc lại, GV dùng điện thoại ghi âm một nhóm đọc phân vai lời người kể và lời nói trực tiếp của bạn nhỏ"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bản ghi âm chỉ dùng trong tiết học, GV xoá sau khi nghe"
     }
    ],
    "note": ""
@@ -46,9 +56,25 @@
    "periodFrom": 3,
    "periodTo": 3,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động hướng dẫn viết bài “Chữ hoa A”, GV chiếu trên tivi hình chữ hoa A phóng to trên khung ô li và video quy trình"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Sau khi HS viết câu ứng dụng Ánh nắng tràn ngập sân trường, GV chụp ảnh hai bài viết của HS"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ chụp trang vở, không chụp mặt HS"
+    }
+   ],
    "note": ""
   },
   {
@@ -62,9 +88,25 @@
    "periodFrom": 4,
    "periodTo": 4,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV quay phần kể “Những ngày hè của em” bằng điện thoại, chiếu lại trên tivi; HS xem mình kể đủ ý chưa, nói to hay nhỏ"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bảng gợi ý ba bước: đi đâu – làm gì – nhớ nhất gì; HS nói xong bước nào GV đánh dấu"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Hỏi ý HS trước khi quay, chiếu xong xoá ngay; không chụp bạn đưa người khác."
+    }
+   ],
    "note": ""
   },
   {
@@ -80,7 +122,23 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động đọc văn bản bài “Ngày hôm qua đâu rồi?”, GV chiếu tranh tờ lịch và mở bản đọc mẫu bài thơ trên tivi"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở phần đọc hiểu, khi liên hệ về quý trọng thời gian, GV mở bài tập tương tác trên tivi có các tranh việc học, việc nhà"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Nhắc HS quý thời gian thì cũng không dành quá nhiều giờ xem tivi, điện thoại"
+    }
+   ],
    "note": ""
   },
   {
@@ -94,9 +152,25 @@
    "periodFrom": 7,
    "periodTo": 7,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động nghe - viết hai khổ cuối bài “Ngày hôm qua đâu rồi?”, GV chiếu đoạn thơ trên tivi"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở bài tập 2, GV mở bảng chữ cái tương tác trên tivi có ô trống; HS lên chạm chọn chữ cái còn thiếu"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV tắt màn hình lúc HS đang viết để HS không nhìn chép"
+    }
+   ],
    "note": ""
   },
   {
@@ -110,9 +184,25 @@
    "periodFrom": 8,
    "periodTo": 8,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bài tập 2 dạng nối kéo – thả: cột A, cột B ghép thành câu; HS nêu cách nối, GV kéo chuột, máy báo đúng sai"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu tranh bài tập 1 về trường học, khoanh từng chi tiết để HS gọi từ chỉ người, chỉ vật, chỉ hoạt động"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Máy báo sai thì sửa, không ai bị chê; ở nhà chơi phải xin phép."
+    }
+   ],
    "note": ""
   },
   {
@@ -120,25 +210,51 @@
    "semester": 1,
    "week": 1,
    "theme": "Chủ điểm: Em lớn lên từng ngày",
-   "title": "Bài 2: NGÀY HÔM QUA ĐÂU RỒI? – TIẾT 5 - 6: VIẾT ĐOẠN VĂN GIỚI THIỆU VỀ BẢN THÂN; ĐỌC MỞ RỘNG",
+   "title": "Bài 2: NGÀY HÔM QUA ĐÂU RỒI? – TIẾT 5: VIẾT ĐOẠN VĂN GIỚI THIỆU VỀ BẢN THÂN",
    "content": "",
-   "periodLabel": "Tiết 9–10",
+   "periodLabel": "Tiết 9",
    "periodFrom": 9,
-   "periodTo": 10,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodTo": 9,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu sơ đồ ba ô: họ tên – lớp, trường – sở thích; HS nói theo từng ô, GV gõ ý vào sơ đồ"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV chụp một bài tự giới thiệu chiếu cạnh sơ đồ, lớp đối chiếu đủ ba ô chưa; chiếu ảnh bìa thơ, truyện từ nguồn tin cậy"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+     "text": "Dàn ý chỉ tham khảo, mỗi bạn kể việc của mình; bài chiếu khi bạn đồng ý."
     }
    ],
    "note": ""
   },
   {
    "id": "l2-tieng-viet-008",
+   "semester": 1,
+   "week": 1,
+   "theme": "Chủ điểm: Em lớn lên từng ngày",
+   "title": "Bài 2: NGÀY HÔM QUA ĐÂU RỒI? – TIẾT 6: ĐỌC MỞ RỘNG",
+   "content": "",
+   "periodLabel": "Tiết 10",
+   "periodFrom": 10,
+   "periodTo": 10,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-009",
    "semester": 1,
    "week": 2,
    "theme": "Chủ điểm: Em lớn lên từng ngày",
@@ -150,11 +266,27 @@
    "periods": 2,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở phần khởi động và đọc văn bản bài “Niềm vui của Bi và Bống”"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Ở phần liên hệ cách quan tâm người thân, GV gợi ý HS nói một lời yêu thương với anh chị em hoặc ông bà ở xa mà"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Gửi tin nhắn, gọi hình phải có bố mẹ bên cạnh và dùng điện thoại của người lớn"
+    }
+   ],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-009",
+   "id": "l2-tieng-viet-010",
    "semester": 1,
    "week": 2,
    "theme": "Chủ điểm: Em lớn lên từng ngày",
@@ -164,13 +296,29 @@
    "periodFrom": 13,
    "periodTo": 13,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động hướng dẫn viết bài “Chữ hoa Ă, Â”, GV chiếu chữ hoa A đã học rồi thêm dấu phụ của Ă"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở phần vận dụng, GV chụp ảnh vài dòng chữ Ă, Â và câu Ăn quả nhớ người trồng cây viết đẹp của HS"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ chụp trang vở, không chụp mặt và không ghi tên đầy đủ của HS lên ảnh"
+    }
+   ],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-010",
+   "id": "l2-tieng-viet-011",
    "semester": 1,
    "week": 2,
    "theme": "Chủ điểm: Em lớn lên từng ngày",
@@ -180,13 +328,29 @@
    "periodFrom": 14,
    "periodTo": 14,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu tranh truyện “Niềm vui của Bi và Bống”, che câu dưới tranh cầu vồng để HS nói tiếp lời Bi; mở bản đọc mẫu"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Nhóm 4 nhận một đoạn chiếu trên màn hình, bàn nhau rồi cử bạn kể; HS nhận xét, GV gõ lời nhận xét lên màn hình"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV chọn sẵn bản kể chuyện phù hợp, tải về máy; ở nhà xem cùng bố mẹ."
+    }
+   ],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-011",
+   "id": "l2-tieng-viet-012",
    "semester": 1,
    "week": 2,
    "theme": "Chủ điểm: Em lớn lên từng ngày",
@@ -198,11 +362,27 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động đọc văn bản bài “Làm việc thật là vui”, GV chiếu tranh và mở đoạn âm thanh đồng hồ tích tắc, gà gáy"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở phần liên hệ sắp xếp việc học, việc chơi, việc nhà, GV chiếu hình đồng hồ báo thức"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Nhắc HS thiết bị thông minh chỉ giúp nhắc việc; không dùng điện thoại để chơi quá giờ"
+    }
+   ],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-012",
+   "id": "l2-tieng-viet-013",
    "semester": 1,
    "week": 2,
    "theme": "Chủ điểm: Em lớn lên từng ngày",
@@ -212,13 +392,29 @@
    "periodFrom": 17,
    "periodTo": 17,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở hoạt động nghe - viết đoạn trong bài “Làm việc thật là vui”, GV chiếu đoạn văn trên tivi"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở bài tập bảng chữ cái và sắp xếp tên sách, GV mở bài tập tương tác trên tivi: HS chạm chọn chữ cái còn thiếu từ g"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV tắt màn hình khi HS đang viết chính tả; HS lên thao tác lần lượt, chạm nhẹ"
+    }
+   ],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-013",
+   "id": "l2-tieng-viet-014",
    "semester": 1,
    "week": 2,
    "theme": "Chủ điểm: Em lớn lên từng ngày",
@@ -228,35 +424,77 @@
    "periodFrom": 18,
    "periodTo": 18,
    "periods": 1,
-   "lessonPeriods": null,
-   "adjustments": "",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l2-tieng-viet-014",
-   "semester": 1,
-   "week": 2,
-   "theme": "Chủ điểm: Em lớn lên từng ngày",
-   "title": "Bài 4: LÀM VIỆC THẬT LÀ VUI – TIẾT 5 - 6: LUYỆN VIẾT ĐOẠN: KỂ MỘT VIỆC EM ĐÃ LÀM Ở NHÀ; ĐỌC MỞ RỘNG: BÀI VIẾT VỀ HOẠT ĐỘNG CỦA THIẾU NHI",
-   "content": "",
-   "periodLabel": "Tiết 19–20",
-   "periodFrom": 19,
-   "periodTo": 20,
-   "periods": 2,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
-     "code": "KNS",
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu trò chơi kéo – thả bài tập 2: kéo từ chỉ hoạt động vào cạnh hình vật; HS nêu phương án, GV kéo"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu tranh bài tập 1, khoanh từng vật để HS gọi tên; chiếu ảnh lớp học, HS nói câu nêu hoạt động đã làm"
+    },
+    {
+     "code": "NLS-AT",
      "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+     "text": "Máy báo sai thì sửa, không ai bị chê; ở nhà chơi phải xin phép."
     }
    ],
    "note": ""
   },
   {
    "id": "l2-tieng-viet-015",
+   "semester": 1,
+   "week": 2,
+   "theme": "Chủ điểm: Em lớn lên từng ngày",
+   "title": "Bài 4: LÀM VIỆC THẬT LÀ VUI – TIẾT 5: LUYỆN VIẾT ĐOẠN: KỂ MỘT VIỆC EM ĐÃ LÀM Ở NHÀ",
+   "content": "",
+   "periodLabel": "Tiết 19",
+   "periodFrom": 19,
+   "periodTo": 19,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "HS viết 2–3 câu kể việc đã làm ở nhà, GV chụp vài bài bằng điện thoại chiếu lên; cả lớp chỉ câu kể rõ việc"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu tranh bài tập 1 dạng thẻ xáo trộn; HS nêu thứ tự trước – trong – sau, GV kéo thẻ, máy báo đúng sai"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài chỉ chiếu khi bạn đồng ý, không chiếu để chê."
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-016",
+   "semester": 1,
+   "week": 2,
+   "theme": "Chủ điểm: Em lớn lên từng ngày",
+   "title": "Bài 4: LÀM VIỆC THẬT LÀ VUI – TIẾT 6: ĐỌC MỞ RỘNG: BÀI VIẾT VỀ HOẠT ĐỘNG CỦA THIẾU NHI",
+   "content": "",
+   "periodLabel": "Tiết 20",
+   "periodFrom": 20,
+   "periodTo": 20,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-017",
    "semester": 1,
    "week": 3,
    "theme": "Chủ điểm: Em lớn lên từng ngày",
@@ -272,7 +510,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-016",
+   "id": "l2-tieng-viet-018",
    "semester": 1,
    "week": 3,
    "theme": "Chủ điểm: Em lớn lên từng ngày",
@@ -282,13 +520,13 @@
    "periodFrom": 23,
    "periodTo": 23,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-017",
+   "id": "l2-tieng-viet-019",
    "semester": 1,
    "week": 3,
    "theme": "Chủ điểm: Em lớn lên từng ngày",
@@ -298,13 +536,13 @@
    "periodFrom": 24,
    "periodTo": 24,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-018",
+   "id": "l2-tieng-viet-020",
    "semester": 1,
    "week": 3,
    "theme": "Chủ điểm: Em lớn lên từng ngày",
@@ -320,7 +558,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-019",
+   "id": "l2-tieng-viet-021",
    "semester": 1,
    "week": 3,
    "theme": "Chủ điểm: Em lớn lên từng ngày",
@@ -330,13 +568,13 @@
    "periodFrom": 27,
    "periodTo": 27,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-020",
+   "id": "l2-tieng-viet-022",
    "semester": 1,
    "week": 3,
    "theme": "Chủ điểm: Em lớn lên từng ngày",
@@ -346,35 +584,45 @@
    "periodFrom": 28,
    "periodTo": 28,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-021",
+   "id": "l2-tieng-viet-023",
    "semester": 1,
    "week": 3,
    "theme": "Chủ điểm: Em lớn lên từng ngày",
-   "title": "Bài 6: MỘT GIỜ HỌC – TIẾT 5 - 6: LUYỆN VIẾT ĐOẠN: VIẾT ĐOẠN VĂN KỂ VIỆC THƯỜNG LÀM; ĐỌC MỞ RỘNG: BÀI THƠ, CÂU CHUYỆN VỀ TRẺ EM LÀM VIỆC NHÀ",
+   "title": "Bài 6: MỘT GIỜ HỌC – TIẾT 5: LUYỆN VIẾT ĐOẠN: VIẾT ĐOẠN VĂN KỂ VIỆC THƯỜNG LÀM",
    "content": "",
-   "periodLabel": "Tiết 29–30",
+   "periodLabel": "Tiết 29",
    "periodFrom": 29,
-   "periodTo": 30,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodTo": 29,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-022",
+   "id": "l2-tieng-viet-024",
+   "semester": 1,
+   "week": 3,
+   "theme": "Chủ điểm: Em lớn lên từng ngày",
+   "title": "Bài 6: MỘT GIỜ HỌC – TIẾT 6: ĐỌC MỞ RỘNG: BÀI THƠ, CÂU CHUYỆN VỀ TRẺ EM LÀM VIỆC NHÀ",
+   "content": "",
+   "periodLabel": "Tiết 30",
+   "periodFrom": 30,
+   "periodTo": 30,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-025",
    "semester": 1,
    "week": 4,
    "theme": "Chủ điểm: Em lớn lên từng ngày",
@@ -390,7 +638,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-023",
+   "id": "l2-tieng-viet-026",
    "semester": 1,
    "week": 4,
    "theme": "Chủ điểm: Em lớn lên từng ngày",
@@ -400,13 +648,13 @@
    "periodFrom": 33,
    "periodTo": 33,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-024",
+   "id": "l2-tieng-viet-027",
    "semester": 1,
    "week": 4,
    "theme": "Chủ điểm: Em lớn lên từng ngày",
@@ -416,13 +664,13 @@
    "periodFrom": 34,
    "periodTo": 34,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-025",
+   "id": "l2-tieng-viet-028",
    "semester": 1,
    "week": 4,
    "theme": "Chủ điểm: Em lớn lên từng ngày",
@@ -438,7 +686,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-026",
+   "id": "l2-tieng-viet-029",
    "semester": 1,
    "week": 4,
    "theme": "Chủ điểm: Em lớn lên từng ngày",
@@ -448,13 +696,13 @@
    "periodFrom": 37,
    "periodTo": 37,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-027",
+   "id": "l2-tieng-viet-030",
    "semester": 1,
    "week": 4,
    "theme": "Chủ điểm: Em lớn lên từng ngày",
@@ -464,35 +712,45 @@
    "periodFrom": 38,
    "periodTo": 38,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-028",
+   "id": "l2-tieng-viet-031",
    "semester": 1,
    "week": 4,
    "theme": "Chủ điểm: Em lớn lên từng ngày",
-   "title": "Bài 8: CẦU THỦ DỰ BỊ – TIẾT 5 - 6: LUYỆN VIẾT ĐOẠN: KỂ VỀ MỘT HOẠT ĐỘNG THỂ THAO HOẶC TRÒ CHƠI; ĐỌC MỞ RỘNG: BÀI VIẾT VỀ HOẠT ĐỘNG THỂ THAO",
+   "title": "Bài 8: CẦU THỦ DỰ BỊ – TIẾT 5: LUYỆN VIẾT ĐOẠN: KỂ VỀ MỘT HOẠT ĐỘNG THỂ THAO HOẶC TRÒ CHƠI",
    "content": "",
-   "periodLabel": "Tiết 39–40",
+   "periodLabel": "Tiết 39",
    "periodFrom": 39,
-   "periodTo": 40,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodTo": 39,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-029",
+   "id": "l2-tieng-viet-032",
+   "semester": 1,
+   "week": 4,
+   "theme": "Chủ điểm: Em lớn lên từng ngày",
+   "title": "Bài 8: CẦU THỦ DỰ BỊ – TIẾT 6: ĐỌC MỞ RỘNG: BÀI VIẾT VỀ HOẠT ĐỘNG THỂ THAO",
+   "content": "",
+   "periodLabel": "Tiết 40",
+   "periodFrom": 40,
+   "periodTo": 40,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-033",
    "semester": 1,
    "week": 5,
    "theme": "Chủ điểm: Đi học vui sao",
@@ -514,7 +772,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-030",
+   "id": "l2-tieng-viet-034",
    "semester": 1,
    "week": 5,
    "theme": "Chủ điểm: Đi học vui sao",
@@ -524,13 +782,13 @@
    "periodFrom": 43,
    "periodTo": 43,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-031",
+   "id": "l2-tieng-viet-035",
    "semester": 1,
    "week": 5,
    "theme": "Chủ điểm: Đi học vui sao",
@@ -540,13 +798,13 @@
    "periodFrom": 44,
    "periodTo": 44,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-032",
+   "id": "l2-tieng-viet-036",
    "semester": 1,
    "week": 5,
    "theme": "Chủ điểm: Đi học vui sao",
@@ -562,7 +820,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-033",
+   "id": "l2-tieng-viet-037",
    "semester": 1,
    "week": 5,
    "theme": "Chủ điểm: Đi học vui sao",
@@ -572,13 +830,13 @@
    "periodFrom": 47,
    "periodTo": 47,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-034",
+   "id": "l2-tieng-viet-038",
    "semester": 1,
    "week": 5,
    "theme": "Chủ điểm: Đi học vui sao",
@@ -588,35 +846,45 @@
    "periodFrom": 48,
    "periodTo": 48,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-035",
+   "id": "l2-tieng-viet-039",
    "semester": 1,
    "week": 5,
    "theme": "Chủ điểm: Đi học vui sao",
-   "title": "Bài 10: THỜI KHÓA BIỂU – TIẾT 5 - 6: LUYỆN VIẾT ĐOẠN: VIẾT THỜI GIAN BIỂU; ĐỌC MỞ RỘNG",
+   "title": "Bài 10: THỜI KHÓA BIỂU – TIẾT 5: LUYỆN VIẾT ĐOẠN: VIẾT THỜI GIAN BIỂU",
    "content": "",
-   "periodLabel": "Tiết 49–50",
+   "periodLabel": "Tiết 49",
    "periodFrom": 49,
-   "periodTo": 50,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodTo": 49,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-036",
+   "id": "l2-tieng-viet-040",
+   "semester": 1,
+   "week": 5,
+   "theme": "Chủ điểm: Đi học vui sao",
+   "title": "Bài 10: THỜI KHÓA BIỂU – TIẾT 6: ĐỌC MỞ RỘNG",
+   "content": "",
+   "periodLabel": "Tiết 50",
+   "periodFrom": 50,
+   "periodTo": 50,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-041",
    "semester": 1,
    "week": 6,
    "theme": "Chủ điểm: Đi học vui sao",
@@ -632,7 +900,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-037",
+   "id": "l2-tieng-viet-042",
    "semester": 1,
    "week": 6,
    "theme": "Chủ điểm: Đi học vui sao",
@@ -642,13 +910,13 @@
    "periodFrom": 53,
    "periodTo": 53,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-038",
+   "id": "l2-tieng-viet-043",
    "semester": 1,
    "week": 6,
    "theme": "Chủ điểm: Đi học vui sao",
@@ -658,13 +926,13 @@
    "periodFrom": 54,
    "periodTo": 54,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-039",
+   "id": "l2-tieng-viet-044",
    "semester": 1,
    "week": 6,
    "theme": "Chủ điểm: Đi học vui sao",
@@ -680,7 +948,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-040",
+   "id": "l2-tieng-viet-045",
    "semester": 1,
    "week": 6,
    "theme": "Chủ điểm: Đi học vui sao",
@@ -690,13 +958,13 @@
    "periodFrom": 57,
    "periodTo": 57,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-041",
+   "id": "l2-tieng-viet-046",
    "semester": 1,
    "week": 6,
    "theme": "Chủ điểm: Đi học vui sao",
@@ -706,35 +974,45 @@
    "periodFrom": 58,
    "periodTo": 58,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-042",
+   "id": "l2-tieng-viet-047",
    "semester": 1,
    "week": 6,
    "theme": "Chủ điểm: Đi học vui sao",
-   "title": "Bài 12: DANH SÁCH HỌC SINH – TIẾT 5 - 6: LUYỆN VIẾT ĐOẠN: LẬP DANH SÁCH HỌC SINH (TỔ); ĐỌC MỞ RỘNG",
+   "title": "Bài 12: DANH SÁCH HỌC SINH – TIẾT 5: LUYỆN VIẾT ĐOẠN: LẬP DANH SÁCH HỌC SINH (TỔ)",
    "content": "",
-   "periodLabel": "Tiết 59–60",
+   "periodLabel": "Tiết 59",
    "periodFrom": 59,
-   "periodTo": 60,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodTo": 59,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-043",
+   "id": "l2-tieng-viet-048",
+   "semester": 1,
+   "week": 6,
+   "theme": "Chủ điểm: Đi học vui sao",
+   "title": "Bài 12: DANH SÁCH HỌC SINH – TIẾT 6: ĐỌC MỞ RỘNG",
+   "content": "",
+   "periodLabel": "Tiết 60",
+   "periodFrom": 60,
+   "periodTo": 60,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-049",
    "semester": 1,
    "week": 7,
    "theme": "Chủ điểm: Đi học vui sao",
@@ -750,7 +1028,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-044",
+   "id": "l2-tieng-viet-050",
    "semester": 1,
    "week": 7,
    "theme": "Chủ điểm: Đi học vui sao",
@@ -760,13 +1038,13 @@
    "periodFrom": 63,
    "periodTo": 63,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-045",
+   "id": "l2-tieng-viet-051",
    "semester": 1,
    "week": 7,
    "theme": "Chủ điểm: Đi học vui sao",
@@ -776,13 +1054,13 @@
    "periodFrom": 64,
    "periodTo": 64,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-046",
+   "id": "l2-tieng-viet-052",
    "semester": 1,
    "week": 7,
    "theme": "Chủ điểm: Đi học vui sao",
@@ -798,7 +1076,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-047",
+   "id": "l2-tieng-viet-053",
    "semester": 1,
    "week": 7,
    "theme": "Chủ điểm: Đi học vui sao",
@@ -808,13 +1086,13 @@
    "periodFrom": 67,
    "periodTo": 67,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-048",
+   "id": "l2-tieng-viet-054",
    "semester": 1,
    "week": 7,
    "theme": "Chủ điểm: Đi học vui sao",
@@ -824,35 +1102,45 @@
    "periodFrom": 68,
    "periodTo": 68,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-049",
+   "id": "l2-tieng-viet-055",
    "semester": 1,
    "week": 7,
    "theme": "Chủ điểm: Đi học vui sao",
-   "title": "Bài 14: EM HỌC VẼ – TIẾT 5 - 6: LUYỆN VIẾT ĐOẠN; ĐỌC MỞ RỘNG",
+   "title": "Bài 14: EM HỌC VẼ – TIẾT 5: LUYỆN VIẾT ĐOẠN",
    "content": "",
-   "periodLabel": "Tiết 69–70",
+   "periodLabel": "Tiết 69",
    "periodFrom": 69,
-   "periodTo": 70,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodTo": 69,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-050",
+   "id": "l2-tieng-viet-056",
+   "semester": 1,
+   "week": 7,
+   "theme": "Chủ điểm: Đi học vui sao",
+   "title": "Bài 14: EM HỌC VẼ – TIẾT 6: ĐỌC MỞ RỘNG",
+   "content": "",
+   "periodLabel": "Tiết 70",
+   "periodFrom": 70,
+   "periodTo": 70,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-057",
    "semester": 1,
    "week": 8,
    "theme": "Chủ điểm: Đi học vui sao",
@@ -868,7 +1156,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-051",
+   "id": "l2-tieng-viet-058",
    "semester": 1,
    "week": 8,
    "theme": "Chủ điểm: Đi học vui sao",
@@ -878,13 +1166,13 @@
    "periodFrom": 73,
    "periodTo": 73,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-052",
+   "id": "l2-tieng-viet-059",
    "semester": 1,
    "week": 8,
    "theme": "Chủ điểm: Đi học vui sao",
@@ -894,13 +1182,13 @@
    "periodFrom": 74,
    "periodTo": 74,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-053",
+   "id": "l2-tieng-viet-060",
    "semester": 1,
    "week": 8,
    "theme": "Chủ điểm: Đi học vui sao",
@@ -916,7 +1204,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-054",
+   "id": "l2-tieng-viet-061",
    "semester": 1,
    "week": 8,
    "theme": "Chủ điểm: Đi học vui sao",
@@ -926,13 +1214,13 @@
    "periodFrom": 77,
    "periodTo": 77,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-055",
+   "id": "l2-tieng-viet-062",
    "semester": 1,
    "week": 8,
    "theme": "Chủ điểm: Đi học vui sao",
@@ -942,35 +1230,45 @@
    "periodFrom": 78,
    "periodTo": 78,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-056",
+   "id": "l2-tieng-viet-063",
    "semester": 1,
    "week": 8,
    "theme": "Chủ điểm: Đi học vui sao",
-   "title": "Bài 16: KHI TRANG SÁCH MỞ RA – TIẾT 5 - 6: LUYỆN VIẾT ĐOẠN: TẢ ĐỒ DÙNG HỌC TẬP; ĐỌC MỞ RỘNG",
+   "title": "Bài 16: KHI TRANG SÁCH MỞ RA – TIẾT 5: LUYỆN VIẾT ĐOẠN: TẢ ĐỒ DÙNG HỌC TẬP",
    "content": "",
-   "periodLabel": "Tiết 79–80",
+   "periodLabel": "Tiết 79",
    "periodFrom": 79,
-   "periodTo": 80,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodTo": 79,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-057",
+   "id": "l2-tieng-viet-064",
+   "semester": 1,
+   "week": 8,
+   "theme": "Chủ điểm: Đi học vui sao",
+   "title": "Bài 16: KHI TRANG SÁCH MỞ RA – TIẾT 6: ĐỌC MỞ RỘNG",
+   "content": "",
+   "periodLabel": "Tiết 80",
+   "periodFrom": 80,
+   "periodTo": 80,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-065",
    "semester": 1,
    "week": 9,
    "theme": "Ôn tập, kiểm tra, đánh giá",
@@ -986,7 +1284,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-058",
+   "id": "l2-tieng-viet-066",
    "semester": 1,
    "week": 9,
    "theme": "Ôn tập, kiểm tra, đánh giá",
@@ -996,13 +1294,13 @@
    "periodFrom": 83,
    "periodTo": 84,
    "periods": 2,
-   "lessonPeriods": null,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-059",
+   "id": "l2-tieng-viet-067",
    "semester": 1,
    "week": 9,
    "theme": "Ôn tập, kiểm tra, đánh giá",
@@ -1012,13 +1310,13 @@
    "periodFrom": 85,
    "periodTo": 86,
    "periods": 2,
-   "lessonPeriods": null,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-060",
+   "id": "l2-tieng-viet-068",
    "semester": 1,
    "week": 9,
    "theme": "Ôn tập, kiểm tra, đánh giá",
@@ -1028,13 +1326,13 @@
    "periodFrom": 87,
    "periodTo": 88,
    "periods": 2,
-   "lessonPeriods": null,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-061",
+   "id": "l2-tieng-viet-069",
    "semester": 1,
    "week": 9,
    "theme": "Ôn tập, kiểm tra, đánh giá",
@@ -1044,13 +1342,13 @@
    "periodFrom": 89,
    "periodTo": 90,
    "periods": 2,
-   "lessonPeriods": null,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-062",
+   "id": "l2-tieng-viet-070",
    "semester": 1,
    "week": 10,
    "theme": "Chủ điểm: Niềm vui tuổi thơ",
@@ -1072,7 +1370,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-063",
+   "id": "l2-tieng-viet-071",
    "semester": 1,
    "week": 10,
    "theme": "Chủ điểm: Niềm vui tuổi thơ",
@@ -1082,13 +1380,13 @@
    "periodFrom": 93,
    "periodTo": 93,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-064",
+   "id": "l2-tieng-viet-072",
    "semester": 1,
    "week": 10,
    "theme": "Chủ điểm: Niềm vui tuổi thơ",
@@ -1098,13 +1396,13 @@
    "periodFrom": 94,
    "periodTo": 94,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-065",
+   "id": "l2-tieng-viet-073",
    "semester": 1,
    "week": 10,
    "theme": "Chủ điểm: Niềm vui tuổi thơ",
@@ -1120,7 +1418,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-066",
+   "id": "l2-tieng-viet-074",
    "semester": 1,
    "week": 10,
    "theme": "Chủ điểm: Niềm vui tuổi thơ",
@@ -1130,13 +1428,13 @@
    "periodFrom": 97,
    "periodTo": 97,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-067",
+   "id": "l2-tieng-viet-075",
    "semester": 1,
    "week": 10,
    "theme": "Chủ điểm: Niềm vui tuổi thơ",
@@ -1146,35 +1444,45 @@
    "periodFrom": 98,
    "periodTo": 98,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-068",
+   "id": "l2-tieng-viet-076",
    "semester": 1,
    "week": 10,
    "theme": "Chủ điểm: Niềm vui tuổi thơ",
-   "title": "Bài 18: TỚ NHỚ CẬU – TIẾT 5 - 6: LUYỆN VIẾT ĐOẠN; ĐỌC MỞ RỘNG",
+   "title": "Bài 18: TỚ NHỚ CẬU – TIẾT 5: LUYỆN VIẾT ĐOẠN",
    "content": "",
-   "periodLabel": "Tiết 99–100",
+   "periodLabel": "Tiết 99",
    "periodFrom": 99,
-   "periodTo": 100,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodTo": 99,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-069",
+   "id": "l2-tieng-viet-077",
+   "semester": 1,
+   "week": 10,
+   "theme": "Chủ điểm: Niềm vui tuổi thơ",
+   "title": "Bài 18: TỚ NHỚ CẬU – TIẾT 6: ĐỌC MỞ RỘNG",
+   "content": "",
+   "periodLabel": "Tiết 100",
+   "periodFrom": 100,
+   "periodTo": 100,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-078",
    "semester": 1,
    "week": 11,
    "theme": "Chủ điểm: Niềm vui tuổi thơ",
@@ -1190,7 +1498,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-070",
+   "id": "l2-tieng-viet-079",
    "semester": 1,
    "week": 11,
    "theme": "Chủ điểm: Niềm vui tuổi thơ",
@@ -1200,13 +1508,13 @@
    "periodFrom": 103,
    "periodTo": 103,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-071",
+   "id": "l2-tieng-viet-080",
    "semester": 1,
    "week": 11,
    "theme": "Chủ điểm: Niềm vui tuổi thơ",
@@ -1216,13 +1524,13 @@
    "periodFrom": 104,
    "periodTo": 104,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-072",
+   "id": "l2-tieng-viet-081",
    "semester": 1,
    "week": 11,
    "theme": "Chủ điểm: Niềm vui tuổi thơ",
@@ -1238,7 +1546,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-073",
+   "id": "l2-tieng-viet-082",
    "semester": 1,
    "week": 11,
    "theme": "Chủ điểm: Niềm vui tuổi thơ",
@@ -1248,13 +1556,13 @@
    "periodFrom": 107,
    "periodTo": 107,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-074",
+   "id": "l2-tieng-viet-083",
    "semester": 1,
    "week": 11,
    "theme": "Chủ điểm: Niềm vui tuổi thơ",
@@ -1264,13 +1572,13 @@
    "periodFrom": 108,
    "periodTo": 108,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-075",
+   "id": "l2-tieng-viet-084",
    "semester": 1,
    "week": 11,
    "theme": "Chủ điểm: Niềm vui tuổi thơ",
@@ -1280,19 +1588,13 @@
    "periodFrom": 109,
    "periodTo": 110,
    "periods": 2,
-   "lessonPeriods": null,
+   "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-076",
+   "id": "l2-tieng-viet-085",
    "semester": 1,
    "week": 12,
    "theme": "Chủ điểm: Niềm vui tuổi thơ",
@@ -1308,7 +1610,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-077",
+   "id": "l2-tieng-viet-086",
    "semester": 1,
    "week": 12,
    "theme": "Chủ điểm: Niềm vui tuổi thơ",
@@ -1318,13 +1620,13 @@
    "periodFrom": 113,
    "periodTo": 113,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-078",
+   "id": "l2-tieng-viet-087",
    "semester": 1,
    "week": 12,
    "theme": "Chủ điểm: Niềm vui tuổi thơ",
@@ -1334,13 +1636,13 @@
    "periodFrom": 114,
    "periodTo": 114,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-079",
+   "id": "l2-tieng-viet-088",
    "semester": 1,
    "week": 12,
    "theme": "Chủ điểm: Niềm vui tuổi thơ",
@@ -1356,7 +1658,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-080",
+   "id": "l2-tieng-viet-089",
    "semester": 1,
    "week": 12,
    "theme": "Chủ điểm: Niềm vui tuổi thơ",
@@ -1366,13 +1668,13 @@
    "periodFrom": 117,
    "periodTo": 117,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-081",
+   "id": "l2-tieng-viet-090",
    "semester": 1,
    "week": 12,
    "theme": "Chủ điểm: Niềm vui tuổi thơ",
@@ -1382,13 +1684,13 @@
    "periodFrom": 118,
    "periodTo": 118,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-082",
+   "id": "l2-tieng-viet-091",
    "semester": 1,
    "week": 12,
    "theme": "Chủ điểm: Niềm vui tuổi thơ",
@@ -1398,13 +1700,13 @@
    "periodFrom": 119,
    "periodTo": 120,
    "periods": 2,
-   "lessonPeriods": null,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-083",
+   "id": "l2-tieng-viet-092",
    "semester": 1,
    "week": 13,
    "theme": "Chủ điểm: Niềm vui tuổi thơ",
@@ -1420,7 +1722,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-084",
+   "id": "l2-tieng-viet-093",
    "semester": 1,
    "week": 13,
    "theme": "Chủ điểm: Niềm vui tuổi thơ",
@@ -1430,13 +1732,13 @@
    "periodFrom": 123,
    "periodTo": 123,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-085",
+   "id": "l2-tieng-viet-094",
    "semester": 1,
    "week": 13,
    "theme": "Chủ điểm: Niềm vui tuổi thơ",
@@ -1446,13 +1748,13 @@
    "periodFrom": 124,
    "periodTo": 124,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-086",
+   "id": "l2-tieng-viet-095",
    "semester": 1,
    "week": 13,
    "theme": "Chủ điểm: Niềm vui tuổi thơ",
@@ -1468,7 +1770,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-087",
+   "id": "l2-tieng-viet-096",
    "semester": 1,
    "week": 13,
    "theme": "Chủ điểm: Niềm vui tuổi thơ",
@@ -1478,13 +1780,13 @@
    "periodFrom": 127,
    "periodTo": 127,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-088",
+   "id": "l2-tieng-viet-097",
    "semester": 1,
    "week": 13,
    "theme": "Chủ điểm: Niềm vui tuổi thơ",
@@ -1494,13 +1796,13 @@
    "periodFrom": 128,
    "periodTo": 128,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-089",
+   "id": "l2-tieng-viet-098",
    "semester": 1,
    "week": 13,
    "theme": "Chủ điểm: Niềm vui tuổi thơ",
@@ -1510,13 +1812,13 @@
    "periodFrom": 129,
    "periodTo": 130,
    "periods": 2,
-   "lessonPeriods": null,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-090",
+   "id": "l2-tieng-viet-099",
    "semester": 1,
    "week": 14,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1538,7 +1840,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-091",
+   "id": "l2-tieng-viet-100",
    "semester": 1,
    "week": 14,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1548,13 +1850,13 @@
    "periodFrom": 133,
    "periodTo": 133,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-092",
+   "id": "l2-tieng-viet-101",
    "semester": 1,
    "week": 14,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1564,13 +1866,13 @@
    "periodFrom": 134,
    "periodTo": 134,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-093",
+   "id": "l2-tieng-viet-102",
    "semester": 1,
    "week": 14,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1586,7 +1888,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-094",
+   "id": "l2-tieng-viet-103",
    "semester": 1,
    "week": 14,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1596,13 +1898,13 @@
    "periodFrom": 137,
    "periodTo": 137,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-095",
+   "id": "l2-tieng-viet-104",
    "semester": 1,
    "week": 14,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1612,13 +1914,13 @@
    "periodFrom": 138,
    "periodTo": 138,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-096",
+   "id": "l2-tieng-viet-105",
    "semester": 1,
    "week": 14,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1628,13 +1930,13 @@
    "periodFrom": 139,
    "periodTo": 140,
    "periods": 2,
-   "lessonPeriods": null,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-097",
+   "id": "l2-tieng-viet-106",
    "semester": 1,
    "week": 15,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1650,7 +1952,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-098",
+   "id": "l2-tieng-viet-107",
    "semester": 1,
    "week": 15,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1660,13 +1962,13 @@
    "periodFrom": 143,
    "periodTo": 143,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-099",
+   "id": "l2-tieng-viet-108",
    "semester": 1,
    "week": 15,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1676,13 +1978,13 @@
    "periodFrom": 144,
    "periodTo": 144,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-100",
+   "id": "l2-tieng-viet-109",
    "semester": 1,
    "week": 15,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1698,7 +2000,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-101",
+   "id": "l2-tieng-viet-110",
    "semester": 1,
    "week": 15,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1708,13 +2010,13 @@
    "periodFrom": 147,
    "periodTo": 147,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-102",
+   "id": "l2-tieng-viet-111",
    "semester": 1,
    "week": 15,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1724,13 +2026,13 @@
    "periodFrom": 148,
    "periodTo": 148,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-103",
+   "id": "l2-tieng-viet-112",
    "semester": 1,
    "week": 15,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1740,13 +2042,13 @@
    "periodFrom": 149,
    "periodTo": 149,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-104",
+   "id": "l2-tieng-viet-113",
    "semester": 1,
    "week": 15,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1756,19 +2058,13 @@
    "periodFrom": 150,
    "periodTo": 150,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-105",
+   "id": "l2-tieng-viet-114",
    "semester": 1,
    "week": 16,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1784,7 +2080,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-106",
+   "id": "l2-tieng-viet-115",
    "semester": 1,
    "week": 16,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1794,13 +2090,13 @@
    "periodFrom": 153,
    "periodTo": 153,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-107",
+   "id": "l2-tieng-viet-116",
    "semester": 1,
    "week": 16,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1810,13 +2106,13 @@
    "periodFrom": 154,
    "periodTo": 154,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-108",
+   "id": "l2-tieng-viet-117",
    "semester": 1,
    "week": 16,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1832,7 +2128,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-109",
+   "id": "l2-tieng-viet-118",
    "semester": 1,
    "week": 16,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1842,13 +2138,13 @@
    "periodFrom": 157,
    "periodTo": 157,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-110",
+   "id": "l2-tieng-viet-119",
    "semester": 1,
    "week": 16,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1858,13 +2154,13 @@
    "periodFrom": 158,
    "periodTo": 158,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-111",
+   "id": "l2-tieng-viet-120",
    "semester": 1,
    "week": 16,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1874,13 +2170,13 @@
    "periodFrom": 159,
    "periodTo": 159,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-112",
+   "id": "l2-tieng-viet-121",
    "semester": 1,
    "week": 16,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1890,19 +2186,13 @@
    "periodFrom": 160,
    "periodTo": 160,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-113",
+   "id": "l2-tieng-viet-122",
    "semester": 1,
    "week": 17,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1918,7 +2208,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-114",
+   "id": "l2-tieng-viet-123",
    "semester": 1,
    "week": 17,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1928,13 +2218,13 @@
    "periodFrom": 163,
    "periodTo": 163,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-115",
+   "id": "l2-tieng-viet-124",
    "semester": 1,
    "week": 17,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1944,13 +2234,13 @@
    "periodFrom": 164,
    "periodTo": 164,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-116",
+   "id": "l2-tieng-viet-125",
    "semester": 1,
    "week": 17,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1966,7 +2256,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-117",
+   "id": "l2-tieng-viet-126",
    "semester": 1,
    "week": 17,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1976,13 +2266,13 @@
    "periodFrom": 167,
    "periodTo": 167,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-118",
+   "id": "l2-tieng-viet-127",
    "semester": 1,
    "week": 17,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -1992,13 +2282,13 @@
    "periodFrom": 168,
    "periodTo": 168,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-119",
+   "id": "l2-tieng-viet-128",
    "semester": 1,
    "week": 17,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -2008,13 +2298,13 @@
    "periodFrom": 169,
    "periodTo": 169,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-120",
+   "id": "l2-tieng-viet-129",
    "semester": 1,
    "week": 17,
    "theme": "Chủ điểm: Mái ấm gia đình",
@@ -2024,19 +2314,13 @@
    "periodFrom": 170,
    "periodTo": 170,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-121",
+   "id": "l2-tieng-viet-130",
    "semester": 1,
    "week": 18,
    "theme": "Ôn tập, kiểm tra, đánh giá",
@@ -2052,7 +2336,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-122",
+   "id": "l2-tieng-viet-131",
    "semester": 1,
    "week": 18,
    "theme": "Ôn tập, kiểm tra, đánh giá",
@@ -2062,13 +2346,13 @@
    "periodFrom": 173,
    "periodTo": 174,
    "periods": 2,
-   "lessonPeriods": null,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-123",
+   "id": "l2-tieng-viet-132",
    "semester": 1,
    "week": 18,
    "theme": "Ôn tập, kiểm tra, đánh giá",
@@ -2078,13 +2362,13 @@
    "periodFrom": 175,
    "periodTo": 176,
    "periods": 2,
-   "lessonPeriods": null,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-124",
+   "id": "l2-tieng-viet-133",
    "semester": 1,
    "week": 18,
    "theme": "Ôn tập, kiểm tra, đánh giá",
@@ -2094,13 +2378,13 @@
    "periodFrom": 177,
    "periodTo": 178,
    "periods": 2,
-   "lessonPeriods": null,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-125",
+   "id": "l2-tieng-viet-134",
    "semester": 1,
    "week": 18,
    "theme": "Ôn tập, kiểm tra, đánh giá",
@@ -2116,7 +2400,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-126",
+   "id": "l2-tieng-viet-135",
    "semester": 2,
    "week": 19,
    "theme": "Chủ điểm: Vẻ đẹp quanh em",
@@ -2138,23 +2422,39 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-127",
+   "id": "l2-tieng-viet-136",
    "semester": 2,
    "week": 19,
    "theme": "Chủ điểm: Vẻ đẹp quanh em",
-   "title": "Bài 1: CHUYỆN BỐN MÙA – TIẾT 3: VIẾT CHỮ HOA Q; TIẾT 4: NÓI VÀ NGHE",
+   "title": "Bài 1: CHUYỆN BỐN MÙA – TIẾT 3: VIẾT CHỮ HOA Q",
    "content": "",
-   "periodLabel": "Tiết 183–184",
+   "periodLabel": "Tiết 183",
    "periodFrom": 183,
-   "periodTo": 184,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodTo": 183,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-128",
+   "id": "l2-tieng-viet-137",
+   "semester": 2,
+   "week": 19,
+   "theme": "Chủ điểm: Vẻ đẹp quanh em",
+   "title": "Bài 1: CHUYỆN BỐN MÙA – TIẾT 4: NÓI VÀ NGHE",
+   "content": "",
+   "periodLabel": "Tiết 184",
+   "periodFrom": 184,
+   "periodTo": 184,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-138",
    "semester": 2,
    "week": 19,
    "theme": "Chủ điểm: Vẻ đẹp quanh em",
@@ -2170,45 +2470,71 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-129",
+   "id": "l2-tieng-viet-139",
    "semester": 2,
    "week": 19,
    "theme": "Chủ điểm: Vẻ đẹp quanh em",
-   "title": "Bài 2: MÙA NƯỚC NỔI – TIẾT 3: VIẾT; TIẾT 4: LUYỆN TẬP",
+   "title": "Bài 2: MÙA NƯỚC NỔI – TIẾT 3: VIẾT",
    "content": "",
-   "periodLabel": "Tiết 187–188",
+   "periodLabel": "Tiết 187",
    "periodFrom": 187,
-   "periodTo": 188,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodTo": 187,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-130",
+   "id": "l2-tieng-viet-140",
    "semester": 2,
    "week": 19,
    "theme": "Chủ điểm: Vẻ đẹp quanh em",
-   "title": "Bài 2: MÙA NƯỚC NỔI – TIẾT 5 – 6: VIẾT ĐOẠN VĂN TẢ ĐỒ VẬT; ĐỌC MỞ RỘNG",
+   "title": "Bài 2: MÙA NƯỚC NỔI – TIẾT 4: LUYỆN TẬP",
    "content": "",
-   "periodLabel": "Tiết 189–190",
-   "periodFrom": 189,
-   "periodTo": 190,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodLabel": "Tiết 188",
+   "periodFrom": 188,
+   "periodTo": 188,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-131",
+   "id": "l2-tieng-viet-141",
+   "semester": 2,
+   "week": 19,
+   "theme": "Chủ điểm: Vẻ đẹp quanh em",
+   "title": "Bài 2: MÙA NƯỚC NỔI – TIẾT 5: VIẾT ĐOẠN VĂN TẢ ĐỒ VẬT",
+   "content": "",
+   "periodLabel": "Tiết 189",
+   "periodFrom": 189,
+   "periodTo": 189,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-142",
+   "semester": 2,
+   "week": 19,
+   "theme": "Chủ điểm: Vẻ đẹp quanh em",
+   "title": "Bài 2: MÙA NƯỚC NỔI – TIẾT 6: ĐỌC MỞ RỘNG",
+   "content": "",
+   "periodLabel": "Tiết 190",
+   "periodFrom": 190,
+   "periodTo": 190,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-143",
    "semester": 2,
    "week": 20,
    "theme": "Chủ điểm: Vẻ đẹp quanh em",
@@ -2224,23 +2550,39 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-132",
+   "id": "l2-tieng-viet-144",
    "semester": 2,
    "week": 20,
    "theme": "Chủ điểm: Vẻ đẹp quanh em",
-   "title": "Bài 3: HỌA MI HÓT – TIẾT 3: VIẾT CHỮ HOA R; TIẾT 4: NÓI VÀ NGHE",
+   "title": "Bài 3: HỌA MI HÓT – TIẾT 3: VIẾT CHỮ HOA R",
    "content": "",
-   "periodLabel": "Tiết 193–194",
+   "periodLabel": "Tiết 193",
    "periodFrom": 193,
-   "periodTo": 194,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodTo": 193,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-133",
+   "id": "l2-tieng-viet-145",
+   "semester": 2,
+   "week": 20,
+   "theme": "Chủ điểm: Vẻ đẹp quanh em",
+   "title": "Bài 3: HỌA MI HÓT – TIẾT 4: NÓI VÀ NGHE",
+   "content": "",
+   "periodLabel": "Tiết 194",
+   "periodFrom": 194,
+   "periodTo": 194,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-146",
    "semester": 2,
    "week": 20,
    "theme": "Chủ điểm: Vẻ đẹp quanh em",
@@ -2256,45 +2598,71 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-134",
+   "id": "l2-tieng-viet-147",
    "semester": 2,
    "week": 20,
    "theme": "Chủ điểm: Vẻ đẹp quanh em",
-   "title": "Bài 4: TẾT ĐẾN RỒI – TIẾT 3: NGHE – VIẾT; TIẾT 4: LUYỆN TẬP",
+   "title": "Bài 4: TẾT ĐẾN RỒI – TIẾT 3: NGHE – VIẾT",
    "content": "",
-   "periodLabel": "Tiết 197–198",
+   "periodLabel": "Tiết 197",
    "periodFrom": 197,
-   "periodTo": 198,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodTo": 197,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-135",
+   "id": "l2-tieng-viet-148",
    "semester": 2,
    "week": 20,
    "theme": "Chủ điểm: Vẻ đẹp quanh em",
-   "title": "Bài 4: TẾT ĐẾN RỒI – TIẾT 5 – 6: VIẾT THIỆP CHÚC TẾT; ĐỌC MỞ RỘNG",
+   "title": "Bài 4: TẾT ĐẾN RỒI – TIẾT 4: LUYỆN TẬP",
    "content": "",
-   "periodLabel": "Tiết 199–200",
-   "periodFrom": 199,
-   "periodTo": 200,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodLabel": "Tiết 198",
+   "periodFrom": 198,
+   "periodTo": 198,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-136",
+   "id": "l2-tieng-viet-149",
+   "semester": 2,
+   "week": 20,
+   "theme": "Chủ điểm: Vẻ đẹp quanh em",
+   "title": "Bài 4: TẾT ĐẾN RỒI – TIẾT 5: VIẾT THIỆP CHÚC TẾT",
+   "content": "",
+   "periodLabel": "Tiết 199",
+   "periodFrom": 199,
+   "periodTo": 199,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-150",
+   "semester": 2,
+   "week": 20,
+   "theme": "Chủ điểm: Vẻ đẹp quanh em",
+   "title": "Bài 4: TẾT ĐẾN RỒI – TIẾT 6: ĐỌC MỞ RỘNG",
+   "content": "",
+   "periodLabel": "Tiết 200",
+   "periodFrom": 200,
+   "periodTo": 200,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-151",
    "semester": 2,
    "week": 21,
    "theme": "Chủ điểm: Vẻ đẹp quanh em",
@@ -2306,33 +2674,43 @@
    "periods": 2,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; HS nêu được biển, đảo là một phần lãnh thổ thiêng liêng của Tổ quốc."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-137",
+   "id": "l2-tieng-viet-152",
    "semester": 2,
    "week": 21,
    "theme": "Chủ điểm: Vẻ đẹp quanh em",
-   "title": "Bài 5: GIỌT NƯỚC VÀ BIỂN LỚN – TIẾT 3: VIẾT CHỮ HOA S; TIẾT 4: NÓI VÀ NGHE",
+   "title": "Bài 5: GIỌT NƯỚC VÀ BIỂN LỚN – TIẾT 3: VIẾT CHỮ HOA S",
    "content": "",
-   "periodLabel": "Tiết 203–204",
+   "periodLabel": "Tiết 203",
    "periodFrom": 203,
-   "periodTo": 204,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodTo": 203,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-138",
+   "id": "l2-tieng-viet-153",
+   "semester": 2,
+   "week": 21,
+   "theme": "Chủ điểm: Vẻ đẹp quanh em",
+   "title": "Bài 5: GIỌT NƯỚC VÀ BIỂN LỚN – TIẾT 4: NÓI VÀ NGHE",
+   "content": "",
+   "periodLabel": "Tiết 204",
+   "periodFrom": 204,
+   "periodTo": 204,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-154",
    "semester": 2,
    "week": 21,
    "theme": "Chủ điểm: Vẻ đẹp quanh em",
@@ -2348,45 +2726,71 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-139",
+   "id": "l2-tieng-viet-155",
    "semester": 2,
    "week": 21,
    "theme": "Chủ điểm: Vẻ đẹp quanh em",
-   "title": "Bài 6: MÙA VÀNG – TIẾT 3: VIẾT; TIẾT 4: LUYỆN TẬP",
+   "title": "Bài 6: MÙA VÀNG – TIẾT 3: VIẾT",
    "content": "",
-   "periodLabel": "Tiết 207–208",
+   "periodLabel": "Tiết 207",
    "periodFrom": 207,
-   "periodTo": 208,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodTo": 207,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-140",
+   "id": "l2-tieng-viet-156",
    "semester": 2,
    "week": 21,
    "theme": "Chủ điểm: Vẻ đẹp quanh em",
-   "title": "Bài 6: MÙA VÀNG – TIẾT 5: VIẾT ĐOẠN VĂN; TIẾT 6: ĐỌC MỞ RỘNG",
+   "title": "Bài 6: MÙA VÀNG – TIẾT 4: LUYỆN TẬP",
    "content": "",
-   "periodLabel": "Tiết 209–210",
-   "periodFrom": 209,
-   "periodTo": 210,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodLabel": "Tiết 208",
+   "periodFrom": 208,
+   "periodTo": 208,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-141",
+   "id": "l2-tieng-viet-157",
+   "semester": 2,
+   "week": 21,
+   "theme": "Chủ điểm: Vẻ đẹp quanh em",
+   "title": "Bài 6: MÙA VÀNG – TIẾT 5: VIẾT ĐOẠN VĂN",
+   "content": "",
+   "periodLabel": "Tiết 209",
+   "periodFrom": 209,
+   "periodTo": 209,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-158",
+   "semester": 2,
+   "week": 21,
+   "theme": "Chủ điểm: Vẻ đẹp quanh em",
+   "title": "Bài 6: MÙA VÀNG – TIẾT 6: ĐỌC MỞ RỘNG",
+   "content": "",
+   "periodLabel": "Tiết 210",
+   "periodFrom": 210,
+   "periodTo": 210,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-159",
    "semester": 2,
    "week": 22,
    "theme": "Chủ điểm: Vẻ đẹp quanh em",
@@ -2402,23 +2806,39 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-142",
+   "id": "l2-tieng-viet-160",
    "semester": 2,
    "week": 22,
    "theme": "Chủ điểm: Vẻ đẹp quanh em",
-   "title": "Bài 7: HẠT THÓC – TIẾT 3: VIẾT CHỮ HOA T; TIẾT 4: NÓI VÀ NGHE",
+   "title": "Bài 7: HẠT THÓC – TIẾT 3: VIẾT CHỮ HOA T",
    "content": "",
-   "periodLabel": "Tiết 213–214",
+   "periodLabel": "Tiết 213",
    "periodFrom": 213,
-   "periodTo": 214,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodTo": 213,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-143",
+   "id": "l2-tieng-viet-161",
+   "semester": 2,
+   "week": 22,
+   "theme": "Chủ điểm: Vẻ đẹp quanh em",
+   "title": "Bài 7: HẠT THÓC – TIẾT 4: NÓI VÀ NGHE",
+   "content": "",
+   "periodLabel": "Tiết 214",
+   "periodFrom": 214,
+   "periodTo": 214,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-162",
    "semester": 2,
    "week": 22,
    "theme": "Chủ điểm: Vẻ đẹp quanh em",
@@ -2434,45 +2854,71 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-144",
+   "id": "l2-tieng-viet-163",
    "semester": 2,
    "week": 22,
    "theme": "Chủ điểm: Vẻ đẹp quanh em",
-   "title": "Bài 8: LŨY TRE – TIẾT 3: NGHE – VIẾT; TIẾT 4: LUYỆN TẬP",
+   "title": "Bài 8: LŨY TRE – TIẾT 3: NGHE – VIẾT",
    "content": "",
-   "periodLabel": "Tiết 217–218",
+   "periodLabel": "Tiết 217",
    "periodFrom": 217,
-   "periodTo": 218,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodTo": 217,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-145",
+   "id": "l2-tieng-viet-164",
    "semester": 2,
    "week": 22,
    "theme": "Chủ điểm: Vẻ đẹp quanh em",
-   "title": "Bài 8: LŨY TRE – TIẾT 5: VIẾT ĐOẠN VĂN; TIẾT 6: ĐỌC MỞ RỘNG",
+   "title": "Bài 8: LŨY TRE – TIẾT 4: LUYỆN TẬP",
    "content": "",
-   "periodLabel": "Tiết 219–220",
-   "periodFrom": 219,
-   "periodTo": 220,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodLabel": "Tiết 218",
+   "periodFrom": 218,
+   "periodTo": 218,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-146",
+   "id": "l2-tieng-viet-165",
+   "semester": 2,
+   "week": 22,
+   "theme": "Chủ điểm: Vẻ đẹp quanh em",
+   "title": "Bài 8: LŨY TRE – TIẾT 5: VIẾT ĐOẠN VĂN",
+   "content": "",
+   "periodLabel": "Tiết 219",
+   "periodFrom": 219,
+   "periodTo": 219,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-166",
+   "semester": 2,
+   "week": 22,
+   "theme": "Chủ điểm: Vẻ đẹp quanh em",
+   "title": "Bài 8: LŨY TRE – TIẾT 6: ĐỌC MỞ RỘNG",
+   "content": "",
+   "periodLabel": "Tiết 220",
+   "periodFrom": 220,
+   "periodTo": 220,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-167",
    "semester": 2,
    "week": 23,
    "theme": "Chủ điểm: Hành tinh xanh của em",
@@ -2494,23 +2940,39 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-147",
+   "id": "l2-tieng-viet-168",
    "semester": 2,
    "week": 23,
    "theme": "Chủ điểm: Hành tinh xanh của em",
-   "title": "Bài 9: VÈ CHIM – TIẾT 3: VIẾT CHỮ HOA U, Ư; TIẾT 4: NÓI VÀ NGHE – CẢM ƠN HỌA MI",
+   "title": "Bài 9: VÈ CHIM – TIẾT 3: VIẾT CHỮ HOA U, Ư",
    "content": "",
-   "periodLabel": "Tiết 223–224",
+   "periodLabel": "Tiết 223",
    "periodFrom": 223,
-   "periodTo": 224,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodTo": 223,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-148",
+   "id": "l2-tieng-viet-169",
+   "semester": 2,
+   "week": 23,
+   "theme": "Chủ điểm: Hành tinh xanh của em",
+   "title": "Bài 9: VÈ CHIM – TIẾT 4: NÓI VÀ NGHE – CẢM ƠN HỌA MI",
+   "content": "",
+   "periodLabel": "Tiết 224",
+   "periodFrom": 224,
+   "periodTo": 224,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-170",
    "semester": 2,
    "week": 23,
    "theme": "Chủ điểm: Hành tinh xanh của em",
@@ -2526,29 +2988,55 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-149",
+   "id": "l2-tieng-viet-171",
    "semester": 2,
    "week": 23,
    "theme": "Chủ điểm: Hành tinh xanh của em",
-   "title": "Bài 10: KHỦNG LONG – TIẾT 3: VIẾT; TIẾT 4: LUYỆN TẬP; TIẾT 5 – 6: VIẾT ĐOẠN VĂN – ĐỌC MỞ RỘNG",
+   "title": "Bài 10: KHỦNG LONG – TIẾT 3: VIẾT",
    "content": "",
-   "periodLabel": "Tiết 227–230",
+   "periodLabel": "Tiết 227",
    "periodFrom": 227,
-   "periodTo": 230,
-   "periods": 4,
-   "lessonPeriods": null,
+   "periodTo": 227,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-150",
+   "id": "l2-tieng-viet-172",
+   "semester": 2,
+   "week": 23,
+   "theme": "Chủ điểm: Hành tinh xanh của em",
+   "title": "Bài 10: KHỦNG LONG – TIẾT 4: LUYỆN TẬP",
+   "content": "",
+   "periodLabel": "Tiết 228",
+   "periodFrom": 228,
+   "periodTo": 228,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-173",
+   "semester": 2,
+   "week": 23,
+   "theme": "Chủ điểm: Hành tinh xanh của em",
+   "title": "Bài 10: KHỦNG LONG – TIẾT 5 – 6: VIẾT ĐOẠN VĂN – ĐỌC MỞ RỘNG",
+   "content": "",
+   "periodLabel": "Tiết 229–230",
+   "periodFrom": 229,
+   "periodTo": 230,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-174",
    "semester": 2,
    "week": 24,
    "theme": "Chủ điểm: Hành tinh xanh của em",
@@ -2564,23 +3052,39 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-151",
+   "id": "l2-tieng-viet-175",
    "semester": 2,
    "week": 24,
    "theme": "Chủ điểm: Hành tinh xanh của em",
-   "title": "Bài 11: SỰ TÍCH CÂY THÌ LÀ – TIẾT 3: VIẾT CHỮ HOA V; TIẾT 4: NÓI VÀ NGHE – SỰ TÍCH CÂY THÌ LÀ",
+   "title": "Bài 11: SỰ TÍCH CÂY THÌ LÀ – TIẾT 3: VIẾT CHỮ HOA V",
    "content": "",
-   "periodLabel": "Tiết 233–234",
+   "periodLabel": "Tiết 233",
    "periodFrom": 233,
-   "periodTo": 234,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodTo": 233,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-152",
+   "id": "l2-tieng-viet-176",
+   "semester": 2,
+   "week": 24,
+   "theme": "Chủ điểm: Hành tinh xanh của em",
+   "title": "Bài 11: SỰ TÍCH CÂY THÌ LÀ – TIẾT 4: NÓI VÀ NGHE – SỰ TÍCH CÂY THÌ LÀ",
+   "content": "",
+   "periodLabel": "Tiết 234",
+   "periodFrom": 234,
+   "periodTo": 234,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-177",
    "semester": 2,
    "week": 24,
    "theme": "Chủ điểm: Hành tinh xanh của em",
@@ -2596,29 +3100,55 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-153",
+   "id": "l2-tieng-viet-178",
    "semester": 2,
    "week": 24,
    "theme": "Chủ điểm: Hành tinh xanh của em",
-   "title": "Bài 12: BỜ TRE ĐÓN KHÁCH – TIẾT 3: VIẾT; TIẾT 4: LUYỆN TẬP; TIẾT 5 – 6: VIẾT ĐOẠN VĂN – ĐỌC MỞ RỘNG",
+   "title": "Bài 12: BỜ TRE ĐÓN KHÁCH – TIẾT 3: VIẾT",
    "content": "",
-   "periodLabel": "Tiết 237–240",
+   "periodLabel": "Tiết 237",
    "periodFrom": 237,
-   "periodTo": 240,
-   "periods": 4,
-   "lessonPeriods": null,
+   "periodTo": 237,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-154",
+   "id": "l2-tieng-viet-179",
+   "semester": 2,
+   "week": 24,
+   "theme": "Chủ điểm: Hành tinh xanh của em",
+   "title": "Bài 12: BỜ TRE ĐÓN KHÁCH – TIẾT 4: LUYỆN TẬP",
+   "content": "",
+   "periodLabel": "Tiết 238",
+   "periodFrom": 238,
+   "periodTo": 238,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-180",
+   "semester": 2,
+   "week": 24,
+   "theme": "Chủ điểm: Hành tinh xanh của em",
+   "title": "Bài 12: BỜ TRE ĐÓN KHÁCH – TIẾT 5 – 6: VIẾT ĐOẠN VĂN – ĐỌC MỞ RỘNG",
+   "content": "",
+   "periodLabel": "Tiết 239–240",
+   "periodFrom": 239,
+   "periodTo": 240,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-181",
    "semester": 2,
    "week": 25,
    "theme": "Chủ điểm: Hành tinh xanh của em",
@@ -2634,23 +3164,39 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-155",
+   "id": "l2-tieng-viet-182",
    "semester": 2,
    "week": 25,
    "theme": "Chủ điểm: Hành tinh xanh của em",
-   "title": "Bài 13: TIẾNG CHỔI TRE – TIẾT 3: VIẾT CHỮ HOA X; TIẾT 4: NÓI VÀ NGHE – HẠT GIỐNG NHỎ",
+   "title": "Bài 13: TIẾNG CHỔI TRE – TIẾT 3: VIẾT CHỮ HOA X",
    "content": "",
-   "periodLabel": "Tiết 243–244",
+   "periodLabel": "Tiết 243",
    "periodFrom": 243,
-   "periodTo": 244,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodTo": 243,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-156",
+   "id": "l2-tieng-viet-183",
+   "semester": 2,
+   "week": 25,
+   "theme": "Chủ điểm: Hành tinh xanh của em",
+   "title": "Bài 13: TIẾNG CHỔI TRE – TIẾT 4: NÓI VÀ NGHE – HẠT GIỐNG NHỎ",
+   "content": "",
+   "periodLabel": "Tiết 244",
+   "periodFrom": 244,
+   "periodTo": 244,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-184",
    "semester": 2,
    "week": 25,
    "theme": "Chủ điểm: Hành tinh xanh của em",
@@ -2666,29 +3212,55 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-157",
+   "id": "l2-tieng-viet-185",
    "semester": 2,
    "week": 25,
    "theme": "Chủ điểm: Hành tinh xanh của em",
-   "title": "Bài 14: CỎ NON CƯỜI RỒI – TIẾT 3: VIẾT; TIẾT 4: LUYỆN TẬP; TIẾT 5 – 6: VIẾT LỜI XIN LỖI – ĐỌC MỞ RỘNG",
+   "title": "Bài 14: CỎ NON CƯỜI RỒI – TIẾT 3: VIẾT",
    "content": "",
-   "periodLabel": "Tiết 247–250",
+   "periodLabel": "Tiết 247",
    "periodFrom": 247,
-   "periodTo": 250,
-   "periods": 4,
-   "lessonPeriods": null,
+   "periodTo": 247,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-158",
+   "id": "l2-tieng-viet-186",
+   "semester": 2,
+   "week": 25,
+   "theme": "Chủ điểm: Hành tinh xanh của em",
+   "title": "Bài 14: CỎ NON CƯỜI RỒI – TIẾT 4: LUYỆN TẬP",
+   "content": "",
+   "periodLabel": "Tiết 248",
+   "periodFrom": 248,
+   "periodTo": 248,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-187",
+   "semester": 2,
+   "week": 25,
+   "theme": "Chủ điểm: Hành tinh xanh của em",
+   "title": "Bài 14: CỎ NON CƯỜI RỒI – TIẾT 5 – 6: VIẾT LỜI XIN LỖI – ĐỌC MỞ RỘNG",
+   "content": "",
+   "periodLabel": "Tiết 249–250",
+   "periodFrom": 249,
+   "periodTo": 250,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-188",
    "semester": 2,
    "week": 26,
    "theme": "Chủ điểm: Hành tinh xanh của em",
@@ -2700,33 +3272,43 @@
    "periods": 2,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; HS nêu được biển, đảo là một phần lãnh thổ thiêng liêng của Tổ quốc."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-159",
+   "id": "l2-tieng-viet-189",
    "semester": 2,
    "week": 26,
    "theme": "Chủ điểm: Hành tinh xanh của em",
-   "title": "Bài 15: NHỮNG CON SAO BIỂN – TIẾT 3: VIẾT CHỮ HOA Y; TIẾT 4: NÓI VÀ NGHE – BẢO VỆ MÔI TRƯỜNG",
+   "title": "Bài 15: NHỮNG CON SAO BIỂN – TIẾT 3: VIẾT CHỮ HOA Y",
    "content": "",
-   "periodLabel": "Tiết 253–254",
+   "periodLabel": "Tiết 253",
    "periodFrom": 253,
-   "periodTo": 254,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodTo": 253,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-160",
+   "id": "l2-tieng-viet-190",
+   "semester": 2,
+   "week": 26,
+   "theme": "Chủ điểm: Hành tinh xanh của em",
+   "title": "Bài 15: NHỮNG CON SAO BIỂN – TIẾT 4: NÓI VÀ NGHE – BẢO VỆ MÔI TRƯỜNG",
+   "content": "",
+   "periodLabel": "Tiết 254",
+   "periodFrom": 254,
+   "periodTo": 254,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-191",
    "semester": 2,
    "week": 26,
    "theme": "Chủ điểm: Hành tinh xanh của em",
@@ -2742,29 +3324,55 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-161",
+   "id": "l2-tieng-viet-192",
    "semester": 2,
    "week": 26,
    "theme": "Chủ điểm: Hành tinh xanh của em",
-   "title": "Bài 16: TẠM BIỆT CÁNH CAM – TIẾT 3: VIẾT; TIẾT 4: LUYỆN TẬP; TIẾT 5 – 6: VIẾT ĐOẠN – ĐỌC MỞ RỘNG",
+   "title": "Bài 16: TẠM BIỆT CÁNH CAM – TIẾT 3: VIẾT",
    "content": "",
-   "periodLabel": "Tiết 257–260",
+   "periodLabel": "Tiết 257",
    "periodFrom": 257,
-   "periodTo": 260,
-   "periods": 4,
-   "lessonPeriods": null,
+   "periodTo": 257,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-162",
+   "id": "l2-tieng-viet-193",
+   "semester": 2,
+   "week": 26,
+   "theme": "Chủ điểm: Hành tinh xanh của em",
+   "title": "Bài 16: TẠM BIỆT CÁNH CAM – TIẾT 4: LUYỆN TẬP",
+   "content": "",
+   "periodLabel": "Tiết 258",
+   "periodFrom": 258,
+   "periodTo": 258,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-194",
+   "semester": 2,
+   "week": 26,
+   "theme": "Chủ điểm: Hành tinh xanh của em",
+   "title": "Bài 16: TẠM BIỆT CÁNH CAM – TIẾT 5 – 6: VIẾT ĐOẠN – ĐỌC MỞ RỘNG",
+   "content": "",
+   "periodLabel": "Tiết 259–260",
+   "periodFrom": 259,
+   "periodTo": 260,
+   "periods": 2,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-195",
    "semester": 2,
    "week": 27,
    "theme": "Ôn tập, kiểm tra, đánh giá",
@@ -2780,7 +3388,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-163",
+   "id": "l2-tieng-viet-196",
    "semester": 2,
    "week": 27,
    "theme": "Ôn tập, kiểm tra, đánh giá",
@@ -2790,13 +3398,13 @@
    "periodFrom": 263,
    "periodTo": 264,
    "periods": 2,
-   "lessonPeriods": null,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-164",
+   "id": "l2-tieng-viet-197",
    "semester": 2,
    "week": 27,
    "theme": "Ôn tập, kiểm tra, đánh giá",
@@ -2806,13 +3414,13 @@
    "periodFrom": 265,
    "periodTo": 266,
    "periods": 2,
-   "lessonPeriods": null,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-165",
+   "id": "l2-tieng-viet-198",
    "semester": 2,
    "week": 27,
    "theme": "Ôn tập, kiểm tra, đánh giá",
@@ -2822,13 +3430,13 @@
    "periodFrom": 267,
    "periodTo": 268,
    "periods": 2,
-   "lessonPeriods": null,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-166",
+   "id": "l2-tieng-viet-199",
    "semester": 2,
    "week": 27,
    "theme": "Ôn tập, kiểm tra, đánh giá",
@@ -2838,13 +3446,13 @@
    "periodFrom": 269,
    "periodTo": 270,
    "periods": 2,
-   "lessonPeriods": null,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-167",
+   "id": "l2-tieng-viet-200",
    "semester": 2,
    "week": 28,
    "theme": "Chủ điểm: Giao tiếp và kết nối",
@@ -2866,23 +3474,39 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-168",
+   "id": "l2-tieng-viet-201",
    "semester": 2,
    "week": 28,
    "theme": "Chủ điểm: Giao tiếp và kết nối",
-   "title": "Bài 17: NHỮNG CÁCH CHÀO ĐỘC ĐÁO – TIẾT 3: VIẾT - CHỮ HOA A (KIỂU 2) – TIẾT 4: NÓI VÀ NGHE - LỚP HỌC VIẾT THƯ",
+   "title": "Bài 17: NHỮNG CÁCH CHÀO ĐỘC ĐÁO – TIẾT 3: VIẾT - CHỮ HOA A (KIỂU 2)",
    "content": "",
-   "periodLabel": "Tiết 273–274",
+   "periodLabel": "Tiết 273",
    "periodFrom": 273,
-   "periodTo": 274,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodTo": 273,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-169",
+   "id": "l2-tieng-viet-202",
+   "semester": 2,
+   "week": 28,
+   "theme": "Chủ điểm: Giao tiếp và kết nối",
+   "title": "Bài 17: NHỮNG CÁCH CHÀO ĐỘC ĐÁO – TIẾT 4: NÓI VÀ NGHE - LỚP HỌC VIẾT THƯ",
+   "content": "",
+   "periodLabel": "Tiết 274",
+   "periodFrom": 274,
+   "periodTo": 274,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-203",
    "semester": 2,
    "week": 28,
    "theme": "Chủ điểm: Giao tiếp và kết nối",
@@ -2898,7 +3522,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-170",
+   "id": "l2-tieng-viet-204",
    "semester": 2,
    "week": 28,
    "theme": "Chủ điểm: Giao tiếp và kết nối",
@@ -2908,19 +3532,13 @@
    "periodFrom": 277,
    "periodTo": 280,
    "periods": 4,
-   "lessonPeriods": null,
+   "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-171",
+   "id": "l2-tieng-viet-205",
    "semester": 2,
    "week": 29,
    "theme": "Chủ điểm: Giao tiếp và kết nối",
@@ -2936,7 +3554,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-172",
+   "id": "l2-tieng-viet-206",
    "semester": 2,
    "week": 29,
    "theme": "Chủ điểm: Giao tiếp và kết nối",
@@ -2946,13 +3564,13 @@
    "periodFrom": 283,
    "periodTo": 283,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-173",
+   "id": "l2-tieng-viet-207",
    "semester": 2,
    "week": 29,
    "theme": "Chủ điểm: Giao tiếp và kết nối",
@@ -2962,13 +3580,13 @@
    "periodFrom": 284,
    "periodTo": 284,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-174",
+   "id": "l2-tieng-viet-208",
    "semester": 2,
    "week": 29,
    "theme": "Chủ điểm: Giao tiếp và kết nối",
@@ -2984,7 +3602,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-175",
+   "id": "l2-tieng-viet-209",
    "semester": 2,
    "week": 29,
    "theme": "Chủ điểm: Giao tiếp và kết nối",
@@ -2994,13 +3612,13 @@
    "periodFrom": 287,
    "periodTo": 287,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-176",
+   "id": "l2-tieng-viet-210",
    "semester": 2,
    "week": 29,
    "theme": "Chủ điểm: Giao tiếp và kết nối",
@@ -3010,35 +3628,45 @@
    "periodFrom": 288,
    "periodTo": 288,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-177",
+   "id": "l2-tieng-viet-211",
    "semester": 2,
    "week": 29,
    "theme": "Chủ điểm: Giao tiếp và kết nối",
-   "title": "Bài 20: TỪ CHÚ BỒ CÂU ĐẾN IN-TƠ-NÉT – TIẾT 5 - 6: VIẾT ĐOẠN VĂN TẢ MỘT ĐỒ DÙNG TRONG GIA ĐÌNH; ĐỌC MỞ RỘNG",
+   "title": "Bài 20: TỪ CHÚ BỒ CÂU ĐẾN IN-TƠ-NÉT – TIẾT 5: VIẾT ĐOẠN VĂN TẢ MỘT ĐỒ DÙNG TRONG GIA ĐÌNH",
    "content": "",
-   "periodLabel": "Tiết 289–290",
+   "periodLabel": "Tiết 289",
    "periodFrom": 289,
-   "periodTo": 290,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodTo": 289,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-178",
+   "id": "l2-tieng-viet-212",
+   "semester": 2,
+   "week": 29,
+   "theme": "Chủ điểm: Giao tiếp và kết nối",
+   "title": "Bài 20: TỪ CHÚ BỒ CÂU ĐẾN IN-TƠ-NÉT – TIẾT 6: ĐỌC MỞ RỘNG",
+   "content": "",
+   "periodLabel": "Tiết 290",
+   "periodFrom": 290,
+   "periodTo": 290,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-213",
    "semester": 2,
    "week": 30,
    "theme": "Chủ điểm: Con người Việt Nam",
@@ -3055,17 +3683,12 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng."
     }
    ],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-179",
+   "id": "l2-tieng-viet-214",
    "semester": 2,
    "week": 30,
    "theme": "Chủ điểm: Con người Việt Nam",
@@ -3075,13 +3698,13 @@
    "periodFrom": 293,
    "periodTo": 293,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-180",
+   "id": "l2-tieng-viet-215",
    "semester": 2,
    "week": 30,
    "theme": "Chủ điểm: Con người Việt Nam",
@@ -3091,13 +3714,13 @@
    "periodFrom": 294,
    "periodTo": 294,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-181",
+   "id": "l2-tieng-viet-216",
    "semester": 2,
    "week": 30,
    "theme": "Chủ điểm: Con người Việt Nam",
@@ -3109,17 +3732,11 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; HS nêu được biển, đảo là một phần lãnh thổ thiêng liêng của Tổ quốc."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-182",
+   "id": "l2-tieng-viet-217",
    "semester": 2,
    "week": 30,
    "theme": "Chủ điểm: Con người Việt Nam",
@@ -3129,13 +3746,13 @@
    "periodFrom": 297,
    "periodTo": 297,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-183",
+   "id": "l2-tieng-viet-218",
    "semester": 2,
    "week": 30,
    "theme": "Chủ điểm: Con người Việt Nam",
@@ -3145,35 +3762,45 @@
    "periodFrom": 298,
    "periodTo": 298,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-184",
+   "id": "l2-tieng-viet-219",
    "semester": 2,
    "week": 30,
    "theme": "Chủ điểm: Con người Việt Nam",
-   "title": "Bài 22: THƯ GỬI BỐ NGOÀI ĐẢO – TIẾT 5 - 6: VIẾT LỜI CẢM ƠN CÁC CHÚ BỘ ĐỘI HẢI QUÂN; ĐỌC MỞ RỘNG",
+   "title": "Bài 22: THƯ GỬI BỐ NGOÀI ĐẢO – TIẾT 5: VIẾT LỜI CẢM ƠN CÁC CHÚ BỘ ĐỘI HẢI QUÂN",
    "content": "",
-   "periodLabel": "Tiết 299–300",
+   "periodLabel": "Tiết 299",
    "periodFrom": 299,
-   "periodTo": 300,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodTo": 299,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-185",
+   "id": "l2-tieng-viet-220",
+   "semester": 2,
+   "week": 30,
+   "theme": "Chủ điểm: Con người Việt Nam",
+   "title": "Bài 22: THƯ GỬI BỐ NGOÀI ĐẢO – TIẾT 6: ĐỌC MỞ RỘNG",
+   "content": "",
+   "periodLabel": "Tiết 300",
+   "periodFrom": 300,
+   "periodTo": 300,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-221",
    "semester": 2,
    "week": 31,
    "theme": "Chủ điểm: Con người Việt Nam",
@@ -3189,7 +3816,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-186",
+   "id": "l2-tieng-viet-222",
    "semester": 2,
    "week": 31,
    "theme": "Chủ điểm: Con người Việt Nam",
@@ -3199,13 +3826,13 @@
    "periodFrom": 303,
    "periodTo": 303,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-187",
+   "id": "l2-tieng-viet-223",
    "semester": 2,
    "week": 31,
    "theme": "Chủ điểm: Con người Việt Nam",
@@ -3215,13 +3842,13 @@
    "periodFrom": 304,
    "periodTo": 304,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-188",
+   "id": "l2-tieng-viet-224",
    "semester": 2,
    "week": 31,
    "theme": "Chủ điểm: Con người Việt Nam",
@@ -3237,7 +3864,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-189",
+   "id": "l2-tieng-viet-225",
    "semester": 2,
    "week": 31,
    "theme": "Chủ điểm: Con người Việt Nam",
@@ -3247,13 +3874,13 @@
    "periodFrom": 307,
    "periodTo": 307,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-190",
+   "id": "l2-tieng-viet-226",
    "semester": 2,
    "week": 31,
    "theme": "Chủ điểm: Con người Việt Nam",
@@ -3263,13 +3890,13 @@
    "periodFrom": 308,
    "periodTo": 308,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-191",
+   "id": "l2-tieng-viet-227",
    "semester": 2,
    "week": 31,
    "theme": "Chủ điểm: Con người Việt Nam",
@@ -3279,13 +3906,13 @@
    "periodFrom": 309,
    "periodTo": 309,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-192",
+   "id": "l2-tieng-viet-228",
    "semester": 2,
    "week": 31,
    "theme": "Chủ điểm: Con người Việt Nam",
@@ -3295,19 +3922,13 @@
    "periodFrom": 310,
    "periodTo": 310,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-193",
+   "id": "l2-tieng-viet-229",
    "semester": 2,
    "week": 32,
    "theme": "Chủ điểm: Việt Nam quê hương em",
@@ -3324,17 +3945,12 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng."
     }
    ],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-194",
+   "id": "l2-tieng-viet-230",
    "semester": 2,
    "week": 32,
    "theme": "Chủ điểm: Việt Nam quê hương em",
@@ -3344,13 +3960,13 @@
    "periodFrom": 313,
    "periodTo": 313,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-195",
+   "id": "l2-tieng-viet-231",
    "semester": 2,
    "week": 32,
    "theme": "Chủ điểm: Việt Nam quê hương em",
@@ -3360,13 +3976,13 @@
    "periodFrom": 314,
    "periodTo": 314,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-196",
+   "id": "l2-tieng-viet-232",
    "semester": 2,
    "week": 32,
    "theme": "Chủ điểm: Việt Nam quê hương em",
@@ -3382,7 +3998,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-197",
+   "id": "l2-tieng-viet-233",
    "semester": 2,
    "week": 32,
    "theme": "Chủ điểm: Việt Nam quê hương em",
@@ -3392,13 +4008,13 @@
    "periodFrom": 317,
    "periodTo": 317,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-198",
+   "id": "l2-tieng-viet-234",
    "semester": 2,
    "week": 32,
    "theme": "Chủ điểm: Việt Nam quê hương em",
@@ -3408,35 +4024,45 @@
    "periodFrom": 318,
    "periodTo": 318,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-199",
+   "id": "l2-tieng-viet-235",
    "semester": 2,
    "week": 32,
    "theme": "Chủ điểm: Việt Nam quê hương em",
-   "title": "Bài 26: TRÊN CÁC MIỀN ĐẤT NƯỚC – TIẾT 5 - 6: VIẾT ĐOẠN VĂN GIỚI THIỆU ĐỒ VẬT LÀM TỪ TRE/GỖ; ĐỌC MỞ RỘNG",
+   "title": "Bài 26: TRÊN CÁC MIỀN ĐẤT NƯỚC – TIẾT 5: VIẾT ĐOẠN VĂN GIỚI THIỆU ĐỒ VẬT LÀM TỪ TRE/GỖ",
    "content": "",
-   "periodLabel": "Tiết 319–320",
+   "periodLabel": "Tiết 319",
    "periodFrom": 319,
-   "periodTo": 320,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodTo": 319,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-200",
+   "id": "l2-tieng-viet-236",
+   "semester": 2,
+   "week": 32,
+   "theme": "Chủ điểm: Việt Nam quê hương em",
+   "title": "Bài 26: TRÊN CÁC MIỀN ĐẤT NƯỚC – TIẾT 6: ĐỌC MỞ RỘNG",
+   "content": "",
+   "periodLabel": "Tiết 320",
+   "periodFrom": 320,
+   "periodTo": 320,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-237",
    "semester": 2,
    "week": 33,
    "theme": "Chủ điểm: Việt Nam quê hương em",
@@ -3452,7 +4078,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-201",
+   "id": "l2-tieng-viet-238",
    "semester": 2,
    "week": 33,
    "theme": "Chủ điểm: Việt Nam quê hương em",
@@ -3462,13 +4088,13 @@
    "periodFrom": 323,
    "periodTo": 323,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-202",
+   "id": "l2-tieng-viet-239",
    "semester": 2,
    "week": 33,
    "theme": "Chủ điểm: Việt Nam quê hương em",
@@ -3478,13 +4104,13 @@
    "periodFrom": 324,
    "periodTo": 324,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-203",
+   "id": "l2-tieng-viet-240",
    "semester": 2,
    "week": 33,
    "theme": "Chủ điểm: Việt Nam quê hương em",
@@ -3496,17 +4122,11 @@
    "periods": 2,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "QPAN",
-     "level": "",
-     "text": "Liên hệ tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng; HS nêu được biển, đảo là một phần lãnh thổ thiêng liêng của Tổ quốc."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-204",
+   "id": "l2-tieng-viet-241",
    "semester": 2,
    "week": 33,
    "theme": "Chủ điểm: Việt Nam quê hương em",
@@ -3516,13 +4136,13 @@
    "periodFrom": 327,
    "periodTo": 327,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-205",
+   "id": "l2-tieng-viet-242",
    "semester": 2,
    "week": 33,
    "theme": "Chủ điểm: Việt Nam quê hương em",
@@ -3532,35 +4152,45 @@
    "periodFrom": 328,
    "periodTo": 328,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-206",
+   "id": "l2-tieng-viet-243",
    "semester": 2,
    "week": 33,
    "theme": "Chủ điểm: Việt Nam quê hương em",
-   "title": "Bài 28: KHÁM PHÁ ĐÁY BIỂN Ở TRƯỜNG SA – TIẾT 5 - 6: VIẾT ĐOẠN VĂN KỂ VỀ MỘT BUỔI ĐI CHƠI; ĐỌC MỞ RỘNG",
+   "title": "Bài 28: KHÁM PHÁ ĐÁY BIỂN Ở TRƯỜNG SA – TIẾT 5: VIẾT ĐOẠN VĂN KỂ VỀ MỘT BUỔI ĐI CHƠI",
    "content": "",
-   "periodLabel": "Tiết 329–330",
+   "periodLabel": "Tiết 329",
    "periodFrom": 329,
-   "periodTo": 330,
-   "periods": 2,
-   "lessonPeriods": null,
+   "periodTo": 329,
+   "periods": 1,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-207",
+   "id": "l2-tieng-viet-244",
+   "semester": 2,
+   "week": 33,
+   "theme": "Chủ điểm: Việt Nam quê hương em",
+   "title": "Bài 28: KHÁM PHÁ ĐÁY BIỂN Ở TRƯỜNG SA – TIẾT 6: ĐỌC MỞ RỘNG",
+   "content": "",
+   "periodLabel": "Tiết 330",
+   "periodFrom": 330,
+   "periodTo": 330,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l2-tieng-viet-245",
    "semester": 2,
    "week": 34,
    "theme": "Chủ điểm: Việt Nam quê hương em",
@@ -3576,7 +4206,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-208",
+   "id": "l2-tieng-viet-246",
    "semester": 2,
    "week": 34,
    "theme": "Chủ điểm: Việt Nam quê hương em",
@@ -3586,13 +4216,13 @@
    "periodFrom": 333,
    "periodTo": 333,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-209",
+   "id": "l2-tieng-viet-247",
    "semester": 2,
    "week": 34,
    "theme": "Chủ điểm: Việt Nam quê hương em",
@@ -3602,13 +4232,13 @@
    "periodFrom": 334,
    "periodTo": 334,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-210",
+   "id": "l2-tieng-viet-248",
    "semester": 2,
    "week": 34,
    "theme": "Chủ điểm: Việt Nam quê hương em",
@@ -3624,7 +4254,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-211",
+   "id": "l2-tieng-viet-249",
    "semester": 2,
    "week": 34,
    "theme": "Chủ điểm: Việt Nam quê hương em",
@@ -3634,13 +4264,13 @@
    "periodFrom": 337,
    "periodTo": 337,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-212",
+   "id": "l2-tieng-viet-250",
    "semester": 2,
    "week": 34,
    "theme": "Chủ điểm: Việt Nam quê hương em",
@@ -3650,13 +4280,13 @@
    "periodFrom": 338,
    "periodTo": 338,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-213",
+   "id": "l2-tieng-viet-251",
    "semester": 2,
    "week": 34,
    "theme": "Chủ điểm: Việt Nam quê hương em",
@@ -3666,13 +4296,13 @@
    "periodFrom": 339,
    "periodTo": 339,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-214",
+   "id": "l2-tieng-viet-252",
    "semester": 2,
    "week": 34,
    "theme": "Chủ điểm: Việt Nam quê hương em",
@@ -3682,19 +4312,13 @@
    "periodFrom": 340,
    "periodTo": 340,
    "periods": 1,
-   "lessonPeriods": null,
+   "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-215",
+   "id": "l2-tieng-viet-253",
    "semester": 2,
    "week": 35,
    "theme": "Ôn tập, kiểm tra, đánh giá",
@@ -3710,7 +4334,7 @@
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-216",
+   "id": "l2-tieng-viet-254",
    "semester": 2,
    "week": 35,
    "theme": "Ôn tập, kiểm tra, đánh giá",
@@ -3720,13 +4344,13 @@
    "periodFrom": 343,
    "periodTo": 344,
    "periods": 2,
-   "lessonPeriods": null,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-217",
+   "id": "l2-tieng-viet-255",
    "semester": 2,
    "week": 35,
    "theme": "Ôn tập, kiểm tra, đánh giá",
@@ -3736,13 +4360,13 @@
    "periodFrom": 345,
    "periodTo": 346,
    "periods": 2,
-   "lessonPeriods": null,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-218",
+   "id": "l2-tieng-viet-256",
    "semester": 2,
    "week": 35,
    "theme": "Ôn tập, kiểm tra, đánh giá",
@@ -3752,13 +4376,13 @@
    "periodFrom": 347,
    "periodTo": 348,
    "periods": 2,
-   "lessonPeriods": null,
+   "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [],
    "note": ""
   },
   {
-   "id": "l2-tieng-viet-219",
+   "id": "l2-tieng-viet-257",
    "semester": 2,
    "week": 35,
    "theme": "Ôn tập, kiểm tra, đánh giá",
@@ -4046,8 +4670,8 @@
  "attachment": {
   "file": "assets/docs/lop2/Tieng Viet - Lop 2.docx",
   "name": "Tieng Viet - Lop 2.docx",
-  "original": "KHDH Tiếng Việt lớp 2 (2026-2027) (đã rà soát).docx",
-  "size": 24104,
-  "updated": "2026-09-02"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
+  "size": 54967,
+  "updated": "2026-09-07"
  }
 }
