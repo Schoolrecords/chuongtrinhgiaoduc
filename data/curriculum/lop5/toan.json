@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 175,
-  "integrations": 151
+  "integrations": 39
  },
  "lessons": [
   {
@@ -126,17 +126,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV chiếu hình tô màu để HS viết phân số chỉ phần tô màu, nhận ra phân số có mẫu số 10, 100"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2, QĐ 2422: 5.A1.2",
-     "text": "GV nhờ công cụ trí tuệ nhân tạo giải bài viết 11/25 và 82/2000 thành phân số thập phân, chiếu lời giải"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS tự đặt tính và tự đặt dấu phẩy"
+     "text": "Chiếu hình tô màu để HS viết phân số chỉ phần tô màu, nhận ra phân số có mẫu số 10, 100."
     }
    ],
    "note": ""
@@ -206,17 +196,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "Ở bài “Cộng, trừ hai phân số khác mẫu”, GV dùng mô hình phân số kéo thả trên máy: chia hình tròn và băng giấy ảo thành các"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu một bài làm có lỗi cộng thẳng tử với tử, mẫu với mẫu; HS dùng mô hình trên máy kiểm tra lại"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Mô hình do thầy cô điều khiển, HS chờ đến lượt được mời lên kéo thả"
+     "text": "Ở bài “Cộng, trừ hai phân số khác mẫu”, GV dùng mô hình phân số kéo thả trên máy."
     }
    ],
    "note": ""
@@ -250,23 +230,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Ở bài “Hỗn số”, GV dùng mô hình trên máy: hiện hai hình tròn nguyên và một phần của hình thứ ba"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu bài tập nối hình vẽ với hỗn số tương ứng; máy chấm ngay nên HS nhận ra mình còn nhầm phần nguyên với tử số"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Mô hình do thầy cô điều khiển, HS chờ đến lượt được mời lên chạm màn hình"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -334,17 +298,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "Ở tiết luyện tập chung, GV cho HS làm bộ bài tập tương tác có chấm tự động về đọc, viết"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu bài toán thực tế có bảng số liệu, tô màu dòng cần dùng theo lời HS đọc đề; các em học cách lấy đúng số liệu"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bài tập tương tác do thầy cô mở"
+     "text": "Ở tiết luyện tập chung, GV cho HS làm bộ bài tập tương tác có chấm tự động về đọc, viết."
     }
    ],
    "note": ""
@@ -394,23 +348,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV dùng tia số phóng to được trên máy để HS thấy vị trí các số trong “Khái niệm về số thập phân” nằm xen giữa hai số"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS nhờ công cụ trí tuệ nhân tạo giải một bài về “Khái niệm về số thập phân”"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS tự đặt tính và tự đặt dấu phẩy"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -460,19 +398,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV dùng tia số phóng to được trên máy để HS thấy vị trí các số trong “So sánh số thập phân” nằm xen giữa hai số tự"
-    },
-    {
      "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS nhờ công cụ trí tuệ nhân tạo giải một bài về “So sánh số thập phân”"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS tự đặt tính và tự đặt dấu phẩy"
+     "level": "Nhận biết",
+     "text": "Cho HS nhờ công cụ trí tuệ nhân tạo giải một bài về “So sánh số thập phân”, rồi cả lớp soi."
     }
    ],
    "note": ""
@@ -507,21 +435,6 @@
    "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV dùng tia số phóng to được trên máy để HS thấy vị trí các số trong “Viết số đo đại lượng dưới dạng số thập phân” nằm"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS nhờ công cụ trí tuệ nhân tạo giải một bài về “Viết số đo đại lượng dưới dạng số thập phân”"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS tự đặt tính và tự đặt dấu phẩy"
-    },
     {
      "code": "STEM",
      "level": "",
@@ -579,17 +492,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV dùng tia số phóng to được trên máy để HS thấy vị trí các số trong “Làm tròn số thập phân” nằm xen giữa hai số tự"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS nhờ công cụ trí tuệ nhân tạo giải một bài về “Làm tròn số thập phân”"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS tự đặt tính và tự đặt dấu phẩy"
+     "text": "Dùng tia số phóng to được trên máy."
     }
    ],
    "note": ""
@@ -623,23 +526,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Ở tiết luyện tập chung, GV cho HS làm bộ câu hỏi tương tác có chấm tự động về đọc, viết"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu bảng hàng của số thập phân phóng to, bấm sáng dần từng hàng phần mười, phần trăm theo lời HS đọc số"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bài tập tương tác do thầy cô mở, HS làm đúng phần được giao"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -673,19 +560,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS tự đổi đơn vị trong “Ki – lô – mét vuông. héc – ta” ra nháp trước"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu ảnh vệ tinh sân trường hoặc một khu đất quen thuộc, cho HS ước lượng diện tích theo đơn vị vừa học rồi so với số"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Luôn tự đổi đơn vị trước rồi mới đối chiếu"
+     "text": "Chiếu ảnh vệ tinh sân trường hoặc một khu đất quen thuộc, cho HS ước lượng diện tích theo đơn vị vừa học."
     }
    ],
    "note": ""
@@ -719,23 +596,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS tự đổi đơn vị trong “Các đơn vị đo diện tích” ra nháp trước"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu ảnh vệ tinh sân trường hoặc một khu đất quen thuộc, cho HS ước lượng diện tích theo đơn vị vừa học rồi so với số"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Luôn tự đổi đơn vị trước rồi mới đối chiếu"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -767,7 +628,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "HS tự đổi đơn vị trong “Thực hành và trải nghiệm với một số đơn vị đo đại lượng” ra nháp trước."
+    }
+   ],
    "note": ""
   },
   {
@@ -865,19 +732,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV dùng tia số phóng to được trên máy để HS thấy vị trí các số trong “Phép trừ số thập phân” nằm xen giữa hai số tự"
-    },
-    {
      "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS nhờ công cụ trí tuệ nhân tạo giải một bài về “Phép trừ số thập phân”"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS tự đặt tính và tự đặt dấu phẩy"
+     "level": "Nhận biết",
+     "text": "Cho HS nhờ công cụ trí tuệ nhân tạo giải một bài về “Phép trừ số thập phân”, rồi cả lớp soi."
     }
    ],
    "note": ""
@@ -911,23 +768,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV dùng tia số phóng to được trên máy để HS thấy vị trí các số trong “Phép nhân số thập phân” nằm xen giữa hai số tự"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS nhờ công cụ trí tuệ nhân tạo giải một bài về “Phép nhân số thập phân”"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS tự đặt tính và tự đặt dấu phẩy"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -979,17 +820,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV dùng tia số phóng to được trên máy để HS thấy vị trí các số trong “Chia một số thập phân cho một số tự nhiên” nằm"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS nhờ công cụ trí tuệ nhân tạo giải một bài về “Chia một số thập phân cho một số tự nhiên”"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS tự đặt tính và tự đặt dấu phẩy"
+     "text": "Dùng tia số phóng to được trên máy."
     }
    ],
    "note": ""
@@ -1057,19 +888,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV dùng tia số phóng to được trên máy để HS thấy vị trí các số trong “Nhân, chia số thập phân với 10; 100; 1000"
-    },
-    {
      "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV cho HS nhờ công cụ trí tuệ nhân tạo giải một bài về “Nhân, chia số thập phân với 10; 100; 1000; … hoặc với 0,1; 0,01"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS tự đặt tính và tự đặt dấu phẩy"
+     "level": "Nhận biết",
+     "text": "Cho HS nhờ công cụ trí tuệ nhân tạo giải một bài về “Nhân, chia số thập phân với 10; 100; 1000; … hoặc với 0,1; 0,01; 0,001; …”."
     }
    ],
    "note": ""
@@ -1103,23 +924,7 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Ở tiết luyện tập chung, GV cho HS làm bộ câu hỏi tương tác có chấm tự động; sau mỗi câu các em biết ngay đúng hay sai"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu bài toán thực tế có bảng số liệu, tô màu dòng và cột cần dùng theo lời HS đọc đề; các em học cách đọc bảng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bài tập tương tác do thầy cô mở"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1171,12 +976,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV dùng phần mềm hình học động: kéo một đỉnh của hình trong “Hình tam giác, diện tích hình tam giác” cho hình biến đổi"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Hình vẽ trên máy chỉ hỗ trợ quan sát, HS vẫn phải vẽ được bằng thước và com-pa"
+     "text": "Dùng phần mềm hình học động."
     }
    ],
    "note": ""
@@ -1242,18 +1042,7 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV dùng phần mềm hình học động: kéo một đỉnh của hình trong “Hình thang. diện tích hình thang” cho hình biến đổi"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Hình vẽ trên máy chỉ hỗ trợ quan sát, HS vẫn phải vẽ được bằng thước và com-pa"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1321,12 +1110,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV dùng phần mềm hình học động: kéo một đỉnh của hình trong “Đường tròn. chu VI và diện tích hình tròn” cho hình biến đổi"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Hình vẽ trên máy chỉ hỗ trợ quan sát, HS vẫn phải vẽ được bằng thước và com-pa"
+     "text": "Dùng phần mềm hình học động."
     }
    ],
    "note": ""
@@ -1412,12 +1196,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV dùng phần mềm hình học động: kéo một đỉnh của hình trong “Thực hành và trải nghiệm đo, vẽ, lắp ghép, tạo hình” cho hình biến đổi"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Hình vẽ trên máy chỉ hỗ trợ quan sát, HS vẫn phải vẽ được bằng thước và com-pa"
+     "text": "Dùng phần mềm hình học động."
     },
     {
      "code": "STEM",
@@ -1456,7 +1235,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở hoạt động Thực hành bài “Luyện tập chung”, GV chiếu các hình tam giác của bài 1 lên màn hình và."
+    }
+   ],
    "note": ""
   },
   {
@@ -1780,22 +1565,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng tính để tính “Tỉ số. tỉ số phần trăm” cho cả một dãy số liệu"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu ảnh chụp một quảng cáo giảm giá trên mạng, cho HS tự tính xem số tiền được giảm có đúng như quảng cáo nói không."
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: các trang mua bán dùng trí tuệ nhân tạo để chọn riêng sản phẩm và mức giảm giá hiển thị cho từng người nên nhìn rất"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Cảnh giác với quảng cáo giảm giá sai sự thật; không nhập họ tên, số điện thoại"
+     "text": "Hướng dẫn HS dùng bảng tính."
     }
    ],
    "note": ""
@@ -1830,21 +1600,6 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV mở bản đồ số, hướng dẫn HS phóng to – thu nhỏ và quan sát thước tỉ lệ thay đổi theo"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS tự tính lại khoảng cách vừa đo theo tỉ lệ bản đồ giấy trong SGK"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không chia sẻ vị trí nhà riêng, đường đi học lên mạng"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1888,28 +1643,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng tính để tính “Tìm hai số khi biết tổng và tỉ số của hai số đó” cho cả một dãy số liệu"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu ảnh chụp một quảng cáo giảm giá trên mạng, cho HS tự tính xem số tiền được giảm có đúng như quảng cáo nói không."
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: các trang mua bán dùng trí tuệ nhân tạo để chọn riêng sản phẩm và mức giảm giá hiển thị cho từng người nên nhìn rất"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Cảnh giác với quảng cáo giảm giá sai sự thật; không nhập họ tên, số điện thoại"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1943,24 +1677,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng tính để tính “Tìm hai số khi biết hiệu và tỉ số của hai số đó” cho cả một dãy số liệu"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu ảnh chụp một quảng cáo giảm giá trên mạng, cho HS tự tính xem số tiền được giảm có đúng như quảng cáo nói không."
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: các trang mua bán dùng trí tuệ nhân tạo để chọn riêng sản phẩm và mức giảm giá hiển thị cho từng người nên nhìn rất"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Cảnh giác với quảng cáo giảm giá sai sự thật; không nhập họ tên, số điện thoại"
+     "text": "Chiếu ảnh chụp một quảng cáo giảm giá trên mạng, cho HS tự tính xem số tiền được giảm."
     }
    ],
    "note": ""
@@ -1994,28 +1713,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng tính để tính “Tìm tỉ số phần trăm của hai số” cho cả một dãy số liệu"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu ảnh chụp một quảng cáo giảm giá trên mạng, cho HS tự tính xem số tiền được giảm có đúng như quảng cáo nói không."
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: các trang mua bán dùng trí tuệ nhân tạo để chọn riêng sản phẩm và mức giảm giá hiển thị cho từng người nên nhìn rất"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Cảnh giác với quảng cáo giảm giá sai sự thật; không nhập họ tên, số điện thoại"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2051,22 +1749,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS dùng bảng tính để tính “Tìm giá trị phần trăm của một số” cho cả một dãy số liệu"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu ảnh chụp một quảng cáo giảm giá trên mạng, cho HS tự tính xem số tiền được giảm có đúng như quảng cáo nói không."
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: các trang mua bán dùng trí tuệ nhân tạo để chọn riêng sản phẩm và mức giảm giá hiển thị cho từng người nên nhìn rất"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Cảnh giác với quảng cáo giảm giá sai sự thật; không nhập họ tên, số điện thoại"
+     "text": "Hướng dẫn HS dùng bảng tính."
     }
    ],
    "note": ""
@@ -2100,23 +1783,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Bài “Máy tính cầm tay” là bài hình thành năng lực số trực tiếp: GV hướng dẫn HS nhận biết các phím chức năng của máy tính cầm"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: điện thoại, máy tính ngày nay còn nhận diện được đề bài chụp ảnh và giải hộ — đó là ứng dụng của trí tuệ nhân"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Máy tính cầm tay chỉ hỗ trợ tính, không thay tư duy toán học"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2150,21 +1817,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Bài “Thực hành và trải nghiệm sử dụng máy tính cầm tay” là bài hình thành năng lực số trực tiếp: GV hướng dẫn HS nhận biết các"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: điện thoại, máy tính ngày nay còn nhận diện được đề bài chụp ảnh và giải hộ — đó là ứng dụng của trí tuệ nhân"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Máy tính cầm tay chỉ hỗ trợ tính, không thay tư duy toán học"
-    },
-    {
      "code": "STEM",
      "level": "",
      "text": "Sử dụng máy tính cầm tay (Toán – Tin học) — dạy thay cho tiết này."
@@ -2185,7 +1837,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở hoạt động Khởi động bài “Luyện tập”, GV chiếu bài toán mua tám chiếc vòng lên màn hình."
+    }
+   ],
    "note": ""
   },
   {
@@ -2217,18 +1875,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV dùng mô hình khối 3D xoay được trên máy để HS quan sát khối trong “Thể tích của một hình” từ nhiều phía và xem hoạt hình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Luôn tự đặt phép tính và kiểm tra đơn vị đo trước khi tin kết quả bảng tính"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2244,18 +1891,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV dùng mô hình khối 3D xoay được trên máy để HS quan sát khối trong “Xăng- ti- mét khối"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Luôn tự đặt phép tính và kiểm tra đơn vị đo trước khi tin kết quả bảng tính"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2291,12 +1927,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV dùng mô hình khối 3D xoay được trên máy để HS quan sát khối trong “Mét khối” từ nhiều phía và xem hoạt hình khối mở ra"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Luôn tự đặt phép tính và kiểm tra đơn vị đo trước khi tin kết quả bảng tính"
+     "text": "Dùng mô hình khối 3D xoay được trên máy."
     }
    ],
    "note": ""
@@ -2362,18 +1993,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV dùng mô hình khối 3D xoay được trên máy để HS quan sát khối trong “Hình khai triển của hình lập phương"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Luôn tự đặt phép tính và kiểm tra đơn vị đo trước khi tin kết quả bảng tính"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2409,12 +2029,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV dùng mô hình khối 3D xoay được trên máy để HS quan sát khối trong “Diện tích xung quanh và diện tích toàn phần của hình hộp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Luôn tự đặt phép tính và kiểm tra đơn vị đo trước khi tin kết quả bảng tính"
+     "text": "Dùng mô hình khối 3D xoay được trên máy."
     },
     {
      "code": "STEM",
@@ -2469,18 +2084,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV dùng mô hình khối 3D xoay được trên máy để HS quan sát khối trong “Diện tích xung quanh và diện tích toàn phần của hình lập"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Luôn tự đặt phép tính và kiểm tra đơn vị đo trước khi tin kết quả bảng tính"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2516,12 +2120,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV dùng mô hình khối 3D xoay được trên máy để HS quan sát khối trong “Thể tích hình hộp chữ nhật” từ nhiều phía và xem hoạt"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Luôn tự đặt phép tính và kiểm tra đơn vị đo trước khi tin kết quả bảng tính"
+     "text": "Dùng mô hình khối 3D xoay được trên máy."
     }
    ],
    "note": ""
@@ -2555,18 +2154,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV dùng mô hình khối 3D xoay được trên máy để HS quan sát khối trong “Thể tích hình lập phương” từ nhiều phía và xem hoạt hình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Luôn tự đặt phép tính và kiểm tra đơn vị đo trước khi tin kết quả bảng tính"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2602,12 +2190,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV dùng mô hình khối 3D xoay được trên máy để HS quan sát khối trong “Thự hành tính toán và ước lượng tt một số hình khối”"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Luôn tự đặt phép tính và kiểm tra đơn vị đo trước khi tin kết quả bảng tính"
+     "text": "Dùng mô hình khối 3D xoay được trên máy."
     }
    ],
    "note": ""
@@ -2675,21 +2258,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS tự đổi đơn vị trong “Các đơn vị đo thời gian” ra nháp trước"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu ảnh vệ tinh sân trường hoặc một khu đất quen thuộc, cho HS ước lượng diện tích theo đơn vị vừa học rồi so với số"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Luôn tự đổi đơn vị trước rồi mới đối chiếu"
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
@@ -2712,19 +2280,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS tự đổi đơn vị trong “Cộng, trừ số đo thời gian” ra nháp trước"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu ảnh vệ tinh sân trường hoặc một khu đất quen thuộc, cho HS ước lượng diện tích theo đơn vị vừa học rồi so với số"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Luôn tự đổi đơn vị trước rồi mới đối chiếu"
+     "text": "Chiếu ảnh vệ tinh sân trường hoặc một khu đất quen thuộc, cho HS ước lượng diện tích theo đơn vị vừa học."
     },
     {
      "code": "KNS",
@@ -2764,21 +2322,6 @@
    "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS tự đổi đơn vị trong “Nhân, chia số đo thời gian với một số” ra nháp trước"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu ảnh vệ tinh sân trường hoặc một khu đất quen thuộc, cho HS ước lượng diện tích theo đơn vị vừa học rồi so với số"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Luôn tự đổi đơn vị trước rồi mới đối chiếu"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2836,22 +2379,7 @@
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "GV chiếu mô phỏng hai vật chuyển động với vận tốc khác nhau để HS thấy trực quan quan hệ vận tốc – quãng đường – thời gian"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV dùng ứng dụng bản đồ đo quãng đường từ trường đến một địa điểm quen thuộc"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: ứng dụng bản đồ dự đoán thời gian đến nơi bằng trí tuệ nhân tạo dựa trên dữ liệu giao thông"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không bật chia sẻ vị trí cho người lạ"
+     "text": "Chiếu mô phỏng hai vật chuyển động với vận tốc khác nhau."
     },
     {
      "code": "KNS",
@@ -2891,26 +2419,6 @@
    "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu mô phỏng hai vật chuyển động với vận tốc khác nhau để HS thấy trực quan quan hệ vận tốc – quãng đường – thời gian"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV dùng ứng dụng bản đồ đo quãng đường từ trường đến một địa điểm quen thuộc"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: ứng dụng bản đồ dự đoán thời gian đến nơi bằng trí tuệ nhân tạo dựa trên dữ liệu giao thông"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không bật chia sẻ vị trí cho người lạ"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2966,24 +2474,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu mô phỏng hai vật chuyển động với vận tốc khác nhau để HS thấy trực quan quan hệ vận tốc – quãng đường – thời gian"
-    },
-    {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV dùng ứng dụng bản đồ đo quãng đường từ trường đến một địa điểm quen thuộc"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: ứng dụng bản đồ dự đoán thời gian đến nơi bằng trí tuệ nhân tạo dựa trên dữ liệu giao thông"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không bật chia sẻ vị trí cho người lạ"
+     "text": "Dùng ứng dụng bản đồ đo quãng đường từ trường đến một địa điểm quen thuộc."
     },
     {
      "code": "KNS",
@@ -3072,24 +2565,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu một biểu đồ lấy từ báo hoặc trang tin có thật, cho HS đọc số liệu và đặt câu hỏi: biểu đồ này lấy số liệu"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS nhập dãy số liệu của “Thu thập, phân loại, sắp xếp các số liệu” vào bảng tính"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV dùng công cụ trí tuệ nhân tạo tự nhận xét bộ số liệu vừa lập"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Số liệu đưa vào bài phải có nguồn rõ ràng"
+     "text": "Hướng dẫn HS nhập dãy số liệu của “Thu thập, phân loại, sắp xếp các số liệu” vào bảng tính, dùng chức năng vẽ biểu đồ."
     }
    ],
    "note": ""
@@ -3107,28 +2585,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu một biểu đồ lấy từ báo hoặc trang tin có thật, cho HS đọc số liệu và đặt câu hỏi: biểu đồ này lấy số liệu"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS nhập dãy số liệu của “Biểu đồ hình quạt tròn” vào bảng tính"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV dùng công cụ trí tuệ nhân tạo tự nhận xét bộ số liệu vừa lập"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Số liệu đưa vào bài phải có nguồn rõ ràng"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3160,23 +2617,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "GV dùng công cụ mô phỏng trên máy (tung đồng xu, gieo xúc xắc ảo) chạy hàng trăm lượt trong vài giây để HS thấy tỉ số trong"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV nêu: máy dự đoán thời tiết hay gợi ý video đều dựa trên việc tính khả năng xảy ra từ rất nhiều dữ liệu"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Hiểu rằng dự đoán tự động của máy có thể sai"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3192,28 +2633,7 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu một biểu đồ lấy từ báo hoặc trang tin có thật, cho HS đọc số liệu và đặt câu hỏi: biểu đồ này lấy số liệu"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "GV hướng dẫn HS nhập dãy số liệu của “Thực hành và trải nghiệm thu thập, phân tích, biểu diễn các số liệu thống kê” vào bảng tính"
-    },
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 2",
-     "text": "GV dùng công cụ trí tuệ nhân tạo tự nhận xét bộ số liệu vừa lập"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Số liệu đưa vào bài phải có nguồn rõ ràng"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3245,7 +2665,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "Ở hoạt động Khởi động bài “Luyện tập chung”, GV chiếu các hình và số liệu của bài lên màn hình, tô."
+    }
+   ],
    "note": ""
   },
   {
@@ -3889,8 +3315,8 @@
  "attachment": {
   "file": "assets/docs/lop5/Toan - Lop 5.docx",
   "name": "Toan - Lop 5.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 52416,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 50181,
+  "updated": "2026-09-08"
  }
 }

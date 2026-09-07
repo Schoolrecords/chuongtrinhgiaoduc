@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 135
+  "integrations": 85
  },
  "lessons": [
   {
@@ -46,17 +46,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu tranh bài “LÀM QUEN VỚI BẠN MỚI” phóng to trên màn hình và mở bản ghi âm lời chào, lời giới thiệu bản thân"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV quay bằng điện thoại một, hai cặp HS sắm vai làm quen, mở lại trên tivi để cả lớp nghe lời chào"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Đoạn quay chỉ để cả lớp xem lại rồi xoá ngay"
+     "text": "Chiếu tranh bài “LÀM QUEN VỚI BẠN MỚI” phóng to trên màn hình và mở bản ghi âm lời chào, lời giới thiệu bản thân."
     }
    ],
    "note": ""
@@ -120,19 +110,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu tranh bài “NHỮNG VIỆC NÊN LÀM TRONG GIỜ HỌC, GIỜ CHƠI” phóng to, kèm bản ghi âm bài thơ ngắn về lớp học"
-    },
-    {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV dùng điện thoại chụp ảnh việc tốt HS làm trong lớp như ngồi ngay ngắn, xếp ghế, nhặt rác"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Đoạn quay chỉ để cả lớp xem lại rồi xoá ngay"
+     "text": "Dùng điện thoại chụp ảnh việc tốt HS làm trong lớp như ngồi ngay ngắn, xếp ghế, nhặt rác."
     }
    ],
    "note": ""
@@ -151,21 +131,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Ở phần sinh hoạt theo chủ đề của tiết “SINH HOẠT SAO: SƠ KẾT TUẦN 2 - PHƯƠNG HƯỚNG TUẦN 3”, GV chiếu ảnh chụp giờ học"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Ở phần khởi động và đánh giá, GV mở nhạc bài hát Em yêu trường em trên máy để cả lớp hát, vận động"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh giờ học, giờ chơi chỉ chiếu trong lớp, không đăng lên mạng"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -315,17 +280,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu bộ ảnh khuôn mặt thể hiện vui, buồn, tức giận, sợ hãi ở kích thước lớn để HS quan sát rõ nét mặt, ánh mắt"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV cùng HS làm bảng cảm xúc của lớp trên máy tính: mỗi ngày HS chọn một khuôn mặt hợp với cảm xúc của mình"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không chụp ảnh, quay phim bạn lúc bạn đang buồn, đang khóc"
+     "text": "Chiếu bộ ảnh khuôn mặt thể hiện vui, buồn, tức giận, sợ hãi ở kích thước lớn."
     },
     {
      "code": "KNS",
@@ -388,19 +343,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu các đoạn phim tình huống ngắn gắn với bài “YÊU THƯƠNG CON NGƯỜI”"
-    },
-    {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV cho HS đóng vai theo tình huống vừa xem, quay lại một hai lượt đóng vai bằng điện thoại rồi mở lại để cả lớp cùng nhận"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Đoạn quay chỉ để cả lớp xem lại rồi xoá ngay"
+     "text": "Cho HS đóng vai theo tình huống vừa xem, quay lại một hai lượt đóng vai bằng điện thoại."
     }
    ],
    "note": ""
@@ -419,16 +364,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Trong giờ Sinh hoạt Sao sơ kết tuần 6, GV chiếu bảng theo dõi của lớp lên màn hình và gõ ngay nhận xét của từng sao vào"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng theo dõi chỉ ghi việc làm, không ghi lời chê bạn"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -546,12 +481,7 @@
     {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "Trong giờ Sinh hoạt Sao sơ kết tuần 8, GV chiếu bảng theo dõi của lớp và gõ nhận xét của từng sao ngay vào đúng dòng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng theo dõi chỉ ghi việc làm tốt và việc cần cố gắng, không ghi lời chê bạn"
+     "text": "Trong giờ Sinh hoạt Sao sơ kết tuần 8, GV chiếu bảng theo dõi của lớp."
     },
     {
      "code": "KNS",
@@ -600,17 +530,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu các đoạn phim tình huống ngắn gắn với bài “THÂN THIỆN VỚI BẠN BÈ”"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV cho HS đóng vai theo tình huống vừa xem, quay lại một hai lượt đóng vai bằng điện thoại rồi mở lại để cả lớp cùng nhận"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Đoạn quay chỉ để cả lớp xem lại rồi xoá ngay"
+     "text": "Chiếu các đoạn phim tình huống ngắn gắn với bài “THÂN THIỆN VỚI BẠN BÈ”, dừng hình đúng chỗ nhân vật phải chọn cách ứng xử."
     },
     {
      "code": "QPAN",
@@ -679,19 +599,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu các đoạn phim tình huống ngắn gắn với bài “THỰC HIỆN NĂM ĐIỀU BÁC HỒ DẠY”"
-    },
-    {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV cho HS đóng vai theo tình huống vừa xem, quay lại một hai lượt đóng vai bằng điện thoại rồi mở lại để cả lớp cùng nhận"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Đoạn quay chỉ để cả lớp xem lại rồi xoá ngay"
+     "text": "Cho HS đóng vai theo tình huống vừa xem, quay lại một hai lượt đóng vai bằng điện thoại."
     }
    ],
    "note": ""
@@ -710,16 +620,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Trong giờ Sinh hoạt Sao sơ kết tuần 10, GV chiếu bảng theo dõi của lớp và gõ nhận xét của từng sao ngay vào đúng dòng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng theo dõi chỉ ghi việc làm tốt và việc cần cố gắng, không ghi lời chê bạn"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -761,17 +661,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS làm tấm thiệp tri ân bằng tay, sau đó chụp ảnh sản phẩm và chiếu lên màn hình thành một triển lãm nhỏ để"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV giúp HS tập nói lời chúc mừng thầy cô, quay lại lời chúc của cả lớp thành một đoạn ngắn để gửi tặng thầy cô dạy các"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Chỉ gửi đoạn quay lời chúc cho thầy cô của trường; không đăng ảnh"
+     "text": "Hướng dẫn HS làm tấm thiệp tri ân bằng tay, sau đó chụp ảnh sản phẩm và chiếu lên màn hình thành một triển lãm nhỏ."
     }
    ],
    "note": ""
@@ -853,12 +743,7 @@
     {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "Trong giờ Sinh hoạt Sao sơ kết tuần 12, GV chiếu bảng theo dõi của lớp và gõ nhận xét của từng sao ngay vào đúng dòng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng theo dõi chỉ ghi việc làm tốt và việc cần cố gắng, không ghi lời chê bạn"
+     "text": "Trong giờ Sinh hoạt Sao sơ kết tuần 12, GV chiếu bảng theo dõi của lớp."
     },
     {
      "code": "KNS",
@@ -882,6 +767,16 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "QTE",
+     "level": "",
+     "text": ""
+    },
+    {
+     "code": "QTE",
+     "level": "",
+     "text": "trẻ em có quyền được vui chơi, được kết bạn và được lắng nghe; tôn trọng ý kiến, sự khác biệt của bạn trong lớp."
+    },
     {
      "code": "KNS",
      "level": "",
@@ -907,17 +802,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu video các trò chơi an toàn và trò chơi nguy hiểm ở sân trường"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh chụp chính sân trường mình, mời HS lên chỉ trực tiếp trên màn hình những chỗ cần chú ý khi chơi và những chỗ không"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không bắt chước những trò leo trèo, xô đẩy, nhào lộn thấy trong clip trên mạng"
+     "text": "Chiếu video các trò chơi an toàn và trò chơi nguy hiểm ở sân trường, dừng hình."
     },
     {
      "code": "KNS",
@@ -998,12 +883,7 @@
     {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "Trong giờ Sinh hoạt Sao sơ kết tuần 14, GV chiếu bảng theo dõi của lớp và gõ nhận xét của từng sao ngay vào đúng dòng"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bảng theo dõi chỉ ghi việc làm tốt và việc cần cố gắng, không ghi lời chê bạn"
+     "text": "Trong giờ Sinh hoạt Sao sơ kết tuần 14, GV chiếu bảng theo dõi của lớp."
     }
    ],
    "note": ""
@@ -1041,17 +921,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu phim tình huống bạn bị trêu chọc, bị doạ nạt, bị lấy đồ"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV nêu thêm dạng bắt nạt qua thiết bị số: bị bạn nhắn tin trêu chọc, bị chụp ảnh lúc ngã rồi chuyền cho người khác xem"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không chụp ảnh, quay phim bạn lúc bạn ngã hay bị chê cười và không chuyền cho ai"
+     "text": "Chiếu phim tình huống bạn bị trêu chọc, bị doạ nạt, bị lấy đồ."
     },
     {
      "code": "KNS",
@@ -1114,19 +984,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh và video mô phỏng tai nạn thường gặp với dao, phích nước, bếp, ổ cắm điện"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chỉ ngay các thiết bị dùng điện có trong lớp (quạt, máy chiếu, dây sạc) và cho HS nói việc nên làm"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không cắm, rút phích điện và dây sạc điện thoại khi tay ướt"
+     "text": "Chỉ ngay các thiết bị dùng điện có trong lớp (quạt, máy chiếu, dây sạc)."
     },
     {
      "code": "KNS",
@@ -1191,17 +1051,7 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV chụp ảnh chân dung từng HS sau khi đã xin phép, chiếu lên màn hình để mỗi bạn tự giới thiệu về mình"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "HS tập nói ba câu giới thiệu bản thân trước lớp theo dàn ý GV chiếu trên màn hình: tên em, điều em thích, điều em làm được."
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh chân dung của HS chỉ dùng trong lớp"
+     "text": "Chụp ảnh chân dung từng HS sau khi đã xin phép, chiếu lên màn hình."
     }
    ],
    "note": ""
@@ -1255,17 +1105,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu video hướng dẫn từng thao tác của bài “GIỮ VỆ SINH CÁ NHÂN”"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV cho HS chọn đúng - sai trên màn hình với từng hình ảnh việc làm hằng ngày"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không làm theo những mẹo vặt về ăn uống, ăn mặc"
+     "text": "Chiếu video hướng dẫn từng thao tác của bài “GIỮ VỆ SINH CÁ NHÂN”, dừng lại ở mỗi bước cho HS làm."
     }
    ],
    "note": ""
@@ -1317,19 +1157,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu video hướng dẫn từng thao tác của bài “ĂN UỐNG HỢP LÍ”"
-    },
-    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV cho HS chọn đúng - sai trên màn hình với từng hình ảnh việc làm hằng ngày"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không làm theo những mẹo vặt về ăn uống, ăn mặc"
+     "text": "Cho HS chọn đúng - sai trên màn hình với từng hình ảnh việc làm hằng ngày; máy hiện đáp án ngay."
     }
    ],
    "note": ""
@@ -1383,17 +1213,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu video hướng dẫn từng thao tác của bài “SỬ DỤNG TRANG PHỤC HẰNG NGÀY”"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 1",
-     "text": "GV cho HS chọn đúng - sai trên màn hình với từng hình ảnh việc làm hằng ngày"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không làm theo những mẹo vặt về ăn uống, ăn mặc"
+     "text": "Chiếu video hướng dẫn từng thao tác của bài “SỬ DỤNG TRANG PHỤC HẰNG NGÀY”, dừng lại ở mỗi bước cho."
     }
    ],
    "note": ""
@@ -1445,19 +1265,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu cặp ảnh trước - sau của một góc nhà được dọn dẹp và video ngắn về không khí chuẩn bị Tết ở các vùng miền để"
-    },
-    {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "HS làm việc thật ở nhà, nhờ cha mẹ chụp giúp một ảnh; GV chiếu các ảnh đó lên màn hình để cả lớp cùng nhận xét và"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh chụp trong nhà chỉ gửi cho GV và chỉ chiếu trong lớp, không đăng lên mạng"
+     "text": "HS làm việc thật ở nhà, nhờ cha mẹ chụp giúp một ảnh; GV chiếu các ảnh đó lên màn hình."
     }
    ],
    "note": ""
@@ -1531,6 +1341,11 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở phần Sơ kết tuần 22, GV chiếu bảng theo dõi thi đua của lớp lên màn hình."
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
@@ -1575,19 +1390,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu tình huống nhận quà ngày Tết, dừng hình để HS chọn cách nhận quà bằng hai tay và nói lời cảm ơn phù hợp."
-    },
-    {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV thực hiện một cuộc gọi video mẫu chúc Tết người thân trên thiết bị của mình; HS quan sát rồi tập nói lời chúc"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "HS chỉ gọi điện, gọi video cho người thân khi có người lớn ở bên; không nhận quà"
+     "text": "Thực hiện một cuộc gọi video mẫu chúc Tết người thân trên thiết bị của mình."
     }
    ],
    "note": ""
@@ -1661,6 +1466,11 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở phần Sơ kết tuần 24, GV chiếu bảng theo dõi thi đua của lớp lên màn hình."
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
@@ -1710,19 +1520,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh, video về việc làm của người dân trong khu phố, thôn xóm gắn với bài “HÀNG XÓM NHÀ EM” để HS thấy được những việc"
-    },
-    {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS cách chào hỏi, cảm ơn hàng xóm và cách nhờ người lớn gọi điện khi cần giúp đỡ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không mở cửa, không đi theo và không cho người lạ số điện thoại của cha mẹ dù"
+     "text": "Hướng dẫn HS cách chào hỏi, cảm ơn hàng xóm và cách nhờ người lớn gọi điện khi cần giúp đỡ."
     },
     {
      "code": "QPAN",
@@ -1835,17 +1635,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh, video về việc làm của người dân trong khu phố, thôn xóm gắn với bài “EM THAM GIA CÁC HOẠT ĐỘNG XÃ HỘI” để HS"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS cách chào hỏi, cảm ơn hàng xóm và cách nhờ người lớn gọi điện khi cần giúp đỡ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không mở cửa, không đi theo và không cho người lạ số điện thoại của cha mẹ dù"
+     "text": "Ở hoạt động Khám phá bài “Em tham gia các hoạt động xã hội”, GV chiếu ảnh các hoạt động ở địa phương."
     }
    ],
    "note": ""
@@ -1897,19 +1687,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh, video về việc làm của người dân trong khu phố, thôn xóm gắn với bài “EM THAM GIA CÁC HOẠT ĐỘNG XÃ HỘI” để HS"
-    },
-    {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS cách chào hỏi, cảm ơn hàng xóm và cách nhờ người lớn gọi điện khi cần giúp đỡ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Không mở cửa, không đi theo và không cho người lạ số điện thoại của cha mẹ dù"
+     "text": "Ở hoạt động Luyện tập, GV mở bảng chung “Việc lớp em sẽ làm – Ai chuẩn bị gì”."
     }
    ],
    "note": ""
@@ -1969,17 +1749,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh vệ tinh và video cảnh đẹp quê hương, kèm ảnh cùng một địa điểm khi bị xả rác"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV chụp ảnh khu vực lớp nhận chăm sóc trước và sau khi HS dọn dẹp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh chụp ở trường chỉ dùng trong lớp"
+     "text": "Ở hoạt động Khám phá bài “Thiên nhiên tươi đẹp quê em”, GV chiếu ảnh cây xanh, vườn hoa, dòng sông ở."
     }
    ],
    "note": ""
@@ -2037,19 +1807,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
+     "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh vệ tinh và video cảnh đẹp quê hương, kèm ảnh cùng một địa điểm khi bị xả rác"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV chụp ảnh khu vực lớp nhận chăm sóc trước và sau khi HS dọn dẹp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh chụp ở trường chỉ dùng trong lớp"
+     "text": "Ở hoạt động Luyện tập, GV mở bảng chung “Cây, hoa lớp em chăm sóc – Người phụ trách”."
     }
    ],
    "note": ""
@@ -2115,17 +1875,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh vệ tinh và video cảnh đẹp quê hương, kèm ảnh cùng một địa điểm khi bị xả rác"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV chụp ảnh khu vực lớp nhận chăm sóc trước và sau khi HS dọn dẹp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh chụp ở trường chỉ dùng trong lớp"
+     "text": "Chiếu ảnh vệ tinh và video cảnh đẹp quê hương, kèm ảnh cùng một địa điểm khi bị xả rác."
     },
     {
      "code": "QPAN",
@@ -2210,6 +1960,11 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Ở phần Phương hướng tuần 33, GV mở bảng chung còn trống trên màn hình, đại diện các tổ lần lượt lên."
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
@@ -2261,17 +2016,7 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh vệ tinh và video cảnh đẹp quê hương, kèm ảnh cùng một địa điểm khi bị xả rác"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV chụp ảnh khu vực lớp nhận chăm sóc trước và sau khi HS dọn dẹp"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh chụp ở trường chỉ dùng trong lớp"
+     "text": "Chiếu ảnh vệ tinh và video cảnh đẹp quê hương, kèm ảnh cùng một địa điểm khi bị xả rác."
     },
     {
      "code": "QPAN",
@@ -2360,6 +2105,11 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Ở phần Phương hướng tuần 35, GV mở bảng chung còn trống trên màn hình, đại diện các tổ lần lượt lên."
+    },
     {
      "code": "KNS",
      "level": "",
@@ -2707,8 +2457,8 @@
  "attachment": {
   "file": "assets/docs/lop1/Hoat dong trai nghiem - Lop 1.docx",
   "name": "Hoat dong trai nghiem - Lop 1.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 51337,
-  "updated": "2026-09-07"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
+  "size": 49871,
+  "updated": "2026-09-08"
  }
 }
