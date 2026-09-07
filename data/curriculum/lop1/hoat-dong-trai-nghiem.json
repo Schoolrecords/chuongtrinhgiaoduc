@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 125
+  "integrations": 135
  },
  "lessons": [
   {
@@ -420,6 +420,16 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Trong giờ Sinh hoạt Sao sơ kết tuần 6, GV chiếu bảng theo dõi của lớp lên màn hình và gõ ngay nhận xét của từng sao vào"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bảng theo dõi chỉ ghi việc làm, không ghi lời chê bạn"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
@@ -533,6 +543,16 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Trong giờ Sinh hoạt Sao sơ kết tuần 8, GV chiếu bảng theo dõi của lớp và gõ nhận xét của từng sao ngay vào đúng dòng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bảng theo dõi chỉ ghi việc làm tốt và việc cần cố gắng, không ghi lời chê bạn"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -691,6 +711,16 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Trong giờ Sinh hoạt Sao sơ kết tuần 10, GV chiếu bảng theo dõi của lớp và gõ nhận xét của từng sao ngay vào đúng dòng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bảng theo dõi chỉ ghi việc làm tốt và việc cần cố gắng, không ghi lời chê bạn"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
@@ -820,6 +850,16 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Trong giờ Sinh hoạt Sao sơ kết tuần 12, GV chiếu bảng theo dõi của lớp và gõ nhận xét của từng sao ngay vào đúng dòng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bảng theo dõi chỉ ghi việc làm tốt và việc cần cố gắng, không ghi lời chê bạn"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -954,7 +994,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Trong giờ Sinh hoạt Sao sơ kết tuần 14, GV chiếu bảng theo dõi của lớp và gõ nhận xét của từng sao ngay vào đúng dòng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bảng theo dõi chỉ ghi việc làm tốt và việc cần cố gắng, không ghi lời chê bạn"
+    }
+   ],
    "note": ""
   },
   {
@@ -2657,7 +2708,7 @@
   "file": "assets/docs/lop1/Hoat dong trai nghiem - Lop 1.docx",
   "name": "Hoat dong trai nghiem - Lop 1.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 51157,
+  "size": 51337,
   "updated": "2026-09-07"
  }
 }
