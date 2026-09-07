@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 140,
-  "integrations": 69
+  "integrations": 190
  },
  "lessons": [
   {
@@ -73,6 +73,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Chỉ hát theo bản ghi âm GV mở; không tự tìm video bài hát trên mạng ở lớp"
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -169,6 +174,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Khi nói về bản thân chỉ nêu lớp và thành phố hay nông thôn như bài học"
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -201,6 +211,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Khi đặt tên hiển thị hay hình đại diện, không dùng ảnh thật kèm tên đầy đủ, trường"
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -233,6 +248,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Tin nhắn chỉ là bài tập mô phỏng trên giấy hoặc trên màn hình lớp"
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -265,6 +285,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Chỉ tin thông tin sau khi nghe lại và đối chiếu tranh, không đoán bừa"
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -282,7 +307,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -303,6 +334,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -325,6 +361,11 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -342,7 +383,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -358,7 +405,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -374,7 +427,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -390,7 +449,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -411,6 +476,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -433,6 +503,11 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -450,7 +525,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -466,7 +547,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -482,7 +569,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -498,7 +591,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -519,6 +618,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -541,6 +645,11 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -558,7 +667,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -574,7 +689,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -590,7 +711,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -606,7 +733,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -627,6 +760,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -649,6 +787,11 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -666,7 +809,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -682,7 +831,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -698,7 +853,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -714,7 +875,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -735,6 +902,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -823,6 +995,11 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -840,7 +1017,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -856,7 +1039,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -872,7 +1061,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -888,7 +1083,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -909,6 +1110,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -931,6 +1137,11 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -948,7 +1159,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -964,7 +1181,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -980,7 +1203,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -996,7 +1225,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1017,6 +1252,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1039,6 +1279,11 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1056,7 +1301,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1072,7 +1323,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1088,7 +1345,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1104,7 +1367,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1125,6 +1394,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1147,6 +1421,11 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1164,7 +1443,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1180,7 +1465,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1196,7 +1487,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1212,7 +1509,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1233,6 +1536,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1255,6 +1563,11 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1272,7 +1585,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1288,7 +1607,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1304,7 +1629,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1320,7 +1651,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1341,6 +1678,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1449,6 +1791,11 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1466,7 +1813,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1482,7 +1835,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1498,7 +1857,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1514,7 +1879,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1535,6 +1906,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1557,6 +1933,11 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1574,7 +1955,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1590,7 +1977,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1606,7 +1999,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1622,7 +2021,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1643,6 +2048,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1665,6 +2075,11 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1682,7 +2097,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1698,7 +2119,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1714,7 +2141,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1730,7 +2163,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1751,6 +2190,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1773,6 +2217,11 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1790,7 +2239,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1806,7 +2261,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1822,7 +2283,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1838,7 +2305,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1859,6 +2332,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1881,6 +2359,11 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -1898,7 +2381,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1914,7 +2403,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1930,7 +2425,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1946,7 +2447,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -1967,6 +2474,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2043,6 +2555,11 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2060,7 +2577,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2076,7 +2599,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2092,7 +2621,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2108,7 +2643,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2129,6 +2670,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2151,6 +2697,11 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2168,7 +2719,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2184,7 +2741,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2200,7 +2763,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2216,7 +2785,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2237,6 +2812,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2259,6 +2839,11 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2276,7 +2861,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2292,7 +2883,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2308,7 +2905,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2324,7 +2927,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2345,6 +2954,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2367,6 +2981,11 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2384,7 +3003,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2400,7 +3025,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2416,7 +3047,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2432,7 +3069,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2453,6 +3096,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2475,6 +3123,11 @@
      "code": "NLS-GT",
      "level": "",
      "text": "sử dụng audio, tranh/flashcard số để luyện nghe - nói; GV kiểm soát thiết bị."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2492,7 +3145,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2508,7 +3167,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2524,7 +3189,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2540,7 +3211,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -2561,6 +3238,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "HS hoàn thiện sản phẩm/Project ngắn; có thể chụp ảnh/lưu sản phẩm học tập theo hướng dẫn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: mạnh dạn chào hỏi, giới thiệu bản thân bằng câu đơn giản."
     }
    ],
    "note": ""
@@ -2925,7 +3607,7 @@
   "file": "assets/docs/lop5/Tieng Anh - Lop 5.docx",
   "name": "Tieng Anh - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 48362,
+  "size": 48585,
   "updated": "2026-09-07"
  }
 }

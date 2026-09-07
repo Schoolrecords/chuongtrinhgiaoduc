@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 210,
-  "integrations": 134
+  "integrations": 189
  },
  "lessons": [
   {
@@ -100,6 +100,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Không chép bài do AI viết để nộp; công cụ chỉ gợi ý ý tưởng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
     }
    ],
    "note": ""
@@ -164,6 +169,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Không chép bài do AI viết để nộp; công cụ chỉ gợi ý ý tưởng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
     }
    ],
    "note": ""
@@ -196,6 +206,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Chỉ truy cập trang GV chỉ định; gặp nội dung không phù hợp thì báo thầy cô."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -287,6 +302,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Không chép bài do AI viết để nộp; công cụ chỉ gợi ý ý tưởng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
     }
    ],
    "note": ""
@@ -351,6 +371,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Không chép bài do AI viết để nộp; công cụ chỉ gợi ý ý tưởng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
     }
    ],
    "note": ""
@@ -427,7 +452,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
+    }
+   ],
    "note": ""
   },
   {
@@ -491,6 +522,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Đọc mở rộng; ghi tên sách/tác giả/nguồn, chia sẻ ngắn gọn, tôn trọng bản quyền."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -508,7 +544,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -664,6 +706,11 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Quan sát phong cảnh qua ảnh/video/bản đồ số có nguồn rõ ràng; ghi ý bằng từ ngữ của học sinh."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -702,6 +749,11 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Quan sát phong cảnh qua ảnh/video/bản đồ số có nguồn rõ ràng; ghi ý bằng từ ngữ của học sinh."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -729,6 +781,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Đọc mở rộng về thiên nhiên; chọn tranh/ảnh/tư liệu có nguồn rõ ràng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -794,7 +851,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Liên hệ chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ; HS nêu được biển, đảo là một phần lãnh thổ thiêng liêng của Tổ quốc."
+    }
+   ],
    "note": ""
   },
   {
@@ -929,7 +992,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -950,6 +1019,11 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Đọc mở rộng chủ đề thiên nhiên; ghi lại thông tin mới và nguồn tham khảo."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -1009,6 +1083,11 @@
      "code": "AI-NB",
      "level": "",
      "text": "Có thể dùng công cụ kiểm tra chính tả; học sinh tự viết, không để AI viết thay (trung thực học tập)."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -1220,7 +1299,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1278,6 +1363,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Đọc mở rộng; lập phiếu đọc sách, ghi nguồn, không sao chép nhận xét mẫu."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -1333,7 +1423,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1446,7 +1542,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1504,6 +1606,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Đọc mở rộng; ghi tên sách/nguồn và nêu cảm nhận riêng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -1559,7 +1666,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1661,7 +1774,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1725,6 +1844,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Đọc mở rộng về nghệ thuật; tôn trọng bản quyền tranh/ảnh/video."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -1774,7 +1898,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1897,6 +2027,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "Khi tìm hiểu nhân vật phim hoạt hình, có thể dùng tranh/ảnh minh họa; nhắc HS tôn trọng bản quyền."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -1968,6 +2103,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Đọc mở rộng; chú ý ghi nguồn và chọn nội dung phù hợp lứa tuổi."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -1985,7 +2125,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -2017,7 +2163,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -2225,6 +2377,11 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Tìm hiểu cách tả người qua tư liệu/ảnh chân dung có nguồn; chọn chi tiết tiêu biểu."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -2284,6 +2441,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Đọc mở rộng; ghi tên nguồn, chia sẻ cảm nhận riêng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -2333,7 +2495,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -2446,7 +2614,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -2488,6 +2662,11 @@
      "code": "AI-NB",
      "level": "",
      "text": "Nhận biết công cụ gợi ý/kiểm tra chính tả có AI; học sinh tự viết, không để AI viết thay."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -2510,6 +2689,11 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Đọc mở rộng chủ đề vẻ đẹp cuộc sống; chọn thông tin/tác phẩm phù hợp."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -2597,7 +2781,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -2678,7 +2868,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -2742,6 +2938,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Đọc mở rộng chủ đề hương sắc trăm miền; ghi nguồn tư liệu địa phương."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -2791,7 +2992,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -2968,6 +3175,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Đọc mở rộng; chọn nguồn đọc phù hợp, ghi nhận xét của cá nhân."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -3238,7 +3450,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -3296,6 +3514,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Đọc mở rộng; ghi nguồn, tránh sao chép cảm nhận mẫu."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -3356,6 +3579,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "Ghi nhanh ý kiến bằng phiếu hoặc bảng nhóm."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -3438,6 +3666,11 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Tìm hiểu về Anh hùng Lao động Trần Đại Nghĩa qua tư liệu số có hướng dẫn; ghi nguồn."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Kể về tấm gương anh hùng, liệt sĩ; giáo dục lòng biết ơn người có công với cách mạng và niềm tự hào về truyền thống dân tộc."
     }
    ],
    "note": ""
@@ -3471,7 +3704,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -3487,7 +3726,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ; HS nói lời cảm ơn các chú bộ đội, chú công an."
+    }
+   ],
    "note": ""
   },
   {
@@ -3503,7 +3748,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -3529,6 +3780,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Đọc mở rộng; ưu tiên sách/tư liệu phù hợp, có nguồn rõ ràng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -3594,7 +3850,13 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
+    }
+   ],
    "note": ""
   },
   {
@@ -3610,7 +3872,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -3636,6 +3904,11 @@
      "code": "NLS-KT",
      "level": "",
      "text": "Sử dụng bản đồ số/tranh ảnh để giới thiệu di tích; chú ý an toàn khi chia sẻ vị trí, hình ảnh."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Kể về tấm gương anh hùng, liệt sĩ; giáo dục lòng biết ơn người có công với cách mạng và niềm tự hào về truyền thống dân tộc."
     }
    ],
    "note": ""
@@ -3729,7 +4002,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -3755,6 +4034,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Đọc mở rộng chủ đề thế giới; tôn trọng bản quyền và nguồn tư liệu."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -3804,7 +4088,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
+    }
+   ],
    "note": ""
   },
   {
@@ -3944,6 +4234,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Viết ý kiến phản đối hiện tượng lạm dụng thiết bị số; lập luận văn minh, có dẫn chứng phù hợp."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -4025,6 +4320,11 @@
      "code": "AI-NB",
      "level": "",
      "text": "Đọc mở rộng về thành phố thông minh/công nghệ trong đời sống; ghi nguồn, trao đổi về sử dụng AI có trách nhiệm."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
     }
    ],
    "note": ""
@@ -4399,7 +4699,7 @@
   "file": "assets/docs/lop5/Tieng Viet - Lop 5.docx",
   "name": "Tieng Viet - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 56313,
+  "size": 56899,
   "updated": "2026-09-07"
  }
 }

@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 14
+  "integrations": 15
  },
  "lessons": [
   {
@@ -127,6 +127,11 @@
      "code": "NLS-ƯD",
      "level": "Cơ bản 1",
      "text": "GV cho HS nghe nhạc/xem clip qua thiết bị trình chiếu; HS làm quen tìm bài hát/âm thanh đơn giản có hướng dẫn."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Cho HS nghe/hát bài hát về chú bộ đội, về Đội; giáo dục tự hào về truyền thống dân tộc; rèn tính kỉ luật, tinh thần đoàn kết."
     }
    ],
    "note": ""
@@ -927,7 +932,7 @@
   "file": "assets/docs/lop3/Am nhac - Lop 3.docx",
   "name": "Am nhac - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 45716,
+  "size": 45807,
   "updated": "2026-09-07"
  }
 }

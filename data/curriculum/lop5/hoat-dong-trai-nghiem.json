@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 28
+  "integrations": 93
  },
  "lessons": [
   {
@@ -191,6 +191,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Bảng thống kê không đo hết sự cố gắng; nhận xét bạn tế nhị."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
     }
    ],
    "note": ""
@@ -208,7 +213,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN quản lí cảm xúc và vượt qua khó khăn trong học tập, sinh hoạt."
+    }
+   ],
    "note": ""
   },
   {
@@ -224,7 +235,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN quản lí cảm xúc và vượt qua khó khăn trong học tập, sinh hoạt."
+    }
+   ],
    "note": ""
   },
   {
@@ -240,7 +257,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN quản lí cảm xúc và vượt qua khó khăn trong học tập, sinh hoạt."
+    }
+   ],
    "note": ""
   },
   {
@@ -272,7 +295,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN quản lí cảm xúc và vượt qua khó khăn trong học tập, sinh hoạt."
+    }
+   ],
    "note": ""
   },
   {
@@ -288,7 +317,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN quản lí cảm xúc và vượt qua khó khăn trong học tập, sinh hoạt."
+    }
+   ],
    "note": ""
   },
   {
@@ -330,6 +365,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Giáo dục lòng yêu hoà bình, tình đoàn kết; liên hệ chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
     }
    ],
    "note": ""
@@ -395,7 +435,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
+    }
+   ],
    "note": ""
   },
   {
@@ -459,7 +505,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Hoạt động trải nghiệm STEM học kì I: ngày hội/câu lạc bộ/dự án STEM cấp lớp hoặc khối — tối thiểu 01 lần mỗi học kì (CV 3132/SGD&ĐT); HS trưng bày, giới thiệu sản phẩm từ các bài học STEM."
+    }
+   ],
    "note": ""
   },
   {
@@ -475,7 +527,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -517,6 +575,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
     }
    ],
    "note": ""
@@ -534,7 +597,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
+    }
+   ],
    "note": ""
   },
   {
@@ -550,7 +619,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
+    }
+   ],
    "note": ""
   },
   {
@@ -566,7 +641,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
+    }
+   ],
    "note": ""
   },
   {
@@ -614,7 +695,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
+    }
+   ],
    "note": ""
   },
   {
@@ -646,7 +733,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
+    }
+   ],
    "note": ""
   },
   {
@@ -720,6 +813,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
     }
    ],
    "note": ""
@@ -737,7 +835,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -753,7 +857,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -769,7 +879,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -817,7 +933,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
+    }
+   ],
    "note": ""
   },
   {
@@ -833,7 +955,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -881,7 +1009,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -897,7 +1031,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lập kế hoạch và quản lí chi tiêu, thời gian ở mức đơn giản."
+    }
+   ],
    "note": ""
   },
   {
@@ -961,7 +1101,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
+    }
+   ],
    "note": ""
   },
   {
@@ -977,7 +1123,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
+    }
+   ],
    "note": ""
   },
   {
@@ -993,7 +1145,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
+    }
+   ],
    "note": ""
   },
   {
@@ -1105,7 +1263,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1131,6 +1295,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
     }
    ],
    "note": ""
@@ -1148,7 +1317,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
+    }
+   ],
    "note": ""
   },
   {
@@ -1180,7 +1355,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
+    }
+   ],
    "note": ""
   },
   {
@@ -1196,7 +1377,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
+    }
+   ],
    "note": ""
   },
   {
@@ -1228,7 +1415,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1244,7 +1437,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1260,7 +1459,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -1318,6 +1523,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
     }
    ],
    "note": ""
@@ -1335,7 +1545,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
+    }
+   ],
    "note": ""
   },
   {
@@ -1351,7 +1567,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu chủ quyền, quyền chủ quyền biển, đảo Việt Nam và gương dũng cảm cứu hộ, cứu nạn của cán bộ, chiến sĩ."
+    }
+   ],
    "note": ""
   },
   {
@@ -1367,7 +1589,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Hoạt động trải nghiệm STEM học kì II: ngày hội/câu lạc bộ/dự án STEM cấp lớp hoặc khối — tối thiểu 01 lần mỗi học kì (CV 3132/SGD&ĐT); HS trưng bày, giới thiệu sản phẩm từ các bài học STEM."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
+    }
+   ],
    "note": ""
   },
   {
@@ -1399,7 +1632,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
+    }
+   ],
    "note": ""
   },
   {
@@ -1463,7 +1707,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -1479,7 +1734,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
+    }
+   ],
    "note": ""
   },
   {
@@ -1495,7 +1761,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
+    }
+   ],
    "note": ""
   },
   {
@@ -1511,7 +1783,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
+    }
+   ],
    "note": ""
   },
   {
@@ -1527,7 +1805,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
+    }
+   ],
    "note": ""
   },
   {
@@ -1543,7 +1827,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
+    }
+   ],
    "note": ""
   },
   {
@@ -1569,6 +1859,11 @@
      "code": "NLS-ST",
      "level": "",
      "text": "hợp tác lập kế hoạch/sản phẩm nhóm; trình bày kết quả bằng hình ảnh hoặc phiếu số đơn giản."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
     }
    ],
    "note": ""
@@ -1586,7 +1881,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
+    }
+   ],
    "note": ""
   },
   {
@@ -1602,7 +1903,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
+    }
+   ],
    "note": ""
   },
   {
@@ -1634,7 +1941,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục ý thức bảo vệ chủ quyền biển, đảo; trách nhiệm công dân trong xây dựng và bảo vệ Tổ quốc."
+    }
+   ],
    "note": ""
   },
   {
@@ -1666,7 +1979,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1682,7 +2001,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1698,7 +2023,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1714,7 +2045,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1730,7 +2067,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1746,7 +2089,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1762,7 +2111,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1778,7 +2133,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
+    }
+   ],
    "note": ""
   },
   {
@@ -1810,7 +2171,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
+    }
+   ],
    "note": ""
   },
   {
@@ -1826,7 +2193,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
+    }
+   ],
    "note": ""
   },
   {
@@ -1842,7 +2215,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự đánh giá và đánh giá bạn một cách khách quan, thiện chí."
+    }
+   ],
    "note": ""
   }
  ],
@@ -2119,7 +2498,7 @@
   "file": "assets/docs/lop5/Hoat dong trai nghiem - Lop 5.docx",
   "name": "Hoat dong trai nghiem - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 48603,
+  "size": 49776,
   "updated": "2026-09-07"
  }
 }

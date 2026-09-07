@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 175,
-  "integrations": 36
+  "integrations": 45
  },
  "lessons": [
   {
@@ -570,7 +570,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Dụng cụ học số thập phân (Toán – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -1278,7 +1284,7 @@
     {
      "code": "STEM",
      "level": "",
-     "text": "GD STEM"
+     "text": "Bộ lắp ghép hình Tangram (Toán – Mĩ thuật) — dạy thay cho tiết này."
     }
    ],
    "note": ""
@@ -1670,7 +1676,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chi tiêu hợp lí: tính toán khi mua bán, biết tiết kiệm."
+    }
+   ],
    "note": ""
   },
   {
@@ -1687,11 +1699,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "STEM",
-     "level": "",
-     "text": "GD STEM"
-    },
     {
      "code": "NLS-KT",
      "level": "",
@@ -1873,7 +1880,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Sử dụng máy tính cầm tay (Toán – Tin học) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -2065,7 +2078,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Ngôi nhà nhỏ, tiện ích (Toán – Công nghệ) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -2273,7 +2292,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
+    }
+   ],
    "note": ""
   },
   {
@@ -2289,7 +2314,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
+    }
+   ],
    "note": ""
   },
   {
@@ -2321,7 +2352,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
+    }
+   ],
    "note": ""
   },
   {
@@ -2369,7 +2406,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
+    }
+   ],
    "note": ""
   },
   {
@@ -2401,7 +2444,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
+    }
+   ],
    "note": ""
   },
   {
@@ -2449,7 +2498,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN quản lí thời gian: xem giờ, sắp xếp công việc trong ngày."
+    }
+   ],
    "note": ""
   },
   {
@@ -3282,7 +3337,7 @@
   "file": "assets/docs/lop5/Toan - Lop 5.docx",
   "name": "Toan - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 50331,
+  "size": 50606,
   "updated": "2026-09-07"
  }
 }

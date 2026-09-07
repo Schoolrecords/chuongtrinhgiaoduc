@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 16
+  "integrations": 54
  },
  "lessons": [
   {
@@ -41,6 +41,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Xem clip xong cất thiết bị; không nhìn màn hình quá 5 phút."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
     }
    ],
    "note": ""
@@ -68,6 +73,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Xem video theo hàng, đứng cách tivi đủ xa, không chen lấn vào dây điện, ổ cắm"
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
     }
    ],
    "note": ""
@@ -100,6 +110,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Thiết bị đặt ngoài đường di chuyển; không vừa đi vừa xem màn hình."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
     }
    ],
    "note": ""
@@ -127,6 +142,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "GV chỉ quay để lớp xem lại tại chỗ rồi xoá, không đăng lên mạng"
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
     }
    ],
    "note": ""
@@ -144,7 +164,13 @@
    "periods": 1,
    "lessonPeriods": 5,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
+    }
+   ],
    "note": ""
   },
   {
@@ -160,7 +186,13 @@
    "periods": 1,
    "lessonPeriods": 5,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
+    }
+   ],
    "note": ""
   },
   {
@@ -176,7 +208,13 @@
    "periods": 1,
    "lessonPeriods": 5,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
+    }
+   ],
    "note": ""
   },
   {
@@ -192,7 +230,13 @@
    "periods": 1,
    "lessonPeriods": 5,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
+    }
+   ],
    "note": ""
   },
   {
@@ -213,6 +257,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 2",
      "text": "xem clip mẫu động tác trên màn hình rồi tập lại cho đúng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
     }
    ],
    "note": ""
@@ -230,7 +279,13 @@
    "periods": 1,
    "lessonPeriods": 5,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
+    }
+   ],
    "note": ""
   },
   {
@@ -246,7 +301,13 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
+    }
+   ],
    "note": ""
   },
   {
@@ -262,7 +323,13 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
+    }
+   ],
    "note": ""
   },
   {
@@ -278,7 +345,13 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
+    }
+   ],
    "note": ""
   },
   {
@@ -294,7 +367,13 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
+    }
+   ],
    "note": ""
   },
   {
@@ -444,7 +523,13 @@
    "periods": 1,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
+    }
+   ],
    "note": ""
   },
   {
@@ -460,7 +545,13 @@
    "periods": 1,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
+    }
+   ],
    "note": ""
   },
   {
@@ -476,7 +567,13 @@
    "periods": 1,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
+    }
+   ],
    "note": ""
   },
   {
@@ -492,7 +589,13 @@
    "periods": 1,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
+    }
+   ],
    "note": ""
   },
   {
@@ -513,6 +616,11 @@
      "code": "NLS-AT",
      "level": "Cơ bản 2",
      "text": "xem hướng dẫn kĩ thuật qua clip; tuyệt đối tuân thủ quy tắc an toàn khi tập."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
     }
    ],
    "note": ""
@@ -530,7 +638,13 @@
    "periods": 1,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
+    }
+   ],
    "note": ""
   },
   {
@@ -546,7 +660,13 @@
    "periods": 1,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
+    }
+   ],
    "note": ""
   },
   {
@@ -562,7 +682,13 @@
    "periods": 1,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
+    }
+   ],
    "note": ""
   },
   {
@@ -578,7 +704,13 @@
    "periods": 1,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
+    }
+   ],
    "note": ""
   },
   {
@@ -594,7 +726,13 @@
    "periods": 1,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
+    }
+   ],
    "note": ""
   },
   {
@@ -610,7 +748,13 @@
    "periods": 1,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
+    }
+   ],
    "note": ""
   },
   {
@@ -626,7 +770,13 @@
    "periods": 1,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
+    }
+   ],
    "note": ""
   },
   {
@@ -674,7 +824,13 @@
    "periods": 1,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
+    }
+   ],
    "note": ""
   },
   {
@@ -690,7 +846,13 @@
    "periods": 1,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
+    }
+   ],
    "note": ""
   },
   {
@@ -706,7 +868,13 @@
    "periods": 1,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
+    }
+   ],
    "note": ""
   },
   {
@@ -722,7 +890,13 @@
    "periods": 1,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
+    }
+   ],
    "note": ""
   },
   {
@@ -738,7 +912,13 @@
    "periods": 1,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
+    }
+   ],
    "note": ""
   },
   {
@@ -754,7 +934,13 @@
    "periods": 1,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
+    }
+   ],
    "note": ""
   },
   {
@@ -775,6 +961,11 @@
      "code": "NLS-AT",
      "level": "Cơ bản 2",
      "text": "vận động đủ mỗi ngày để cân bằng với thời gian ngồi trước màn hình."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
     }
    ],
    "note": ""
@@ -792,7 +983,13 @@
    "periods": 1,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
+    }
+   ],
    "note": ""
   },
   {
@@ -808,7 +1005,13 @@
    "periods": 1,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
+    }
+   ],
    "note": ""
   },
   {
@@ -824,7 +1027,13 @@
    "periods": 1,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
+    }
+   ],
    "note": ""
   },
   {
@@ -840,7 +1049,13 @@
    "periods": 1,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
+    }
+   ],
    "note": ""
   },
   {
@@ -856,7 +1071,13 @@
    "periods": 1,
    "lessonPeriods": 6,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN bảo đảm an toàn khi vận động: khởi động kĩ, tập đúng sức, biết dừng khi mệt."
+    }
+   ],
    "note": ""
   },
   {
@@ -1497,7 +1718,7 @@
   "file": "assets/docs/lop4/Giao duc the chat - Lop 4.docx",
   "name": "Giao duc the chat - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 46674,
+  "size": 46902,
   "updated": "2026-09-07"
  }
 }

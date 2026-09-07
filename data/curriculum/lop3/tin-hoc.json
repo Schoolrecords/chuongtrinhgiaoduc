@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 57
+  "integrations": 58
  },
  "lessons": [
   {
@@ -139,6 +139,11 @@
      "code": "NLS-AT",
      "level": "Cơ bản 1",
      "text": "4.1.CB1a: Nhận biết được cách bảo vệ thiết bị và nội dung số một cách đơn giản."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Cẩm nang máy tính an toàn (Tin học – Mĩ thuật) — dạy thay cho tiết này."
     }
    ],
    "note": ""
@@ -1163,7 +1168,7 @@
   "file": "assets/docs/lop3/Tin hoc - Lop 3.docx",
   "name": "Tin hoc - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 45922,
+  "size": 45980,
   "updated": "2026-09-07"
  }
 }

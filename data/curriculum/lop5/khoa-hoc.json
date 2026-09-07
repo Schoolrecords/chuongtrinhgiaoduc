@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 21
+  "integrations": 36
  },
  "lessons": [
   {
@@ -105,6 +105,11 @@
      "code": "NLS-AT",
      "level": "",
      "text": "Ảnh, tin ô nhiễm trên mạng có thể là ảnh cũ; kiểm tra nguồn rồi mới chia sẻ."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
     }
    ],
    "note": ""
@@ -190,7 +195,7 @@
     {
      "code": "STEM",
      "level": "",
-     "text": "GD STEM"
+     "text": "Tách muối ra khỏi dung dịch (Khoa học – Công nghệ) — dạy thay cho tiết này."
     }
    ],
    "note": ""
@@ -260,7 +265,7 @@
     {
      "code": "STEM",
      "level": "",
-     "text": "GD STEM"
+     "text": "Biến đổi chất (Khoa học – Công nghệ) — dạy thay cho tiết này."
     }
    ],
    "note": ""
@@ -299,6 +304,11 @@
      "code": "NLS-KT",
      "level": "",
      "text": "quan sát video/hình ảnh khoa học, đọc dữ liệu đơn giản; trao đổi an toàn, đúng nguồn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
     }
    ],
    "note": ""
@@ -332,7 +342,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN an toàn khi thực hành: làm đúng hướng dẫn, không tự ý thử nghiệm nguy hiểm."
+    }
+   ],
    "note": ""
   },
   {
@@ -368,7 +384,12 @@
     {
      "code": "STEM",
      "level": "",
-     "text": "GD STEM"
+     "text": "Mạch điện đơn giản (Khoa học – Công nghệ) — dạy thay cho tiết này."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN an toàn khi thực hành: làm đúng hướng dẫn, không tự ý thử nghiệm nguy hiểm."
     }
    ],
    "note": ""
@@ -418,7 +439,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
+    }
+   ],
    "note": ""
   },
   {
@@ -450,7 +477,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
+    }
+   ],
    "note": ""
   },
   {
@@ -470,7 +503,7 @@
     {
      "code": "STEM",
      "level": "",
-     "text": "GD STEM"
+     "text": "Mô hình thuyền buồm (Khoa học – Công nghệ) — dạy thay cho tiết này."
     }
    ],
    "note": ""
@@ -558,7 +591,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Trồng cây không cần hạt (Khoa học – Công nghệ) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -638,7 +677,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Vòng đời của động vật (Khoa học – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -756,7 +801,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Vi khuẩn có ích trong chế biến thực phẩm (Khoa học – Công nghệ) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -788,7 +839,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chăm sóc sức khoẻ bản thân và phòng tránh bệnh tật."
+    }
+   ],
    "note": ""
   },
   {
@@ -841,6 +898,11 @@
      "code": "NLS-KT",
      "level": "",
      "text": "quan sát video/hình ảnh khoa học, đọc dữ liệu đơn giản; trao đổi an toàn, đúng nguồn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chăm sóc sức khoẻ bản thân và phòng tránh bệnh tật."
     }
    ],
    "note": ""
@@ -954,7 +1016,18 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Cẩm nang chăm sóc sức khoẻ tuổi dậy thì (Khoa học – Mĩ thuật) — dạy thay cho tiết này."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN chăm sóc sức khoẻ bản thân và phòng tránh bệnh tật."
+    }
+   ],
    "note": ""
   },
   {
@@ -1103,6 +1176,11 @@
      "code": "NLS-KT",
      "level": "",
      "text": "quan sát video/hình ảnh khoa học, đọc dữ liệu đơn giản; trao đổi an toàn, đúng nguồn."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
     }
    ],
    "note": ""
@@ -1152,7 +1230,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN sử dụng tiết kiệm tài nguyên, năng lượng trong sinh hoạt hằng ngày."
+    }
+   ],
    "note": ""
   },
   {
@@ -1525,7 +1609,7 @@
   "file": "assets/docs/lop5/Khoa hoc - Lop 5.docx",
   "name": "Khoa hoc - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 46846,
+  "size": 47178,
   "updated": "2026-09-07"
  }
 }

@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 18
+  "integrations": 22
  },
  "lessons": [
   {
@@ -154,7 +154,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
+    }
+   ],
    "note": ""
   },
   {
@@ -202,7 +208,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
+    }
+   ],
    "note": ""
   },
   {
@@ -250,7 +262,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Chậu hoa, cây cảnh mini (Công nghệ – Mĩ thuật) — dạy thay cho tiết này."
+    }
+   ],
    "note": ""
   },
   {
@@ -346,7 +364,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
+    }
+   ],
    "note": ""
   },
   {
@@ -396,14 +420,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "STEM",
-     "level": "",
-     "text": "GD STEM"
-    },
-    {
      "code": "NLS-ST",
      "level": "",
      "text": "Tìm tư liệu, xem video hướng dẫn kĩ thuật; tạo sản phẩm và chụp/quay lại quá trình (có hướng dẫn)."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
     }
    ],
    "note": ""
@@ -439,14 +463,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "STEM",
-     "level": "",
-     "text": "GD STEM"
-    },
-    {
      "code": "NLS-ST",
      "level": "",
      "text": "Tìm tư liệu, xem video hướng dẫn kĩ thuật; tạo sản phẩm và chụp/quay lại quá trình (có hướng dẫn)."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
     }
    ],
    "note": ""
@@ -482,14 +506,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "STEM",
-     "level": "",
-     "text": "GD STEM"
-    },
-    {
      "code": "NLS-ST",
      "level": "",
      "text": "Tìm tư liệu, xem video hướng dẫn kĩ thuật; tạo sản phẩm và chụp/quay lại quá trình (có hướng dẫn)."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
     }
    ],
    "note": ""
@@ -541,14 +565,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "STEM",
-     "level": "",
-     "text": "GD STEM"
-    },
-    {
      "code": "NLS-ST",
      "level": "",
      "text": "Tìm tư liệu, xem video hướng dẫn kĩ thuật; tạo sản phẩm và chụp/quay lại quá trình (có hướng dẫn). Điều chỉnh 3 tiết còn 2 tiết để bố trí ôn tập, kiểm tra cuối học kì I đúng tuần 18."
+    },
+    {
+     "code": "STEM",
+     "level": "",
+     "text": "Làm chong chóng (Công nghệ – Khoa học) — dạy thay cho tiết này."
     }
    ],
    "note": ""
@@ -584,14 +608,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "STEM",
-     "level": "",
-     "text": "GD STEM"
-    },
-    {
      "code": "NLS-ST",
      "level": "",
      "text": "Tìm tư liệu, xem video hướng dẫn kĩ thuật; tạo sản phẩm và chụp/quay lại quá trình (có hướng dẫn)."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
     }
    ],
    "note": ""
@@ -611,14 +635,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "STEM",
-     "level": "",
-     "text": "GD STEM"
-    },
-    {
      "code": "NLS-ST",
      "level": "",
      "text": "Tìm tư liệu, xem video hướng dẫn kĩ thuật; tạo sản phẩm và chụp/quay lại quá trình (có hướng dẫn)."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN lao động tự phục vụ: làm việc cẩn thận, kiên trì hoàn thành sản phẩm."
     }
    ],
    "note": ""
@@ -945,7 +969,7 @@
   "file": "assets/docs/lop4/Cong nghe - Lop 4.docx",
   "name": "Cong nghe - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 45320,
+  "size": 45423,
   "updated": "2026-09-07"
  }
 }

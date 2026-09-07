@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 25
+  "integrations": 41
  },
  "lessons": [
   {
@@ -95,6 +95,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 1",
      "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
     }
    ],
    "note": ""
@@ -155,6 +160,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 1",
      "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
     }
    ],
    "note": ""
@@ -221,6 +231,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 1",
      "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
     }
    ],
    "note": ""
@@ -287,6 +302,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 1",
      "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
     }
    ],
    "note": ""
@@ -439,6 +459,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 1",
      "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
     }
    ],
    "note": ""
@@ -456,7 +481,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
+    }
+   ],
    "note": ""
   },
   {
@@ -515,6 +546,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 1",
      "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
     }
    ],
    "note": ""
@@ -532,7 +568,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
+    }
+   ],
    "note": ""
   },
   {
@@ -553,6 +595,11 @@
      "code": "NLS-KT",
      "level": "Cơ bản 1",
      "text": "xem tranh, ảnh mẫu trên màn hình; ghi tên tác giả bức tranh khi giới thiệu."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
     }
    ],
    "note": ""
@@ -570,7 +617,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
+    }
+   ],
    "note": ""
   },
   {
@@ -591,6 +644,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 1",
      "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
+    },
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
     }
    ],
    "note": ""
@@ -608,7 +666,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "QPAN",
+     "level": "",
+     "text": "Gợi ý HS làm sản phẩm tặng chú bộ đội, gia đình thương binh, liệt sĩ nhân ngày lễ."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
+    }
+   ],
    "note": ""
   },
   {
@@ -667,6 +736,11 @@
      "code": "NLS-ST",
      "level": "Cơ bản 1",
      "text": "chụp lại sản phẩm, lưu vào thư mục lớp để trưng bày; đặt tên tệp rõ ràng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
     }
    ],
    "note": ""
@@ -684,7 +758,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
+    }
+   ],
    "note": ""
   },
   {
@@ -716,7 +796,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày ý tưởng, nhận xét sản phẩm của bạn một cách tôn trọng."
+    }
+   ],
    "note": ""
   }
  ],
@@ -993,7 +1079,7 @@
   "file": "assets/docs/lop2/Mi thuat - Lop 2.docx",
   "name": "Mi thuat - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 45846,
+  "size": 45986,
   "updated": "2026-09-07"
  }
 }
