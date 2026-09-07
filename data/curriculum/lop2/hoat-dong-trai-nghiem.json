@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 105,
-  "integrations": 102
+  "integrations": 161
  },
  "lessons": [
   {
@@ -27,21 +27,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Sau nghi lễ chào cờ, khi sinh hoạt với lớp về chủ điểm “Tham gia lễ khai giảng năm học mới”"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "Ở phần cam kết, GV gợi ý HS chọn một cách giới thiệu hình ảnh của em trong ngày khai giảng bằng phương tiện số đơn giản: nhờ"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh HS chỉ dùng trong lớp; chụp bạn phải hỏi bạn trước; không tự đăng ảnh lên mạng"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -67,17 +52,17 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "Sau trò chơi Máy ảnh thân thiện, GV chụp từng HS lúc tươi cười, chiếu bộ ảnh lớp; HS nói mình vui vẻ hay cau có"
+     "text": "Sau trò chơi Máy ảnh thân thiện, GV dùng điện thoại chụp từng HS lúc tươi cười rồi chiếu bộ ảnh lớp lên màn hình cho bài “Hình"
     },
     {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu vài kiểu ảnh đại diện, tên người dùng trên mạng; HS chọn giúp bạn ảnh đại diện thân thiện, nói vì sao"
+     "text": "GV chiếu vài kiểu ảnh đại diện và tên người dùng trên mạng, hỏi HS ảnh nào trông thân thiện, ảnh nào cau có"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Ảnh chân dung chỉ chụp khi HS đồng ý, chiếu xong xoá; không tự đưa lên mạng."
+     "text": "Ảnh chân dung HS chỉ chụp khi các em đồng ý"
     },
     {
      "code": "KNS",
@@ -102,21 +87,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu bảng sơ kết tuần 1, số hoa điểm tốt từng tổ, bấm nút đổi thành biểu đồ cột; HS nói tổ nào tiến bộ"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Chụp ảnh theo tổ: GV chụp từng tổ sau khi các bạn xin phép nhau, chiếu lên; HS nhắc quy tắc chia sẻ đúng phạm vi"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Trang lời khen chỉ ghi lời tốt; không nêu tên HS bị nhắc."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
@@ -137,23 +107,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Với chủ điểm “Xem trích đoạn hề chèo hoặc một tiết mục hài”, nếu sân trường không diễn trực tiếp"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Khi HS chia sẻ cảm xúc sau tiết mục, GV hướng dẫn cách nói lời khen bạn diễn, khen nghệ sĩ ngắn gọn, lịch sự"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "GV chọn trích đoạn phù hợp lứa tuổi, xem trước và tắt quảng cáo"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -173,17 +127,17 @@
     {
      "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV quay trước nụ cười của HS bằng điện thoại, ghép thành clip mở khi khởi động; HS nhận ra bạn, nói cảm giác"
+     "text": "GV dùng điện thoại quay trước những nụ cười của HS, ghép thành clip ngắn mở khi khởi động bài “Nụ cười thân thiện” cùng bài hát Nụ"
     },
     {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu biểu tượng mặt cười, mặt buồn, hỏi HS chọn biểu tượng nào gửi lời chúc vui cho bạn bằng lời nhắn tử tế"
+     "text": "GV chiếu lên màn hình mấy biểu tượng mặt cười, mặt buồn và hỏi HS chọn biểu tượng nào để gửi lời chúc vui cho bạn"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Ảnh chân dung chỉ chụp khi HS đồng ý, chiếu xong xoá; không tự đưa lên mạng."
+     "text": "Ảnh chân dung HS chỉ chụp khi các em đồng ý"
     }
    ],
    "note": ""
@@ -201,23 +155,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu bảng sơ kết tuần 2 dạng biểu đồ cột; chiếu ảnh nụ cười kèm nhãn cảm xúc máy gán để HS thấy máy có thể sai"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV chụp sản phẩm “Em làm ra nụ cười thân thiện” chiếu lên; mỗi HS nói một lời khen bạn, GV gõ lên trang lời khen"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Trang lời khen chỉ ghi lời tốt; không nêu tên HS bị nhắc."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -233,18 +171,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "Theo chủ điểm phát động phong trào “Khéo tay hay làm”, GV chuẩn bị ảnh chụp một số sản phẩm thủ công đẹp của HS trong trường và"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Ảnh chỉ chụp sản phẩm, không chụp mặt bạn"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -292,23 +219,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "Trong tiết sơ kết tuần 3, GV chiếu bảng theo dõi thi đua của các tổ ngay trên màn hình và gõ thẳng nhận xét của tổ trưởng"
-    },
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu lại ảnh sản phẩm “Khéo tay hay làm” các em vừa làm ở tiết trước"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Nhận xét bạn bằng lời nhẹ nhàng, không chê bai"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -325,11 +236,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "tìm hiểu nghề qua tư liệu số do cô chuẩn bị; ghi lại điều em học được."
-    },
     {
      "code": "QPAN",
      "level": "",
@@ -351,7 +257,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu đoạn phim quay cận cảnh và chiếu chậm các bước làm sản phẩm thủ công của chủ đề (gấp, đan, làm mặt nạ"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bộ ảnh về một làng nghề thủ công của địa phương và chỉ vị trí làng nghề đó trên bản đồ số"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV nhắc HS: xem phim hướng dẫn làm đồ thủ công trên mạng phải có người lớn ở"
+    }
+   ],
    "note": ""
   },
   {
@@ -399,7 +321,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu đoạn phim quay cận cảnh và chiếu chậm các bước làm sản phẩm thủ công của chủ đề (gấp, đan, làm mặt nạ"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bộ ảnh về một làng nghề thủ công của địa phương và chỉ vị trí làng nghề đó trên bản đồ số"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV nhắc HS: xem phim hướng dẫn làm đồ thủ công trên mạng phải có người lớn ở"
+    }
+   ],
    "note": ""
   },
   {
@@ -447,7 +385,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV hướng dẫn HS nhờ bố mẹ chụp giúp ảnh góc học tập ở nhà trước và sau khi tự sắp xếp lại rồi gửi tới GV"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở chủ đề quý trọng đồng tiền, GV chiếu bảng ghi chép tiền dựng sẵn trên máy; HS nêu các khoản đã tiêu"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh góc học tập là ảnh trong nhà: GV nhắc chỉ chụp bàn học"
+    }
+   ],
    "note": ""
   },
   {
@@ -464,11 +418,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -506,7 +455,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV hướng dẫn HS nhờ bố mẹ chụp giúp ảnh góc học tập ở nhà trước và sau khi tự sắp xếp lại rồi gửi tới GV"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở chủ đề quý trọng đồng tiền, GV chiếu bảng ghi chép tiền dựng sẵn trên máy; HS nêu các khoản đã tiêu"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh góc học tập là ảnh trong nhà: GV nhắc chỉ chụp bàn học"
+    }
+   ],
    "note": ""
   },
   {
@@ -546,11 +511,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    },
-    {
      "code": "STEM",
      "level": "",
      "text": "Hoạt động trải nghiệm STEM học kì I: ngày hội/câu lạc bộ/dự án STEM cấp lớp hoặc khối — tối thiểu 01 lần mỗi học kì (CV 3132/SGD&ĐT); HS trưng bày, giới thiệu sản phẩm từ các bài học STEM."
@@ -577,6 +537,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV hướng dẫn HS nhờ bố mẹ chụp giúp ảnh góc học tập ở nhà trước và sau khi tự sắp xếp lại rồi gửi tới GV"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "Ở chủ đề quý trọng đồng tiền, GV chiếu bảng ghi chép tiền dựng sẵn trên máy; HS nêu các khoản đã tiêu"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh góc học tập là ảnh trong nhà: GV nhắc chỉ chụp bàn học"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -640,7 +615,17 @@
     {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
+     "text": "GV dựng trên máy một tấm thiệp điện tử hoặc trang “Lời cảm ơn thầy cô” chung của lớp và chiếu lên màn hình"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV nêu tình huống hai bạn giận nhau vì một tin nhắn và cùng HS sửa lại câu nhắn cho tử tế"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV nhắc HS: nếu bị bạn nói lời khó nghe trong nhóm trò chuyện của lớp hay của"
     }
    ],
    "note": ""
@@ -702,7 +687,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV dựng trên máy một tấm thiệp điện tử hoặc trang “Lời cảm ơn thầy cô” chung của lớp và chiếu lên màn hình"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV nêu tình huống hai bạn giận nhau vì một tin nhắn và cùng HS sửa lại câu nhắn cho tử tế"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV nhắc HS: nếu bị bạn nói lời khó nghe trong nhóm trò chuyện của lớp hay của"
+    }
+   ],
    "note": ""
   },
   {
@@ -719,11 +720,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -767,7 +763,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV dựng trên máy một tấm thiệp điện tử hoặc trang “Lời cảm ơn thầy cô” chung của lớp và chiếu lên màn hình"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV nêu tình huống hai bạn giận nhau vì một tin nhắn và cùng HS sửa lại câu nhắn cho tử tế"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV nhắc HS: nếu bị bạn nói lời khó nghe trong nhóm trò chuyện của lớp hay của"
+    }
+   ],
    "note": ""
   },
   {
@@ -823,6 +835,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV dựng trên máy một tấm thiệp điện tử hoặc trang “Lời cảm ơn thầy cô” chung của lớp và chiếu lên màn hình"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV nêu tình huống hai bạn giận nhau vì một tin nhắn và cùng HS sửa lại câu nhắn cho tử tế"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV nhắc HS: nếu bị bạn nói lời khó nghe trong nhóm trò chuyện của lớp hay của"
+    },
+    {
      "code": "QPAN",
      "level": "",
      "text": "Tổ chức hoạt động tìm hiểu, thăm hỏi, tri ân gia đình thương binh, liệt sĩ, đơn vị bộ đội, công an trên địa bàn; giới thiệu tinh thần đoàn kết toàn dân tộc và sự hi sinh của các chiến sĩ cách mạng."
@@ -867,11 +894,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
-     "level": "Cơ bản 1",
-     "text": "ảnh và thông tin cá nhân của em chỉ chia sẻ khi bố mẹ, thầy cô cho phép."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
@@ -894,6 +916,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu các tình huống nguy hiểm trong nhà (cháy, điện giật, người lạ gõ cửa) dưới dạng đoạn phim ngắn dừng giữa chừng cho HS chọn cách"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở chủ đề tự giác làm việc, GV cùng HS lập bảng việc cần làm trong ngày ngay trên máy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV nhắc HS: khi có cháy hay có người lạ gõ cửa thì việc đầu tiên là tự"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN tự nhận thức: nhận ra điểm mạnh, điểm cần cố gắng của bản thân."
@@ -914,13 +951,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -936,13 +967,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -958,7 +983,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu các tình huống nguy hiểm trong nhà (cháy, điện giật, người lạ gõ cửa) dưới dạng đoạn phim ngắn dừng giữa chừng cho HS chọn cách"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở chủ đề tự giác làm việc, GV cùng HS lập bảng việc cần làm trong ngày ngay trên máy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV nhắc HS: khi có cháy hay có người lạ gõ cửa thì việc đầu tiên là tự"
+    }
+   ],
    "note": ""
   },
   {
@@ -1012,7 +1053,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu các tình huống nguy hiểm trong nhà (cháy, điện giật, người lạ gõ cửa) dưới dạng đoạn phim ngắn dừng giữa chừng cho HS chọn cách"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở chủ đề tự giác làm việc, GV cùng HS lập bảng việc cần làm trong ngày ngay trên máy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV nhắc HS: khi có cháy hay có người lạ gõ cửa thì việc đầu tiên là tự"
+    }
+   ],
    "note": ""
   },
   {
@@ -1060,7 +1117,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV mở bản tin dự báo thời tiết những ngày tới trên máy và chiếu lên màn hình; HS đọc nhiệt độ"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bảng kiểm hành trang lập sẵn trên máy; HS nêu từng món cần mang để GV gõ vào và đánh dấu"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV nhắc HS: khi đi xa, trong hành trang phải có mảnh giấy ghi tên mình cùng tên"
+    }
+   ],
    "note": ""
   },
   {
@@ -1114,7 +1187,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV mở bản tin dự báo thời tiết những ngày tới trên máy và chiếu lên màn hình; HS đọc nhiệt độ"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bảng kiểm hành trang lập sẵn trên máy; HS nêu từng món cần mang để GV gõ vào và đánh dấu"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV nhắc HS: khi đi xa, trong hành trang phải có mảnh giấy ghi tên mình cùng tên"
+    }
+   ],
    "note": ""
   },
   {
@@ -1168,7 +1257,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV hướng dẫn HS nhờ bố mẹ gửi tới một tấm ảnh ngày đáng nhớ của gia đình"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Dịp Tết, GV chiếu một tấm thiệp điện tử và một tin nhắn chúc Tết, cùng HS soạn lời chúc gửi ông bà ở xa"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh gia đình chỉ chiếu trong lớp khi bố mẹ đồng ý gửi"
+    }
+   ],
    "note": ""
   },
   {
@@ -1185,11 +1290,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1233,7 +1333,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV hướng dẫn HS nhờ bố mẹ gửi tới một tấm ảnh ngày đáng nhớ của gia đình"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Dịp Tết, GV chiếu một tấm thiệp điện tử và một tin nhắn chúc Tết, cùng HS soạn lời chúc gửi ông bà ở xa"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh gia đình chỉ chiếu trong lớp khi bố mẹ đồng ý gửi"
+    }
+   ],
    "note": ""
   },
   {
@@ -1293,7 +1409,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV hướng dẫn HS nhờ bố mẹ gửi tới một tấm ảnh ngày đáng nhớ của gia đình"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Dịp Tết, GV chiếu một tấm thiệp điện tử và một tin nhắn chúc Tết, cùng HS soạn lời chúc gửi ông bà ở xa"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Ảnh gia đình chỉ chiếu trong lớp khi bố mẹ đồng ý gửi"
+    }
+   ],
    "note": ""
   },
   {
@@ -1310,11 +1442,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1360,9 +1487,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "ảnh và thông tin cá nhân của em chỉ chia sẻ khi bố mẹ, thầy cô cho phép."
+     "text": "GV chiếu hình vi khuẩn, vi rút chụp qua kính hiển vi và đoạn phim mô phỏng đường lây bệnh qua bàn tay"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV cùng HS làm cuốn cẩm nang hướng dẫn dùng những vật dụng bảo vệ (khẩu trang, mũ, áo mưa, nước rửa tay): HS nêu từng bước"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV nhắc HS: tin về dịch bệnh phải nghe từ thầy cô"
     },
     {
      "code": "KNS",
@@ -1385,13 +1522,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1407,13 +1538,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1429,7 +1554,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu hình vi khuẩn, vi rút chụp qua kính hiển vi và đoạn phim mô phỏng đường lây bệnh qua bàn tay"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV cùng HS làm cuốn cẩm nang hướng dẫn dùng những vật dụng bảo vệ (khẩu trang, mũ, áo mưa, nước rửa tay): HS nêu từng bước"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV nhắc HS: tin về dịch bệnh phải nghe từ thầy cô"
+    }
+   ],
    "note": ""
   },
   {
@@ -1477,7 +1618,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh màn hình điện thoại phóng to và hướng dẫn từng bước cách gọi cho bố mẹ, gọi 111 và 113"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV mở bản đồ số khu vực quanh trường, quanh chợ và siêu thị gần trường"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV nhấn mạnh: người lạ dù gọi đúng tên mình, dù nói quen bố mẹ"
+    }
+   ],
    "note": ""
   },
   {
@@ -1525,7 +1682,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh màn hình điện thoại phóng to và hướng dẫn từng bước cách gọi cho bố mẹ, gọi 111 và 113"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV mở bản đồ số khu vực quanh trường, quanh chợ và siêu thị gần trường"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV nhấn mạnh: người lạ dù gọi đúng tên mình, dù nói quen bố mẹ"
+    }
+   ],
    "note": ""
   },
   {
@@ -1586,9 +1759,19 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu đoạn phim ngắn cho HS thấy người khiếm thị dùng máy đọc màn hình để nghe sách"
+    },
+    {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
+     "text": "GV chiếu ảnh và tin về những việc tử tế trong xóm, trong phường"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV nhắc HS: không quay phim, chụp ảnh người khuyết tật hay người có hoàn cảnh khó khăn"
     }
    ],
    "note": ""
@@ -1606,13 +1789,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "tìm hiểu nghề qua tư liệu số do cô chuẩn bị; ghi lại điều em học được."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1650,7 +1827,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu đoạn phim ngắn cho HS thấy người khiếm thị dùng máy đọc màn hình để nghe sách"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh và tin về những việc tử tế trong xóm, trong phường"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV nhắc HS: không quay phim, chụp ảnh người khuyết tật hay người có hoàn cảnh khó khăn"
+    }
+   ],
    "note": ""
   },
   {
@@ -1666,13 +1859,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1711,6 +1898,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu đoạn phim ngắn cho HS thấy người khiếm thị dùng máy đọc màn hình để nghe sách"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh và tin về những việc tử tế trong xóm, trong phường"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV nhắc HS: không quay phim, chụp ảnh người khuyết tật hay người có hoàn cảnh khó khăn"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -1772,6 +1974,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV mở bản đồ số kèm ảnh chụp đường phố, cùng HS đi thăm cảnh đẹp quê mình ngay trên màn hình khi lớp chưa có điều kiện"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV cùng HS chụp ảnh góc lớp, sân trường trước và sau khi dọn dẹp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Khi chụp ảnh cảnh quan, GV nhắc HS chỉ chụp cảnh vật"
+    },
+    {
      "code": "QPAN",
      "level": "",
      "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục biết ơn người có công với cách mạng; kính trọng cán bộ, chiến sĩ đang làm nhiệm vụ bảo vệ Tổ quốc."
@@ -1793,11 +2010,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1842,6 +2054,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV mở bản đồ số kèm ảnh chụp đường phố, cùng HS đi thăm cảnh đẹp quê mình ngay trên màn hình khi lớp chưa có điều kiện"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV cùng HS chụp ảnh góc lớp, sân trường trước và sau khi dọn dẹp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Khi chụp ảnh cảnh quan, GV nhắc HS chỉ chụp cảnh vật"
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -1914,6 +2141,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV mở bản đồ số kèm ảnh chụp đường phố, cùng HS đi thăm cảnh đẹp quê mình ngay trên màn hình khi lớp chưa có điều kiện"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV cùng HS chụp ảnh góc lớp, sân trường trước và sau khi dọn dẹp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Khi chụp ảnh cảnh quan, GV nhắc HS chỉ chụp cảnh vật"
+    },
+    {
      "code": "QPAN",
      "level": "",
      "text": "Tổ chức tham quan di tích lịch sử, nhà truyền thống ở địa phương hoặc xem tư liệu thay thế; giáo dục biết ơn người có công với cách mạng; kính trọng cán bộ, chiến sĩ đang làm nhiệm vụ bảo vệ Tổ quốc."
@@ -1983,7 +2225,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV mở bản đồ số kèm ảnh chụp đường phố, cùng HS đi thăm cảnh đẹp quê mình ngay trên màn hình khi lớp chưa có điều kiện"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV cùng HS chụp ảnh góc lớp, sân trường trước và sau khi dọn dẹp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Khi chụp ảnh cảnh quan, GV nhắc HS chỉ chụp cảnh vật"
+    }
+   ],
    "note": ""
   },
   {
@@ -2023,11 +2281,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "giao tiếp, chia sẻ với bạn qua kênh số một cách văn minh, không trêu chọc nhau."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN giao tiếp – hợp tác: làm việc nhóm, chia sẻ và giải quyết bất đồng ôn hoà."
@@ -2052,7 +2305,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "tìm hiểu nghề qua tư liệu số do cô chuẩn bị; ghi lại điều em học được."
+     "text": "GV chiếu bộ ảnh và phim ngắn về một ngày làm việc thật của nhiều nghề"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS xem đoạn phim ngắn về máy móc, người máy làm việc thay con người trong nhà xưởng rồi giải thích: máy làm rất nhanh nhưng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV nhắc HS: xem phim về máy móc và dụng cụ lao động là để biết"
     },
     {
      "code": "KNS",
@@ -2121,6 +2384,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bộ ảnh và phim ngắn về một ngày làm việc thật của nhiều nghề"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS xem đoạn phim ngắn về máy móc, người máy làm việc thay con người trong nhà xưởng rồi giải thích: máy làm rất nhanh nhưng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV nhắc HS: xem phim về máy móc và dụng cụ lao động là để biết"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN lao động tự phục vụ và bước đầu tìm hiểu nghề nghiệp."
@@ -2187,6 +2465,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bộ ảnh và phim ngắn về một ngày làm việc thật của nhiều nghề"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS xem đoạn phim ngắn về máy móc, người máy làm việc thay con người trong nhà xưởng rồi giải thích: máy làm rất nhanh nhưng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV nhắc HS: xem phim về máy móc và dụng cụ lao động là để biết"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN ứng phó với tình huống nguy hiểm và tìm kiếm sự trợ giúp."
@@ -2229,13 +2522,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "lớp trưởng tổng hợp kết quả thi đua vào bảng trên máy, chiếu cho cả lớp cùng xem."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -2251,7 +2538,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV cùng HS lập bảng kế hoạch mùa hè ngay trên máy (việc muốn làm, nơi muốn đến, sách muốn đọc)"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu bộ ảnh kỉ niệm cả năm học của lớp; HS nói lời chia tay và lời hẹn gặp lại để GV gõ vào trang lưu niệm"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "GV dặn kĩ trước khi nghỉ hè: ở nhà không tự vào mạng một mình"
+    }
+   ],
    "note": ""
   },
   {
@@ -2544,7 +2847,7 @@
   "file": "assets/docs/lop2/Hoat dong trai nghiem - Lop 2.docx",
   "name": "Hoat dong trai nghiem - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 51589,
+  "size": 52701,
   "updated": "2026-09-07"
  }
 }

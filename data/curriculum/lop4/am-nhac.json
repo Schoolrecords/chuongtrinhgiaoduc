@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 40
+  "integrations": 53
  },
  "lessons": [
   {
@@ -30,17 +30,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV chiếu khuông nhạc, khoá Son, vị trí nốt Đô đến La, bấm từng nốt cho HS nghe cao độ; HS lên chỉ một nốt, đọc tên"
+     "text": "GV chiếu khuông nhạc, khoá Son và vị trí các nốt Đô, Rê, Mi, Pha, Son"
     },
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "HS làm bài tập tương tác trên máy tính lớp: kéo nốt vào đúng dòng, khe; chọn tên nốt theo âm thanh; máy báo sai thì sửa"
+     "text": "HS làm bài tập tương tác trên máy tính lớp: kéo nốt vào đúng dòng, khe của khuông nhạc, chọn tên nốt đúng với âm thanh vừa nghe"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Chỉ mở học liệu GV chuẩn bị; làm hết bài mới xem đáp án."
+     "text": "Chỉ mở học liệu và phần mềm GV đã chuẩn bị sẵn trên máy của lớp"
     }
    ],
    "note": ""
@@ -62,17 +62,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "GV mở bản thu mẫu “Chuông gió leng keng” trên máy tính lớp, hiện lời ca chia câu; HS nghe từng câu, hát nối tiếp"
+     "text": "GV mở bản thu mẫu bài hát “Chuông gió leng keng” (Nhạc và lời: Lê Vinh Phúc) trên máy tính lớp"
     },
     {
      "code": "NLS-ST",
      "level": "Cơ bản 2",
-     "text": "Mỗi tổ dùng điện thoại GV thu âm phần hát vỗ tay theo phách, nghe lại qua loa, sửa chỗ vào chưa đều rồi thu lần hai"
+     "text": "Sau khi tập, mỗi tổ dùng điện thoại của GV thu âm phần hát kết hợp vỗ tay theo phách của tổ"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Bản thu lấy từ học liệu bộ sách; bản thu của tổ chỉ dùng trong giờ."
+     "text": "Chỉ lấy bản thu từ học liệu của bộ sách hoặc kênh chính thức của nhà xuất bản"
     }
    ],
    "note": ""
@@ -90,23 +90,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "GV chiếu vài đoạn phim ngắn cho nội dung “Hình thức biểu diễn trong ca hát”, mỗi đoạn một cách trình bày khác nhau"
-    },
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS làm bài tập tương tác có chấm ngay về “Hình thức biểu diễn trong ca hát”: nghe một đoạn rồi chọn đúng tên cách trình bày"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Tư liệu về “Hình thức biểu diễn trong ca hát” phải lấy từ trang của nhà xuất bản"
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -123,11 +107,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -151,9 +130,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
+     "text": "GV mở bản thu mẫu bài “Chim sáo” từ học liệu điện tử của bộ sách"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Tập xong, mỗi tổ tự thu âm phần trình bày bài “Chim sáo” bằng điện thoại hoặc máy tính của lớp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ lấy bản thu từ học liệu của bộ sách hoặc kênh chính thức của nhà xuất bản"
     },
     {
      "code": "QPAN",
@@ -196,7 +185,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "nghe/xem tư liệu âm nhạc trên máy; nói rõ tên bài, tên tác giả khi giới thiệu."
+     "text": "GV chiếu đoạn phim quay cận cảnh cho nội dung “Giới thiệu đàn tranh”: nhìn rõ hình dáng, chất liệu, số dây hoặc số lỗ"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "HS làm bài tập nghe tương tác có chấm ngay: GV mở lần lượt vài đoạn nhạc ngắn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Tư liệu về “Giới thiệu đàn tranh” phải lấy từ trang của nhà xuất bản, nhà hát"
     },
     {
      "code": "QPAN",
@@ -221,14 +220,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
-    },
-    {
      "code": "QPAN",
      "level": "",
      "text": "Chọn bài hát ca ngợi quê hương, đất nước, hoà bình; liên hệ bản đồ hành chính Việt Nam và chủ quyền của Việt Nam đối với quần đảo Hoàng Sa, Trường Sa."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
     }
    ],
    "note": ""
@@ -248,9 +247,19 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV dùng học liệu số về Giới thiệu các hình nốt: khuông nhạc hiện trên màn hình"
+    },
+    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "dùng đàn/ứng dụng nhạc để nghe đúng cao độ, sau đó tự luyện lại."
+     "text": "HS làm bộ bài tập tương tác có chấm ngay về Giới thiệu các hình nốt: đặt nốt vào đúng vị trí trên khuông"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ mở học liệu và phần mềm GV đã chuẩn bị sẵn trên máy của lớp"
     }
    ],
    "note": ""
@@ -270,9 +279,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
+     "text": "GV mở bản thu mẫu bài “Nếu em là...” từ học liệu điện tử của bộ sách"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Tập xong, mỗi tổ tự thu âm phần trình bày bài “Nếu em là...” bằng điện thoại hoặc máy tính của lớp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ lấy bản thu từ học liệu của bộ sách hoặc kênh chính thức của nhà xuất bản"
     }
    ],
    "note": ""
@@ -308,11 +327,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
@@ -335,9 +349,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
+     "text": "GV mở bản thu mẫu bài “Tết là Tết” từ học liệu điện tử của bộ sách"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Tập xong, mỗi tổ tự thu âm phần trình bày bài “Tết là Tết” bằng điện thoại hoặc máy tính của lớp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ lấy bản thu từ học liệu của bộ sách hoặc kênh chính thức của nhà xuất bản"
     }
    ],
    "note": ""
@@ -375,7 +399,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "nghe/xem tư liệu âm nhạc trên máy; nói rõ tên bài, tên tác giả khi giới thiệu."
+     "text": "GV mở bản kể chuyện có nhạc minh hoạ cho “Câu chuyện âm nhạc Pi-tơ và chó sói (Phỏng theo: Séc-gây Pơ-rô-cô-phi-ép)”"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 2",
+     "text": "HS làm bài tập tương tác có chấm ngay về “Câu chuyện âm nhạc Pi-tơ và chó sói (Phỏng theo: Séc-gây Pơ-rô-cô-phi-ép)”: nghe đoạn nhạc rồi chọn đúng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Tư liệu về “Câu chuyện âm nhạc Pi-tơ và chó sói (Phỏng theo: Séc-gây Pơ-rô-cô-phi-ép)” phải lấy từ"
     }
    ],
    "note": ""
@@ -394,11 +428,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -454,9 +483,19 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 2",
+     "text": "GV dùng học liệu số về Dấu lặng: khuông nhạc hiện trên màn hình, GV kéo nốt lên xuống thì máy phát ngay âm thanh tương ứng"
+    },
+    {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 2",
-     "text": "dùng đàn/ứng dụng nhạc để nghe đúng cao độ, sau đó tự luyện lại."
+     "text": "HS làm bộ bài tập tương tác có chấm ngay về Dấu lặng: đặt nốt vào đúng vị trí trên khuông"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ mở học liệu và phần mềm GV đã chuẩn bị sẵn trên máy của lớp"
     }
    ],
    "note": ""
@@ -476,9 +515,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
+     "text": "GV mở bản thu mẫu bài “Hạt mưa kể chuyện” từ học liệu điện tử của bộ sách"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Tập xong, mỗi tổ tự thu âm phần trình bày bài “Hạt mưa kể chuyện” bằng điện thoại hoặc máy tính của lớp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ lấy bản thu từ học liệu của bộ sách hoặc kênh chính thức của nhà xuất bản"
     }
    ],
    "note": ""
@@ -514,11 +563,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN tự tin biểu diễn trước tập thể và phối hợp cùng nhóm."
@@ -541,9 +585,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
+     "text": "GV mở bản thu mẫu bài “Tình bạn tuổi thơ” từ học liệu điện tử của bộ sách"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Tập xong, mỗi tổ tự thu âm phần trình bày bài “Tình bạn tuổi thơ” bằng điện thoại hoặc máy tính của lớp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ lấy bản thu từ học liệu của bộ sách hoặc kênh chính thức của nhà xuất bản"
     }
    ],
    "note": ""
@@ -577,13 +631,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "dùng đàn/ứng dụng nhạc để nghe đúng cao độ, sau đó tự luyện lại."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -600,11 +648,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -644,9 +687,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
+     "text": "GV mở bản thu mẫu bài “Miền quê em” từ học liệu điện tử của bộ sách, chỉ cho HS dòng ghi tác giả “Nhạc: Ka-ba-lép-xki – Nga"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Tập xong, mỗi tổ tự thu âm phần trình bày bài “Miền quê em” bằng điện thoại hoặc máy tính của lớp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ lấy bản thu từ học liệu của bộ sách hoặc kênh chính thức của nhà xuất bản"
     }
    ],
    "note": ""
@@ -664,13 +717,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "nghe/xem tư liệu âm nhạc trên máy; nói rõ tên bài, tên tác giả khi giới thiệu."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -687,11 +734,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "ghi âm/quay lại phần trình bày của nhóm; chỉ chia sẻ trong lớp."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -715,9 +757,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-AT",
+     "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "nghe nhạc với âm lượng vừa phải; hát bài của ai thì giới thiệu rõ tên tác giả."
+     "text": "GV mở bản thu mẫu bài “Em yêu mùa hè quê em” từ học liệu điện tử của bộ sách"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 2",
+     "text": "Tập xong, mỗi tổ tự thu âm phần trình bày bài “Em yêu mùa hè quê em” bằng điện thoại hoặc máy tính của lớp"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Chỉ lấy bản thu từ học liệu của bộ sách hoặc kênh chính thức của nhà xuất bản"
     }
    ],
    "note": ""
@@ -755,7 +807,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 2",
-     "text": "nghe/xem tư liệu âm nhạc trên máy; nói rõ tên bài, tên tác giả khi giới thiệu."
+     "text": "GV mở bản ghi hình buổi biểu diễn tác phẩm “Khúc ca vào hè” (Trương Tuyết Mai)"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 2",
+     "text": "GV mở thêm một đoạn nhạc do máy tự sinh theo phong cách gần giống rồi cho HS nghe đối chiếu với bản do nghệ sĩ biểu diễn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bản ghi hình “Khúc ca vào hè” phải lấy từ kênh chính thức của nhà hát"
     },
     {
      "code": "KNS",
@@ -1071,7 +1133,7 @@
   "file": "assets/docs/lop4/Am nhac - Lop 4.docx",
   "name": "Am nhac - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 46404,
+  "size": 46732,
   "updated": "2026-09-07"
  }
 }

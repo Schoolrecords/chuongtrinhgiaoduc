@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 163,
-  "integrations": 156
+  "integrations": 426
  },
  "lessons": [
   {
@@ -30,17 +30,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Trước bài “Ngày gặp lại”, GV chiếu hình, video cảnh các bạn gặp lại ngày tựu trường; HS chỉ ảnh và đọc câu văn tả chi tiết ấy"
+     "text": "Trước khi đọc bài “Ngày gặp lại”, GV chiếu hình ảnh hoặc đoạn video ngắn về cảnh các bạn nhỏ gặp lại nhau ngày tựu trường và những"
     },
     {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV mở bản đọc mẫu, dừng chỗ Chi và Sơn trò chuyện để HS nhận ra giọng vui, ngắt hơi; GV chụp ảnh nhóm kể hay"
+     "text": "GV mở bản đọc mẫu câu chuyện “Ngày gặp lại” cho HS nghe, dừng ở chỗ Chi và Sơn trò chuyện để HS nhận ra giọng vui mừng"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Hình, video do GV chọn từ nguồn tin cậy; HS không tự tìm video."
+     "text": "Hình ảnh, video minh hoạ do GV chọn trước từ nguồn tin cậy"
     },
     {
      "code": "KNS",
@@ -99,17 +99,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Trước bài “Về thăm quê”, GV chiếu hình làng quê: bà bên hiên, vườn cây; HS chỉ ảnh và đọc khổ thơ có cử chỉ của bà"
+     "text": "Trước khi đọc bài thơ “Về thăm quê”, GV chiếu hình ảnh làng quê: bà ngồi bên hiên nhà, vườn cây, đường làng"
     },
     {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV mở bản đọc mẫu, dừng từng dòng để HS nhận ra ngắt nhịp, giọng tình cảm; chiếu video quy trình viết chữ hoa A, Ă, Â"
+     "text": "GV mở bản đọc mẫu bài thơ “Về thăm quê”, dừng ở từng dòng để HS nhận ra chỗ ngắt nhịp thơ"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Hình, video do GV chọn từ nguồn tin cậy; HS không tự tìm video."
+     "text": "Hình ảnh, video minh hoạ do GV chọn trước từ nguồn tin cậy"
     }
    ],
    "note": ""
@@ -131,17 +131,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu tranh bài 1 trên tivi để HS quan sát người, vật, việc đang làm; từ chưa hiểu, GV mở từ điển điện tử đọc nghĩa"
+     "text": "Ở tiết “Bài 02: VỀ THĂM QUÊ – LUYỆN TỪ VÀ CÂU”, GV chiếu tranh minh hoạ bài 1 phóng to trên tivi để HS quan sát kĩ"
     },
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV gõ lên màn hình các từ HS tìm, lớp xếp hai cột từ chỉ sự vật, chỉ hoạt động; chiếu câu thiếu dấu để cả lớp sửa"
+     "text": "GV gõ lên màn hình các từ HS vừa tìm và cùng lớp xếp vào hai cột từ chỉ sự vật và từ chỉ hoạt động"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Từ điển chỉ để tra nghĩa, không làm hộ bài; HS không tự tra cứu một mình."
+     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
     }
    ],
    "note": ""
@@ -160,21 +160,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 1",
-     "text": "GV chiếu hai tin nhắn SGK để HS so sánh người viết, người nhận, nội dung; GV chụp vài bài chiếu lên, gõ lại tin nhắn đã sửa"
-    },
-    {
-     "code": "NLS-GT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn nhắn tin lịch sự cho người thân: chào, xưng tên, nói rõ việc, cảm ơn; HS góp ý bài bạn theo mẫu, không chê"
-    },
-    {
-     "code": "NLS-AT",
-     "level": "",
-     "text": "Bài viết chỉ chiếu khi bạn đồng ý; không chép bài bạn."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -200,17 +185,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Trước bài “Cánh rừng trong nắng”, GV chiếu hình, video rừng già có nắng xuyên tán lá; HS chỉ ảnh và đọc câu văn tả cảnh ấy"
+     "text": "Trước khi đọc bài “Cánh rừng trong nắng”, GV chiếu hình ảnh hoặc đoạn video ngắn về cánh rừng già có nắng xuyên qua tán lá, con suối"
     },
     {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV mở bản đọc mẫu, dừng để HS nhận ra ngắt hơi, giọng ngạc nhiên; chiếu tranh Sự tích loài hoa của mùa hạ, HS kể theo cặp"
+     "text": "GV mở bản đọc mẫu “Cánh rừng trong nắng”, dừng để HS nhận ra chỗ ngắt hơi, giọng ngạc nhiên thích thú của các bạn nhỏ"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Hình, video do GV chọn từ nguồn tin cậy; HS không tự tìm video."
+     "text": "Hình ảnh, video minh hoạ do GV chọn trước từ nguồn tin cậy"
     },
     {
      "code": "KNS",
@@ -269,17 +254,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Trước khi đọc “Lần đầu ra biển”, GV chiếu hình, video bãi biển, sóng, thuyền; HS chỉ ảnh và đọc câu văn tả chi tiết ấy"
+     "text": "Trước khi đọc bài “Lần đầu ra biển”, GV chiếu hình ảnh hoặc đoạn video ngắn về bãi biển, sóng, thuyền"
     },
     {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "GV mở bản đọc mẫu, dừng ở lời nhân vật để HS nhận ra ngữ điệu ngạc nhiên; chiếu mẫu phiếu đọc sách, ảnh bìa sách"
+     "text": "GV mở bản đọc mẫu “Lần đầu ra biển”, dừng ở lời nhân vật để HS nhận ra ngữ điệu ngạc nhiên, thích thú"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Hình, video do GV chọn từ nguồn tin cậy; HS không tự tìm video."
+     "text": "Hình ảnh, video minh hoạ do GV chọn trước từ nguồn tin cậy"
     },
     {
      "code": "QPAN",
@@ -306,17 +291,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu các từ in đậm bài 1, HS lên kéo xếp vào ba nhóm màu sắc, hình dáng, hương vị; GV mở từ điển điện tử"
+     "text": "Ở tiết “Từ ngữ chỉ đặc điểm; Câu nêu đặc điểm”, GV chiếu các từ in đậm của bài 1 lên màn hình"
     },
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chiếu ảnh đồ vật, con vật cho HS tìm thêm từ chỉ đặc điểm; chiếu câu điền từ, cả lớp sửa trên màn hình, đặt câu"
+     "text": "GV chiếu ảnh một số đồ vật, con vật, quả cây và cho HS tìm thêm từ chỉ đặc điểm cho mỗi nhóm"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Từ điển chỉ để tra nghĩa, không làm hộ bài; HS không tự tra cứu một mình."
+     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
     }
    ],
    "note": ""
@@ -338,17 +323,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV chiếu tranh minh hoạ, HS kể hoạt động từng tranh; chiếu thêm ảnh nấu ăn, dọn nhà để HS chọn hoạt động đã làm cùng người thân"
+     "text": "Ở tiết “Viết đoạn văn kể lại hoạt động đã làm cùng người thân”, GV chiếu tranh minh hoạ phóng to"
     },
     {
      "code": "NLS-GQVĐ",
      "level": "Cơ bản 1",
-     "text": "GV chụp 2–3 đoạn văn chiếu lên, lớp phát hiện lỗi dùng từ, đặt câu; GV gõ lại đoạn đã sửa, mỗi em tự sửa bài"
+     "text": "Sau khi HS viết, GV chụp 2–3 đoạn văn chiếu lên màn hình và cùng lớp phát hiện lỗi dùng từ, đặt câu, sắp xếp ý"
     },
     {
      "code": "NLS-AT",
      "level": "",
-     "text": "Công cụ chỉ để tra nghĩa, không làm hộ bài; HS không tự tra cứu một mình."
+     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
     },
     {
      "code": "KNS",
@@ -543,6 +528,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Trước khi đọc bài “MÙA HÈ LẤP LÁNH”, GV chiếu 2–3 hình ảnh hoặc một đoạn video ngắn về sự vật, khung cảnh có trong bài (bãi biển"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV mở bản đọc mẫu do phát thanh viên thể hiện cho HS nghe một lần, dừng lại để HS nhận ra chỗ người đọc ngắt hơi"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Hình ảnh, video minh hoạ do GV chọn trước từ nguồn tin cậy"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
@@ -581,6 +581,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Trước khi đọc bài “TẠM BIỆT MÙA HÈ”, GV chiếu 2–3 hình ảnh hoặc một đoạn video ngắn về sự vật, khung cảnh có trong bài (bãi biển"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV mở bản đọc mẫu do phát thanh viên thể hiện cho HS nghe một lần, dừng lại để HS nhận ra chỗ người đọc ngắt hơi"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Hình ảnh, video minh hoạ do GV chọn trước từ nguồn tin cậy"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
@@ -601,7 +616,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “TẠM BIỆT MÙA HÈ – LUYỆN TỪ VÀ CÂU”, khi HS gặp một từ chưa hiểu"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu một câu HS hay viết sai (thiếu dấu chấm, dùng sai dấu phẩy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
+    }
+   ],
    "note": ""
   },
   {
@@ -619,9 +650,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
+     "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS tìm, chọn sách/truyện phù hợp ở thư viện lớp hoặc thư viện số; tập ghi lại tên sách, câu chuyện đã đọc."
+     "text": "Ở tiết “TẠM BIỆT MÙA HÈ – LUYỆN VIẾT ĐOẠN”, sau khi HS viết xong đoạn vào vở, GV dùng điện thoại chụp 2–3 bài"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV hướng dẫn cả lớp cách góp ý cho bạn theo mẫu hai câu: “Tớ thích câu… vì…” và “Theo tớ, chỗ… nên sửa thành…”"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài viết của HS là sản phẩm riêng: chỉ chiếu lên khi chính bạn ấy đồng ý"
     },
     {
      "code": "KNS",
@@ -645,6 +686,21 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Trước khi đọc bài “Đi học vui sao / Nói và nghe: Tới lớp, tới trường”"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV mở bản đọc mẫu do phát thanh viên thể hiện cho HS nghe một lần, dừng lại để HS nhận ra chỗ người đọc ngắt hơi"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Hình ảnh, video minh hoạ do GV chọn trước từ nguồn tin cậy"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -682,7 +738,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Trước khi đọc bài “Con đường đến trường / Viết: Ôn chữ viết hoa D, Đ”"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV mở bản đọc mẫu do phát thanh viên thể hiện cho HS nghe một lần, dừng lại để HS nhận ra chỗ người đọc ngắt hơi"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Hình ảnh, video minh hoạ do GV chọn trước từ nguồn tin cậy"
+    }
+   ],
    "note": ""
   },
   {
@@ -698,13 +770,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "tra nghĩa từ bằng từ điển điện tử; đối chiếu ít nhất hai nguồn trước khi tin."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -722,9 +788,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "AI-NB",
+     "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "Làm quen gõ chữ và công cụ kiểm tra chính tả trên máy tính (nếu có) dưới sự hướng dẫn; HS tự viết là chính, trung thực."
+     "text": "Trước khi đọc bài “Viết đoạn văn nêu tình cảm, cảm xúc đối với một người mà em yêu quý”"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV mở bản đọc mẫu do phát thanh viên thể hiện cho HS nghe một lần, dừng lại để HS nhận ra chỗ người đọc ngắt hơi"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Hình ảnh, video minh hoạ do GV chọn trước từ nguồn tin cậy"
     },
     {
      "code": "KNS",
@@ -748,6 +824,21 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Trước khi đọc bài “LỜI GIẢI TOÁN ĐẶC BIỆT”, GV chiếu 2–3 hình ảnh hoặc một đoạn video ngắn về sự vật"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV mở bản đọc mẫu do phát thanh viên thể hiện cho HS nghe một lần, dừng lại để HS nhận ra chỗ người đọc ngắt hơi"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Hình ảnh, video minh hoạ do GV chọn trước từ nguồn tin cậy"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -787,6 +878,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “BÀI TẬP LÀM VĂN”, sau khi HS viết xong đoạn vào vở, GV dùng điện thoại chụp 2–3 bài"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV hướng dẫn cả lớp cách góp ý cho bạn theo mẫu hai câu: “Tớ thích câu… vì…” và “Theo tớ, chỗ… nên sửa thành…”"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài viết của HS là sản phẩm riêng: chỉ chiếu lên khi chính bạn ấy đồng ý"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
@@ -807,7 +913,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “LUYỆN TỪ VÀ CÂU”, khi HS gặp một từ chưa hiểu, GV mở từ điển tiếng Việt bản điện tử trên máy"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu một câu HS hay viết sai (thiếu dấu chấm, dùng sai dấu phẩy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
+    }
+   ],
    "note": ""
   },
   {
@@ -825,9 +947,19 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “LUYỆN VIẾT ĐƠN”, sau khi HS viết xong đoạn vào vở, GV dùng điện thoại chụp 2–3 bài"
+    },
+    {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "HS tập nói, lắng nghe lịch sự; làm quen sử dụng tranh ảnh/thiết bị trình chiếu đơn giản khi chia sẻ (có hướng dẫn của GV)."
+     "text": "GV hướng dẫn cả lớp cách góp ý cho bạn theo mẫu hai câu: “Tớ thích câu… vì…” và “Theo tớ, chỗ… nên sửa thành…”"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài viết của HS là sản phẩm riêng: chỉ chiếu lên khi chính bạn ấy đồng ý"
     }
    ],
    "note": ""
@@ -846,6 +978,21 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Trước khi đọc bài “BÀN TAY CÔ GIÁO”, GV chiếu 2–3 hình ảnh hoặc một đoạn video ngắn về sự vật, khung cảnh có trong bài (bãi biển"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV mở bản đọc mẫu do phát thanh viên thể hiện cho HS nghe một lần, dừng lại để HS nhận ra chỗ người đọc ngắt hơi"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Hình ảnh, video minh hoạ do GV chọn trước từ nguồn tin cậy"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -869,11 +1016,6 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "nghe/xem bản đọc mẫu trên máy rồi đọc lại; tư liệu lấy ở đâu thì nói rõ ở đó."
-    },
-    {
      "code": "KNS",
      "level": "",
      "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
@@ -894,7 +1036,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Trước khi đọc bài “CUỘC HỌP CỦA CHỮ VIẾT”, GV chiếu 2–3 hình ảnh hoặc một đoạn video ngắn về sự vật"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV mở bản đọc mẫu do phát thanh viên thể hiện cho HS nghe một lần, dừng lại để HS nhận ra chỗ người đọc ngắt hơi"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Hình ảnh, video minh hoạ do GV chọn trước từ nguồn tin cậy"
+    }
+   ],
    "note": ""
   },
   {
@@ -910,7 +1068,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “CUỘC HỌP CỦA CHỮ VIẾT – LUYỆN TỪ VÀ CÂU”, khi HS gặp một từ chưa hiểu"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu một câu HS hay viết sai (thiếu dấu chấm, dùng sai dấu phẩy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
+    }
+   ],
    "note": ""
   },
   {
@@ -927,6 +1101,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “CUỘC HỌP CỦA CHỮ VIẾT – LUYỆN VIẾT ĐOẠN”, sau khi HS viết xong đoạn vào vở, GV dùng điện thoại chụp 2–3 bài"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV hướng dẫn cả lớp cách góp ý cho bạn theo mẫu hai câu: “Tớ thích câu… vì…” và “Theo tớ, chỗ… nên sửa thành…”"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài viết của HS là sản phẩm riêng: chỉ chiếu lên khi chính bạn ấy đồng ý"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -949,6 +1138,21 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Trước khi đọc bài “THƯ VIỆN”, GV chiếu 2–3 hình ảnh hoặc một đoạn video ngắn về sự vật, khung cảnh có trong bài (bãi biển, cánh rừng"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV mở bản đọc mẫu do phát thanh viên thể hiện cho HS nghe một lần, dừng lại để HS nhận ra chỗ người đọc ngắt hơi"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Hình ảnh, video minh hoạ do GV chọn trước từ nguồn tin cậy"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -988,6 +1192,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Trước khi đọc bài “NGÀY EM VÀO ĐỘI”, GV chiếu 2–3 hình ảnh hoặc một đoạn video ngắn về sự vật, khung cảnh có trong bài (bãi biển"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV mở bản đọc mẫu do phát thanh viên thể hiện cho HS nghe một lần, dừng lại để HS nhận ra chỗ người đọc ngắt hơi"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Hình ảnh, video minh hoạ do GV chọn trước từ nguồn tin cậy"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
@@ -1008,7 +1227,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “NGÀY EM VÀO ĐỘI – LUYỆN TỪ VÀ CÂU”, khi HS gặp một từ chưa hiểu"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu một câu HS hay viết sai (thiếu dấu chấm, dùng sai dấu phẩy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
+    }
+   ],
    "note": ""
   },
   {
@@ -1028,7 +1263,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS tìm, chọn sách/truyện phù hợp ở thư viện lớp hoặc thư viện số; tập ghi lại tên sách, câu chuyện đã đọc."
+     "text": "Ở tiết “NGÀY EM VÀO ĐỘI – LUYỆN TỪ VÀ CÂU”, khi HS gặp một từ chưa hiểu"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu một câu HS hay viết sai (thiếu dấu chấm, dùng sai dấu phẩy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
     }
    ],
    "note": ""
@@ -1080,6 +1325,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Bài “NGƯỠNG CỬA” nói về tình cảm gia đình và tình làng nghĩa xóm. Sau khi tìm hiểu bài"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh, đoạn phim ngắn minh hoạ khung cảnh trong bài (ngôi nhà, con ngõ, bữa cơm, phiên chợ quê) để HS hình dung rõ hơn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Lời yêu thương gửi người thân là chuyện riêng của mỗi gia đình"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
@@ -1116,7 +1376,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Bài “MÓN QUÀ ĐẶC BIỆT” nói về tình cảm gia đình và tình làng nghĩa xóm. Sau khi tìm hiểu bài"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh, đoạn phim ngắn minh hoạ khung cảnh trong bài (ngôi nhà, con ngõ, bữa cơm, phiên chợ quê) để HS hình dung rõ hơn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Lời yêu thương gửi người thân là chuyện riêng của mỗi gia đình"
+    }
+   ],
    "note": ""
   },
   {
@@ -1134,9 +1410,19 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Bài “MÓN QUÀ ĐẶC BIỆT” nói về tình cảm gia đình và tình làng nghĩa xóm. Sau khi tìm hiểu bài"
+    },
+    {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "tra nghĩa từ bằng từ điển điện tử; đối chiếu ít nhất hai nguồn trước khi tin."
+     "text": "GV chiếu ảnh, đoạn phim ngắn minh hoạ khung cảnh trong bài (ngôi nhà, con ngõ, bữa cơm, phiên chợ quê) để HS hình dung rõ hơn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Lời yêu thương gửi người thân là chuyện riêng của mỗi gia đình"
     }
    ],
    "note": ""
@@ -1156,9 +1442,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "AI-NB",
+     "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "Làm quen gõ chữ và công cụ kiểm tra chính tả trên máy tính (nếu có) dưới sự hướng dẫn; HS tự viết là chính, trung thực."
+     "text": "Bài “MÓN QUÀ ĐẶC BIỆT” nói về tình cảm gia đình và tình làng nghĩa xóm. Sau khi tìm hiểu bài"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh, đoạn phim ngắn minh hoạ khung cảnh trong bài (ngôi nhà, con ngõ, bữa cơm, phiên chợ quê) để HS hình dung rõ hơn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Lời yêu thương gửi người thân là chuyện riêng của mỗi gia đình"
     },
     {
      "code": "KNS",
@@ -1182,6 +1478,21 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Bài “KHI CẢ NHÀ BÉ TÍ” nói về tình cảm gia đình và tình làng nghĩa xóm. Sau khi tìm hiểu bài"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh, đoạn phim ngắn minh hoạ khung cảnh trong bài (ngôi nhà, con ngõ, bữa cơm, phiên chợ quê) để HS hình dung rõ hơn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Lời yêu thương gửi người thân là chuyện riêng của mỗi gia đình"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -1221,6 +1532,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Bài “TRÒ CHUYỆN CÙNG MẸ” nói về tình cảm gia đình và tình làng nghĩa xóm. Sau khi tìm hiểu bài"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh, đoạn phim ngắn minh hoạ khung cảnh trong bài (ngôi nhà, con ngõ, bữa cơm, phiên chợ quê) để HS hình dung rõ hơn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Lời yêu thương gửi người thân là chuyện riêng của mỗi gia đình"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
@@ -1241,7 +1567,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “TRÒ CHUYỆN CÙNG MẸ – LUYỆN TỪ VÀ CÂU”, khi HS gặp một từ chưa hiểu"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu một câu HS hay viết sai (thiếu dấu chấm, dùng sai dấu phẩy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
+    }
+   ],
    "note": ""
   },
   {
@@ -1259,9 +1601,19 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “TRÒ CHUYỆN CÙNG MẸ – LUYỆN VIẾT ĐOẠN”, sau khi HS viết xong đoạn vào vở, GV dùng điện thoại chụp 2–3 bài"
+    },
+    {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "HS tập nói, lắng nghe lịch sự; làm quen sử dụng tranh ảnh/thiết bị trình chiếu đơn giản khi chia sẻ (có hướng dẫn của GV)."
+     "text": "GV hướng dẫn cả lớp cách góp ý cho bạn theo mẫu hai câu: “Tớ thích câu… vì…” và “Theo tớ, chỗ… nên sửa thành…”"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài viết của HS là sản phẩm riêng: chỉ chiếu lên khi chính bạn ấy đồng ý"
     },
     {
      "code": "KNS",
@@ -1285,6 +1637,21 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Bài “TIA NẮNG BÉ NHỎ” nói về tình cảm gia đình và tình làng nghĩa xóm. Sau khi tìm hiểu bài"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh, đoạn phim ngắn minh hoạ khung cảnh trong bài (ngôi nhà, con ngõ, bữa cơm, phiên chợ quê) để HS hình dung rõ hơn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Lời yêu thương gửi người thân là chuyện riêng của mỗi gia đình"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -1322,7 +1689,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Bài “ĐỂ CHÁU NẮM TAY ÔNG” nói về tình cảm gia đình và tình làng nghĩa xóm. Sau khi tìm hiểu bài"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh, đoạn phim ngắn minh hoạ khung cảnh trong bài (ngôi nhà, con ngõ, bữa cơm, phiên chợ quê) để HS hình dung rõ hơn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Lời yêu thương gửi người thân là chuyện riêng của mỗi gia đình"
+    }
+   ],
    "note": ""
   },
   {
@@ -1338,7 +1721,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “ĐỂ CHÁU NẮM TAY ÔNG – LUYỆN TỪ VÀ CÂU”, khi HS gặp một từ chưa hiểu"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu một câu HS hay viết sai (thiếu dấu chấm, dùng sai dấu phẩy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
+    }
+   ],
    "note": ""
   },
   {
@@ -1378,6 +1777,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Bài “TÔI YÊU EM TÔI” nói về tình cảm gia đình và tình làng nghĩa xóm. Sau khi tìm hiểu bài"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh, đoạn phim ngắn minh hoạ khung cảnh trong bài (ngôi nhà, con ngõ, bữa cơm, phiên chợ quê) để HS hình dung rõ hơn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Lời yêu thương gửi người thân là chuyện riêng của mỗi gia đình"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
@@ -1416,6 +1830,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Bài “BẠN NHỎ TRONG NHÀ” nói về tình cảm gia đình và tình làng nghĩa xóm. Sau khi tìm hiểu bài"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh, đoạn phim ngắn minh hoạ khung cảnh trong bài (ngôi nhà, con ngõ, bữa cơm, phiên chợ quê) để HS hình dung rõ hơn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Lời yêu thương gửi người thân là chuyện riêng của mỗi gia đình"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
@@ -1436,7 +1865,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “BẠN NHỎ TRONG NHÀ – LUYỆN TỪ VÀ CÂU”, khi HS gặp một từ chưa hiểu"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu một câu HS hay viết sai (thiếu dấu chấm, dùng sai dấu phẩy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
+    }
+   ],
    "note": ""
   },
   {
@@ -1453,11 +1898,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS tìm, chọn sách/truyện phù hợp ở thư viện lớp hoặc thư viện số; tập ghi lại tên sách, câu chuyện đã đọc."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1480,6 +1920,21 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Bài “NHỮNG BẬC ĐÁ CHẠM MÂY” nói về tình cảm gia đình và tình làng nghĩa xóm. Sau khi tìm hiểu bài"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh, đoạn phim ngắn minh hoạ khung cảnh trong bài (ngôi nhà, con ngõ, bữa cơm, phiên chợ quê) để HS hình dung rõ hơn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Lời yêu thương gửi người thân là chuyện riêng của mỗi gia đình"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -1523,7 +1978,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Bài “ĐI TÌM MẶT TRỜI” nói về tình cảm gia đình và tình làng nghĩa xóm. Sau khi tìm hiểu bài"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh, đoạn phim ngắn minh hoạ khung cảnh trong bài (ngôi nhà, con ngõ, bữa cơm, phiên chợ quê) để HS hình dung rõ hơn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Lời yêu thương gửi người thân là chuyện riêng của mỗi gia đình"
+    }
+   ],
    "note": ""
   },
   {
@@ -1543,7 +2014,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "tra nghĩa từ bằng từ điển điện tử; đối chiếu ít nhất hai nguồn trước khi tin."
+     "text": "Ở tiết “ĐI TÌM MẶT TRỜI – LUYỆN TỪ VÀ CÂU”, khi HS gặp một từ chưa hiểu"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu một câu HS hay viết sai (thiếu dấu chấm, dùng sai dấu phẩy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
     }
    ],
    "note": ""
@@ -1563,9 +2044,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "AI-NB",
+     "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "Làm quen gõ chữ và công cụ kiểm tra chính tả trên máy tính (nếu có) dưới sự hướng dẫn; HS tự viết là chính, trung thực."
+     "text": "Ở tiết “ĐI TÌM MẶT TRỜI – LUYỆN VIẾT ĐOẠN”, sau khi HS viết xong đoạn vào vở, GV dùng điện thoại chụp 2–3 bài"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV hướng dẫn cả lớp cách góp ý cho bạn theo mẫu hai câu: “Tớ thích câu… vì…” và “Theo tớ, chỗ… nên sửa thành…”"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài viết của HS là sản phẩm riêng: chỉ chiếu lên khi chính bạn ấy đồng ý"
     },
     {
      "code": "KNS",
@@ -1589,6 +2080,21 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Bài “NHỮNG CHIẾC ÁO ẤM” nói về tình cảm gia đình và tình làng nghĩa xóm. Sau khi tìm hiểu bài"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh, đoạn phim ngắn minh hoạ khung cảnh trong bài (ngôi nhà, con ngõ, bữa cơm, phiên chợ quê) để HS hình dung rõ hơn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Lời yêu thương gửi người thân là chuyện riêng của mỗi gia đình"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -1628,6 +2134,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Bài “CON ĐƯỜNG CỦA BÉ” nói về tình cảm gia đình và tình làng nghĩa xóm. Sau khi tìm hiểu bài"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh, đoạn phim ngắn minh hoạ khung cảnh trong bài (ngôi nhà, con ngõ, bữa cơm, phiên chợ quê) để HS hình dung rõ hơn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Lời yêu thương gửi người thân là chuyện riêng của mỗi gia đình"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
@@ -1648,7 +2169,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “CON ĐƯỜNG CỦA BÉ – LUYỆN TỪ VÀ CÂU”, khi HS gặp một từ chưa hiểu"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu một câu HS hay viết sai (thiếu dấu chấm, dùng sai dấu phẩy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
+    }
+   ],
    "note": ""
   },
   {
@@ -1666,9 +2203,19 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “CON ĐƯỜNG CỦA BÉ – LUYỆN VIẾT ĐOẠN”, sau khi HS viết xong đoạn vào vở, GV dùng điện thoại chụp 2–3 bài"
+    },
+    {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "HS tập nói, lắng nghe lịch sự; làm quen sử dụng tranh ảnh/thiết bị trình chiếu đơn giản khi chia sẻ (có hướng dẫn của GV)."
+     "text": "GV hướng dẫn cả lớp cách góp ý cho bạn theo mẫu hai câu: “Tớ thích câu… vì…” và “Theo tớ, chỗ… nên sửa thành…”"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài viết của HS là sản phẩm riêng: chỉ chiếu lên khi chính bạn ấy đồng ý"
     },
     {
      "code": "KNS",
@@ -1692,6 +2239,21 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Bài “NGÔI NHÀ TRONG CỎ” nói về tình cảm gia đình và tình làng nghĩa xóm. Sau khi tìm hiểu bài"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh, đoạn phim ngắn minh hoạ khung cảnh trong bài (ngôi nhà, con ngõ, bữa cơm, phiên chợ quê) để HS hình dung rõ hơn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Lời yêu thương gửi người thân là chuyện riêng của mỗi gia đình"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -1729,7 +2291,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Bài “NHỮNG NGỌN HẢI ĐĂNG” nói về tình cảm gia đình và tình làng nghĩa xóm. Sau khi tìm hiểu bài"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh, đoạn phim ngắn minh hoạ khung cảnh trong bài (ngôi nhà, con ngõ, bữa cơm, phiên chợ quê) để HS hình dung rõ hơn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Lời yêu thương gửi người thân là chuyện riêng của mỗi gia đình"
+    }
+   ],
    "note": ""
   },
   {
@@ -1745,7 +2323,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “NHỮNG NGỌN HẢI ĐĂNG – LUYỆN TỪ VÀ CÂU”, khi HS gặp một từ chưa hiểu"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu một câu HS hay viết sai (thiếu dấu chấm, dùng sai dấu phẩy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
+    }
+   ],
    "note": ""
   },
   {
@@ -1785,6 +2379,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Bài “NGƯỜI LÀM ĐỒ CHƠI” nói về tình cảm gia đình và tình làng nghĩa xóm. Sau khi tìm hiểu bài"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh, đoạn phim ngắn minh hoạ khung cảnh trong bài (ngôi nhà, con ngõ, bữa cơm, phiên chợ quê) để HS hình dung rõ hơn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Lời yêu thương gửi người thân là chuyện riêng của mỗi gia đình"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
@@ -1823,6 +2432,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Bài “CÂY BÚT THẦN” nói về tình cảm gia đình và tình làng nghĩa xóm. Sau khi tìm hiểu bài"
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu ảnh, đoạn phim ngắn minh hoạ khung cảnh trong bài (ngôi nhà, con ngõ, bữa cơm, phiên chợ quê) để HS hình dung rõ hơn"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Lời yêu thương gửi người thân là chuyện riêng của mỗi gia đình"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
@@ -1843,7 +2467,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “CÂY BÚT THẦN – LUYỆN TỪ VÀ CÂU”, khi HS gặp một từ chưa hiểu, GV mở từ điển tiếng Việt bản điện tử trên máy"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu một câu HS hay viết sai (thiếu dấu chấm, dùng sai dấu phẩy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
+    }
+   ],
    "note": ""
   },
   {
@@ -1860,11 +2500,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS tìm, chọn sách/truyện phù hợp ở thư viện lớp hoặc thư viện số; tập ghi lại tên sách, câu chuyện đã đọc."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1920,6 +2555,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Bài “BẦU TRỜI” thuộc mạch thiên nhiên và sáng tạo. GV chiếu video thật về hiện tượng, con vật, loài cây được nói tới trong bài (mưa rơi"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS chọn một câu văn, câu thơ mình thích nhất trong bài, đọc to lên"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Video, ảnh về thiên nhiên do GV chọn trước; trên mạng có nhiều clip cảnh săn bắt"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
@@ -1956,7 +2606,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Bài “MƯA” thuộc mạch thiên nhiên và sáng tạo. GV chiếu video thật về hiện tượng, con vật, loài cây được nói tới trong bài (mưa rơi"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS chọn một câu văn, câu thơ mình thích nhất trong bài, đọc to lên"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Video, ảnh về thiên nhiên do GV chọn trước; trên mạng có nhiều clip cảnh săn bắt"
+    }
+   ],
    "note": ""
   },
   {
@@ -1976,7 +2642,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "tra nghĩa từ bằng từ điển điện tử; đối chiếu ít nhất hai nguồn trước khi tin."
+     "text": "Ở tiết “MƯA – LUYỆN TỪ VÀ CÂU – MỞ RỘNG VỐN TỪ VỀ CÁC HIỆN TƯỢNG TỰ NHIÊN. – CÂU CẢM, CÂU KHIẾN”"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu một câu HS hay viết sai (thiếu dấu chấm, dùng sai dấu phẩy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
     }
    ],
    "note": ""
@@ -1996,9 +2672,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "AI-NB",
+     "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "Làm quen gõ chữ và công cụ kiểm tra chính tả trên máy tính (nếu có) dưới sự hướng dẫn; HS tự viết là chính, trung thực."
+     "text": "Ở tiết “MƯA – LUYỆN VIẾT ĐOẠN – VIẾT ĐOẠN VĂN KỂ LẠI DIỄN BIẾN – CỦA MỘT HOẠT ĐỘNG NGOÀI TRỜI”"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV hướng dẫn cả lớp cách góp ý cho bạn theo mẫu hai câu: “Tớ thích câu… vì…” và “Theo tớ, chỗ… nên sửa thành…”"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài viết của HS là sản phẩm riêng: chỉ chiếu lên khi chính bạn ấy đồng ý"
     },
     {
      "code": "KNS",
@@ -2022,6 +2708,21 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Bài “CÓC KIỆN TRỜI” thuộc mạch thiên nhiên và sáng tạo. GV chiếu video thật về hiện tượng, con vật"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS chọn một câu văn, câu thơ mình thích nhất trong bài, đọc to lên"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Video, ảnh về thiên nhiên do GV chọn trước; trên mạng có nhiều clip cảnh săn bắt"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -2067,6 +2768,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Bài “NHỮNG CÁI TÊN ĐÁNG YÊU” thuộc mạch thiên nhiên và sáng tạo. GV chiếu video thật về hiện tượng, con vật"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS chọn một câu văn, câu thơ mình thích nhất trong bài, đọc to lên"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Video, ảnh về thiên nhiên do GV chọn trước; trên mạng có nhiều clip cảnh săn bắt"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
@@ -2087,7 +2803,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “NHỮNG CÁI TÊN ĐÁNG YÊU – LUYỆN TỪ VÀ CÂU”, khi HS gặp một từ chưa hiểu"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu một câu HS hay viết sai (thiếu dấu chấm, dùng sai dấu phẩy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
+    }
+   ],
    "note": ""
   },
   {
@@ -2105,9 +2837,19 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “NHỮNG CÁI TÊN ĐÁNG YÊU – LUYỆN VIẾT ĐOẠN”, sau khi HS viết xong đoạn vào vở, GV dùng điện thoại chụp 2–3 bài"
+    },
+    {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "HS tập nói, lắng nghe lịch sự; làm quen sử dụng tranh ảnh/thiết bị trình chiếu đơn giản khi chia sẻ (có hướng dẫn của GV)."
+     "text": "GV hướng dẫn cả lớp cách góp ý cho bạn theo mẫu hai câu: “Tớ thích câu… vì…” và “Theo tớ, chỗ… nên sửa thành…”"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài viết của HS là sản phẩm riêng: chỉ chiếu lên khi chính bạn ấy đồng ý"
     },
     {
      "code": "KNS",
@@ -2131,6 +2873,21 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Bài “NGÀY HỘI RỪNG XANH” thuộc mạch thiên nhiên và sáng tạo. GV chiếu video thật về hiện tượng, con vật"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS chọn một câu văn, câu thơ mình thích nhất trong bài, đọc to lên"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Video, ảnh về thiên nhiên do GV chọn trước; trên mạng có nhiều clip cảnh săn bắt"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -2168,7 +2925,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Bài “CÂY GẠO” thuộc mạch thiên nhiên và sáng tạo. GV chiếu video thật về hiện tượng, con vật, loài cây được nói tới trong bài (mưa rơi"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS chọn một câu văn, câu thơ mình thích nhất trong bài, đọc to lên"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Video, ảnh về thiên nhiên do GV chọn trước; trên mạng có nhiều clip cảnh săn bắt"
+    }
+   ],
    "note": ""
   },
   {
@@ -2184,7 +2957,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “CÂY GẠO – LUYỆN TỪ VÀ CÂU”, khi HS gặp một từ chưa hiểu, GV mở từ điển tiếng Việt bản điện tử trên máy"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu một câu HS hay viết sai (thiếu dấu chấm, dùng sai dấu phẩy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
+    }
+   ],
    "note": ""
   },
   {
@@ -2201,6 +2990,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “CÂY GẠO – LUYỆN VIẾT ĐOẠN”, sau khi HS viết xong đoạn vào vở, GV dùng điện thoại chụp 2–3 bài"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV hướng dẫn cả lớp cách góp ý cho bạn theo mẫu hai câu: “Tớ thích câu… vì…” và “Theo tớ, chỗ… nên sửa thành…”"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài viết của HS là sản phẩm riêng: chỉ chiếu lên khi chính bạn ấy đồng ý"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -2223,6 +3027,21 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Bài “MẶT TRỜI XANH CỦA TÔI” thuộc mạch thiên nhiên và sáng tạo. GV chiếu video thật về hiện tượng, con vật"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS chọn một câu văn, câu thơ mình thích nhất trong bài, đọc to lên"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Video, ảnh về thiên nhiên do GV chọn trước; trên mạng có nhiều clip cảnh săn bắt"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -2262,6 +3081,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Bài “BẦY VOI RỪNG TRƯỜNG SƠN” thuộc mạch thiên nhiên và sáng tạo. GV chiếu video thật về hiện tượng, con vật"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS chọn một câu văn, câu thơ mình thích nhất trong bài, đọc to lên"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Video, ảnh về thiên nhiên do GV chọn trước; trên mạng có nhiều clip cảnh săn bắt"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
@@ -2282,7 +3116,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “BẦY VOI RỪNG TRƯỜNG SƠN – LUYỆN TỪ VÀ CÂU”, khi HS gặp một từ chưa hiểu"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu một câu HS hay viết sai (thiếu dấu chấm, dùng sai dấu phẩy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
+    }
+   ],
    "note": ""
   },
   {
@@ -2300,9 +3150,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
+     "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS tìm, chọn sách/truyện phù hợp ở thư viện lớp hoặc thư viện số; tập ghi lại tên sách, câu chuyện đã đọc."
+     "text": "Ở tiết “BẦY VOI RỪNG TRƯỜNG SƠN – LUYỆN VIẾT ĐOẠN”, sau khi HS viết xong đoạn vào vở, GV dùng điện thoại chụp 2–3 bài"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV hướng dẫn cả lớp cách góp ý cho bạn theo mẫu hai câu: “Tớ thích câu… vì…” và “Theo tớ, chỗ… nên sửa thành…”"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài viết của HS là sản phẩm riêng: chỉ chiếu lên khi chính bạn ấy đồng ý"
     },
     {
      "code": "KNS",
@@ -2326,6 +3186,21 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Bài “LỜI KÊU GỌI TOÀN DÂN TẬP THỂ DỤC” thuộc mạch thiên nhiên và sáng tạo. GV chiếu video thật về hiện tượng, con vật"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS chọn một câu văn, câu thơ mình thích nhất trong bài, đọc to lên"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Video, ảnh về thiên nhiên do GV chọn trước; trên mạng có nhiều clip cảnh săn bắt"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -2363,7 +3238,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Bài “QUẢ HỒNG CỦA THỎ CON” thuộc mạch thiên nhiên và sáng tạo. GV chiếu video thật về hiện tượng, con vật"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS chọn một câu văn, câu thơ mình thích nhất trong bài, đọc to lên"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Video, ảnh về thiên nhiên do GV chọn trước; trên mạng có nhiều clip cảnh săn bắt"
+    }
+   ],
    "note": ""
   },
   {
@@ -2383,7 +3274,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "tra nghĩa từ bằng từ điển điện tử; đối chiếu ít nhất hai nguồn trước khi tin."
+     "text": "Ở tiết “QUẢ HỒNG CỦA THỎ CON – LUYỆN TỪ VÀ CÂU”, khi HS gặp một từ chưa hiểu"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu một câu HS hay viết sai (thiếu dấu chấm, dùng sai dấu phẩy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
     }
    ],
    "note": ""
@@ -2402,11 +3303,6 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 1",
-     "text": "Làm quen gõ chữ và công cụ kiểm tra chính tả trên máy tính (nếu có) dưới sự hướng dẫn; HS tự viết là chính, trung thực."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -2429,6 +3325,21 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Bài “Chuyện bên cửa sổ” thuộc mạch thiên nhiên và sáng tạo. GV chiếu video thật về hiện tượng, con vật"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS chọn một câu văn, câu thơ mình thích nhất trong bài, đọc to lên"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Video, ảnh về thiên nhiên do GV chọn trước; trên mạng có nhiều clip cảnh săn bắt"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -2468,6 +3379,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Bài “TAY TRÁI VÀ TAY PHẢI” thuộc mạch thiên nhiên và sáng tạo. GV chiếu video thật về hiện tượng, con vật"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS chọn một câu văn, câu thơ mình thích nhất trong bài, đọc to lên"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Video, ảnh về thiên nhiên do GV chọn trước; trên mạng có nhiều clip cảnh săn bắt"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
@@ -2488,7 +3414,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “TAY TRÁI VÀ TAY PHẢI – LUYỆN TỪ VÀ CÂU”, khi HS gặp một từ chưa hiểu"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu một câu HS hay viết sai (thiếu dấu chấm, dùng sai dấu phẩy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
+    }
+   ],
    "note": ""
   },
   {
@@ -2506,9 +3448,19 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “TAY TRÁI VÀ TAY PHẢI – TẬP LÀM VĂN”, sau khi HS viết xong đoạn vào vở, GV dùng điện thoại chụp 2–3 bài"
+    },
+    {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "HS tập nói, lắng nghe lịch sự; làm quen sử dụng tranh ảnh/thiết bị trình chiếu đơn giản khi chia sẻ (có hướng dẫn của GV)."
+     "text": "GV hướng dẫn cả lớp cách góp ý cho bạn theo mẫu hai câu: “Tớ thích câu… vì…” và “Theo tớ, chỗ… nên sửa thành…”"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài viết của HS là sản phẩm riêng: chỉ chiếu lên khi chính bạn ấy đồng ý"
     },
     {
      "code": "KNS",
@@ -2532,6 +3484,21 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Bài “MÈO ĐI CÂU CÁ” thuộc mạch thiên nhiên và sáng tạo. GV chiếu video thật về hiện tượng, con vật"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS chọn một câu văn, câu thơ mình thích nhất trong bài, đọc to lên"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Video, ảnh về thiên nhiên do GV chọn trước; trên mạng có nhiều clip cảnh săn bắt"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -2569,7 +3536,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Bài “HỌC NGHỀ” thuộc mạch thiên nhiên và sáng tạo. GV chiếu video thật về hiện tượng, con vật, loài cây được nói tới trong bài (mưa rơi"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS chọn một câu văn, câu thơ mình thích nhất trong bài, đọc to lên"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Video, ảnh về thiên nhiên do GV chọn trước; trên mạng có nhiều clip cảnh săn bắt"
+    }
+   ],
    "note": ""
   },
   {
@@ -2585,7 +3568,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “HỌC NGHỀ – LUYỆN TỪ VÀ CÂU”, khi HS gặp một từ chưa hiểu, GV mở từ điển tiếng Việt bản điện tử trên máy"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu một câu HS hay viết sai (thiếu dấu chấm, dùng sai dấu phẩy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
+    }
+   ],
    "note": ""
   },
   {
@@ -2602,6 +3601,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “HỌC NGHỀ – LUYỆN VIẾT ĐOẠN”, sau khi HS viết xong đoạn vào vở, GV dùng điện thoại chụp 2–3 bài"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV hướng dẫn cả lớp cách góp ý cho bạn theo mẫu hai câu: “Tớ thích câu… vì…” và “Theo tớ, chỗ… nên sửa thành…”"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài viết của HS là sản phẩm riêng: chỉ chiếu lên khi chính bạn ấy đồng ý"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -2624,6 +3638,21 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Bài “NGÀY NHƯ THẾ NÀO LÀ ĐẸP?” thuộc mạch thiên nhiên và sáng tạo. GV chiếu video thật về hiện tượng, con vật"
+    },
+    {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "GV cho HS chọn một câu văn, câu thơ mình thích nhất trong bài, đọc to lên"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Video, ảnh về thiên nhiên do GV chọn trước; trên mạng có nhiều clip cảnh săn bắt"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -2663,6 +3692,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "Bài đọc nói về cuộc gọi điện thoại nên đây là tiết dạy thẳng cách giao tiếp qua thiết bị. Sau khi tìm hiểu bài"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "GV nêu ba tình huống: người lạ gọi tới hỏi “Bố mẹ cháu có nhà không?”, một số máy lạ nhắn tin báo trúng thưởng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Không nói cho người gọi lạ biết em đang ở nhà một mình"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
@@ -2683,7 +3727,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “A LÔ, TỚ ĐÂY – LUYỆN TỪ VÀ CÂU”, khi HS gặp một từ chưa hiểu"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu một câu HS hay viết sai (thiếu dấu chấm, dùng sai dấu phẩy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
+    }
+   ],
    "note": ""
   },
   {
@@ -2701,9 +3761,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
+     "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS tìm, chọn sách/truyện phù hợp ở thư viện lớp hoặc thư viện số; tập ghi lại tên sách, câu chuyện đã đọc."
+     "text": "Ở tiết “A LÔ, TỚ ĐÂY – LUYỆN VIẾT ĐOẠN”, sau khi HS viết xong đoạn vào vở, GV dùng điện thoại chụp 2–3 bài"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV hướng dẫn cả lớp cách góp ý cho bạn theo mẫu hai câu: “Tớ thích câu… vì…” và “Theo tớ, chỗ… nên sửa thành…”"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài viết của HS là sản phẩm riêng: chỉ chiếu lên khi chính bạn ấy đồng ý"
     },
     {
      "code": "KNS",
@@ -2760,14 +3830,24 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Bài “ĐẤT NƯỚC LÀ GÌ” nói về đất nước và Trái Đất. GV mở bản đồ số chỉ vị trí địa danh có trong bài (sông Hương"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "Với các bài về bảo vệ Trái Đất, GV chiếu một thông tin đúng lấy từ trang chính thức đặt cạnh một tin đồn thường gặp trên mạng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Thông tin, hình ảnh về đất nước phải lấy từ nguồn chính thức"
+    },
+    {
      "code": "QPAN",
      "level": "",
      "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng."
-    },
-    {
-     "code": "KNS",
-     "level": "",
-     "text": "KN giao tiếp: nói rõ ràng, biết lắng nghe, chờ đến lượt và tôn trọng ý kiến của bạn."
     }
    ],
    "note": ""
@@ -2807,7 +3887,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Bài “NÚI QUÊ TÔI” nói về đất nước và Trái Đất. GV mở bản đồ số chỉ vị trí địa danh có trong bài (sông Hương"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "Với các bài về bảo vệ Trái Đất, GV chiếu một thông tin đúng lấy từ trang chính thức đặt cạnh một tin đồn thường gặp trên mạng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Thông tin, hình ảnh về đất nước phải lấy từ nguồn chính thức"
+    }
+   ],
    "note": ""
   },
   {
@@ -2827,7 +3923,17 @@
     {
      "code": "NLS-KT",
      "level": "Cơ bản 1",
-     "text": "tra nghĩa từ bằng từ điển điện tử; đối chiếu ít nhất hai nguồn trước khi tin."
+     "text": "Ở tiết “NÚI QUÊ TÔI – LUYỆN TỪ VÀ CÂU”, khi HS gặp một từ chưa hiểu, GV mở từ điển tiếng Việt bản điện tử trên máy"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu một câu HS hay viết sai (thiếu dấu chấm, dùng sai dấu phẩy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
     }
    ],
    "note": ""
@@ -2847,14 +3953,14 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "AI-NB",
-     "level": "Cơ bản 1",
-     "text": "Làm quen gõ chữ và công cụ kiểm tra chính tả trên máy tính (nếu có) dưới sự hướng dẫn; HS tự viết là chính, trung thực."
-    },
-    {
      "code": "QPAN",
      "level": "",
      "text": "Bồi dưỡng tình yêu quê hương, đất nước; giới thiệu truyền thống chống giặc ngoại xâm, gương dũng cảm của thiếu niên, nhi đồng và Bà mẹ Việt Nam anh hùng."
+    },
+    {
+     "code": "KNS",
+     "level": "",
+     "text": "KN trình bày suy nghĩ, bày tỏ cảm xúc của bản thân bằng lời lẽ phù hợp."
     }
    ],
    "note": ""
@@ -2873,6 +3979,21 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Bài “SÔNG HƯƠNG” nói về đất nước và Trái Đất. GV mở bản đồ số chỉ vị trí địa danh có trong bài (sông Hương"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "Với các bài về bảo vệ Trái Đất, GV chiếu một thông tin đúng lấy từ trang chính thức đặt cạnh một tin đồn thường gặp trên mạng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Thông tin, hình ảnh về đất nước phải lấy từ nguồn chính thức"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -2912,6 +4033,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Bài “TIẾNG NƯỚC MÌNH” nói về đất nước và Trái Đất. GV mở bản đồ số chỉ vị trí địa danh có trong bài (sông Hương"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "Với các bài về bảo vệ Trái Đất, GV chiếu một thông tin đúng lấy từ trang chính thức đặt cạnh một tin đồn thường gặp trên mạng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Thông tin, hình ảnh về đất nước phải lấy từ nguồn chính thức"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
@@ -2933,6 +4069,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “TIẾNG NƯỚC MÌNH – LUYỆN TỪ VÀ CÂU”, khi HS gặp một từ chưa hiểu, GV mở từ điển tiếng Việt bản điện tử trên máy"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu một câu HS hay viết sai (thiếu dấu chấm, dùng sai dấu phẩy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -2956,9 +4107,19 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “TIẾNG NƯỚC MÌNH – LUYỆN VIẾT ĐOẠN”, sau khi HS viết xong đoạn vào vở, GV dùng điện thoại chụp 2–3 bài"
+    },
+    {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "HS tập nói, lắng nghe lịch sự; làm quen sử dụng tranh ảnh/thiết bị trình chiếu đơn giản khi chia sẻ (có hướng dẫn của GV)."
+     "text": "GV hướng dẫn cả lớp cách góp ý cho bạn theo mẫu hai câu: “Tớ thích câu… vì…” và “Theo tớ, chỗ… nên sửa thành…”"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài viết của HS là sản phẩm riêng: chỉ chiếu lên khi chính bạn ấy đồng ý"
     },
     {
      "code": "QPAN",
@@ -2986,6 +4147,21 @@
      "code": "GDĐP",
      "level": "",
      "text": "- Sưu tầm được tranh, ảnh về một số mẫu nhà ở truyền thống của các dân tộc trên địa bàn tỉnh Nghệ An. -Nêu được một số đặc điểm của một ngôi nhà truyền thống, vị trí chỗ ở và sinh hoạt của một số thành viên trong gia đình. - GV liên hệ thực tế: Vùng Tây Nguyên cũ và Vùng Tây Nguyên mới sau sáp nhập."
+    },
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Bài “NHÀ RÔNG” nói về đất nước và Trái Đất. GV mở bản đồ số chỉ vị trí địa danh có trong bài (sông Hương"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "Với các bài về bảo vệ Trái Đất, GV chiếu một thông tin đúng lấy từ trang chính thức đặt cạnh một tin đồn thường gặp trên mạng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Thông tin, hình ảnh về đất nước phải lấy từ nguồn chính thức"
     },
     {
      "code": "QPAN",
@@ -3024,7 +4200,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Bài “SỰ TÍCH ÔNG ĐÙNG, BÀ ĐÙNG” nói về đất nước và Trái Đất"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "Với các bài về bảo vệ Trái Đất, GV chiếu một thông tin đúng lấy từ trang chính thức đặt cạnh một tin đồn thường gặp trên mạng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Thông tin, hình ảnh về đất nước phải lấy từ nguồn chính thức"
+    }
+   ],
    "note": ""
   },
   {
@@ -3040,7 +4232,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “SỰ TÍCH ÔNG ĐÙNG, BÀ ĐÙNG – LUYỆN TỪ VÀ CÂU”, khi HS gặp một từ chưa hiểu"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu một câu HS hay viết sai (thiếu dấu chấm, dùng sai dấu phẩy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
+    }
+   ],
    "note": ""
   },
   {
@@ -3057,6 +4265,21 @@
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “SỰ TÍCH ÔNG ĐÙNG, BÀ ĐÙNG – LUYỆN TỪ VÀ CÂU”, khi HS gặp một từ chưa hiểu"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu một câu HS hay viết sai (thiếu dấu chấm, dùng sai dấu phẩy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -3079,6 +4302,21 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Bài “HAI BÀ TRƯNG” nói về đất nước và Trái Đất. GV mở bản đồ số chỉ vị trí địa danh có trong bài (sông Hương"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "Với các bài về bảo vệ Trái Đất, GV chiếu một thông tin đúng lấy từ trang chính thức đặt cạnh một tin đồn thường gặp trên mạng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Thông tin, hình ảnh về đất nước phải lấy từ nguồn chính thức"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -3118,6 +4356,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Bài “CÙNG BÁC QUA SUỐI” nói về đất nước và Trái Đất. GV mở bản đồ số chỉ vị trí địa danh có trong bài (sông Hương"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "Với các bài về bảo vệ Trái Đất, GV chiếu một thông tin đúng lấy từ trang chính thức đặt cạnh một tin đồn thường gặp trên mạng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Thông tin, hình ảnh về đất nước phải lấy từ nguồn chính thức"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
@@ -3138,7 +4391,23 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “CÙNG BÁC QUA SUỐI – LUYỆN TỪ VÀ CÂU”, khi HS gặp một từ chưa hiểu"
+    },
+    {
+     "code": "NLS-GQVĐ",
+     "level": "Cơ bản 1",
+     "text": "GV chiếu một câu HS hay viết sai (thiếu dấu chấm, dùng sai dấu phẩy"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Từ điển và công cụ trên máy chỉ để tra nghĩa, không dùng để làm hộ bài tập"
+    }
+   ],
    "note": ""
   },
   {
@@ -3156,9 +4425,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
+     "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS tìm, chọn sách/truyện phù hợp ở thư viện lớp hoặc thư viện số; tập ghi lại tên sách, câu chuyện đã đọc."
+     "text": "Ở tiết “CÙNG BÁC QUA SUỐI – TẬP LÀM VĂN”, sau khi HS viết xong đoạn vào vở, GV dùng điện thoại chụp 2–3 bài"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV hướng dẫn cả lớp cách góp ý cho bạn theo mẫu hai câu: “Tớ thích câu… vì…” và “Theo tớ, chỗ… nên sửa thành…”"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài viết của HS là sản phẩm riêng: chỉ chiếu lên khi chính bạn ấy đồng ý"
     },
     {
      "code": "KNS",
@@ -3182,6 +4461,21 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Bài “NGỌN LỬA Ô-LIM-PÍCH (” nói về đất nước và Trái Đất. GV mở bản đồ số chỉ vị trí địa danh có trong bài (sông Hương"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "Với các bài về bảo vệ Trái Đất, GV chiếu một thông tin đúng lấy từ trang chính thức đặt cạnh một tin đồn thường gặp trên mạng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Thông tin, hình ảnh về đất nước phải lấy từ nguồn chính thức"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -3219,7 +4513,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Sau khi HS đọc và tìm hiểu bài, GV chiếu video ngắn về rô-bốt thật đang làm việc: rô-bốt hút bụi trong nhà"
+    },
+    {
+     "code": "AI-NB",
+     "level": "Cơ bản 1",
+     "text": "GV giới thiệu ở mức nhận biết: rô-bốt và một số máy móc ngày nay biết “nghe” lệnh nói, nhận ra đồ vật"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Máy móc thông minh vẫn có thể hiểu sai và trả lời sai"
+    }
+   ],
    "note": ""
   },
   {
@@ -3235,13 +4545,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 1",
-     "text": "tra nghĩa từ bằng từ điển điện tử; đối chiếu ít nhất hai nguồn trước khi tin."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3257,13 +4561,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "AI-NB",
-     "level": "Cơ bản 1",
-     "text": "Làm quen gõ chữ và công cụ kiểm tra chính tả trên máy tính (nếu có) dưới sự hướng dẫn; HS tự viết là chính, trung thực."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -3280,6 +4578,21 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Bài “THƯ CỦA ÔNG TRÁI ĐẤT GỬI CÁC BẠN NHỎ” nói về đất nước và Trái Đất"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "Với các bài về bảo vệ Trái Đất, GV chiếu một thông tin đúng lấy từ trang chính thức đặt cạnh một tin đồn thường gặp trên mạng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Thông tin, hình ảnh về đất nước phải lấy từ nguồn chính thức"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -3319,6 +4632,21 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Bài “NHỮNG ĐIỀU NHỎ TỚ LÀM CHO TRÁI ĐẤT” nói về đất nước và Trái Đất"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "Với các bài về bảo vệ Trái Đất, GV chiếu một thông tin đúng lấy từ trang chính thức đặt cạnh một tin đồn thường gặp trên mạng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Thông tin, hình ảnh về đất nước phải lấy từ nguồn chính thức"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN tự học: chọn sách phù hợp, kiên trì đọc và rút ra điều bổ ích cho bản thân."
@@ -3357,9 +4685,19 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS-ST",
+     "level": "Cơ bản 1",
+     "text": "Ở tiết “NHỮNG ĐIỀU NHỎ TỚ LÀM CHO TRÁI ĐẤT – LUYỆN VIẾT ĐOẠN”, sau khi HS viết xong đoạn vào vở"
+    },
+    {
      "code": "NLS-GT",
      "level": "Cơ bản 1",
-     "text": "HS tập nói, lắng nghe lịch sự; làm quen sử dụng tranh ảnh/thiết bị trình chiếu đơn giản khi chia sẻ (có hướng dẫn của GV)."
+     "text": "GV hướng dẫn cả lớp cách góp ý cho bạn theo mẫu hai câu: “Tớ thích câu… vì…” và “Theo tớ, chỗ… nên sửa thành…”"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài viết của HS là sản phẩm riêng: chỉ chiếu lên khi chính bạn ấy đồng ý"
     },
     {
      "code": "KNS",
@@ -3383,6 +4721,21 @@
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Bài “BÁC SĨ Y-ÉC-XANH” nói về đất nước và Trái Đất. GV mở bản đồ số chỉ vị trí địa danh có trong bài (sông Hương"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "Với các bài về bảo vệ Trái Đất, GV chiếu một thông tin đúng lấy từ trang chính thức đặt cạnh một tin đồn thường gặp trên mạng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Thông tin, hình ảnh về đất nước phải lấy từ nguồn chính thức"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -3420,7 +4773,23 @@
    "periods": 2,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS-KT",
+     "level": "Cơ bản 1",
+     "text": "Bài “MỘT MÁI NHÀ CHUNG” nói về đất nước và Trái Đất. GV mở bản đồ số chỉ vị trí địa danh có trong bài (sông Hương"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "Cơ bản 1",
+     "text": "Với các bài về bảo vệ Trái Đất, GV chiếu một thông tin đúng lấy từ trang chính thức đặt cạnh một tin đồn thường gặp trên mạng"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Thông tin, hình ảnh về đất nước phải lấy từ nguồn chính thức"
+    }
+   ],
    "note": ""
   },
   {
@@ -3454,9 +4823,19 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
+     "code": "NLS-ST",
      "level": "Cơ bản 1",
-     "text": "GV hướng dẫn HS tìm, chọn sách/truyện phù hợp ở thư viện lớp hoặc thư viện số; tập ghi lại tên sách, câu chuyện đã đọc."
+     "text": "Ở tiết “MỘT MÁI NHÀ CHUNG – TẬP LÀM VĂN”, sau khi HS viết xong đoạn vào vở, GV dùng điện thoại chụp 2–3 bài"
+    },
+    {
+     "code": "NLS-GT",
+     "level": "Cơ bản 1",
+     "text": "GV hướng dẫn cả lớp cách góp ý cho bạn theo mẫu hai câu: “Tớ thích câu… vì…” và “Theo tớ, chỗ… nên sửa thành…”"
+    },
+    {
+     "code": "NLS-AT",
+     "level": "",
+     "text": "Bài viết của HS là sản phẩm riêng: chỉ chiếu lên khi chính bạn ấy đồng ý"
     },
     {
      "code": "KNS",
@@ -3772,7 +5151,7 @@
   "file": "assets/docs/lop3/Tieng Viet - Lop 3.docx",
   "name": "Tieng Viet - Lop 3.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-07",
-  "size": 55210,
+  "size": 57635,
   "updated": "2026-09-07"
  }
 }
