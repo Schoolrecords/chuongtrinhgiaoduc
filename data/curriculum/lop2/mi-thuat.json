@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 2
+  "integrations": 20
  },
  "lessons": [
   {
@@ -26,7 +26,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS gọi tên được các hình thức mĩ thuật trong cuộc sống qua bộ ảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -42,7 +48,13 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS nhận ra các loại nét có trong đồ vật quen thuộc qua ảnh phóng to"
+    }
+   ],
    "note": ""
   },
   {
@@ -58,7 +70,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.1 CB1a: HS nhận ra nhịp điệu của đường diềm sinh ra từ hoạ tiết lặp lại"
+    }
+   ],
    "note": ""
   },
   {
@@ -74,7 +92,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.2 CB1a: HS kể được các hình cơ bản trong một đồ vật có thật ở lớp"
+    }
+   ],
    "note": ""
   },
   {
@@ -106,7 +130,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.3 CB1a: HS hiểu vì sao phải ghi tên tác giả khi nói về một bức tranh"
+    }
+   ],
    "note": ""
   },
   {
@@ -122,7 +152,13 @@
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS nhận ra sự chuyển dần của màu trên bảng màu số"
+    }
+   ],
    "note": ""
   },
   {
@@ -138,7 +174,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS nhận ra một màu có nhiều mức đậm nhạt khi xem ảnh được chỉnh sáng"
+    }
+   ],
    "note": ""
   },
   {
@@ -154,7 +196,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.3 CB1a: HS lấy được ý tưởng sắp xếp mảng màu từ bộ ảnh đồ vật"
+    }
+   ],
    "note": ""
   },
   {
@@ -169,7 +217,7 @@
    "periodTo": 10,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nhận ra các khối cơ bản trong một hình dáng phức tạp qua mô hình xoay",
    "integrations": [],
    "note": ""
   },
@@ -202,7 +250,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.3 CB1a: HS nêu được cách sắp xếp cao thấp, thưa dày cho mô hình nhóm"
+    }
+   ],
    "note": ""
   },
   {
@@ -218,7 +272,13 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS nêu được màu chủ đạo của từng mùa sau khi xem phim tua nhanh"
+    }
+   ],
    "note": ""
   },
   {
@@ -282,7 +342,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.1 CB1a: HS xem lại chuỗi sản phẩm của mình trong học kì"
+    }
+   ],
    "note": ""
   },
   {
@@ -297,7 +363,7 @@
    "periodTo": 18,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS nêu được vị trí mắt, mũi, miệng trên khuôn mặt nhờ trục kẻ trên ảnh",
    "integrations": [],
    "note": ""
   },
@@ -346,7 +412,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.3 CB1a: HS xem trang trưng bày và nhận ra tên tác giả của từng bức"
+    }
+   ],
    "note": ""
   },
   {
@@ -362,7 +434,13 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS nêu được điểm giống và khác giữa các bữa cơm gia đình qua bộ ảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -410,7 +488,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.1 CB1a: HS nhận ra ảnh chụp sản phẩm đẹp hơn khi nền gọn và đủ sáng"
+    }
+   ],
    "note": ""
   },
   {
@@ -427,6 +511,11 @@
    "lessonPeriods": 4,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS kể được những việc thầy cô làm hằng ngày sau khi xem phim, ảnh"
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -463,7 +552,7 @@
    "periodTo": 28,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS làm được món quà theo phim hướng dẫn và biết tua chậm lại bước khó",
    "integrations": [],
    "note": ""
   },
@@ -480,7 +569,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 2.5 CB1a: HS viết và đọc được lời chúc lễ phép, chân thành"
+    }
+   ],
    "note": ""
   },
   {
@@ -496,7 +591,13 @@
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB1b: HS kể được một số đồ chơi dân gian và vật liệu làm ra chúng"
+    }
+   ],
    "note": ""
   },
   {
@@ -511,7 +612,7 @@
    "periodTo": 31,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB1b: HS làm được đồ chơi con vật từ vật liệu tái sử dụng theo phim hướng dẫn",
    "integrations": [],
    "note": ""
   },
@@ -544,7 +645,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 2.2 CB1a: HS xem lại phim góc trưng bày và nhận ra sản phẩm của mình"
+    }
+   ],
    "note": ""
   },
   {
@@ -859,7 +966,13 @@
   "file": "assets/docs/lop2/Mi thuat - Lop 2.docx",
   "name": "Mi thuat - Lop 2.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 44927,
+  "size": 45712,
+  "updated": "2026-09-08"
+ },
+ "attachmentXlsx": {
+  "file": "assets/docs/lop2/Mi thuat - Lop 2.xlsx",
+  "name": "Mi thuat - Lop 2.xlsx",
+  "size": 8322,
   "updated": "2026-09-08"
  }
 }

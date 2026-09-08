@@ -21,6 +21,12 @@
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 46706,
     "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop1/Am nhac - Lop 1.xlsx",
+    "name": "Am nhac - Lop 1.xlsx",
+    "size": 9452,
+    "updated": "2026-09-08"
    }
   },
   {
@@ -41,6 +47,12 @@
     "name": "Dao duc - Lop 1.docx",
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 46897,
+    "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop1/Dao duc - Lop 1.xlsx",
+    "name": "Dao duc - Lop 1.xlsx",
+    "size": 9777,
     "updated": "2026-09-08"
    }
   },
@@ -63,6 +75,12 @@
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 46619,
     "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop1/Giao duc the chat - Lop 1.xlsx",
+    "name": "Giao duc the chat - Lop 1.xlsx",
+    "size": 9909,
+    "updated": "2026-09-08"
    }
   },
   {
@@ -83,6 +101,12 @@
     "name": "Hoat dong trai nghiem - Lop 1.docx",
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 50075,
+    "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop1/Hoat dong trai nghiem - Lop 1.xlsx",
+    "name": "Hoat dong trai nghiem - Lop 1.xlsx",
+    "size": 13927,
     "updated": "2026-09-08"
    }
   },
@@ -105,6 +129,12 @@
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 45605,
     "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop1/Mi thuat - Lop 1.xlsx",
+    "name": "Mi thuat - Lop 1.xlsx",
+    "size": 8260,
+    "updated": "2026-09-08"
    }
   },
   {
@@ -125,6 +155,12 @@
     "name": "Tieng Viet - Lop 1.docx",
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 53034,
+    "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop1/Tieng Viet - Lop 1.xlsx",
+    "name": "Tieng Viet - Lop 1.xlsx",
+    "size": 18620,
     "updated": "2026-09-08"
    }
   },
@@ -147,6 +183,12 @@
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 49493,
     "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop1/Toan - Lop 1.xlsx",
+    "name": "Toan - Lop 1.xlsx",
+    "size": 13399,
+    "updated": "2026-09-08"
    }
   },
   {
@@ -168,6 +210,12 @@
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 48610,
     "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop1/Tu nhien va Xa hoi - Lop 1.xlsx",
+    "name": "Tu nhien va Xa hoi - Lop 1.xlsx",
+    "size": 11922,
+    "updated": "2026-09-08"
    }
   },
   {
@@ -181,13 +229,19 @@
     "semester1Weeks": 18,
     "semester2Weeks": 17,
     "lessons": 35,
-    "integrations": 5
+    "integrations": 19
    },
    "attachment": {
     "file": "assets/docs/lop2/Am nhac - Lop 2.docx",
     "name": "Am nhac - Lop 2.docx",
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-    "size": 45338,
+    "size": 45600,
+    "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop2/Am nhac - Lop 2.xlsx",
+    "name": "Am nhac - Lop 2.xlsx",
+    "size": 8308,
     "updated": "2026-09-08"
    }
   },
@@ -210,6 +264,12 @@
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 47063,
     "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop2/Dao duc - Lop 2.xlsx",
+    "name": "Dao duc - Lop 2.xlsx",
+    "size": 9944,
+    "updated": "2026-09-08"
    }
   },
   {
@@ -231,6 +291,12 @@
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 46913,
     "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop2/Giao duc the chat - Lop 2.xlsx",
+    "name": "Giao duc the chat - Lop 2.xlsx",
+    "size": 10189,
+    "updated": "2026-09-08"
    }
   },
   {
@@ -250,7 +316,13 @@
     "file": "assets/docs/lop2/Hoat dong trai nghiem - Lop 2.docx",
     "name": "Hoat dong trai nghiem - Lop 2.docx",
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-    "size": 52788,
+    "size": 52687,
+    "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop2/Hoat dong trai nghiem - Lop 2.xlsx",
+    "name": "Hoat dong trai nghiem - Lop 2.xlsx",
+    "size": 16443,
     "updated": "2026-09-08"
    }
   },
@@ -265,13 +337,19 @@
     "semester1Weeks": 18,
     "semester2Weeks": 17,
     "lessons": 35,
-    "integrations": 2
+    "integrations": 20
    },
    "attachment": {
     "file": "assets/docs/lop2/Mi thuat - Lop 2.docx",
     "name": "Mi thuat - Lop 2.docx",
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-    "size": 44927,
+    "size": 45712,
+    "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop2/Mi thuat - Lop 2.xlsx",
+    "name": "Mi thuat - Lop 2.xlsx",
+    "size": 8322,
     "updated": "2026-09-08"
    }
   },
@@ -294,6 +372,12 @@
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 64976,
     "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop2/Tieng Viet - Lop 2.xlsx",
+    "name": "Tieng Viet - Lop 2.xlsx",
+    "size": 31588,
+    "updated": "2026-09-08"
    }
   },
   {
@@ -314,6 +398,12 @@
     "name": "Toan - Lop 2.docx",
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 58435,
+    "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop2/Toan - Lop 2.xlsx",
+    "name": "Toan - Lop 2.xlsx",
+    "size": 23488,
     "updated": "2026-09-08"
    }
   },
@@ -336,6 +426,12 @@
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 51484,
     "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop2/Tu nhien va Xa hoi - Lop 2.xlsx",
+    "name": "Tu nhien va Xa hoi - Lop 2.xlsx",
+    "size": 15006,
+    "updated": "2026-09-08"
    }
   },
   {
@@ -349,13 +445,19 @@
     "semester1Weeks": 18,
     "semester2Weeks": 17,
     "lessons": 35,
-    "integrations": 14
+    "integrations": 21
    },
    "attachment": {
     "file": "assets/docs/lop3/Am nhac - Lop 3.docx",
     "name": "Am nhac - Lop 3.docx",
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-    "size": 45789,
+    "size": 46088,
+    "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop3/Am nhac - Lop 3.xlsx",
+    "name": "Am nhac - Lop 3.xlsx",
+    "size": 8845,
     "updated": "2026-09-08"
    }
   },
@@ -376,7 +478,13 @@
     "file": "assets/docs/lop3/Cong nghe - Lop 3.docx",
     "name": "Cong nghe - Lop 3.docx",
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-    "size": 45509,
+    "size": 45581,
+    "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop3/Cong nghe - Lop 3.xlsx",
+    "name": "Cong nghe - Lop 3.xlsx",
+    "size": 8319,
     "updated": "2026-09-08"
    }
   },
@@ -397,7 +505,13 @@
     "file": "assets/docs/lop3/Dao duc - Lop 3.docx",
     "name": "Dao duc - Lop 3.docx",
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-    "size": 45753,
+    "size": 45904,
+    "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop3/Dao duc - Lop 3.xlsx",
+    "name": "Dao duc - Lop 3.xlsx",
+    "size": 8642,
     "updated": "2026-09-08"
    }
   },
@@ -420,6 +534,12 @@
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 47001,
     "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop3/Giao duc the chat - Lop 3.xlsx",
+    "name": "Giao duc the chat - Lop 3.xlsx",
+    "size": 10307,
+    "updated": "2026-09-08"
    }
   },
   {
@@ -441,6 +561,12 @@
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 51657,
     "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop3/Hoat dong trai nghiem - Lop 3.xlsx",
+    "name": "Hoat dong trai nghiem - Lop 3.xlsx",
+    "size": 15338,
+    "updated": "2026-09-08"
    }
   },
   {
@@ -454,13 +580,19 @@
     "semester1Weeks": 18,
     "semester2Weeks": 17,
     "lessons": 35,
-    "integrations": 22
+    "integrations": 23
    },
    "attachment": {
     "file": "assets/docs/lop3/Mi thuat - Lop 3.docx",
     "name": "Mi thuat - Lop 3.docx",
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-    "size": 45799,
+    "size": 45872,
+    "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop3/Mi thuat - Lop 3.xlsx",
+    "name": "Mi thuat - Lop 3.xlsx",
+    "size": 8516,
     "updated": "2026-09-08"
    }
   },
@@ -483,6 +615,12 @@
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 49309,
     "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop3/Tieng Anh - Lop 3.xlsx",
+    "name": "Tieng Anh - Lop 3.xlsx",
+    "size": 13306,
+    "updated": "2026-09-08"
    }
   },
   {
@@ -504,6 +642,12 @@
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 53372,
     "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop3/Tieng Viet - Lop 3.xlsx",
+    "name": "Tieng Viet - Lop 3.xlsx",
+    "size": 18534,
+    "updated": "2026-09-08"
    }
   },
   {
@@ -517,13 +661,19 @@
     "semester1Weeks": 18,
     "semester2Weeks": 17,
     "lessons": 35,
-    "integrations": 20
+    "integrations": 21
    },
    "attachment": {
     "file": "assets/docs/lop3/Tin hoc - Lop 3.docx",
     "name": "Tin hoc - Lop 3.docx",
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-    "size": 46229,
+    "size": 46246,
+    "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop3/Tin hoc - Lop 3.xlsx",
+    "name": "Tin hoc - Lop 3.xlsx",
+    "size": 9043,
     "updated": "2026-09-08"
    }
   },
@@ -546,6 +696,12 @@
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 50711,
     "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop3/Toan - Lop 3.xlsx",
+    "name": "Toan - Lop 3.xlsx",
+    "size": 15927,
+    "updated": "2026-09-08"
    }
   },
   {
@@ -566,6 +722,12 @@
     "name": "Tu nhien va Xa hoi - Lop 3.docx",
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 47731,
+    "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop3/Tu nhien va Xa hoi - Lop 3.xlsx",
+    "name": "Tu nhien va Xa hoi - Lop 3.xlsx",
+    "size": 11123,
     "updated": "2026-09-08"
    }
   },
@@ -588,6 +750,12 @@
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 45735,
     "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop4/Am nhac - Lop 4.xlsx",
+    "name": "Am nhac - Lop 4.xlsx",
+    "size": 8451,
+    "updated": "2026-09-08"
    }
   },
   {
@@ -607,7 +775,13 @@
     "file": "assets/docs/lop4/Cong nghe - Lop 4.docx",
     "name": "Cong nghe - Lop 4.docx",
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-    "size": 45656,
+    "size": 45721,
+    "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop4/Cong nghe - Lop 4.xlsx",
+    "name": "Cong nghe - Lop 4.xlsx",
+    "size": 8482,
     "updated": "2026-09-08"
    }
   },
@@ -630,6 +804,12 @@
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 45722,
     "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop4/Dao duc - Lop 4.xlsx",
+    "name": "Dao duc - Lop 4.xlsx",
+    "size": 8441,
+    "updated": "2026-09-08"
    }
   },
   {
@@ -651,6 +831,12 @@
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 47444,
     "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop4/Giao duc the chat - Lop 4.xlsx",
+    "name": "Giao duc the chat - Lop 4.xlsx",
+    "size": 10674,
+    "updated": "2026-09-08"
    }
   },
   {
@@ -670,7 +856,13 @@
     "file": "assets/docs/lop4/Hoat dong trai nghiem - Lop 4.docx",
     "name": "Hoat dong trai nghiem - Lop 4.docx",
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-    "size": 50202,
+    "size": 50264,
+    "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop4/Hoat dong trai nghiem - Lop 4.xlsx",
+    "name": "Hoat dong trai nghiem - Lop 4.xlsx",
+    "size": 14013,
     "updated": "2026-09-08"
    }
   },
@@ -691,7 +883,13 @@
     "file": "assets/docs/lop4/Khoa hoc - Lop 4.docx",
     "name": "Khoa hoc - Lop 4.docx",
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-    "size": 47615,
+    "size": 47683,
+    "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop4/Khoa hoc - Lop 4.xlsx",
+    "name": "Khoa hoc - Lop 4.xlsx",
+    "size": 10960,
     "updated": "2026-09-08"
    }
   },
@@ -712,7 +910,13 @@
     "file": "assets/docs/lop4/Lich su va Dia li - Lop 4.docx",
     "name": "Lich su va Dia li - Lop 4.docx",
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-    "size": 46987,
+    "size": 47273,
+    "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop4/Lich su va Dia li - Lop 4.xlsx",
+    "name": "Lich su va Dia li - Lop 4.xlsx",
+    "size": 10638,
     "updated": "2026-09-08"
    }
   },
@@ -727,13 +931,19 @@
     "semester1Weeks": 18,
     "semester2Weeks": 17,
     "lessons": 35,
-    "integrations": 7
+    "integrations": 20
    },
    "attachment": {
     "file": "assets/docs/lop4/Mi thuat - Lop 4.docx",
     "name": "Mi thuat - Lop 4.docx",
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-    "size": 44969,
+    "size": 45811,
+    "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop4/Mi thuat - Lop 4.xlsx",
+    "name": "Mi thuat - Lop 4.xlsx",
+    "size": 8423,
     "updated": "2026-09-08"
    }
   },
@@ -756,6 +966,12 @@
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 49470,
     "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop4/Tieng Anh - Lop 4.xlsx",
+    "name": "Tieng Anh - Lop 4.xlsx",
+    "size": 13495,
+    "updated": "2026-09-08"
    }
   },
   {
@@ -777,6 +993,12 @@
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 54268,
     "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop4/Tieng Viet - Lop 4.xlsx",
+    "name": "Tieng Viet - Lop 4.xlsx",
+    "size": 18947,
+    "updated": "2026-09-08"
    }
   },
   {
@@ -790,13 +1012,19 @@
     "semester1Weeks": 18,
     "semester2Weeks": 17,
     "lessons": 35,
-    "integrations": 15
+    "integrations": 17
    },
    "attachment": {
     "file": "assets/docs/lop4/Tin hoc - Lop 4.docx",
     "name": "Tin hoc - Lop 4.docx",
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-    "size": 45790,
+    "size": 45825,
+    "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop4/Tin hoc - Lop 4.xlsx",
+    "name": "Tin hoc - Lop 4.xlsx",
+    "size": 8574,
     "updated": "2026-09-08"
    }
   },
@@ -817,7 +1045,13 @@
     "file": "assets/docs/lop4/Toan - Lop 4.docx",
     "name": "Toan - Lop 4.docx",
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-    "size": 50266,
+    "size": 50392,
+    "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop4/Toan - Lop 4.xlsx",
+    "name": "Toan - Lop 4.xlsx",
+    "size": 15774,
     "updated": "2026-09-08"
    }
   },
@@ -832,13 +1066,19 @@
     "semester1Weeks": 18,
     "semester2Weeks": 17,
     "lessons": 35,
-    "integrations": 14
+    "integrations": 17
    },
    "attachment": {
     "file": "assets/docs/lop5/Am nhac - Lop 5.docx",
     "name": "Am nhac - Lop 5.docx",
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-    "size": 45495,
+    "size": 45965,
+    "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop5/Am nhac - Lop 5.xlsx",
+    "name": "Am nhac - Lop 5.xlsx",
+    "size": 8615,
     "updated": "2026-09-08"
    }
   },
@@ -861,6 +1101,12 @@
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 45195,
     "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop5/Cong nghe - Lop 5.xlsx",
+    "name": "Cong nghe - Lop 5.xlsx",
+    "size": 7849,
+    "updated": "2026-09-08"
    }
   },
   {
@@ -881,6 +1127,12 @@
     "name": "Dao duc - Lop 5.docx",
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 45724,
+    "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop5/Dao duc - Lop 5.xlsx",
+    "name": "Dao duc - Lop 5.xlsx",
+    "size": 8449,
     "updated": "2026-09-08"
    }
   },
@@ -903,6 +1155,12 @@
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 47188,
     "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop5/Giao duc the chat - Lop 5.xlsx",
+    "name": "Giao duc the chat - Lop 5.xlsx",
+    "size": 10586,
+    "updated": "2026-09-08"
    }
   },
   {
@@ -922,7 +1180,13 @@
     "file": "assets/docs/lop5/Hoat dong trai nghiem - Lop 5.docx",
     "name": "Hoat dong trai nghiem - Lop 5.docx",
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-    "size": 50256,
+    "size": 50255,
+    "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop5/Hoat dong trai nghiem - Lop 5.xlsx",
+    "name": "Hoat dong trai nghiem - Lop 5.xlsx",
+    "size": 14142,
     "updated": "2026-09-08"
    }
   },
@@ -943,7 +1207,13 @@
     "file": "assets/docs/lop5/Khoa hoc - Lop 5.docx",
     "name": "Khoa hoc - Lop 5.docx",
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-    "size": 46971,
+    "size": 46976,
+    "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop5/Khoa hoc - Lop 5.xlsx",
+    "name": "Khoa hoc - Lop 5.xlsx",
+    "size": 10314,
     "updated": "2026-09-08"
    }
   },
@@ -966,6 +1236,12 @@
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 48915,
     "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop5/Lich su va Dia li - Lop 5.xlsx",
+    "name": "Lich su va Dia li - Lop 5.xlsx",
+    "size": 12193,
+    "updated": "2026-09-08"
    }
   },
   {
@@ -979,13 +1255,19 @@
     "semester1Weeks": 18,
     "semester2Weeks": 17,
     "lessons": 35,
-    "integrations": 5
+    "integrations": 19
    },
    "attachment": {
     "file": "assets/docs/lop5/Mi thuat - Lop 5.docx",
     "name": "Mi thuat - Lop 5.docx",
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-    "size": 44977,
+    "size": 45763,
+    "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop5/Mi thuat - Lop 5.xlsx",
+    "name": "Mi thuat - Lop 5.xlsx",
+    "size": 8467,
     "updated": "2026-09-08"
    }
   },
@@ -1008,6 +1290,12 @@
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 48477,
     "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop5/Tieng Anh - Lop 5.xlsx",
+    "name": "Tieng Anh - Lop 5.xlsx",
+    "size": 12652,
+    "updated": "2026-09-08"
    }
   },
   {
@@ -1029,6 +1317,12 @@
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 53760,
     "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop5/Tieng Viet - Lop 5.xlsx",
+    "name": "Tieng Viet - Lop 5.xlsx",
+    "size": 19534,
+    "updated": "2026-09-08"
    }
   },
   {
@@ -1042,13 +1336,19 @@
     "semester1Weeks": 18,
     "semester2Weeks": 17,
     "lessons": 35,
-    "integrations": 7
+    "integrations": 14
    },
    "attachment": {
     "file": "assets/docs/lop5/Tin hoc - Lop 5.docx",
     "name": "Tin hoc - Lop 5.docx",
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-    "size": 45694,
+    "size": 46176,
+    "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop5/Tin hoc - Lop 5.xlsx",
+    "name": "Tin hoc - Lop 5.xlsx",
+    "size": 8953,
     "updated": "2026-09-08"
    }
   },
@@ -1070,6 +1370,12 @@
     "name": "Toan - Lop 5.docx",
     "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
     "size": 50423,
+    "updated": "2026-09-08"
+   },
+   "attachmentXlsx": {
+    "file": "assets/docs/lop5/Toan - Lop 5.xlsx",
+    "name": "Toan - Lop 5.xlsx",
+    "size": 15730,
     "updated": "2026-09-08"
    }
   }

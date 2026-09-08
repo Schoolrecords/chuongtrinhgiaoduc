@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 7
+  "integrations": 14
  },
  "lessons": [
   {
@@ -48,7 +48,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.1 CB2a: HS lưu sản phẩm đúng thư mục và đặt tên tệp theo quy ước của lớp"
+    }
+   ],
    "note": ""
   },
   {
@@ -85,7 +91,7 @@
    "periodTo": 4,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2b: HS chọn được từ khoá phù hợp, đối chiếu hai nguồn và ghi rõ nguồn thông tin",
    "integrations": [],
    "note": ""
   },
@@ -123,7 +129,7 @@
    "periodTo": 6,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB2a: HS viết được đoạn tổng hợp bằng lời của mình, có ghi đủ nguồn tham khảo",
    "integrations": [],
    "note": ""
   },
@@ -162,7 +168,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS thiết kế và giải thích được cây thư mục cho việc học của mình"
+    }
+   ],
    "note": ""
   },
   {
@@ -193,7 +205,7 @@
    "periodTo": 10,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.2 CB2a: HS hoàn thiện sản phẩm có ghi nguồn đầy đủ, phân biệt rõ phần của mình",
    "integrations": [],
    "note": ""
   },
@@ -231,7 +243,7 @@
    "periodTo": 12,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB2a: HS chèn và bố trí hình hài hoà với văn bản, có chú thích và ghi nguồn",
    "integrations": [],
    "note": ""
   },
@@ -264,7 +276,18 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "GDMT",
+     "level": "",
+     "text": "Năng lực số 2.1 CB2a: HS đọc chéo và góp ý cho bạn đúng mực trên môi trường số"
+    },
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 2.1 CB2a: HS đọc chéo và góp ý cho bạn đúng mực trên môi trường số"
+    }
+   ],
    "note": ""
   },
   {
@@ -296,7 +319,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.2 CB2a: HS hoàn thiện được một bức tranh theo ý tưởng riêng, bố cục cân đối"
+    }
+   ],
    "note": ""
   },
   {
@@ -376,7 +405,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.2 CB2a: HS hoàn thiện, đặt tên và lưu được dự án của mình"
+    }
+   ],
    "note": ""
   },
   {
@@ -407,7 +442,7 @@
    "periodTo": 23,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.4 CB2a: HS tối ưu chương trình bằng cấu trúc lặp và biết dừng chương trình khi cần",
    "integrations": [],
    "note": ""
   },
@@ -440,7 +475,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 5.2 CB2b: HS gỡ lỗi có phương pháp bằng cách chạy chậm và khoanh vùng chỗ sai"
+    }
+   ],
    "note": ""
   },
   {
@@ -471,7 +512,7 @@
    "periodTo": 27,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS tự kiểm thử đủ các trường hợp và sửa được trường hợp chương trình xử lí sai",
    "integrations": [],
    "note": ""
   },
@@ -503,7 +544,7 @@
    "periodTo": 29,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.2 CB2a: HS hoàn thiện được sản phẩm có dùng biến, có hướng dẫn cho người chơi",
    "integrations": [],
    "note": ""
   },
@@ -541,7 +582,7 @@
    "periodTo": 31,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS thử chương trình với các bộ số liệu đặc biệt và sửa trường hợp cho kết quả vô lí",
    "integrations": [],
    "note": ""
   },
@@ -579,7 +620,7 @@
    "periodTo": 33,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.2 CB2a: HS hoàn thiện được chương trình phối hợp nhiều cấu trúc lệnh và xuất thành sản phẩm",
    "integrations": [],
    "note": ""
   },
@@ -595,7 +636,7 @@
    "periodTo": 34,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.2 CB2a: HS hoàn thiện được sản phẩm số của mình, ghi đủ nguồn tư liệu đã dùng",
    "integrations": [],
    "note": ""
   },
@@ -889,7 +930,13 @@
   "file": "assets/docs/lop5/Tin hoc - Lop 5.docx",
   "name": "Tin hoc - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 45694,
+  "size": 46176,
+  "updated": "2026-09-08"
+ },
+ "attachmentXlsx": {
+  "file": "assets/docs/lop5/Tin hoc - Lop 5.xlsx",
+  "name": "Tin hoc - Lop 5.xlsx",
+  "size": 8953,
   "updated": "2026-09-08"
  }
 }
