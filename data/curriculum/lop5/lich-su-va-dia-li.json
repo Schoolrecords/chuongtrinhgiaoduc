@@ -10,15 +10,15 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 55
+  "integrations": 80
  },
  "lessons": [
   {
    "id": "l5-lich-su-va-dia-li-001",
    "semester": 1,
    "week": 1,
-   "theme": "CHỦ ĐỀ 1. ĐẤT NƯỚC VÀ CON NGƯỜI VIỆT NAM",
-   "title": "Bài 1: Vị trí địa lí, lãnh thổ, đơn vị hành chính, Quốc kì, Quốc huy, Quốc ca (Tiết 1)",
+   "theme": "Chủ đề 1: Đất nước và con người Việt Nam",
+   "title": "Bài 1. Vị trí địa lí, lãnh thổ, đơn vị hành chính, Quốc kì, Quốc huy, Quốc ca (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 1 (2 tiết)",
    "periodFrom": 1,
@@ -40,12 +40,7 @@
     {
      "code": "NLS-KT",
      "level": "",
-     "text": "sử dụng bản đồ số/tranh ảnh/tư liệu số; hướng dẫn HS ghi nguồn thông tin.; mới - Hình 1: Cột cờ Lũng Cú (Tuyên Quang) - Trang 6 Hình 3: Bản đồ hành chính Việt Nam năm 2025 (Tên các tỉnh mới sau khi hợp nhất) - Việt Nam có 34 tỉnh thành: 28 tỉnh và 6 thành phố trực thuộc trung ương."
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Mở bản đồ số do Nhà nước Việt Nam ban hành cho bài “Vị trí địa lí, lãnh thổ, đơn vị hành chính, Quốc kì, Quốc huy, Quốc ca”."
+     "text": "sử dụng bản đồ số/tranh ảnh/tư liệu số; hướng dẫn HS ghi nguồn thông tin.; mới - Hình 1: Cột cờ Lũng Cú (Tuyên Quang) - Trang 6 Hình 3: Bản đồ hành chính Việt Nam năm 2025 (Tên các tỉnh mới sau khi hợp nhất) - Việt Nam có 34 tỉnh thành: 28 tỉnh và 6 thành phố trực thuộc trung ương.\nNăng lực số 1.2 CB2a: HS nêu được vì sao chỉ tin nguồn chính thống về chủ quyền và không chia sẻ tư liệu chưa kiểm chứng."
     },
     {
      "code": "QPAN",
@@ -59,15 +54,15 @@
    "id": "l5-lich-su-va-dia-li-002",
    "semester": 1,
    "week": 1,
-   "theme": "CHỦ ĐỀ 1. ĐẤT NƯỚC VÀ CON NGƯỜI VIỆT NAM",
-   "title": "Bài 1: Vị trí địa lí, lãnh thổ, đơn vị hành chính, Quốc kì, Quốc huy, Quốc ca (Tiết 2)",
+   "theme": "Chủ đề 1: Đất nước và con người Việt Nam",
+   "title": "Bài 1. Vị trí địa lí, lãnh thổ, đơn vị hành chính, Quốc kì, Quốc huy, Quốc ca (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 2",
    "periodFrom": 2,
    "periodTo": 2,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.2 CB2a: HS nêu được vì sao chỉ tin nguồn chính thống về chủ quyền và không chia sẻ tư liệu chưa kiểm chứng",
    "integrations": [
     {
      "code": "QPAN",
@@ -86,20 +81,20 @@
    "id": "l5-lich-su-va-dia-li-003",
    "semester": 1,
    "week": 2,
-   "theme": "CHỦ ĐỀ 1. ĐẤT NƯỚC VÀ CON NGƯỜI VIỆT NAM",
-   "title": "Bài 2: Thiên nhiên Việt Nam (Tiết 1)",
+   "theme": "Chủ đề 1: Đất nước và con người Việt Nam",
+   "title": "Bài 2. Thiên nhiên Việt Nam (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 3 (4 tiết)",
    "periodFrom": 3,
    "periodTo": 3,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "Hình 2: Giàn khoan dầu khí ở mỏ Bạch Hổ (TPHCM); Hình 3: Rau vụ đông ở tỉnh Hưng Yên; Hồ Ba Bể (Thái Nguyên); Hình 7: Vườn vải thiều ở vùng đồi núi phía Bắc (Bắc Ninh)",
+   "adjustments": "- Hình 2: Giàn khoan dầu khí ở mỏ Bạch Hổ (TPHCM); Hình 3: Rau vụ đông ở tỉnh Hưng Yên; Hồ Ba Bể (Thái Nguyên); Hình 7: Vườn vải thiều ở vùng đồi núi phía Bắc (Bắc Ninh)",
    "integrations": [
     {
-     "code": "AI-NB",
-     "level": "Nhận biết",
-     "text": "Nhờ công cụ trí tuệ nhân tạo viết vài câu mô tả địa hình, khoáng sản của một vùng, ví dụ Tây."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS thao tác các lớp bản đồ số"
     }
    ],
    "note": ""
@@ -108,8 +103,8 @@
    "id": "l5-lich-su-va-dia-li-004",
    "semester": 1,
    "week": 2,
-   "theme": "CHỦ ĐỀ 1. ĐẤT NƯỚC VÀ CON NGƯỜI VIỆT NAM",
-   "title": "Bài 2: Thiên nhiên Việt Nam (Tiết 2)",
+   "theme": "Chủ đề 1: Đất nước và con người Việt Nam",
+   "title": "Bài 2. Thiên nhiên Việt Nam (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 4",
    "periodFrom": 4,
@@ -117,15 +112,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS thao tác các lớp bản đồ số"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-lich-su-va-dia-li-005",
    "semester": 1,
    "week": 3,
-   "theme": "CHỦ ĐỀ 1. ĐẤT NƯỚC VÀ CON NGƯỜI VIỆT NAM",
-   "title": "Bài 2: Thiên nhiên Việt Nam (Tiết 3)",
+   "theme": "Chủ đề 1: Đất nước và con người Việt Nam",
+   "title": "Bài 2. Thiên nhiên Việt Nam (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 5",
    "periodFrom": 5,
@@ -140,8 +141,8 @@
    "id": "l5-lich-su-va-dia-li-006",
    "semester": 1,
    "week": 3,
-   "theme": "CHỦ ĐỀ 1. ĐẤT NƯỚC VÀ CON NGƯỜI VIỆT NAM",
-   "title": "Bài 2: Thiên nhiên Việt Nam (Tiết 4)",
+   "theme": "Chủ đề 1: Đất nước và con người Việt Nam",
+   "title": "Bài 2. Thiên nhiên Việt Nam (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 6",
    "periodFrom": 6,
@@ -156,25 +157,20 @@
    "id": "l5-lich-su-va-dia-li-007",
    "semester": 1,
    "week": 4,
-   "theme": "CHỦ ĐỀ 1. ĐẤT NƯỚC VÀ CON NGƯỜI VIỆT NAM",
-   "title": "Bài 3: Biển, đảo Việt Nam (Tiết 1)",
+   "theme": "Chủ đề 1: Đất nước và con người Việt Nam",
+   "title": "Bài 3. Biển, đảo Việt Nam (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 7 (2 tiết)",
    "periodFrom": 7,
    "periodTo": 7,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Cập nhật tên các tỉnh, thành phố ven biển là: Quảng Ninh, Hải Phòng, Hưng Yên, Ninh Bình, Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Trị, Huế, Đà Nẵng, Quảng Ngãi, Gia Lai, Đắk Lắk, Khánh Hòa, Lâm Đồng, Thành phố HCM, Đồng Tháp, Vĩnh Long, Cần Thơ, An Giang, Cà Mau; SGK tr.5 — sửa thành: \"Vùng biển nước ta bao gồm một phần Biển Đông, Vịnh Bắc Bộ, Vịnh Thái Lan, tiếp giáp với vùng biển của nhiều quốc gia.\"; SGK tr.17 — sửa thành: \"Thế kỉ XVII, các chúa Nguyễn… đồng thời thực thi chủ quyền đối với quần đảo Hoàng Sa và quần đảo Trường Sa một cách liên tục, lâu dài và hiệu quả.\"; SGK tr.18 — bổ sung: \"Từ năm 1954 đến năm 1975, chính quyền Sài Gòn tiếp tục quản lí, thực thi chủ quyền đối với hai quần đảo như: cử quân đồn trú, dựng bia chủ quyền và ban hành các sắc lệnh hành chính sáp nhập quần đảo Hoàng Sa vào tỉnh Quảng Nam (nay thuộc thành phố Đà Nẵng) và quần đảo Trường Sa vào tỉnh Phước Tuy (nay thuộc Thành phố Hồ Chí Minh).\"",
+   "adjustments": "Cập nhật tên các tỉnh, thành phố ven biển là: Quảng Ninh, Hải Phòng, Hưng Yên, Ninh Bình, Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Trị, Huế, Đà Nẵng, Quảng Ngãi, Gia Lai, Đắk Lắk, Khánh Hòa, Lâm Đồng, Thành phố HCM, Đồng Tháp, Vĩnh Long, Cần Thơ, An Giang, Cà Mau; Năng lực số 1.2 CB2a: HS nêu được vì sao chỉ tin nguồn chính thống về chủ quyền và không chia sẻ tư liệu chưa kiểm chứng; SGK tr.5 — sửa thành: \"Vùng biển nước ta bao gồm một phần Biển Đông, Vịnh Bắc Bộ, Vịnh Thái Lan, tiếp giáp với vùng biển của nhiều quốc gia.\"; SGK tr.17 — sửa thành: \"Thế kỉ XVII, các chúa Nguyễn… đồng thời thực thi chủ quyền đối với quần đảo Hoàng Sa và quần đảo Trường Sa một cách liên tục, lâu dài và hiệu quả.\"; SGK tr.18 — bổ sung: \"Từ năm 1954 đến năm 1975, chính quyền Sài Gòn tiếp tục quản lí, thực thi chủ quyền đối với hai quần đảo như: cử quân đồn trú, dựng bia chủ quyền và ban hành các sắc lệnh hành chính sáp nhập quần đảo Hoàng Sa vào tỉnh Quảng Nam (nay thuộc thành phố Đà Nẵng) và quần đảo Trường Sa vào tỉnh Phước Tuy (nay thuộc Thành phố Hồ Chí Minh).\"",
    "integrations": [
     {
      "code": "QPAN",
      "level": "",
      "text": "GDQP"
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Dùng bản đồ số để HS xác định vị trí, giới hạn lãnh thổ và các quần đảo trong bài “Biển, đảo Việt Nam”."
     },
     {
      "code": "QPAN",
@@ -188,15 +184,15 @@
    "id": "l5-lich-su-va-dia-li-008",
    "semester": 1,
    "week": 4,
-   "theme": "CHỦ ĐỀ 1. ĐẤT NƯỚC VÀ CON NGƯỜI VIỆT NAM",
-   "title": "Bài 3: Biển, đảo Việt Nam (Tiết 2)",
+   "theme": "Chủ đề 1: Đất nước và con người Việt Nam",
+   "title": "Bài 3. Biển, đảo Việt Nam (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 8",
    "periodFrom": 8,
    "periodTo": 8,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "- Côn Sơn (TPHCM); Phú Quốc (An Giang); Hình 4 trang 17: Một góc đảo Phú Quốc (An Giang)",
+   "adjustments": "- Côn Sơn (TPHCM); Phú Quốc (An Giang); Hình 4 trang 17: Một góc đảo Phú Quốc (An Giang); Năng lực số 1.2 CB2a: HS nêu được vì sao chỉ tin nguồn chính thống về chủ quyền và không chia sẻ tư liệu chưa kiểm chứng",
    "integrations": [],
    "note": ""
   },
@@ -204,8 +200,8 @@
    "id": "l5-lich-su-va-dia-li-009",
    "semester": 1,
    "week": 5,
-   "theme": "CHỦ ĐỀ 1. ĐẤT NƯỚC VÀ CON NGƯỜI VIỆT NAM",
-   "title": "Bài 4: Dân cư và dân tộc ở Việt Nam (Tiết 1)",
+   "theme": "Chủ đề 1: Đất nước và con người Việt Nam",
+   "title": "Bài 4. Dân cư và dân tộc ở Việt Nam (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 9 (3 tiết)",
    "periodFrom": 9,
@@ -215,9 +211,9 @@
    "adjustments": "*Thay đổi dữ liệu dân số của các vùng phù hợp với bản đồ mới",
    "integrations": [
     {
-     "code": "AI-NB",
-     "level": "Nhận biết",
-     "text": "Nhờ công cụ trí tuệ nhân tạo mô tả đặc điểm một vùng miền, cho HS đối chiếu."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS thao tác các lớp bản đồ số"
     },
     {
      "code": "QPAN",
@@ -231,8 +227,8 @@
    "id": "l5-lich-su-va-dia-li-010",
    "semester": 1,
    "week": 5,
-   "theme": "CHỦ ĐỀ 1. ĐẤT NƯỚC VÀ CON NGƯỜI VIỆT NAM",
-   "title": "Bài 4: Dân cư và dân tộc ở Việt Nam (Tiết 2)",
+   "theme": "Chủ đề 1: Đất nước và con người Việt Nam",
+   "title": "Bài 4. Dân cư và dân tộc ở Việt Nam (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 10",
    "periodFrom": 10,
@@ -245,6 +241,11 @@
      "code": "GDĐP",
      "level": "",
      "text": "GD địa phương"
+    },
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS thao tác các lớp bản đồ số"
     }
    ],
    "note": ""
@@ -253,8 +254,8 @@
    "id": "l5-lich-su-va-dia-li-011",
    "semester": 1,
    "week": 6,
-   "theme": "CHỦ ĐỀ 1. ĐẤT NƯỚC VÀ CON NGƯỜI VIỆT NAM",
-   "title": "Bài 4: Dân cư và dân tộc ở Việt Nam (Tiết 3)",
+   "theme": "Chủ đề 1: Đất nước và con người Việt Nam",
+   "title": "Bài 4. Dân cư và dân tộc ở Việt Nam (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 11",
    "periodFrom": 11,
@@ -275,8 +276,8 @@
    "id": "l5-lich-su-va-dia-li-012",
    "semester": 1,
    "week": 6,
-   "theme": "CHỦ ĐỀ 2. NHỮNG QUỐC GIA ĐẦU TIÊN TRÊN LÃNH THỔ VIỆT NAM .",
-   "title": "Bài 5: Nhà nước Văn Lang, Nhà nước Âu Lạc (Tiết 1)",
+   "theme": "Chủ đề 2: Những quốc gia đầu tiên trên lãnh thổ Việt Nam",
+   "title": "Bài 5. Nhà nước Văn Lang, Nhà nước Âu Lạc (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 12 (3 tiết)",
    "periodFrom": 12,
@@ -285,6 +286,11 @@
    "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS tham quan bảo tàng số, quan sát hiện vật ở nhiều góc"
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -297,8 +303,8 @@
    "id": "l5-lich-su-va-dia-li-013",
    "semester": 1,
    "week": 7,
-   "theme": "CHỦ ĐỀ 2. NHỮNG QUỐC GIA ĐẦU TIÊN TRÊN LÃNH THỔ VIỆT NAM .",
-   "title": "Bài 5: Nhà nước Văn Lang, Nhà nước Âu Lạc (Tiết 2)",
+   "theme": "Chủ đề 2: Những quốc gia đầu tiên trên lãnh thổ Việt Nam",
+   "title": "Bài 5. Nhà nước Văn Lang, Nhà nước Âu Lạc (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 13",
    "periodFrom": 13,
@@ -308,9 +314,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Cho HS xem hiện vật, di tích liên quan “Nhà nước văn lang, nhà nước âu lạc” qua bảo tàng số."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS tham quan bảo tàng số, quan sát hiện vật ở nhiều góc"
     }
    ],
    "note": ""
@@ -319,8 +325,8 @@
    "id": "l5-lich-su-va-dia-li-014",
    "semester": 1,
    "week": 7,
-   "theme": "CHỦ ĐỀ 2. NHỮNG QUỐC GIA ĐẦU TIÊN TRÊN LÃNH THỔ VIỆT NAM .",
-   "title": "Bài 5: Nhà nước Văn Lang, Nhà nước Âu Lạc (Tiết 3)",
+   "theme": "Chủ đề 2: Những quốc gia đầu tiên trên lãnh thổ Việt Nam",
+   "title": "Bài 5. Nhà nước Văn Lang, Nhà nước Âu Lạc (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 14",
    "periodFrom": 14,
@@ -335,8 +341,8 @@
    "id": "l5-lich-su-va-dia-li-015",
    "semester": 1,
    "week": 8,
-   "theme": "CHỦ ĐỀ 2. NHỮNG QUỐC GIA ĐẦU TIÊN TRÊN LÃNH THỔ VIỆT NAM .",
-   "title": "Bài 6: Vương quốc Phù Nam",
+   "theme": "Chủ đề 2: Những quốc gia đầu tiên trên lãnh thổ Việt Nam",
+   "title": "Bài 6. Vương quốc Phù Nam",
    "content": "",
    "periodLabel": "Tiết 15 (1 tiết)",
    "periodFrom": 15,
@@ -344,15 +350,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "+Hình 1 nhắc đến tỉnh An Giang. *Cập nhật tỉnh mới theo bản đồ hành chính mới; Hình 3 trang 30: Dấu tích cọc gỗ nhà sàn của cư dân Phù Nam ở di tích Nền Chùa (An Giang); Hình 7 trang 31: Tượng phật Bình Hòa (Tây Ninh)",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS tham quan bảo tàng số, quan sát hiện vật ở nhiều góc"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-lich-su-va-dia-li-016",
    "semester": 1,
    "week": 8,
-   "theme": "CHỦ ĐỀ 2. NHỮNG QUỐC GIA ĐẦU TIÊN TRÊN LÃNH THỔ VIỆT NAM .",
-   "title": "Bài 7: Vương quốc Chăm-pa (Tiết 1)",
+   "theme": "Chủ đề 2: Những quốc gia đầu tiên trên lãnh thổ Việt Nam",
+   "title": "Bài 7. Vương quốc Chăm-pa (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 16 (2 tiết)",
    "periodFrom": 16,
@@ -362,9 +374,9 @@
    "adjustments": "Vị trí một số đền tháp Chăm-Pa: bản đồ cũ; Kiến trúc của đền tháp Chăm -Pa: Hình 2 nhắc đến tỉnh Quảng Nam. Một số câu chuyện về đền tháp Chăm-pa nhắc: Hình 4 nhắc đến Ninh Thuận; Hình 1 trang; 32: Tháp Nhạn (Đắk Lắk); Hình 3 trang 33: Khu di tích Thánh địa Mỹ Sơn (Đà Nẵng); Hình 4 trang 34: Tháp Bánh Ít (Gia Lai); Hình 5: Tháp Pô Klong Ga; rai (Khánh Hòa); Phần Luyện tập bài 1 trang 35 địa điểm Đà Nẵng *Cập nhật tỉnh mới theo bản đồ hành chính mới: Ninh Thuận sáp nhập Khánh Hòa lấy tên là Khánh Hòa, Quảng Nam sáp nhập thành Đà Nẵng",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS dùng công cụ trên máy dựng trục thời gian, sắp các sự kiện của bài theo đúng thứ tự."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS tham quan bảo tàng số, quan sát hiện vật ở nhiều góc"
     }
    ],
    "note": ""
@@ -373,8 +385,8 @@
    "id": "l5-lich-su-va-dia-li-017",
    "semester": 1,
    "week": 9,
-   "theme": "CHỦ ĐỀ 2. NHỮNG QUỐC GIA ĐẦU TIÊN TRÊN LÃNH THỔ VIỆT NAM .",
-   "title": "Bài 7: Vương quốc Chăm-pa (Tiết 2)",
+   "theme": "Chủ đề 2: Những quốc gia đầu tiên trên lãnh thổ Việt Nam",
+   "title": "Bài 7. Vương quốc Chăm-pa (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 17",
    "periodFrom": 17,
@@ -384,9 +396,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Cho HS xem hiện vật, di tích liên quan “Vương quốc chăm-pa” qua bảo tàng số."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS tham quan bảo tàng số, quan sát hiện vật ở nhiều góc"
     }
    ],
    "note": ""
@@ -395,16 +407,37 @@
    "id": "l5-lich-su-va-dia-li-018",
    "semester": 1,
    "week": 9,
-   "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Bài 8: Đấu tranh giành độc lập thời kì Bắc thuộc (Tiết 1)",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "title": "Kiểm tra định kì giữa học kì I",
    "content": "",
-   "periodLabel": "Tiết 18 (2 tiết)",
+   "periodLabel": "Tiết 18 (1 tiết)",
    "periodFrom": 18,
    "periodTo": 18,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [],
+   "note": ""
+  },
+  {
+   "id": "l5-lich-su-va-dia-li-019",
+   "semester": 1,
+   "week": 10,
+   "theme": "Chủ đề 3: Xây dựng và bảo vệ đất nước Việt Nam",
+   "title": "Bài 8. Đấu tranh giành độc lập thời kì Bắc thuộc (Tiết 1)",
+   "content": "",
+   "periodLabel": "Tiết 19 (2 tiết)",
+   "periodFrom": 19,
+   "periodTo": 19,
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS tham quan bảo tàng số, quan sát hiện vật ở nhiều góc"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -414,41 +447,46 @@
    "note": ""
   },
   {
-   "id": "l5-lich-su-va-dia-li-019",
+   "id": "l5-lich-su-va-dia-li-020",
    "semester": 1,
    "week": 10,
-   "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Bài 8: Đấu tranh giành độc lập thời kì Bắc thuộc (Tiết 2)",
+   "theme": "Chủ đề 3: Xây dựng và bảo vệ đất nước Việt Nam",
+   "title": "Bài 8. Đấu tranh giành độc lập thời kì Bắc thuộc (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 19",
-   "periodFrom": 19,
-   "periodTo": 19,
+   "periodLabel": "Tiết 20",
+   "periodFrom": 20,
+   "periodTo": 20,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS dùng công cụ trên máy dựng trục thời gian, sắp các sự kiện của bài theo đúng thứ tự."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS tham quan bảo tàng số, quan sát hiện vật ở nhiều góc"
     }
    ],
    "note": ""
   },
   {
-   "id": "l5-lich-su-va-dia-li-020",
+   "id": "l5-lich-su-va-dia-li-021",
    "semester": 1,
-   "week": 10,
-   "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Bài 9: Triều Lý và việc định đô ở Thăng Long (Tiết 1)",
+   "week": 11,
+   "theme": "Chủ đề 3: Xây dựng và bảo vệ đất nước Việt Nam",
+   "title": "Bài 9. Triều Lý và việc định đô ở Thăng Long (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 20 (3 tiết)",
-   "periodFrom": 20,
-   "periodTo": 20,
+   "periodLabel": "Tiết 21 (3 tiết)",
+   "periodFrom": 21,
+   "periodTo": 21,
    "periods": 1,
    "lessonPeriods": 3,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS tham quan bảo tàng số, quan sát hiện vật ở nhiều góc"
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -458,31 +496,37 @@
    "note": ""
   },
   {
-   "id": "l5-lich-su-va-dia-li-021",
-   "semester": 1,
-   "week": 11,
-   "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Bài 9: Triều Lý và việc định đô ở Thăng Long (Tiết 2)",
-   "content": "",
-   "periodLabel": "Tiết 21",
-   "periodFrom": 21,
-   "periodTo": 21,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
-   "note": ""
-  },
-  {
    "id": "l5-lich-su-va-dia-li-022",
    "semester": 1,
    "week": 11,
-   "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Bài 9: Triều Lý và việc định đô ở Thăng Long (Tiết 3)",
+   "theme": "Chủ đề 3: Xây dựng và bảo vệ đất nước Việt Nam",
+   "title": "Bài 9. Triều Lý và việc định đô ở Thăng Long (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 22",
    "periodFrom": 22,
    "periodTo": 22,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS tham quan bảo tàng số, quan sát hiện vật ở nhiều góc"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-lich-su-va-dia-li-023",
+   "semester": 1,
+   "week": 12,
+   "theme": "Chủ đề 3: Xây dựng và bảo vệ đất nước Việt Nam",
+   "title": "Bài 9. Triều Lý và việc định đô ở Thăng Long (Tiết 3)",
+   "content": "",
+   "periodLabel": "Tiết 23",
+   "periodFrom": 23,
+   "periodTo": 23,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
@@ -496,19 +540,24 @@
    "note": ""
   },
   {
-   "id": "l5-lich-su-va-dia-li-023",
+   "id": "l5-lich-su-va-dia-li-024",
    "semester": 1,
    "week": 12,
-   "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Bài 10: Triều Trần xây dựng đất nước và kháng chiến chống quân Mông – Nguyên xâm lược (Tiết 1)",
+   "theme": "Chủ đề 3: Xây dựng và bảo vệ đất nước Việt Nam",
+   "title": "Bài 10. Triều Trần xây dựng đất nước và kháng chiến chống quân Mông – Nguyên xâm lược (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 23 (4 tiết)",
-   "periodFrom": 23,
-   "periodTo": 23,
+   "periodLabel": "Tiết 24 (4 tiết)",
+   "periodFrom": 24,
+   "periodTo": 24,
    "periods": 1,
    "lessonPeriods": 4,
    "adjustments": "Nội dung 1, câu chuyện lịch sử: địa điểm Ninh Bình; Trang 46, câu chuyện lịch sử: Địa điểm Chí Linh (Hải Phòng)",
    "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS tham quan bảo tàng số, quan sát hiện vật ở nhiều góc"
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -518,31 +567,37 @@
    "note": ""
   },
   {
-   "id": "l5-lich-su-va-dia-li-024",
-   "semester": 1,
-   "week": 12,
-   "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Bài 10: Triều Trần xây dựng đất nước và kháng chiến chống quân Mông – Nguyên xâm lược (Tiết 2)",
-   "content": "",
-   "periodLabel": "Tiết 24",
-   "periodFrom": 24,
-   "periodTo": 24,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
-   "note": ""
-  },
-  {
    "id": "l5-lich-su-va-dia-li-025",
    "semester": 1,
    "week": 13,
-   "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Bài 10: Triều Trần xây dựng đất nước và kháng chiến chống quân Mông – Nguyên xâm lược (Tiết 3)",
+   "theme": "Chủ đề 3: Xây dựng và bảo vệ đất nước Việt Nam",
+   "title": "Bài 10. Triều Trần xây dựng đất nước và kháng chiến chống quân Mông – Nguyên xâm lược (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 25",
    "periodFrom": 25,
    "periodTo": 25,
+   "periods": 1,
+   "lessonPeriods": 1,
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS tham quan bảo tàng số, quan sát hiện vật ở nhiều góc"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-lich-su-va-dia-li-026",
+   "semester": 1,
+   "week": 13,
+   "theme": "Chủ đề 3: Xây dựng và bảo vệ đất nước Việt Nam",
+   "title": "Bài 10. Triều Trần xây dựng đất nước và kháng chiến chống quân Mông – Nguyên xâm lược (Tiết 3)",
+   "content": "",
+   "periodLabel": "Tiết 26",
+   "periodFrom": 26,
+   "periodTo": 26,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
@@ -556,33 +611,17 @@
    "note": ""
   },
   {
-   "id": "l5-lich-su-va-dia-li-026",
-   "semester": 1,
-   "week": 13,
-   "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Bài 10: Triều Trần xây dựng đất nước và kháng chiến chống quân Mông – Nguyên xâm lược (Tiết 4)",
-   "content": "",
-   "periodLabel": "Tiết 26",
-   "periodFrom": 26,
-   "periodTo": 26,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
-   "note": ""
-  },
-  {
    "id": "l5-lich-su-va-dia-li-027",
    "semester": 1,
    "week": 14,
-   "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Bài 11: Ôn tập (Tiết 1)",
+   "theme": "Chủ đề 3: Xây dựng và bảo vệ đất nước Việt Nam",
+   "title": "Bài 10. Triều Trần xây dựng đất nước và kháng chiến chống quân Mông – Nguyên xâm lược (Tiết 4)",
    "content": "",
-   "periodLabel": "Tiết 27 (2 tiết)",
+   "periodLabel": "Tiết 27",
    "periodFrom": 27,
    "periodTo": 27,
    "periods": 1,
-   "lessonPeriods": 2,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [],
    "note": ""
@@ -591,15 +630,15 @@
    "id": "l5-lich-su-va-dia-li-028",
    "semester": 1,
    "week": 14,
-   "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Bài 11: Ôn tập (Tiết 2)",
+   "theme": "Chủ đề 3: Xây dựng và bảo vệ đất nước Việt Nam",
+   "title": "Bài 11. Ôn tập",
    "content": "",
-   "periodLabel": "Tiết 28",
+   "periodLabel": "Tiết 28 (1 tiết)",
    "periodFrom": 28,
    "periodTo": 28,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "SGV 2 tiết; bớt 1 tiết cho kiểm tra định kì",
    "integrations": [],
    "note": ""
   },
@@ -607,8 +646,8 @@
    "id": "l5-lich-su-va-dia-li-029",
    "semester": 1,
    "week": 15,
-   "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Bài 12: Khởi nghĩa Lam Sơn và Triều Hậu Lê (Tiết 1)",
+   "theme": "Chủ đề 3: Xây dựng và bảo vệ đất nước Việt Nam",
+   "title": "Bài 12. Khởi nghĩa Lam Sơn và Triều Hậu Lê (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 29 (3 tiết)",
    "periodFrom": 29,
@@ -617,6 +656,11 @@
    "lessonPeriods": 3,
    "adjustments": "Mục 2, câu chuyện lịch sử Vụ Bản (Ninh Bình)",
    "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS tham quan bảo tàng số, quan sát hiện vật ở nhiều góc"
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -629,8 +673,8 @@
    "id": "l5-lich-su-va-dia-li-030",
    "semester": 1,
    "week": 15,
-   "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Bài 12: Khởi nghĩa Lam Sơn và Triều Hậu Lê (Tiết 2)",
+   "theme": "Chủ đề 3: Xây dựng và bảo vệ đất nước Việt Nam",
+   "title": "Bài 12. Khởi nghĩa Lam Sơn và Triều Hậu Lê (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 30",
    "periodFrom": 30,
@@ -638,15 +682,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS tham quan bảo tàng số, quan sát hiện vật ở nhiều góc"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-lich-su-va-dia-li-031",
    "semester": 1,
    "week": 16,
-   "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Bài 12: Khởi nghĩa Lam Sơn và Triều Hậu Lê (Tiết 3)",
+   "theme": "Chủ đề 3: Xây dựng và bảo vệ đất nước Việt Nam",
+   "title": "Bài 12. Khởi nghĩa Lam Sơn và Triều Hậu Lê (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 31",
    "periodFrom": 31,
@@ -667,8 +717,8 @@
    "id": "l5-lich-su-va-dia-li-032",
    "semester": 1,
    "week": 16,
-   "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Bài 13: Triều Nguyễn (Tiết 1)",
+   "theme": "Chủ đề 3: Xây dựng và bảo vệ đất nước Việt Nam",
+   "title": "Bài 13. Triều Nguyễn (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 32 (3 tiết)",
    "periodFrom": 32,
@@ -677,6 +727,11 @@
    "lessonPeriods": 3,
    "adjustments": "Mục 1 a, trang 58 câu chuyện lịch sử: Tiền Hải (Hưng Yên)",
    "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS tham quan bảo tàng số, quan sát hiện vật ở nhiều góc"
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -689,8 +744,8 @@
    "id": "l5-lich-su-va-dia-li-033",
    "semester": 1,
    "week": 17,
-   "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Bài 13: Triều Nguyễn (Tiết 2)",
+   "theme": "Chủ đề 3: Xây dựng và bảo vệ đất nước Việt Nam",
+   "title": "Bài 13. Triều Nguyễn (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 33",
    "periodFrom": 33,
@@ -698,15 +753,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS tham quan bảo tàng số, quan sát hiện vật ở nhiều góc"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-lich-su-va-dia-li-034",
    "semester": 1,
    "week": 17,
-   "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Bài 13: Triều Nguyễn (Tiết 3)",
+   "theme": "Chủ đề 3: Xây dựng và bảo vệ đất nước Việt Nam",
+   "title": "Bài 13. Triều Nguyễn (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 34",
    "periodFrom": 34,
@@ -727,8 +788,8 @@
    "id": "l5-lich-su-va-dia-li-035",
    "semester": 1,
    "week": 18,
-   "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Ôn tập cuối kì I",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "title": "Kiểm tra định kì cuối học kì I",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
    "periodFrom": 35,
@@ -743,32 +804,21 @@
    "id": "l5-lich-su-va-dia-li-036",
    "semester": 1,
    "week": 18,
-   "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Kiểm tra và đánh giá cuối học kì I",
+   "theme": "Chủ đề 3: Xây dựng và bảo vệ đất nước Việt Nam",
+   "title": "Bài 14. Cách mạng tháng Tám năm 1945 (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 36 (1 tiết)",
+   "periodLabel": "Tiết 36 (2 tiết)",
    "periodFrom": 36,
    "periodTo": 36,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l5-lich-su-va-dia-li-037",
-   "semester": 2,
-   "week": 19,
-   "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Bài 14: Cách mạng tháng Tám năm 1945 (Tiết 1)",
-   "content": "",
-   "periodLabel": "Tiết 37 (2 tiết)",
-   "periodFrom": 37,
-   "periodTo": 37,
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
    "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.2 CB2a: HS xem phim tư liệu gốc và nêu cảm nghĩ"
+    },
     {
      "code": "QPAN",
      "level": "",
@@ -778,15 +828,15 @@
    "note": ""
   },
   {
-   "id": "l5-lich-su-va-dia-li-038",
+   "id": "l5-lich-su-va-dia-li-037",
    "semester": 2,
    "week": 19,
-   "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Bài 14: Cách mạng tháng Tám năm 1945 (Tiết 2)",
+   "theme": "Chủ đề 3: Xây dựng và bảo vệ đất nước Việt Nam",
+   "title": "Bài 14. Cách mạng tháng Tám năm 1945 (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 38",
-   "periodFrom": 38,
-   "periodTo": 38,
+   "periodLabel": "Tiết 37",
+   "periodFrom": 37,
+   "periodTo": 37,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
@@ -795,20 +845,25 @@
      "code": "GDĐP",
      "level": "",
      "text": "GD địa phương"
+    },
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.2 CB2a: HS xem phim tư liệu gốc và nêu cảm nghĩ"
     }
    ],
    "note": ""
   },
   {
-   "id": "l5-lich-su-va-dia-li-039",
+   "id": "l5-lich-su-va-dia-li-038",
    "semester": 2,
-   "week": 20,
-   "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Bài 15: Chiến dịch Điện Biên Phủ năm 1954 (Tiết 1)",
+   "week": 19,
+   "theme": "Chủ đề 3: Xây dựng và bảo vệ đất nước Việt Nam",
+   "title": "Bài 15. Chiến dịch Điện Biên Phủ năm 1954 (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 39 (2 tiết)",
-   "periodFrom": 39,
-   "periodTo": 39,
+   "periodLabel": "Tiết 38 (2 tiết)",
+   "periodFrom": 38,
+   "periodTo": 38,
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
@@ -819,9 +874,9 @@
      "text": "GDQP"
     },
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Chiếu phim tư liệu gốc, ảnh chụp thật về “Cách mạng tháng tám năm 1945” từ kho lưu trữ."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.2 CB2a: HS xem phim tư liệu gốc và nêu cảm nghĩ"
     },
     {
      "code": "QPAN",
@@ -832,15 +887,15 @@
    "note": ""
   },
   {
-   "id": "l5-lich-su-va-dia-li-040",
+   "id": "l5-lich-su-va-dia-li-039",
    "semester": 2,
    "week": 20,
-   "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Bài 15: Chiến dịch Điện Biên Phủ năm 1954 (Tiết 2)",
+   "theme": "Chủ đề 3: Xây dựng và bảo vệ đất nước Việt Nam",
+   "title": "Bài 15. Chiến dịch Điện Biên Phủ năm 1954 (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 40",
-   "periodFrom": 40,
-   "periodTo": 40,
+   "periodLabel": "Tiết 39",
+   "periodFrom": 39,
+   "periodTo": 39,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
@@ -849,20 +904,25 @@
      "code": "QPAN",
      "level": "",
      "text": "GDQP"
+    },
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.2 CB2a: HS xem phim tư liệu gốc và nêu cảm nghĩ"
     }
    ],
    "note": ""
   },
   {
-   "id": "l5-lich-su-va-dia-li-041",
+   "id": "l5-lich-su-va-dia-li-040",
    "semester": 2,
-   "week": 21,
-   "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Bài 16: Chiến dịch Hồ Chí Minh năm 1975 (Tiết 1)",
+   "week": 20,
+   "theme": "Chủ đề 3: Xây dựng và bảo vệ đất nước Việt Nam",
+   "title": "Bài 16. Chiến dịch Hồ Chí Minh năm 1975 (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 41 (2 tiết)",
-   "periodFrom": 41,
-   "periodTo": 41,
+   "periodLabel": "Tiết 40 (2 tiết)",
+   "periodFrom": 40,
+   "periodTo": 40,
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "Hình 3: Phi đội Quyết thắng tại sân bay Thành Sơn (Khánh Hòa) chiều 28; 4; 1975",
@@ -873,9 +933,9 @@
      "text": "GDQP-"
     },
     {
-     "code": "AI-NB",
-     "level": "Nhận biết",
-     "text": "Nêu: đã có công cụ trí tuệ nhân tạo tạo ra video, ảnh giả rất giống tư liệu lịch sử."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.2 CB2a: HS xem phim tư liệu gốc và nêu cảm nghĩ"
     },
     {
      "code": "QPAN",
@@ -886,15 +946,15 @@
    "note": ""
   },
   {
-   "id": "l5-lich-su-va-dia-li-042",
+   "id": "l5-lich-su-va-dia-li-041",
    "semester": 2,
    "week": 21,
-   "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Bài 16: Chiến dịch Hồ Chí Minh năm 1975 (Tiết 2)",
+   "theme": "Chủ đề 3: Xây dựng và bảo vệ đất nước Việt Nam",
+   "title": "Bài 16. Chiến dịch Hồ Chí Minh năm 1975 (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 42",
-   "periodFrom": 42,
-   "periodTo": 42,
+   "periodLabel": "Tiết 41",
+   "periodFrom": 41,
+   "periodTo": 41,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
@@ -903,6 +963,33 @@
      "code": "QPAN",
      "level": "",
      "text": "GDQP"
+    },
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.2 CB2a: HS xem phim tư liệu gốc và nêu cảm nghĩ"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-lich-su-va-dia-li-042",
+   "semester": 2,
+   "week": 21,
+   "theme": "Chủ đề 3: Xây dựng và bảo vệ đất nước Việt Nam",
+   "title": "Bài 17. Đất nước Đổi mới (Tiết 1)",
+   "content": "",
+   "periodLabel": "Tiết 42 (2 tiết)",
+   "periodFrom": 42,
+   "periodTo": 42,
+   "periods": 1,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.2 CB2a: HS xem phim tư liệu gốc và nêu cảm nghĩ"
     }
    ],
    "note": ""
@@ -911,20 +998,20 @@
    "id": "l5-lich-su-va-dia-li-043",
    "semester": 2,
    "week": 22,
-   "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Bài 17: Đất nước đổi mới (tiết 1)",
+   "theme": "Chủ đề 3: Xây dựng và bảo vệ đất nước Việt Nam",
+   "title": "Bài 17. Đất nước Đổi mới (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 43 (2 tiết)",
+   "periodLabel": "Tiết 43",
    "periodFrom": 43,
    "periodTo": 43,
    "periods": 1,
-   "lessonPeriods": 2,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Chiếu phim tư liệu gốc, ảnh chụp thật về “Chiến dịch Hồ Chí Minh năm 1975” từ kho lưu trữ."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.2 CB2a: HS xem phim tư liệu gốc và nêu cảm nghĩ"
     }
    ],
    "note": ""
@@ -933,36 +1020,42 @@
    "id": "l5-lich-su-va-dia-li-044",
    "semester": 2,
    "week": 22,
-   "theme": "CHỦ ĐỀ 3. XÂY DỰNG VÀ BẢO VỆ ĐẤT NƯỚC VIỆT NAM",
-   "title": "Bài 17: Đất nước đổi mới (tiết 2)",
+   "theme": "Chủ đề 4: Các nước láng giềng",
+   "title": "Bài 18. Nước Cộng hoà Nhân dân Trung Hoa (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 44",
+   "periodLabel": "Tiết 44 (2 tiết)",
    "periodFrom": 44,
    "periodTo": 44,
    "periods": 1,
-   "lessonPeriods": 1,
+   "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS thao tác bản đồ, quả địa cầu số"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-lich-su-va-dia-li-045",
    "semester": 2,
    "week": 23,
-   "theme": "CHỦ ĐỀ 4. CÁC NƯỚC LÁNG GIỀNG",
-   "title": "Bài 18: Nước Cộng hoà Nhân dân Trung Hoa (Tiết 1)",
+   "theme": "Chủ đề 4: Các nước láng giềng",
+   "title": "Bài 18. Nước Cộng hoà Nhân dân Trung Hoa (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 45 (2 tiết)",
+   "periodLabel": "Tiết 45",
    "periodFrom": 45,
    "periodTo": 45,
    "periods": 1,
-   "lessonPeriods": 2,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
-     "code": "AI-NB",
-     "level": "Nhận biết",
-     "text": "Nêu: đã có công cụ trí tuệ nhân tạo tạo ra video, ảnh giả rất giống tư liệu lịch sử."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS thao tác bản đồ, quả địa cầu số"
     }
    ],
    "note": ""
@@ -971,28 +1064,12 @@
    "id": "l5-lich-su-va-dia-li-046",
    "semester": 2,
    "week": 23,
-   "theme": "CHỦ ĐỀ 4. CÁC NƯỚC LÁNG GIỀNG",
-   "title": "Bài 18: Nước Cộng hoà Nhân dân Trung Hoa (Tiết 2)",
+   "theme": "Chủ đề 4: Các nước láng giềng",
+   "title": "Bài 19. Nước Cộng hoà Dân chủ Nhân dân Lào (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 46",
+   "periodLabel": "Tiết 46 (2 tiết)",
    "periodFrom": 46,
    "periodTo": 46,
-   "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
-   "note": ""
-  },
-  {
-   "id": "l5-lich-su-va-dia-li-047",
-   "semester": 2,
-   "week": 24,
-   "theme": "CHỦ ĐỀ 4. CÁC NƯỚC LÁNG GIỀNG",
-   "title": "Bài 19: Cộng hoà Dân chủ Nhân dân Lào (Tiết 1)",
-   "content": "",
-   "periodLabel": "Tiết 47 (2 tiết)",
-   "periodFrom": 47,
-   "periodTo": 47,
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
@@ -1003,23 +1080,23 @@
      "text": "GD Việt Lào"
     },
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Dùng quả địa cầu số hoặc bản đồ thế giới tương tác."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS thao tác bản đồ, quả địa cầu số"
     }
    ],
    "note": ""
   },
   {
-   "id": "l5-lich-su-va-dia-li-048",
+   "id": "l5-lich-su-va-dia-li-047",
    "semester": 2,
    "week": 24,
-   "theme": "CHỦ ĐỀ 4. CÁC NƯỚC LÁNG GIỀNG",
-   "title": "Bài 19: Cộng hoà Dân chủ Nhân dân Lào (Tiết 2)",
+   "theme": "Chủ đề 4: Các nước láng giềng",
+   "title": "Bài 19. Nước Cộng hoà Dân chủ Nhân dân Lào (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 48",
-   "periodFrom": 48,
-   "periodTo": 48,
+   "periodLabel": "Tiết 47",
+   "periodFrom": 47,
+   "periodTo": 47,
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
@@ -1028,6 +1105,33 @@
      "code": "GDVL",
      "level": "",
      "text": "GD Việt Lào"
+    },
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS thao tác bản đồ, quả địa cầu số"
+    }
+   ],
+   "note": ""
+  },
+  {
+   "id": "l5-lich-su-va-dia-li-048",
+   "semester": 2,
+   "week": 24,
+   "theme": "Chủ đề 4: Các nước láng giềng",
+   "title": "Bài 20. Vương quốc Cam-pu-chia (Tiết 1)",
+   "content": "",
+   "periodLabel": "Tiết 48 (2 tiết)",
+   "periodFrom": 48,
+   "periodTo": 48,
+   "periods": 1,
+   "lessonPeriods": 2,
+   "adjustments": "",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS thao tác bản đồ, quả địa cầu số"
     }
    ],
    "note": ""
@@ -1036,20 +1140,20 @@
    "id": "l5-lich-su-va-dia-li-049",
    "semester": 2,
    "week": 25,
-   "theme": "CHỦ ĐỀ 4. CÁC NƯỚC LÁNG GIỀNG",
-   "title": "Bài 20: Vương quốc Cam-pu-chia (Tiết 1)",
+   "theme": "Chủ đề 4: Các nước láng giềng",
+   "title": "Bài 20. Vương quốc Cam-pu-chia (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 49 (2 tiết)",
+   "periodLabel": "Tiết 49",
    "periodFrom": 49,
    "periodTo": 49,
    "periods": 1,
-   "lessonPeriods": 2,
+   "lessonPeriods": 1,
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Dùng quả địa cầu số hoặc bản đồ thế giới tương tác."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS thao tác bản đồ, quả địa cầu số"
     }
    ],
    "note": ""
@@ -1058,36 +1162,42 @@
    "id": "l5-lich-su-va-dia-li-050",
    "semester": 2,
    "week": 25,
-   "theme": "CHỦ ĐỀ 4. CÁC NƯỚC LÁNG GIỀNG",
-   "title": "Bài 20: Vương quốc Cam-pu-chia (Tiết 2)",
+   "theme": "Chủ đề 4: Các nước láng giềng",
+   "title": "Bài 21. Hiệp hội các quốc gia Đông Nam Á (Tiết 1)",
    "content": "",
-   "periodLabel": "Tiết 50",
+   "periodLabel": "Tiết 50 (2 tiết)",
    "periodFrom": 50,
    "periodTo": 50,
    "periods": 1,
-   "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [],
+   "lessonPeriods": 2,
+   "adjustments": "- Hình 3 trang 110: Lũ quét ở Mù Cang Chải, tỉnh Lào Cai tháng 8 năm 2023",
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS thao tác bản đồ, quả địa cầu số"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-lich-su-va-dia-li-051",
    "semester": 2,
    "week": 26,
-   "theme": "CHỦ ĐỀ 4. CÁC NƯỚC LÁNG GIỀNG",
-   "title": "Bài 21: Hiệp hội các quốc gia Đông Nam Á (Tiết 1)",
+   "theme": "Chủ đề 4: Các nước láng giềng",
+   "title": "Bài 21. Hiệp hội các quốc gia Đông Nam Á (Tiết 2)",
    "content": "",
-   "periodLabel": "Tiết 51 (2 tiết)",
+   "periodLabel": "Tiết 51",
    "periodFrom": 51,
    "periodTo": 51,
    "periods": 1,
-   "lessonPeriods": 2,
-   "adjustments": "Hình 3 trang 110: Lũ quét ở Mù Cang Chải, tỉnh Lào Cai tháng 8 năm 2023",
+   "lessonPeriods": 1,
+   "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Dùng quả địa cầu số hoặc bản đồ thế giới tương tác."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS thao tác bản đồ, quả địa cầu số"
     }
    ],
    "note": ""
@@ -1096,10 +1206,10 @@
    "id": "l5-lich-su-va-dia-li-052",
    "semester": 2,
    "week": 26,
-   "theme": "CHỦ ĐỀ 4. CÁC NƯỚC LÁNG GIỀNG",
-   "title": "Bài 21: Hiệp hội các quốc gia Đông Nam Á (Tiết 2)",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "title": "Kiểm tra định kì giữa học kì II",
    "content": "",
-   "periodLabel": "Tiết 52",
+   "periodLabel": "Tiết 52 (1 tiết)",
    "periodFrom": 52,
    "periodTo": 52,
    "periods": 1,
@@ -1112,8 +1222,8 @@
    "id": "l5-lich-su-va-dia-li-053",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề 5: TÌM HIỂU THẾ GIỚI",
-   "title": "Bài 22: Các châu lục và đại dương trên thế giới (Tiết 1)",
+   "theme": "Chủ đề 5: Tìm hiểu thế giới",
+   "title": "Bài 22. Các châu lục và đại dương trên thế giới (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 53 (5 tiết)",
    "periodFrom": 53,
@@ -1123,9 +1233,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Dùng quả địa cầu số hoặc bản đồ thế giới tương tác."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS thao tác bản đồ, quả địa cầu số"
     },
     {
      "code": "KNS",
@@ -1139,8 +1249,8 @@
    "id": "l5-lich-su-va-dia-li-054",
    "semester": 2,
    "week": 27,
-   "theme": "Chủ đề 5: TÌM HIỂU THẾ GIỚI",
-   "title": "Bài 22: Các châu lục và đại dương trên thế giới (Tiết 2)",
+   "theme": "Chủ đề 5: Tìm hiểu thế giới",
+   "title": "Bài 22. Các châu lục và đại dương trên thế giới (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 54",
    "periodFrom": 54,
@@ -1148,15 +1258,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS thao tác bản đồ, quả địa cầu số"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-lich-su-va-dia-li-055",
    "semester": 2,
    "week": 28,
-   "theme": "Chủ đề 5: TÌM HIỂU THẾ GIỚI",
-   "title": "Bài 22: Các châu lục và đại dương trên thế giới (Tiết 3)",
+   "theme": "Chủ đề 5: Tìm hiểu thế giới",
+   "title": "Bài 22. Các châu lục và đại dương trên thế giới (Tiết 3)",
    "content": "",
    "periodLabel": "Tiết 55",
    "periodFrom": 55,
@@ -1177,8 +1293,8 @@
    "id": "l5-lich-su-va-dia-li-056",
    "semester": 2,
    "week": 28,
-   "theme": "Chủ đề 5: TÌM HIỂU THẾ GIỚI",
-   "title": "Bài 22: Các châu lục và đại dương trên thế giới (Tiết 4)",
+   "theme": "Chủ đề 5: Tìm hiểu thế giới",
+   "title": "Bài 22. Các châu lục và đại dương trên thế giới (Tiết 4)",
    "content": "",
    "periodLabel": "Tiết 56",
    "periodFrom": 56,
@@ -1193,8 +1309,8 @@
    "id": "l5-lich-su-va-dia-li-057",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề 5: TÌM HIỂU THẾ GIỚI",
-   "title": "Bài 22: Các châu lục và đại dương trên thế giới (Tiết 5)",
+   "theme": "Chủ đề 5: Tìm hiểu thế giới",
+   "title": "Bài 22. Các châu lục và đại dương trên thế giới (Tiết 5)",
    "content": "",
    "periodLabel": "Tiết 57",
    "periodFrom": 57,
@@ -1209,8 +1325,8 @@
    "id": "l5-lich-su-va-dia-li-058",
    "semester": 2,
    "week": 29,
-   "theme": "Chủ đề 5: TÌM HIỂU THẾ GIỚI",
-   "title": "Bài 23: Dân số và các chủng tộc trên thế giới (Tiết 1)",
+   "theme": "Chủ đề 5: Tìm hiểu thế giới",
+   "title": "Bài 23. Dân số và các chủng tộc chính trên thế giới (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 58 (2 tiết)",
    "periodFrom": 58,
@@ -1218,15 +1334,21 @@
    "periods": 1,
    "lessonPeriods": 2,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS thao tác bản đồ, quả địa cầu số"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-lich-su-va-dia-li-059",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ đề 5: TÌM HIỂU THẾ GIỚI",
-   "title": "Bài 23: Dân số và các chủng tộc trên thế giới (Tiết 2)",
+   "theme": "Chủ đề 5: Tìm hiểu thế giới",
+   "title": "Bài 23. Dân số và các chủng tộc chính trên thế giới (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 59",
    "periodFrom": 59,
@@ -1234,15 +1356,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS thao tác bản đồ, quả địa cầu số"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-lich-su-va-dia-li-060",
    "semester": 2,
    "week": 30,
-   "theme": "Chủ đề 5: TÌM HIỂU THẾ GIỚI",
-   "title": "Bài 24: Văn minh Ai Cập (Tiết 1)",
+   "theme": "Chủ đề 5: Tìm hiểu thế giới",
+   "title": "Bài 24. Văn minh Ai Cập (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 60 (2 tiết)",
    "periodFrom": 60,
@@ -1252,9 +1380,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Dùng quả địa cầu số hoặc bản đồ thế giới tương tác."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS tham quan bảo tàng số, quan sát hiện vật ở nhiều góc"
     }
    ],
    "note": ""
@@ -1263,8 +1391,8 @@
    "id": "l5-lich-su-va-dia-li-061",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ đề 5: TÌM HIỂU THẾ GIỚI",
-   "title": "Bài 24: Văn minh Ai Cập (Tiết 2)",
+   "theme": "Chủ đề 5: Tìm hiểu thế giới",
+   "title": "Bài 24. Văn minh Ai Cập (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 61",
    "periodFrom": 61,
@@ -1272,15 +1400,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS tham quan bảo tàng số, quan sát hiện vật ở nhiều góc"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-lich-su-va-dia-li-062",
    "semester": 2,
    "week": 31,
-   "theme": "Chủ đề 5: TÌM HIỂU THẾ GIỚI",
-   "title": "Bài 25: Văn minh Hy Lạp (Tiết 1)",
+   "theme": "Chủ đề 5: Tìm hiểu thế giới",
+   "title": "Bài 25. Văn minh Hy Lạp (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 62 (2 tiết)",
    "periodFrom": 62,
@@ -1290,9 +1424,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS dùng công cụ trên máy dựng trục thời gian, sắp các sự kiện của bài theo đúng thứ tự."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS tham quan bảo tàng số, quan sát hiện vật ở nhiều góc"
     }
    ],
    "note": ""
@@ -1301,8 +1435,8 @@
    "id": "l5-lich-su-va-dia-li-063",
    "semester": 2,
    "week": 32,
-   "theme": "Chủ đề 5: TÌM HIỂU THẾ GIỚI",
-   "title": "Bài 25: Văn minh Hy Lạp (Tiết 2)",
+   "theme": "Chủ đề 5: Tìm hiểu thế giới",
+   "title": "Bài 25. Văn minh Hy Lạp (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 63",
    "periodFrom": 63,
@@ -1312,9 +1446,9 @@
    "adjustments": "",
    "integrations": [
     {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Cho HS xem hiện vật, di tích liên quan “Văn minh hi lạp” qua bảo tàng số."
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS tham quan bảo tàng số, quan sát hiện vật ở nhiều góc"
     }
    ],
    "note": ""
@@ -1323,8 +1457,8 @@
    "id": "l5-lich-su-va-dia-li-064",
    "semester": 2,
    "week": 32,
-   "theme": "CHỦ ĐỀ 6. CHUNG TAY XÂY DỰNG THẾ GIỚI",
-   "title": "Bài 26: Xây dựng thế giới xanh – sạch – đẹp (Tiết 1)",
+   "theme": "Chủ đề 6: Chung tay xây dựng thế giới",
+   "title": "Bài 26. Xây dựng thế giới xanh – sạch – đẹp (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 64 (2 tiết)",
    "periodFrom": 64,
@@ -1336,7 +1470,7 @@
     {
      "code": "NLS-KT",
      "level": "",
-     "text": "sử dụng bản đồ số/tranh ảnh/tư liệu số; hướng dẫn HS ghi nguồn thông tin."
+     "text": "sử dụng bản đồ số/tranh ảnh/tư liệu số; hướng dẫn HS ghi nguồn thông tin.\nNăng lực số 1.1 CB2c: HS thao tác bản đồ, quả địa cầu số."
     }
    ],
    "note": ""
@@ -1345,8 +1479,8 @@
    "id": "l5-lich-su-va-dia-li-065",
    "semester": 2,
    "week": 33,
-   "theme": "CHỦ ĐỀ 6. CHUNG TAY XÂY DỰNG THẾ GIỚI",
-   "title": "Bài 26: Xây dựng thế giới xanh – sạch – đẹp (Tiết 2)",
+   "theme": "Chủ đề 6: Chung tay xây dựng thế giới",
+   "title": "Bài 26. Xây dựng thế giới xanh – sạch – đẹp (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 65",
    "periodFrom": 65,
@@ -1354,15 +1488,21 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS thao tác bản đồ, quả địa cầu số"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-lich-su-va-dia-li-066",
    "semester": 2,
    "week": 33,
-   "theme": "CHỦ ĐỀ 6. CHUNG TAY XÂY DỰNG THẾ GIỚI",
-   "title": "Bài 27: Xây dựng thế giới hoà bình (Tiết 1)",
+   "theme": "Chủ đề 6: Chung tay xây dựng thế giới",
+   "title": "Bài 27. Xây dựng thế giới hoà bình (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 66 (2 tiết)",
    "periodFrom": 66,
@@ -1374,12 +1514,7 @@
     {
      "code": "QPAN",
      "level": "",
-     "text": "Yêu hoà bình, bảo vệ hoà bình bằng những việc phù hợp với khả năng, phản đối chiến tranh."
-    },
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Dùng quả địa cầu số hoặc bản đồ thế giới tương tác."
+     "text": "Yêu hoà bình, bảo vệ hoà bình bằng những việc phù hợp với khả năng, phản đối chiến tranh.\nNăng lực số 1.1 CB2c: HS thao tác bản đồ, quả địa cầu số."
     }
    ],
    "note": ""
@@ -1388,8 +1523,8 @@
    "id": "l5-lich-su-va-dia-li-067",
    "semester": 2,
    "week": 34,
-   "theme": "CHỦ ĐỀ 6. CHUNG TAY XÂY DỰNG THẾ GIỚI",
-   "title": "Bài 27: Xây dựng thế giới hoà bình (Tiết 2)",
+   "theme": "Chủ đề 6: Chung tay xây dựng thế giới",
+   "title": "Bài 27. Xây dựng thế giới hoà bình (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 67",
    "periodFrom": 67,
@@ -1397,22 +1532,28 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2c: HS thao tác bản đồ, quả địa cầu số"
+    }
+   ],
    "note": ""
   },
   {
    "id": "l5-lich-su-va-dia-li-068",
    "semester": 2,
    "week": 34,
-   "theme": "CHỦ ĐỀ 6. CHUNG TAY XÂY DỰNG THẾ GIỚI",
-   "title": "Bài 28: Ôn tập (tiết 1)",
+   "theme": "Chủ đề 6: Chung tay xây dựng thế giới",
+   "title": "Bài 28. Ôn tập (Tiết 1)",
    "content": "",
    "periodLabel": "Tiết 68 (2 tiết)",
    "periodFrom": 68,
    "periodTo": 68,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "SGV 3 tiết; bớt 1 tiết cho kiểm tra định kì",
    "integrations": [],
    "note": ""
   },
@@ -1420,8 +1561,8 @@
    "id": "l5-lich-su-va-dia-li-069",
    "semester": 2,
    "week": 35,
-   "theme": "CHỦ ĐỀ 6. CHUNG TAY XÂY DỰNG THẾ GIỚI",
-   "title": "Bài 28: Ôn tập (tiết 2)",
+   "theme": "Chủ đề 6: Chung tay xây dựng thế giới",
+   "title": "Bài 28. Ôn tập (Tiết 2)",
    "content": "",
    "periodLabel": "Tiết 69",
    "periodFrom": 69,
@@ -1436,8 +1577,8 @@
    "id": "l5-lich-su-va-dia-li-070",
    "semester": 2,
    "week": 35,
-   "theme": "CHỦ ĐỀ 6. CHUNG TAY XÂY DỰNG THẾ GIỚI",
-   "title": "Kiểm tra và đánh giá cuối học kì II",
+   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "title": "Kiểm tra định kì cuối năm học",
    "content": "",
    "periodLabel": "Tiết 70 (1 tiết)",
    "periodFrom": 70,
@@ -1722,7 +1863,7 @@
   "file": "assets/docs/lop5/Lich su va Dia li - Lop 5.docx",
   "name": "Lich su va Dia li - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 49148,
+  "size": 48915,
   "updated": "2026-09-08"
  }
 }

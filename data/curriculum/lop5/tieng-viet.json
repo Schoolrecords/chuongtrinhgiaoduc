@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 210,
-  "integrations": 77
+  "integrations": 104
  },
  "lessons": [
   {
@@ -25,14 +25,8 @@
    "periodTo": 1,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Chiếu bản đọc mẫu có âm thanh bài “Thanh âm của gió” trên tivi."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB2c: HS nghe bản đọc mẫu có âm thanh trên tivi rồi luyện đọc diễn cảm đoạn mình thích",
+   "integrations": [],
    "note": ""
   },
   {
@@ -48,7 +42,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -63,7 +63,7 @@
    "periodTo": 3,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [
     {
      "code": "KNS",
@@ -101,7 +101,7 @@
    "periodTo": 6,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nói rõ nguồn ảnh, tư liệu mình dùng khi giới thiệu về cánh đồng hoa",
    "integrations": [
     {
      "code": "KNS",
@@ -123,7 +123,7 @@
    "periodTo": 7,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được cách chọn sách hợp lứa tuổi dựa vào tên tác giả, phần giới thiệu và mục lục",
    "integrations": [
     {
      "code": "KNS",
@@ -145,14 +145,8 @@
    "periodTo": 8,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Ở phần vận dụng, HS chọn một khổ thơ thích nhất, tập đọc diễn cảm rồi GV ghi âm bằng điện thoại."
-    }
-   ],
+   "adjustments": "Năng lực số 3.1 CB2a: HS chọn một khổ thơ mình thích, đọc diễn cảm và nghe lại bản ghi âm để tự chỉnh giọng đọc",
+   "integrations": [],
    "note": ""
   },
   {
@@ -167,7 +161,7 @@
    "periodTo": 9,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử nghĩa các từ khó trong bài thơ rồi nêu nghĩa hợp với câu thơ",
    "integrations": [],
    "note": ""
   },
@@ -183,8 +177,13 @@
    "periodTo": 10,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "nếu lấy ý từ bài đọc hay từ mạng thì nói rõ lấy ở đâu",
    "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 3.3 CB2a: HS lập dàn ý bằng lời của mình"
+    },
     {
      "code": "KNS",
      "level": "",
@@ -221,7 +220,7 @@
    "periodTo": 13,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS ghi rõ tên tác giả, nguồn khi trích câu văn, câu thơ vào bài viết của mình",
    "integrations": [
     {
      "code": "KNS",
@@ -243,7 +242,7 @@
    "periodTo": 14,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB2a: HS ghi âm hoặc quay lại phần trình bày, tự nghe lại và chỉ ra điểm cần sửa",
    "integrations": [],
    "note": ""
   },
@@ -282,7 +281,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -297,7 +302,7 @@
    "periodTo": 17,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [
     {
      "code": "KNS",
@@ -335,7 +340,7 @@
    "periodTo": 20,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -351,7 +356,7 @@
    "periodTo": 21,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được cách chọn sách hợp lứa tuổi dựa vào tên tác giả, phần giới thiệu và mục lục",
    "integrations": [
     {
      "code": "KNS",
@@ -401,7 +406,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -416,7 +427,7 @@
    "periodTo": 24,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -448,7 +459,7 @@
    "periodTo": 27,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -464,7 +475,7 @@
    "periodTo": 28,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB2a: HS ghi âm hoặc quay lại phần trình bày, tự nghe lại và chỉ ra điểm cần sửa",
    "integrations": [],
    "note": ""
   },
@@ -503,7 +514,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -518,7 +535,7 @@
    "periodTo": 31,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [
     {
      "code": "KNS",
@@ -556,7 +573,7 @@
    "periodTo": 34,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [
     {
      "code": "KNS",
@@ -578,7 +595,7 @@
    "periodTo": 35,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được cách chọn sách hợp lứa tuổi dựa vào tên tác giả, phần giới thiệu và mục lục",
    "integrations": [
     {
      "code": "KNS",
@@ -600,14 +617,8 @@
    "periodTo": 36,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "AI-NB",
-     "level": "Nhận biết",
-     "text": "Nêu: trên mạng có nhiều ảnh phong cảnh."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB2c: HS quan sát tư liệu số về địa danh, di sản trong bài và đối chiếu với chi tiết miêu tả của tác giả",
+   "integrations": [],
    "note": ""
   },
   {
@@ -623,7 +634,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -638,7 +655,7 @@
    "periodTo": 38,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -654,7 +671,7 @@
    "periodTo": 40,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS quan sát tư liệu số về địa danh, di sản trong bài và đối chiếu với chi tiết miêu tả của tác giả",
    "integrations": [
     {
      "code": "QPAN",
@@ -676,7 +693,7 @@
    "periodTo": 41,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -692,7 +709,7 @@
    "periodTo": 42,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB2a: HS ghi âm hoặc quay lại phần trình bày, tự nghe lại và chỉ ra điểm cần sửa",
    "integrations": [],
    "note": ""
   },
@@ -731,7 +748,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -746,7 +769,7 @@
    "periodTo": 45,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -762,7 +785,7 @@
    "periodTo": 47,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS quan sát tư liệu số về địa danh, di sản trong bài và đối chiếu với chi tiết miêu tả của tác giả",
    "integrations": [],
    "note": ""
   },
@@ -778,7 +801,7 @@
    "periodTo": 48,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [
     {
      "code": "KNS",
@@ -800,7 +823,7 @@
    "periodTo": 49,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được cách chọn sách hợp lứa tuổi dựa vào tên tác giả, phần giới thiệu và mục lục",
    "integrations": [
     {
      "code": "KNS",
@@ -845,7 +868,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -860,7 +889,7 @@
    "periodTo": 52,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [
     {
      "code": "KNS",
@@ -882,7 +911,7 @@
    "periodTo": 54,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS quan sát tư liệu số về địa danh, di sản trong bài và đối chiếu với chi tiết miêu tả của tác giả",
    "integrations": [],
    "note": ""
   },
@@ -898,7 +927,7 @@
    "periodTo": 55,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -914,7 +943,7 @@
    "periodTo": 56,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB2a: HS ghi âm hoặc quay lại phần trình bày, tự nghe lại và chỉ ra điểm cần sửa",
    "integrations": [],
    "note": ""
   },
@@ -1055,7 +1084,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -1070,7 +1105,7 @@
    "periodTo": 66,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [
     {
      "code": "KNS",
@@ -1108,7 +1143,7 @@
    "periodTo": 69,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -1124,7 +1159,7 @@
    "periodTo": 70,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được cách chọn sách hợp lứa tuổi dựa vào tên tác giả, phần giới thiệu và mục lục",
    "integrations": [
     {
      "code": "KNS",
@@ -1169,7 +1204,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -1184,7 +1225,7 @@
    "periodTo": 73,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [
     {
      "code": "KNS",
@@ -1222,7 +1263,7 @@
    "periodTo": 76,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -1238,7 +1279,7 @@
    "periodTo": 77,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB2a: HS ghi âm hoặc quay lại phần trình bày, tự nghe lại và chỉ ra điểm cần sửa",
    "integrations": [],
    "note": ""
   },
@@ -1277,7 +1318,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -1292,7 +1339,7 @@
    "periodTo": 80,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [
     {
      "code": "KNS",
@@ -1330,7 +1377,7 @@
    "periodTo": 83,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -1346,7 +1393,7 @@
    "periodTo": 84,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được cách chọn sách hợp lứa tuổi dựa vào tên tác giả, phần giới thiệu và mục lục",
    "integrations": [
     {
      "code": "KNS",
@@ -1391,7 +1438,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -1406,7 +1459,7 @@
    "periodTo": 87,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [
     {
      "code": "KNS",
@@ -1444,7 +1497,7 @@
    "periodTo": 90,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -1460,7 +1513,7 @@
    "periodTo": 91,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB2a: HS ghi âm hoặc quay lại phần trình bày, tự nghe lại và chỉ ra điểm cần sửa",
    "integrations": [],
    "note": ""
   },
@@ -1499,7 +1552,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -1514,7 +1573,7 @@
    "periodTo": 94,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [
     {
      "code": "KNS",
@@ -1552,7 +1611,7 @@
    "periodTo": 97,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -1568,7 +1627,7 @@
    "periodTo": 98,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được cách chọn sách hợp lứa tuổi dựa vào tên tác giả, phần giới thiệu và mục lục",
    "integrations": [
     {
      "code": "KNS",
@@ -1613,7 +1672,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -1628,7 +1693,7 @@
    "periodTo": 101,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [
     {
      "code": "KNS",
@@ -1650,7 +1715,7 @@
    "periodTo": 103,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS quan sát tư liệu số về địa danh, di sản trong bài và đối chiếu với chi tiết miêu tả của tác giả",
    "integrations": [],
    "note": ""
   },
@@ -1666,7 +1731,7 @@
    "periodTo": 104,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -1682,7 +1747,7 @@
    "periodTo": 105,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB2a: HS ghi âm hoặc quay lại phần trình bày, tự nghe lại và chỉ ra điểm cần sửa",
    "integrations": [],
    "note": ""
   },
@@ -1698,14 +1763,8 @@
    "periodTo": 106,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "AI-NB",
-     "level": "Nhận biết",
-     "text": "Nêu: trên mạng có nhiều ảnh phong cảnh."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB2c: HS quan sát tư liệu số về địa danh, di sản trong bài và đối chiếu với chi tiết miêu tả của tác giả",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1721,7 +1780,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -1736,7 +1801,7 @@
    "periodTo": 108,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [
     {
      "code": "KNS",
@@ -1758,7 +1823,7 @@
    "periodTo": 110,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS quan sát tư liệu số về địa danh, di sản trong bài và đối chiếu với chi tiết miêu tả của tác giả",
    "integrations": [],
    "note": ""
   },
@@ -1774,7 +1839,7 @@
    "periodTo": 111,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -1790,7 +1855,7 @@
    "periodTo": 112,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được cách chọn sách hợp lứa tuổi dựa vào tên tác giả, phần giới thiệu và mục lục",
    "integrations": [
     {
      "code": "KNS",
@@ -1840,7 +1905,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -1855,7 +1926,7 @@
    "periodTo": 115,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [
     {
      "code": "KNS",
@@ -1877,7 +1948,7 @@
    "periodTo": 117,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS quan sát tư liệu số về địa danh, di sản trong bài và đối chiếu với chi tiết miêu tả của tác giả",
    "integrations": [],
    "note": ""
   },
@@ -1893,7 +1964,7 @@
    "periodTo": 118,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -1909,7 +1980,7 @@
    "periodTo": 119,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB2a: HS ghi âm hoặc quay lại phần trình bày, tự nghe lại và chỉ ra điểm cần sửa",
    "integrations": [],
    "note": ""
   },
@@ -2038,7 +2109,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -2053,7 +2130,7 @@
    "periodTo": 129,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [
     {
      "code": "KNS",
@@ -2091,7 +2168,7 @@
    "periodTo": 132,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -2107,7 +2184,7 @@
    "periodTo": 133,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được cách chọn sách hợp lứa tuổi dựa vào tên tác giả, phần giới thiệu và mục lục",
    "integrations": [
     {
      "code": "KNS",
@@ -2146,7 +2223,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -2161,7 +2244,7 @@
    "periodTo": 136,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [
     {
      "code": "KNS",
@@ -2199,7 +2282,7 @@
    "periodTo": 139,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -2215,7 +2298,7 @@
    "periodTo": 140,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB2a: HS ghi âm hoặc quay lại phần trình bày, tự nghe lại và chỉ ra điểm cần sửa",
    "integrations": [],
    "note": ""
   },
@@ -2248,7 +2331,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -2263,7 +2352,7 @@
    "periodTo": 143,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [
     {
      "code": "KNS",
@@ -2301,7 +2390,7 @@
    "periodTo": 146,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [
     {
      "code": "KNS",
@@ -2323,7 +2412,7 @@
    "periodTo": 147,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được cách chọn sách hợp lứa tuổi dựa vào tên tác giả, phần giới thiệu và mục lục",
    "integrations": [
     {
      "code": "KNS",
@@ -2362,7 +2451,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -2377,7 +2472,7 @@
    "periodTo": 150,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -2409,7 +2504,7 @@
    "periodTo": 153,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [
     {
      "code": "KNS",
@@ -2431,7 +2526,7 @@
    "periodTo": 154,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB2a: HS ghi âm hoặc quay lại phần trình bày, tự nghe lại và chỉ ra điểm cần sửa",
    "integrations": [],
    "note": ""
   },
@@ -2470,7 +2565,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -2485,7 +2586,7 @@
    "periodTo": 157,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [
     {
      "code": "KNS",
@@ -2523,7 +2624,7 @@
    "periodTo": 160,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -2539,7 +2640,7 @@
    "periodTo": 161,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được cách chọn sách hợp lứa tuổi dựa vào tên tác giả, phần giới thiệu và mục lục",
    "integrations": [
     {
      "code": "KNS",
@@ -2578,7 +2679,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -2593,7 +2700,7 @@
    "periodTo": 164,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [
     {
      "code": "KNS",
@@ -2631,7 +2738,7 @@
    "periodTo": 167,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -2647,7 +2754,7 @@
    "periodTo": 168,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB2a: HS ghi âm hoặc quay lại phần trình bày, tự nghe lại và chỉ ra điểm cần sửa",
    "integrations": [],
    "note": ""
   },
@@ -2663,7 +2770,7 @@
    "periodTo": 169,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS quan sát tư liệu số về địa danh, di sản trong bài và đối chiếu với chi tiết miêu tả của tác giả",
    "integrations": [],
    "note": ""
   },
@@ -2680,7 +2787,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -2695,7 +2808,7 @@
    "periodTo": 171,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -2727,7 +2840,7 @@
    "periodTo": 174,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -2743,7 +2856,7 @@
    "periodTo": 175,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được cách chọn sách hợp lứa tuổi dựa vào tên tác giả, phần giới thiệu và mục lục",
    "integrations": [
     {
      "code": "KNS",
@@ -2782,7 +2895,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -2797,7 +2916,7 @@
    "periodTo": 178,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -2813,7 +2932,7 @@
    "periodTo": 180,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS quan sát tư liệu số về địa danh, di sản trong bài và đối chiếu với chi tiết miêu tả của tác giả",
    "integrations": [],
    "note": ""
   },
@@ -2829,7 +2948,7 @@
    "periodTo": 181,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -2845,7 +2964,7 @@
    "periodTo": 182,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB2a: HS ghi âm hoặc quay lại phần trình bày, tự nghe lại và chỉ ra điểm cần sửa",
    "integrations": [],
    "note": ""
   },
@@ -2957,7 +3076,7 @@
    "periodTo": 190,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS quan sát tư liệu số về địa danh, di sản trong bài và đối chiếu với chi tiết miêu tả của tác giả",
    "integrations": [],
    "note": ""
   },
@@ -2974,7 +3093,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -2989,7 +3114,7 @@
    "periodTo": 192,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [
     {
      "code": "KNS",
@@ -3027,7 +3152,7 @@
    "periodTo": 195,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -3043,7 +3168,7 @@
    "periodTo": 196,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được cách chọn sách hợp lứa tuổi dựa vào tên tác giả, phần giới thiệu và mục lục",
    "integrations": [
     {
      "code": "KNS",
@@ -3082,7 +3207,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -3102,7 +3233,7 @@
     {
      "code": "NLS-ST",
      "level": "",
-     "text": "Ghi nhanh ý kiến bằng phiếu hoặc bảng nhóm."
+     "text": "Ghi nhanh ý kiến bằng phiếu hoặc bảng nhóm.\nNăng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy."
     },
     {
      "code": "KNS",
@@ -3140,7 +3271,7 @@
    "periodTo": 202,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -3156,7 +3287,7 @@
    "periodTo": 203,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB2a: HS ghi âm hoặc quay lại phần trình bày, tự nghe lại và chỉ ra điểm cần sửa",
    "integrations": [],
    "note": ""
   },
@@ -3195,7 +3326,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -3210,7 +3347,7 @@
    "periodTo": 206,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [
     {
      "code": "KNS",
@@ -3254,7 +3391,7 @@
    "periodTo": 209,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [
     {
      "code": "KNS",
@@ -3315,7 +3452,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -3330,7 +3473,7 @@
    "periodTo": 213,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -3368,7 +3511,7 @@
    "periodTo": 216,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [
     {
      "code": "KNS",
@@ -3400,7 +3543,7 @@
     {
      "code": "NLS-KT",
      "level": "",
-     "text": "Sử dụng bản đồ số/tranh ảnh để giới thiệu di tích; chú ý an toàn khi chia sẻ vị trí, hình ảnh."
+     "text": "Sử dụng bản đồ số/tranh ảnh để giới thiệu di tích; chú ý an toàn khi chia sẻ vị trí, hình ảnh.\nNăng lực số 3.1 CB2a: HS ghi âm hoặc quay lại phần trình bày, tự nghe lại và chỉ ra điểm cần sửa."
     },
     {
      "code": "QPAN",
@@ -3439,7 +3582,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -3454,7 +3603,7 @@
    "periodTo": 220,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -3486,7 +3635,7 @@
    "periodTo": 223,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [
     {
      "code": "KNS",
@@ -3547,7 +3696,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -3562,7 +3717,7 @@
    "periodTo": 227,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [
     {
      "code": "KNS",
@@ -3600,7 +3755,7 @@
    "periodTo": 230,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -3616,7 +3771,7 @@
    "periodTo": 231,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.1 CB2a: HS ghi âm hoặc quay lại phần trình bày, tự nghe lại và chỉ ra điểm cần sửa",
    "integrations": [],
    "note": ""
   },
@@ -3632,7 +3787,7 @@
    "periodTo": 232,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS đọc hiểu văn bản và nêu được cả mặt lợi lẫn mặt phiền toái của thiết bị số trong đời sống",
    "integrations": [],
    "note": ""
   },
@@ -3649,7 +3804,13 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [],
+   "integrations": [
+    {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 1.1 CB2b: HS tra từ điển điện tử chọn đúng nghĩa theo văn cảnh"
+    }
+   ],
    "note": ""
   },
   {
@@ -3664,7 +3825,7 @@
    "periodTo": 234,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [
     {
      "code": "KNS",
@@ -3686,7 +3847,7 @@
    "periodTo": 236,
    "periods": 2,
    "lessonPeriods": 2,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS đọc hiểu văn bản và nêu được cả mặt lợi lẫn mặt phiền toái của thiết bị số trong đời sống",
    "integrations": [],
    "note": ""
   },
@@ -3702,7 +3863,7 @@
    "periodTo": 237,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.3 CB2a: HS nêu được vì sao bài văn phải viết bằng lời và trải nghiệm của chính mình, không chép của máy",
    "integrations": [],
    "note": ""
   },
@@ -4104,7 +4265,7 @@
   "file": "assets/docs/lop5/Tieng Viet - Lop 5.docx",
   "name": "Tieng Viet - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 52837,
+  "size": 53760,
   "updated": "2026-09-08"
  }
 }

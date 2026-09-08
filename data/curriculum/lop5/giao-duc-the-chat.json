@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 70
+  "integrations": 44
  },
  "lessons": [
   {
@@ -25,13 +25,8 @@
    "periodTo": 1,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc được sơ đồ đường di chuyển của “Bài tập phối hợp biến đổi đội hình” và dự đoán đúng vị trí tổ mình",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Mở video mẫu tập hợp hàng dọc, hàng ngang, dóng hàng, điểm số, quay các hướng trên tivi trước khi ra sân."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -74,13 +69,8 @@
    "periodTo": 3,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc được sơ đồ đường di chuyển của “Bài tập phối hợp biến đổi đội hình” và dự đoán đúng vị trí tổ mình",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Sau khi tập."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -123,13 +113,8 @@
    "periodTo": 5,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc được sơ đồ đường di chuyển của “Bài tập phối hợp biến đổi đội hình” và dự đoán đúng vị trí tổ mình",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Chiếu clip mẫu “Bài tập phối hợp đi đều vòng các hướng” và giao cho mỗi tổ một việc quan sát riêng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -175,6 +160,11 @@
    "adjustments": "",
    "integrations": [
     {
+     "code": "NLS",
+     "level": "",
+     "text": "Năng lực số 2.5 CB2a: HS xin phép bạn trước khi chiếu clip và tự xoá clip sau tiết học"
+    },
+    {
      "code": "KNS",
      "level": "",
      "text": "KN hợp tác và tuân thủ luật chơi; thắng không kiêu, thua không nản."
@@ -216,13 +206,8 @@
    "periodTo": 9,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Động tác vươn thở, động tác tay với gậy” với động tác mẫu trong clip",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Sau lượt tập đầu, HS đối chiếu động tác của mình với clip, tự nêu một lỗi cần sửa."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -265,13 +250,8 @@
    "periodTo": 11,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Bài tập phối hợp đi đều vòng các hướng” với động tác mẫu trong clip",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Chiếu clip mẫu “Động tác bụng, động tác vặn mình với gậy” và giao cho mỗi tổ một việc quan sát riêng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -341,7 +321,7 @@
    "periodTo": 14,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.2 CB2a: HS quay và xem chậm được clip mình thực hiện “Hoàn thiện bài thể dục với gậy”, tự chỉ ra lỗi của mình và của bạn",
    "integrations": [
     {
      "code": "KNS",
@@ -363,14 +343,8 @@
    "periodTo": 15,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS làm việc theo tổ với một đồng hồ bấm giờ GV giao."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Động tác vươn thở, động tác tay với gậy” với động tác mẫu trong clip",
+   "integrations": [],
    "note": ""
   },
   {
@@ -401,7 +375,7 @@
    "periodTo": 17,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Động tác bụng, động tác vặn mình với gậy” với động tác mẫu trong clip",
    "integrations": [],
    "note": ""
   },
@@ -433,14 +407,8 @@
    "periodTo": 19,
    "periods": 1,
    "lessonPeriods": 3,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Chiếu clip mẫu “Động tác lăn” và giao cho mỗi tổ một việc quan sát riêng."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Động tác lăn” với động tác mẫu trong clip",
+   "integrations": [],
    "note": ""
   },
   {
@@ -471,21 +439,15 @@
    "periodTo": 21,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Quay một lượt tập của từng tổ."
-    }
-   ],
+   "adjustments": "Năng lực số 3.2 CB2a: HS quay và xem chậm được clip mình thực hiện “Hoàn thiện bài thể dục với gậy”, tự chỉ ra lỗi của mình và của bạn",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-giao-duc-the-chat-022",
    "semester": 1,
    "week": 11,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Ôn tập giữa học kì I",
    "content": "",
    "periodLabel": "Tiết 22 (1 tiết)",
@@ -493,7 +455,7 @@
    "periodTo": 22,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS điền và đọc được bảng theo dõi phần đội hình đội ngũ, tự xác định nội dung cần cố gắng thêm",
    "integrations": [],
    "note": ""
   },
@@ -509,13 +471,8 @@
    "periodTo": 23,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Động tác lăn” với động tác mẫu trong clip",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS làm việc theo cặp với một máy GV giao cho mỗi tổ: một bạn quay 10 giây lúc bạn kia thực."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -536,7 +493,7 @@
    "periodTo": 24,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS lập được nhật kí vận động gắn với động tác lăn và tự điều chỉnh kế hoạch sau một tuần",
    "integrations": [
     {
      "code": "KNS",
@@ -558,13 +515,8 @@
    "periodTo": 25,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS lập được nhật kí vận động gắn với các kĩ năng lăn, lộn xuôi, leo, trèo đã học và tự điều chỉnh kế hoạch sau một tuần",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Chiếu clip mẫu “Động tác lộn xuôi” và giao cho mỗi tổ một việc quan sát riêng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -607,13 +559,8 @@
    "periodTo": 27,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS lập được nhật kí vận động gắn với các kĩ năng lăn, lộn xuôi, leo, trèo đã học và tự điều chỉnh kế hoạch sau một tuần",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Quay một lượt tập của từng tổ."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -656,13 +603,8 @@
    "periodTo": 29,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Động tác lộn xuôi” với động tác mẫu trong clip",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS làm việc theo cặp với một máy GV giao cho mỗi tổ: một bạn quay 10 giây lúc bạn kia thực."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -705,13 +647,8 @@
    "periodTo": 31,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS lập được nhật kí vận động gắn với các kĩ năng lăn, lộn xuôi, leo, trèo đã học và tự điều chỉnh kế hoạch sau một tuần",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS tự điền số liệu của mình vào bảng theo dõi chung của tổ cho phần lăn và lộn xuôi (bảng tính trên máy hoặc bảng kẻ sẵn)."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -754,7 +691,7 @@
    "periodTo": 33,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS lập được nhật kí vận động gắn với các kĩ năng lăn, lộn xuôi, leo, trèo đã học và tự điều chỉnh kế hoạch sau một tuần",
    "integrations": [
     {
      "code": "KNS",
@@ -795,7 +732,7 @@
    "id": "l5-giao-duc-the-chat-035",
    "semester": 1,
    "week": 18,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Ôn tập và đánh giá cuối học kì I (Tiết 1 - Ôn tập)",
    "content": "",
    "periodLabel": "Tiết 35 (1 tiết)",
@@ -803,21 +740,15 @@
    "periodTo": 35,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "HS tự lập nhật kí vận động gắn với các kĩ năng lăn, lộn xuôi, leo, trèo đã học."
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB2b: HS điền và đọc được bảng theo dõi phần hệ thống nội dung đã học, tự xác định nội dung cần cố gắng thêm",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-giao-duc-the-chat-036",
    "semester": 1,
    "week": 18,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Ôn tập và đánh giá cuối học kì I (Tiết 2 - Đánh giá)",
    "content": "",
    "periodLabel": "Tiết 36 (1 tiết)",
@@ -841,13 +772,8 @@
    "periodTo": 37,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "Điều chỉnh: Bài 2 (Tiết 6) chuyển sang tuần 19",
+   "adjustments": "Điều chỉnh: Bài 2 (Tiết 6) chuyển sang tuần 19; Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Động tác leo” với động tác mẫu trong clip",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Chiếu clip mẫu “Động tác leo” và giao cho mỗi tổ một việc quan sát riêng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -890,13 +816,8 @@
    "periodTo": 39,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS lập được nhật kí vận động gắn với các kĩ năng lăn, lộn xuôi, leo, trèo đã học và tự điều chỉnh kế hoạch sau một tuần",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Ở phần Luyện tập, GV quay lại lượt leo của vài."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -939,13 +860,8 @@
    "periodTo": 41,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS lập được nhật kí vận động gắn với các kĩ năng lăn, lộn xuôi, leo, trèo đã học và tự điều chỉnh kế hoạch sau một tuần",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS làm việc theo cặp với một máy GV giao cho mỗi tổ: một bạn quay 10 giây lúc bạn kia thực."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -966,7 +882,7 @@
    "periodTo": 42,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.2 CB2a: HS quay và xem chậm được clip mình thực hiện “Hoàn thiện động tác leo”, tự chỉ ra lỗi của mình và của bạn",
    "integrations": [
     {
      "code": "KNS",
@@ -988,13 +904,8 @@
    "periodTo": 43,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Động tác trèo” với động tác mẫu trong clip",
    "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Chiếu clip mẫu “Động tác trèo” và giao cho mỗi tổ một việc quan sát riêng."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1037,13 +948,8 @@
    "periodTo": 45,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS lập được nhật kí vận động gắn với các kĩ năng lăn, lộn xuôi, leo, trèo đã học và tự điều chỉnh kế hoạch sau một tuần",
    "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Ở phần Luyện tập, GV quay lượt trèo của vài."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1086,13 +992,8 @@
    "periodTo": 47,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS lập được nhật kí vận động gắn với các kĩ năng lăn, lộn xuôi, leo, trèo đã học và tự điều chỉnh kế hoạch sau một tuần",
    "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS làm việc theo cặp với một máy GV giao cho mỗi tổ: một bạn quay 10 giây lúc bạn kia thực."
-    },
     {
      "code": "KNS",
      "level": "",
@@ -1113,7 +1014,7 @@
    "periodTo": 48,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số 3.2 CB2a: HS quay và xem chậm được clip mình thực hiện “Hoàn thiện động tác trèo”, tự chỉ ra lỗi của mình và của bạn",
    "integrations": [
     {
      "code": "KNS",
@@ -1135,14 +1036,8 @@
    "periodTo": 49,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Chiếu clip mẫu “Làm quen với bóng rổ và tư thế dẫn bóng tại chỗ” và giao cho mỗi tổ một việc quan sát riêng."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Làm quen với bóng rổ và tư thế dẫn bóng tại chỗ” với động tác mẫu trong clip",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1173,14 +1068,8 @@
    "periodTo": 51,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "Sau khi tập."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB2c: HS đọc được sơ đồ đường di chuyển của “Dẫn bóng theo đường vòng, đường zíc-zắc” và dự đoán đúng vị trí tổ mình",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1211,7 +1100,7 @@
    "periodTo": 53,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
+   "adjustments": "Năng lực số 5.2 CB2b: HS điền và đọc được bảng theo dõi phần kĩ năng vận động cơ bản (leo, trèo) và Bóng rổ (dẫn bóng), tự xác định nội dung cần cố gắng thêm",
    "integrations": [],
    "note": ""
   },
@@ -1227,21 +1116,15 @@
    "periodTo": 54,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Chiếu clip mẫu “Chuyền và bắt bóng bằng hai tay trước ngực” và giao cho mỗi tổ một việc quan sát riêng."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Chuyền và bắt bóng bằng hai tay trước ngực” với động tác mẫu trong clip",
+   "integrations": [],
    "note": ""
   },
   {
    "id": "l5-giao-duc-the-chat-055",
    "semester": 2,
    "week": 28,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Ôn tập giữa học kì II",
    "content": "",
    "periodLabel": "Tiết 55 (1 tiết)",
@@ -1249,14 +1132,8 @@
    "periodTo": 55,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-GQVĐ",
-     "level": "Cơ bản 2",
-     "text": "Ở phần Luyện tập, GV quay lượt chuyền bóng của vài cặp."
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB2b: HS điền và đọc được bảng theo dõi phần kĩ năng vận động cơ bản (leo, trèo) và Bóng rổ (dẫn bóng), tự xác định nội dung cần cố gắng thêm",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1271,7 +1148,7 @@
    "periodTo": 56,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Chuyền và bắt bóng bằng hai tay trước ngực” với động tác mẫu trong clip",
    "integrations": [],
    "note": ""
   },
@@ -1309,7 +1186,7 @@
    "periodTo": 58,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Làm quen động tác ném rổ bằng một tay trên vai tại chỗ” với động tác mẫu trong clip",
    "integrations": [],
    "note": ""
   },
@@ -1325,14 +1202,8 @@
    "periodTo": 59,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "AI-NB",
-     "level": "Nhận biết",
-     "text": "Dùng ứng dụng quay chậm có vạch chuẩn."
-    }
-   ],
+   "adjustments": "Năng lực số 6.1 CB2a: HS đọc được nhận xét của ứng dụng về “Luyện tập hai bước ném rổ và phát triển thể lực” và biết đối chiếu với nhận xét của GV",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1347,7 +1218,7 @@
    "periodTo": 60,
    "periods": 1,
    "lessonPeriods": 8,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Làm quen động tác ném rổ bằng một tay trên vai tại chỗ” với động tác mẫu trong clip",
    "integrations": [],
    "note": ""
   },
@@ -1363,14 +1234,8 @@
    "periodTo": 61,
    "periods": 1,
    "lessonPeriods": 8,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "HS xem clip quay từ dưới mặt nước cho bài “an toàn dưới nước và làm quen với nước”."
-    }
-   ],
+   "adjustments": "Năng lực số 6.1 CB2a: HS đọc được nhận xét của ứng dụng về “Hai bước ném rổ bằng một tay trên vai” và biết đối chiếu với nhận xét của GV",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1385,7 +1250,7 @@
    "periodTo": 62,
    "periods": 1,
    "lessonPeriods": 8,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS mô tả được đường đi của tay, chân trong “an toàn dưới nước và làm quen với nước” nhờ clip quay dưới mặt nước",
    "integrations": [],
    "note": ""
   },
@@ -1423,7 +1288,7 @@
    "periodTo": 64,
    "periods": 1,
    "lessonPeriods": 8,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Động tác tay bơi trườn sấp” với động tác mẫu trong clip",
    "integrations": [],
    "note": ""
   },
@@ -1439,14 +1304,8 @@
    "periodTo": 65,
    "periods": 1,
    "lessonPeriods": 8,
-   "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Chiếu clip mẫu “Phối hợp động tác tay với nhịp thở” và giao cho mỗi tổ một việc quan sát riêng."
-    }
-   ],
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Phối hợp động tác tay với nhịp thở” với động tác mẫu trong clip",
+   "integrations": [],
    "note": ""
   },
   {
@@ -1491,7 +1350,7 @@
    "id": "l5-giao-duc-the-chat-068",
    "semester": 2,
    "week": 34,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Ôn tập và đánh giá cuối năm (Tiết 1 - Ôn tập, hệ thống hoá)",
    "content": "",
    "periodLabel": "Tiết 68 (1 tiết)",
@@ -1499,7 +1358,7 @@
    "periodTo": 68,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "",
+   "adjustments": "Năng lực số 1.1 CB2c: HS mô tả được đường đi của tay, chân trong “phối hợp bơi trườn sấp và an toàn dưới nước” nhờ clip quay dưới mặt nước",
    "integrations": [],
    "note": ""
   },
@@ -1507,7 +1366,7 @@
    "id": "l5-giao-duc-the-chat-069",
    "semester": 2,
    "week": 35,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Ôn tập và đánh giá cuối năm (Tiết 2 - Đánh giá)",
    "content": "",
    "periodLabel": "Tiết 69 (1 tiết)",
@@ -1523,7 +1382,7 @@
    "id": "l5-giao-duc-the-chat-070",
    "semester": 2,
    "week": 35,
-   "theme": "Ôn tập, kiểm tra, đánh giá",
+   "theme": "Ôn tập, đánh giá",
    "title": "Ôn tập và đánh giá cuối năm (Tiết 3 - Đánh giá, tổng kết năm học)",
    "content": "",
    "periodLabel": "Tiết 70 (1 tiết)",
@@ -1809,7 +1668,7 @@
   "file": "assets/docs/lop5/Giao duc the chat - Lop 5.docx",
   "name": "Giao duc the chat - Lop 5.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 46964,
+  "size": 47188,
   "updated": "2026-09-08"
  }
 }
