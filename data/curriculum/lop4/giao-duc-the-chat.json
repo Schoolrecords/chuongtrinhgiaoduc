@@ -447,7 +447,7 @@
    "periodTo": 21,
    "periods": 1,
    "lessonPeriods": 2,
-   "adjustments": "Năng lực số 3.2 CB2a: HS quay và xem chậm được clip mình thực hiện “Hoàn thiện bài thể dục với vòng”, tự chỉ ra lỗi của mình và của bạn",
+   "adjustments": "Năng lực số 3.2 CB2a: HS quay và xem chậm được clip mình thực hiện “Động tác nhảy, động tác điều hoà với vòng”, tự chỉ ra lỗi của mình và của bạn",
    "integrations": [],
    "note": ""
   },
@@ -611,7 +611,7 @@
    "periodTo": 29,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Bài tập rèn luyện bật xa tại chỗ” với động tác mẫu trong clip",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Bài tập rèn luyện kĩ năng bật xa” với động tác mẫu trong clip",
    "integrations": [
     {
      "code": "KNS",
@@ -775,7 +775,7 @@
    "periodTo": 37,
    "periods": 1,
    "lessonPeriods": 6,
-   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Bài tập rèn luyện bật cao tại chỗ” với động tác mẫu trong clip",
+   "adjustments": "Năng lực số 1.1 CB2c: HS nêu được điểm khác nhau giữa cách mình thực hiện “Bài tập rèn luyện kĩ năng bật cao” với động tác mẫu trong clip",
    "integrations": [
     {
      "code": "KNS",
@@ -1671,13 +1671,13 @@
   "file": "assets/docs/lop4/Giao duc the chat - Lop 4.docx",
   "name": "Giao duc the chat - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-09",
-  "size": 47634,
+  "size": 47628,
   "updated": "2026-09-09"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop4/Giao duc the chat - Lop 4.xlsx",
   "name": "Giao duc the chat - Lop 4.xlsx",
-  "size": 11010,
+  "size": 10996,
   "updated": "2026-09-09"
  }
 }
