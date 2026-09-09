@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 70,
-  "integrations": 80
+  "integrations": 75
  },
  "lessons": [
   {
@@ -530,13 +530,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Cho HS xem hiện vật, di tích liên quan “Triều lý và việc định đô ở thăng long” qua bảo tàng số."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -601,13 +595,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS dùng công cụ trên máy dựng trục thời gian, sắp các sự kiện của bài theo đúng thứ tự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -704,13 +692,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Cho HS xem hiện vật, di tích liên quan “Khởi nghĩa lam sơn và triều hậu lê” qua bảo tàng số."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -775,13 +757,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-ST",
-     "level": "Cơ bản 2",
-     "text": "HS dùng công cụ trên máy dựng trục thời gian, sắp các sự kiện của bài theo đúng thứ tự."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1280,13 +1256,7 @@
    "periods": 1,
    "lessonPeriods": 1,
    "adjustments": "",
-   "integrations": [
-    {
-     "code": "NLS-KT",
-     "level": "Cơ bản 2",
-     "text": "Dùng quả địa cầu số hoặc bản đồ thế giới tương tác."
-    }
-   ],
+   "integrations": [],
    "note": ""
   },
   {
@@ -1862,14 +1832,14 @@
  "attachment": {
   "file": "assets/docs/lop5/Lich su va Dia li - Lop 5.docx",
   "name": "Lich su va Dia li - Lop 5.docx",
-  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-08",
-  "size": 48915,
-  "updated": "2026-09-08"
+  "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-09",
+  "size": 48764,
+  "updated": "2026-09-09"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop5/Lich su va Dia li - Lop 5.xlsx",
   "name": "Lich su va Dia li - Lop 5.xlsx",
-  "size": 12193,
-  "updated": "2026-09-08"
+  "size": 12023,
+  "updated": "2026-09-09"
  }
 }
