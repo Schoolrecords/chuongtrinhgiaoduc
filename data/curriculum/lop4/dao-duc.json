@@ -10,7 +10,7 @@
   "semester1Weeks": 18,
   "semester2Weeks": 17,
   "lessons": 35,
-  "integrations": 12
+  "integrations": 8
  },
  "lessons": [
   {
@@ -471,13 +471,8 @@
    "periodTo": 27,
    "periods": 1,
    "lessonPeriods": 4,
-   "adjustments": "chi đơn giản và phân biệt khoản cần thiết với khoản chỉ là muốn",
+   "adjustments": "Năng lực số 5.2 CB2b: HS lập được bảng thu – chi đơn giản và phân biệt khoản cần thiết với khoản chỉ là muốn",
    "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 5.2 CB2b: HS lập được bảng thu"
-    },
     {
      "code": "KNS",
      "level": "",
@@ -498,14 +493,8 @@
    "periodTo": 28,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "chi đơn giản và phân biệt khoản cần thiết với khoản chỉ là muốn",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 5.2 CB2b: HS lập được bảng thu"
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB2b: HS lập được bảng thu – chi đơn giản và phân biệt khoản cần thiết với khoản chỉ là muốn",
+   "integrations": [],
    "note": ""
   },
   {
@@ -520,14 +509,8 @@
    "periodTo": 29,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "chi đơn giản và phân biệt khoản cần thiết với khoản chỉ là muốn",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 5.2 CB2b: HS lập được bảng thu"
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB2b: HS lập được bảng thu – chi đơn giản và phân biệt khoản cần thiết với khoản chỉ là muốn",
+   "integrations": [],
    "note": ""
   },
   {
@@ -542,14 +525,8 @@
    "periodTo": 30,
    "periods": 1,
    "lessonPeriods": 1,
-   "adjustments": "chi đơn giản và phân biệt khoản cần thiết với khoản chỉ là muốn",
-   "integrations": [
-    {
-     "code": "NLS",
-     "level": "",
-     "text": "Năng lực số 5.2 CB2b: HS lập được bảng thu"
-    }
-   ],
+   "adjustments": "Năng lực số 5.2 CB2b: HS lập được bảng thu – chi đơn giản và phân biệt khoản cần thiết với khoản chỉ là muốn",
+   "integrations": [],
    "note": ""
   },
   {
@@ -917,13 +894,13 @@
   "file": "assets/docs/lop4/Dao duc - Lop 4.docx",
   "name": "Dao duc - Lop 4.docx",
   "original": "Sinh từ dữ liệu app Bút Xanh ngày 2026-09-09",
-  "size": 45720,
+  "size": 45703,
   "updated": "2026-09-09"
  },
  "attachmentXlsx": {
   "file": "assets/docs/lop4/Dao duc - Lop 4.xlsx",
   "name": "Dao duc - Lop 4.xlsx",
-  "size": 8424,
+  "size": 8423,
   "updated": "2026-09-09"
  }
 }
